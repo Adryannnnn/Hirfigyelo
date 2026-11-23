@@ -855,6 +855,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795453440,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Az S&P 500 éppen most került korrekciós szakaszba. Előfordulhat, hogy 3 millió dolláros nyugdíj-portfóliója kevésbé diverzifikált, mint gondolná – 24/7 Wall St.",
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSTNLUVMyQTgwQTFYNlc2cm5pdWpCZklabTdIdEdOM2FIdWs2SndzNWtIOFFnQ1o3UUFzRGxvRUplVGYybE1Lell6YkZMRTFSYlI0Y1hrNjF0RHZqeDF2ZHU4U3d3aEdjN2drbGo5MExHclBYUHZfaW1RcktTU0xqOXN6dFZyMnIzRG8xLWVDeVg5OVRQdUFuSnEzQ0tBUklHMkZjMjBEVjlLQkV4U3I4RHYwWGc1Z3oyUWhVbXVTMnItQ01jRmtyZ0lTUkVRbWdhYkJwLTVoNXBLS21XU0N5Q2dmckdzQWprd1I0TklB?oc=5",
+  "surgos": false,
+  "eredeti": "The S&P 500 Just Fell Into a Correction. Your $3 Million Retirement Portfolio May Be Less Diversified Than You Think - 24/7 Wall St."
+ },
+ {
   "ido": 1795453380,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -895,17 +906,6 @@
   ],
   "cim": "A Decade Later, Apple Remains Berkshire's Biggest Stock Bet - MacRumors",
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFFMbTdHMVRNWXpnSjF5RjNOX1BHeWtjUHJ2azdsQjdoNExlS1lIZVN5bGtoUUhfRWJkbW1fRDVYWGhTcHRDcnlEaFZ2dVhKR3hkcnp4UHdnc3lFRFFEUzZyTElRb0x3RGYyckZYQ2lwelRXaTk5NHVYckUzOVVtWFVIT3htZHM?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795453200,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Jensen Huang Is Back at Nvidia. The Stock Is Surging, but the Problems Remain. - Barron's",
-  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fN3hxWUc4RGwweVk4bk9Kak9VT21rd0czY1V3bzQ4anFGUERTYlJNRzk5eUozQ2dPU0oxMzk4Xzk0akJrQU8ya2w5clZWYnlFNHJ1amhkenU1QUt5T3BseGlueHZBNHVFTjNkajJzQnpwTkk?oc=5",
   "surgos": false,
   "eredeti": ""
  }
