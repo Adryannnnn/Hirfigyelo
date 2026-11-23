@@ -16,7 +16,7 @@ concurrency:
 jobs:
   figyel:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
     env:
       TZ: Europe/Budapest
       NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
@@ -24,9 +24,13 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Hírek ellenőrzése
+        timeout-minutes: 4
         run: python3 hirfigyelo.py
 
+      # always(): az állapot akkor is mentődik, ha az előző lépés hibával vagy időtúllépéssel állt le,
+      # így a már elküldött hírek nem mennek ki újra
       - name: Eredmények mentése
+        if: always()
         run: |
           git config user.name "hirfigyelo"
           git config user.email "hirfigyelo@users.noreply.github.com"
