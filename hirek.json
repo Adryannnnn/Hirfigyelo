@@ -1,11 +1,47 @@
 [
  {
+  "ido": 1795462178,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Trump elrendelte, hogy a hadsereg állítsa le az iowai robbantási tervet – The Washington Post",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdC16eUdxUVlzZzEyNEltY0xabkNhUERfX1ZnTUpiR3BrNUFGTl9RRF85UVE1dE1HRmRnOHh4c05VM0xYdVFBWnVKNDh3ZUFNZXpLVHI4TDFXbndGTVI3MGNvRGM3eERjcFVRaTdneGpUNFlqckxEZDcxUmxFdWJvaE9BUzhTMWwtck9yWDl5TkZnRU81dEtzLVptNlBIOHdWNFBEMnJESkg0WEowSjlZ?oc=5",
+  "surgos": false,
+  "eredeti": "Trump orders military to halt Iowa detonation plan - The Washington Post"
+ },
+ {
+  "ido": 1795462134,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Az amerikai tőzsde ma: A Nasdaq Composite 6,5%-kal, az Nvidia pedig 30%-kal emelkedett – Beinsure",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkhhLWZsSzRjYjY0NlU1ZDM3ckpSS19QcFFhMVNGYnB6LUpvbVFqYU03ZS16ZHdMa19oT3RMZmlITFFzcEpNc1lEd1VHT3RkVU5wSEU1ekVUcEkwZ19ldDY0emQ3ZTdGZ1l2ZE5wamZOWlBaUGwxZFRhQ0dxOEJ3ZmJsTkRtVFFtcDVCckxXYkN6UQ?oc=5",
+  "surgos": true,
+  "eredeti": "US stock market today: Nasdaq Composite surges 6.5% as Nvidia jumps 30% - Beinsure"
+ },
+ {
+  "ido": 1795462072,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Az Nvidia igazgatótanácsa Trump felszólítását követően visszahelyezte Jensen Huangot a vezérigazgatói posztra – Santa Monica Daily Press",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2VlMjRkMkI2SzFaUGRZWmkzNnlYR2lxcDBlMmV1VzB6QVl0bTBhNGZYdDVhRkJBMXU0WDFmNFhGY055bFE4ZmVYb2g0OW1VYllUbXBDZGxJc2NMaWYwcXNrZnEzOGVFLVQzY0h0OUtDSDI5OHE5TGZ2YjR0SmUxTUZCLVhneDNiYW9MTElMQkx0UlFhVmlTZF9YU2F2OGk2dVA2ajZ0ZjlmV2dyNFRHOQ?oc=5",
+  "surgos": false,
+  "eredeti": "Nvidia Board Reinstates Jensen Huang as CEO Following Trump's Urging - Santa Monica Daily Press"
+ },
+ {
   "ido": 1795462042,
   "forras": "Nagy cégek (Google News)",
   "temak": [
    "Nagy cégek"
   ],
-  "cim": "Miért emelkedett ma a Tesla részvényeinek árfolyama? A részvények mintegy 13%-ot emelkedtek az FSD v15 és az Nvidia által vezetett fellendülés hatására – Nacionale",
+  "cim": "Miért emelkedett ma a Tesla részvényárfolyama? A részvények mintegy 13%-ot emelkedtek az FSD v15 és az Nvidia által vezetett fellendülés hatására – Nacionale",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcXpZNXk2cnVzVl83NDMxdFpaUHA0VjBYWTNYd2E4ZDhDN0U0TnNKZmxmREJ0Y2dXeEo5bHRVV010Y3VlVWRVNWtUWlNOZGpvVTdNeHJzbFJEaTdOeS1qdE1vLWV6UHZZQVNlTVZwRExPek1rUS1HM3oxa010azhxb0Y0UFZHUGJKYXJhMWJvVkVVTTFaUWUyV3NnZDV5NF9zQ2NzQ0xsTHU?oc=5",
   "surgos": false,
   "eredeti": "Why is Tesla stock up today? Shares jump about 13% on FSD v15 and the Nvidia-led rebound - Nacionale"
@@ -39,7 +75,7 @@
    "Trump – háború",
    "Trump"
   ],
-  "cim": "Trump elmondta, hogy egyelőre elrendelte a katonaságnak, hogy tartsa vissza az iowai robbanóanyagok felrobbantását – ABC7 Los Angeles",
+  "cim": "Trump azt mondja, hogy elrendelte a katonaságnak, hogy egyelőre ne robbantsák fel az iowai robbanóanyagokat – ABC7 Los Angeles",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmRvaWtzM2c0Nk1qdjV4NHhSckpDMVlDOGtQTU05aG5uV0thbUdOV29PT1ZHWDVrcmE4WUZ2SzF4c3FiTWpwbUJBQm5DNmV2eFhITnd5ODFtSmtSMjlGaUhhZ0lKZ1RZMTdXVUlGVl9yX194dzJrbHdlc3BqT0dNR2pEX3ZKQTIzYUJRYjYxQmQ3OVJxWFgzMGk1ODBnSDVhUmd6ckgtUEVlamc?oc=5",
   "surgos": false,
   "eredeti": "Trump says he has ordered military to hold off on Iowa explosives detonation for now - ABC7 Los Angeles"
@@ -51,21 +87,10 @@
    "Trump – háború",
    "Trump"
   ],
-  "cim": "Melania Trump, az Egyesült Államok első hölgye csatlakozik a katonafeleségekhez, hogy támogassák a csapatokat az ünnepek idején – WKNO FM",
+  "cim": "Melania Trump first lady csatlakozik a katonafeleségekhez, hogy támogassák a katonákat az ünnepek idején – WKNO FM",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQnVGVktIV2ZlMi1xNlZWNjZGb2tJQm9lNnpJX0ozTXVMaTdndW1JSXpXNHJGenBnWnNxaElQeTJ6Y2V2cXpSYmdoN2FReU9BaW9VMkFiTVd2N0RkTE9IbnBPb19JWGZKLVFpMTNXVmMwaUxYdnE3YVFsd1oyZ05jazlMLVRPTzVjaWRJVnd5US1rM0RxS3pPdFRTQ2k5SFBZQ0FQM1IzcGpUR1dqcklBRTFnMTFGTlZCc3NlX0ZR?oc=5",
   "surgos": false,
   "eredeti": "First Lady Melania Trump Joins Military Spouses to Support Troops During Holiday Season - WKNO FM"
- },
- {
-  "ido": 1795461813,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Az Nvidia igazgatótanácsa Trump sürgetésére visszahelyezte Jensen Huangot a vezérigazgatói posztra – Santa Monica Daily Press",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ2VlMjRkMkI2SzFaUGRZWmkzNnlYR2lxcDBlMmV1VzB6QVl0bTBhNGZYdDVhRkJBMXU0WDFmNFhGY055bFE4ZmVYb2g0OW1VYllUbXBDZGxJc2NMaWYwcXNrZnEzOGVFLVQzY0h0OUtDSDI5OHE5TGZ2YjR0SmUxTUZCLVhneDNiYW9MTElMQkx0UlFhVmlTZF9YU2F2OGk2dVA2ajZ0ZjlmV2dyNFRHOQ?oc=5",
-  "surgos": false,
-  "eredeti": "Nvidia Board Reinstates Jensen Huang as CEO Following Trump's Urging - Santa Monica Daily Press"
  },
  {
   "ido": 1795461717,
@@ -74,7 +99,7 @@
    "Trump – döntések",
    "Trump"
   ],
-  "cim": "Donald Trump hálaadás napi pulykája hírességekhez hasonlóan él a kegyelem előtt – Crave Online",
+  "cim": "Donald Trump hálaadás napi pulykáinak élete olyan, mint a hírességeké a kegyelem előtt – Crave Online",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeVBoM0tjYWNkYWJ1VExsTXZKOS1LQVdxRDZUUDJKRFR6b0h3eWwySkxUYWpQVUt0ZGxueXByMEpER0hSMzJ5ZV9HUWcyRFNTLVJ0UVpfNXlva1RNdEdCek1zc1ZqUkI4Sk1LV3hDWEdWV0FHbnljVjlvRFYzVkZpRUxFd3BpT0ROSnBSRi1CWktjQmZ6TVVjSA?oc=5",
   "surgos": false,
   "eredeti": "Donald Trump’s Thanksgiving Turkeys Are Living Like Celebrities Before Pardon - Crave Online"
@@ -97,7 +122,7 @@
    "Tőzsde",
    "Nagy cégek"
   ],
-  "cim": "A technológiai részvények árfolyama megugrott, mivel az Nvidia emelkedése 2 billió dollárral növelte a Nasdaq 100 értékét – Proaktív pénzügyi hírek",
+  "cim": "Az Nvidia emelkedése 2 billió dollárral növelte a Nasdaq 100 értékét, és a technológiai részvények árfolyama is megugrott – Proaktív pénzügyi hírek",
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMk9PUVpobU5sM1pkMWlreWI2YVhQaU5fSVUzSklwZ0VBRWcwSGhnZmx4ZTd3UTl6endjaEFEZW1GZUthclZiVlU3SW03bDFzeFN0VUt1WGVSNWdZb0dhS3RIcDVtTDIwMWVaQlJYZHNxTmlqZW5jcWZaWmVreXY5cUZhdHdBUGhybnJ5R1YwNHdzRGNuVVVUWlNnWk5rT0pIbmQ0a2NCZ2tXOHBkVDNfd25sTHV3U2JTbk1mbGNwUHRqd08yWWxqQkY0Z3l2Wms?oc=5",
   "surgos": true,
   "eredeti": "Tech stocks surge as Nvidia rally adds $2 trillion to Nasdaq 100 - Proactive financial news"
@@ -108,7 +133,7 @@
   "temak": [
    "Nagy cégek"
   ],
-  "cim": "Érdemes most megvenni az Nvidia részvényeit, hogy Jensen Huang ismét a vezetés élére került? – The Motley Fool",
+  "cim": "Érdemes-e most megvásárolni az Nvidia részvényeit, most, hogy Jensen Huang ismét a cég élén áll? – The Motley Fool",
   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaTQ5djZQX0JjLV9QQzAxNG1xT1JOQmxCaDFfbjJSb3hET1lGdFNMR0JnVmpFMC0tdkZMVWNBT1FHX1lSLTBUa2NzTVFkUjUyaWxYZWhXa254UnF3OVppNUhIbmxrdE9oXzl1VGs5ZmE3QTdZNDVlc0d4TUNHTXFTZW9fQnpDbWprOGJKMGVLMVFJemhrOXNhLXY2WUFNbUswTUExQ1NxcjZfaXh1N0pj?oc=5",
   "surgos": false,
   "eredeti": "Should You Buy Nvidia Stock Now That Jensen Huang Is Back in Charge? - The Motley Fool"
@@ -119,7 +144,7 @@
   "temak": [
    "Nagy cégek"
   ],
-  "cim": "Az Alphabet részvényei emelkednek: mi történik? – Benzinga",
+  "cim": "Az Alphabet részvényei emelkednek: Mi történik? – Benzinga",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1RxLWU5d3g3QTUxMk1LUm5fRjhnYlJ6UnVVb2VMVmtOemZFU0RGUjBaQVpwYkUwa052R0pFUFZReE00RWRxdjB1UnlROE5VNS1CVDVuSEhLdThDeElCVmd0bGYwS01yX1g1QXlWeE1FZV9OaWNCWXlraXd2ZmQ2SlJJdkhOMlR3WjllY2I2NDl5RXFWOFgtVXl1aw?oc=5",
   "surgos": false,
   "eredeti": "Alphabet Stock Pops: What's Going On? - Benzinga"
@@ -130,7 +155,7 @@
   "temak": [
    "Tőzsde"
   ],
-  "cim": "Az Intelt fellendítette a technológiai részvények emelkedése, és 13%-kal nőtt (INTC:NASDAQ) – Seeking Alpha",
+  "cim": "Az Intelt fellendítette a technológiai részvények emelkedése, és 13%-kal erősödött (INTC:NASDAQ) – Seeking Alpha",
   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qSkdXbzlCalpIT0NUUXp6NXJsMzRrbjU4alhCN1dvcGo5NnBReWIxUWFnTjZCRFBCZ0ktY3lERkktSi1fSWgyYUV3d1NCd01sVW9hLXd4UkJmaFI5SU1aUXpXSHIxNFhyWWs4ZEVRcUxFa2wtaXJyQXc0QWJFVGs?oc=5",
   "surgos": false,
   "eredeti": "Intel boosted by tech rally, rises 13% (INTC:NASDAQ) - Seeking Alpha"
@@ -152,7 +177,7 @@
   "temak": [
    "Nagy cégek"
   ],
-  "cim": "Jensen Huang éppen visszatért az Nvidiához, és a részvények árfolyama 31%-kal emelkedett. Egy nyugdíjas, aki pénteken Roth IRA-ba helyezte át a részvényeit, 18 hónapja a legjobb üzletet kötötte. Íme, mennyibe kerül most ugyanez a lépés – 24/7 Wall St.",
+  "cim": "Jensen Huang éppen visszatért az Nvidiához, és a részvények 31%-kal emelkedtek. Egy nyugdíjas, aki pénteken Roth IRA-ba helyezte át a részvényeit, 18 hónapja a legjobb üzletet kötötte. Íme, mennyibe kerül most ugyanaz a lépés – 24/7 Wall St.",
   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOT2k4VzRacTUxS3J4UXJOOFJDeEJUbklFNTc5OWJLSUZhckRFeGJaV19sMi1Zb3lfZk43a2k5Z1ZTY1NzRlVqcVY3RkJrNW1Fc1VUSHFpNjRVeE8yUmZNcnpsam44QmJ0eHRwTTU0VnZRQnFWMUIxaElaMG5mZHVnN0hrZmJBaklWZk5qRHpVTVIzRUV1bVhGX1ZVVEJxd3R2MG9HWWVkNkF3MElkQXFCSnVMbjhaR09zOVpOOGhsemFUSDhlT0xyZUUybFRWN2k0WTYtZ0ZVaGMtcGQyU01sSXdzRjdub3BNVDBsTTR1Q21RaFp2Sm5SN0c4aWtvNnNxc2Vqb1o1X0twRmNhY0JhR3UyWUI2cW1saVoyQTczY3lGVXNHZlpBMTYtVndlb0ItRENyTmpEcEpjLUM0Q3UzLU1qMA?oc=5",
   "surgos": false,
   "eredeti": "Jensen Huang Just Returned to Nvidia and the Stock Soared 31%. A Retiree Who Moved Shares to a Roth IRA on Friday Got the Best Deal in 18 Months. Here's What the Same Move Costs Now - 24/7 Wall St."
@@ -256,7 +281,7 @@
    "Trump – háború",
    "Trump"
   ],
-  "cim": "„AMERIKÁT ÁTVERIK” – SCHUMER azzal vádolja Trumpot és Lutnickot, hogy eladták az Egyesült Államok nemzetbiztonságát Kínának – Moneycontrol.com",
+  "cim": "„AMERIKÁT ÁTVERIK” – SCHUMER azzal vádolja Trumpot és Lutnickot, hogy eladják az Egyesült Államok nemzetbiztonságát Kínának – Moneycontrol.com",
   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVW8zN2s5bk1QMW1zNEpaLXJvRlNITllfZXktR3ZNVW5JVVZwNEdLTXlHelFoajQ0ai1YWjZ0MjVFeTc4aXZ4VktieHNmbk1JX3ZXS0VUR1NUeFJ5QkNtb3RoV1FYSUs2eXFPWkhONWZHdVJYSy1BaGU4YWRwb2hGak94dDgybEhWRkJrR2h2UzZMeHhCbzFWZ0E0ZzdtM1EzQ09MN09uUXBQeUNjUEt5aFFtVm1HRXdoMHVPSWxNcUw4dFc0OGZDQTZZd0VsTWFHVk9Rb2dNcUpVRWp2ZldmTU9B?oc=5",
   "surgos": false,
   "eredeti": "‘AMERICA GETS SCREWED’, SCHUMER Accuses Trump & Lutnick of Selling US National Security to China - Moneycontrol.com"
@@ -456,6 +481,18 @@
   "link": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
   "surgos": false,
   "eredeti": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips"
+ },
+ {
+  "ido": 1795459508,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump elutasítja Jensen Huang kémkedési vádját: bármelyik „Kínából érkező gyönyörű nőt” kémnek neveznek – Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUE5MUlhITVRzQlprUWtraUxIanRnRngyUGpmeFhyOE95dUdYcmlrbTBROTRqR1J2TGpaWS1CRjlzR0RMOENiYnFwNEpldGc1a2xnTmhhZUEzRkUxWWFibk1oaFhydVpuRmo2dElydnNEYjV0WlVpeDhVSEQycF9GakVtSU50MHRVU2xxaTdXcldrTXJXTGhlZ1B6eE5TWmZUalFDLUo3TTB6ZWZwbWx2ZXpiZGFXaEkzQU9IcGxjV1V3SDI2cU9BU2c0VVByTGVTVXB6R01kUlhIb1RjV0stZzFEYVd3V1k?oc=5",
+  "surgos": false,
+  "eredeti": "Trump Dismisses Jensen Huang Spy Claim: Any 'Beautiful Woman That Comes From China' Gets Called a Spy - Benzinga"
  },
  {
   "ido": 1795459499,
@@ -889,40 +926,6 @@
   ],
   "cim": "Trump admin announces sweeping measure to cut Iran’s ‘last financial lifeline’ - Fox News",
   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFoyd0RVSUw0WHNkZWFwUlJ2cXI5aVZVUGZQaTNjWmRFbE1RMUVXSTY2NXB1c0dZc2xMUE5oNHY1cDdzTENkamZRN1RrVWlXRzlScXRBZUtKR21ZbWpwNlREdENMMjhzcE9rLXF5eEhiX1kyYXU0Q19HVllERy1UVlRpLWVXdmg4Z1FMZ2dHTVBFMTVILXJ5cnAxX0d1TFhZLTByMWZGNNIBrAFBVV95cUxQMnlCOEVUcEdjMWpxVlVjVGxtQ1dGVTdETXpwSm1la3R1bmk0SnUzNnRlOEE1MnplX2ZzcnZacVhjcGVVOGs0cjd4dWxMV3FzWEpSMVJMd1VPaDBLVW9Fc2VHd01NQ29CTEJuSWNOcnZhQ0x6THN4Zi05MHVvSG1ERzBpcVpJa3pVcHJubFVrRDBlbk1kQ2NwLW8tWkc5ZDZXcGVtZkcyLTc4azBC?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795457279,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Iran vows to counter US 'aggression' as Trump hints at new strikes - Fox News",
-  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUOVMtclc4NVl2NEI3QVliTVpSTjlzWlFHUXVxWG8xUVdybG42YVVOWk9NZWM1T3VfX2JTU2g3Q3d0Zl9NNVN2anZrcF9zRDRyRFVHZWdn?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795457261,
-  "forras": "Investing.com",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Az Nvidia és a Micron is a piaci kapitalizációt tekintve jelentősen emelkedő részvények között volt hétfőn",
-  "link": "https://www.investing.com/news/stock-market-news/nvidia-micron-among-market-cap-stock-movers-on-monday-93CH-5046255",
-  "surgos": false,
-  "eredeti": "Nvidia, Micron among market cap stock movers on Monday"
- },
- {
-  "ido": 1795457220,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Nvidia Shares Jump 34 Percent as Huang Returns as CEO - Investing News Network",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uVUVLNTVQeTZUamQzc0I2UEppZXlfV0VJVnQ4V1pXYmxvcjRDcFZOdGZaU3pVdUtyWDBxR08yazRDakVHenVIeWY0U1QyWmhEeGxzckszQW1qTDFJYXNzeGFkVnRrUWxMQ0Zz?oc=5",
   "surgos": false,
   "eredeti": ""
  }
