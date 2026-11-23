@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "*/10 * * * *"
   workflow_dispatch:
+    inputs:
+      teszt:
+        description: "Csak tesztértesítést küld (a híreket nem ellenőrzi)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -25,7 +30,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Tesztértesítés
+        if: github.event.inputs.teszt == 'true'
+        timeout-minutes: 2
+        run: python3 hirfigyelo.py --test
+
       - name: Hírek ellenőrzése
+        if: github.event.inputs.teszt != 'true'
         timeout-minutes: 4
         run: python3 hirfigyelo.py
 
