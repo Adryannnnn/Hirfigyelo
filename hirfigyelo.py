@@ -51,6 +51,9 @@ ALAP = {
     # Kikapcsolás: "fordit": "" . A már magyar címeket nem fordítja.
     "fordit": "hu",
     "max_fordit": 60,
+    # Az angol eredeti cím megjelenése az értesítésben: "dolt" (dőlt betűk, minden telefonon működik),
+    # "markdown" (*dőlt*, csak ha az ntfy appod támogatja), "sima" (semmi különleges).
+    "eredeti_stilus": "dolt",
     # Nem sürgős hírekből legfeljebb ennyi óránként megy egyetlen összefoglaló (0 = azonnal, külön-külön).
     # Sürgős hír továbbra is azonnal jön. Ha nincs új hír, semmi sem megy.
     "osszefoglalo_ora": 2,
@@ -374,10 +377,34 @@ def json_betolt(fajl, alap):
         return alap
 
 
+def dolt(szoveg_):
+    """Latin betűk átalakítása dőlt (Unicode sans-serif italic) változatra. Más karakter marad."""
+    ki = []
+    for ch in szoveg_:
+        if "a" <= ch <= "z":
+            ki.append(chr(0x1D622 + ord(ch) - 97))
+        elif "A" <= ch <= "Z":
+            ki.append(chr(0x1D608 + ord(ch) - 65))
+        else:
+            ki.append(ch)
+    return "".join(ki)
+
+
+def eredeti_formaz(szoveg_):
+    st = CFG.get("eredeti_stilus", "dolt")
+    if st == "dolt":
+        return "🇬🇧 " + dolt(szoveg_)
+    if st == "markdown":
+        return "🇬🇧 *" + szoveg_.replace("*", "") + "*"
+    return szoveg_
+
+
 def ertesit(cim, uzenet, link=None, surgos=False):
     # JSON API-t használunk, így az ékezetes szöveg is hibátlanul megy át
     adat = {"topic": NTFY_TOPIC, "title": cim, "message": uzenet, "priority": 4 if surgos else 3,
             "tags": ["rotating_light" if surgos else "chart_with_upwards_trend"]}
+    if CFG.get("eredeti_stilus") == "markdown":
+        adat["markdown"] = True
     if link:
         adat["click"] = link
     req = urllib.request.Request(NTFY_SERVER.rstrip("/") + "/", data=json.dumps(adat).encode("utf-8"),
@@ -524,7 +551,7 @@ def egy_kor(kuldes=True):
 
     def kuld_egyet(x):
         surgos, _, nev, temak, cim, link = x
-        uzenet = cim + (f"\n{eredeti[cim]}" if cim in eredeti else "")
+        uzenet = cim + (f"\n\n{eredeti_formaz(eredeti[cim])}" if cim in eredeti else "")
         ertesit(f"{'🔴 ' if surgos else ''}{' · '.join(temak[:2])} | {nev}", uzenet, link, surgos)
 
     def biztonsagos(fv, *args):
