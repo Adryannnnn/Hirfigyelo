@@ -1,5 +1,62 @@
 [
  {
+  "ido": 1795466400,
+  "forras": "MarketWatch",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "A short eladók elfüstölődnek, mivel az Nvidia a tőzsde történetének legnagyobb egynapos nyereségét jelenti",
+  "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+  "surgos": false,
+  "eredeti": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history"
+ },
+ {
+  "ido": 1795466162,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Bajban vannak az AMD részvényei egy rövid eladói jelentést követően? - A tarka bolond",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclhvdTVuOXdjb2dEZmc4YTNGUk5DZllnVzkzWTQwbl9NM1VxVGtsNjBLRnZUX1lXT196clVESUFZVXhUMzB3YzhZSUFSY0VWV2ZuckhkMW54dzV2aU9MVFJoLUpGVVZMNEFFaWszOENUR1Z4WUlxNDc1R2lmenhJRHQ1a0Y0ZXdPaXFwUW1CS2EtYU1UY3BQWlliVWlaX3lmaWRQUmhVNkZJdkE?oc=5",
+  "surgos": false,
+  "eredeti": "Is AMD's Stock in Trouble After a Concerning Short-Seller Report? - The Motley Fool"
+ },
+ {
+  "ido": 1795466078,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Véget ért az amerikai tőzsdekrach? A Nasdaq 6,6%-ot emelkedett, amikor az Nvidia Sparks Massive Rally – a részvények csökkenése alatt",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOUg4bEEyTEdrdlRuRzExY3IxWFZ2dHVIa2QtMmVPcE43d1NCcW1fdDY4Mk9hUTg2MjNjMFhMZ0dkTndNeU53TDlSNDN6TndHeVh2SmpmYmR6WVFMRVpmTlU4MmhEWEx3eTNBZC1IempPSjJXRnpOOE1tQ3dpbWl0aw?oc=5",
+  "surgos": true,
+  "eredeti": "Is the US Stock Market Crash Over? Nasdaq Surges 6.6% as Nvidia Sparks Massive Rally - Stocks Down Under"
+ },
+ {
+  "ido": 1795465982,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Vége a legrosszabbnak az Nvidia Stock esetében? - A tarka bolond",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVDVUOGRzN3FrN3V0dVVSQ2JNbUMwYjZYa3NHXzJwVW9lajI0dGlBajZwX1BRWk5KeFZhMUx2ZWQ4TmNoY0VRc1NpbjYzMjZ0SnJwckZFTnNUb1E4OHRIeldROHlkZkN4enQ1bmhSSVdra1hiNzd2ejRqZGNBU0tOSWxJdw?oc=5",
+  "surgos": false,
+  "eredeti": "Is the Worst Over for Nvidia Stock? - The Motley Fool"
+ },
+ {
+  "ido": 1795465623,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Az Intel részvényei 14%-ot ugrottak meg az öntödei nyeremény és a chip-rally konvergenciájával – BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GVkQ3Y1g4US1iV0VPUVZsM29oQ0Q1TmlnbmV3dFhmeVRheXNJNnpJbmNSYU9kME8tcnB5QndVbDdPT3lxRnltUXhJTXhtcE5GMWc4SDdvclBkcGVmSXNVQkRncHFHRktsYjVCeWVkRlZvaGJWVnc?oc=5",
+  "surgos": false,
+  "eredeti": "Intel Shares Jump 14% as Foundry Win and Chip Rally Converge - BigGo Finance"
+ },
+ {
   "ido": 1795465555,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -9,6 +66,18 @@
   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFltZVZlRmZZeGhibjczWElaQXlKLXk2VE5QcVFoQTRHX0xFZFRGaG43ZlA4dVFqdnFOUDRIWllwODVlWmZFZ2ItMTdkQ00zUS1hNk9RVVZKcXF4cXlLTVcxNkRaLXhiRzVnODRFRWZfWk82WVBUdjkwc1M3eUNZdmYwaDJmeGliVzQyX2UxbkZ2UQ?oc=5",
   "surgos": true,
   "eredeti": "Nvidia Stock Surges After Aroused Jensen Huang Announces He’s Close - The Onion"
+ },
+ {
+  "ido": 1795465500,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Az orosz-ukrán konfliktus kiéleződött Trump Putyinnal és Hszivel való találkozása után - 11Alive.com",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUExRa21JdG9IYzFGd0FRNW52RWdrYmtyQ20zTzVybm9iWjVZb2dDZWk1SDhiVTYtYUJMM1NIRnlMRFNPbWotU3VFNFFWRHJZeVY4cFVyTVZrOXBkNFNGUGdzMDgtMUtCV1RYeEtEQTNmaFI3WEVhZXdGOXo3SWZzcXhldnR2bnhCb0ZjTjFrQmtYM0FXVWNEY2htNXlxVW84X00tblVUQ1YyNUhlaVZreHpCX2RRbU82WUl3NGF5YlQ0UHRVTVFMOVJMaWxXS3ExRGtZazRuQ2oxQjg1b2p4Mw?oc=5",
+  "surgos": false,
+  "eredeti": "Russia-Ukraine conflict escalates after Trump’s meeting with Putin and Xi - 11Alive.com"
  },
  {
   "ido": 1795465500,
@@ -45,6 +114,18 @@
   "eredeti": "Nvidia Stock Explodes Higher After a Shocking CEO Reversal - FinanceBuzz"
  },
  {
+  "ido": 1795464767,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Mit jelent Jensen Huang visszatérése Trump és Kína számára | Ian Bremmer Quick Take – Yahoo",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0prU040U29FTUlmdEZzcHNlUjhlUzZubGcxbnNkeG5FemFuNV9ERk5RelRpYmh3ZGVnYWFsUkRnUlpfdmVnU3JfTEFyTzlsSVRBMkh3Q2ZvUnZhaURLdUtUNUpHcGdlZXNQeE5KMmo5ZGM2UTZHZVNzRWpMNjNhQUpxaUM3eXc?oc=5",
+  "surgos": false,
+  "eredeti": "What Jensen Huang’s return means for Trump and China | Ian Bremmer's Quick Take - Yahoo"
+ },
+ {
   "ido": 1795464668,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -55,6 +136,18 @@
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUNBM2l5X2hMbWtleUdLUjJuLUZkdDZXUHFhWDFRelhkNWpaS091UV8yTVoyQXZFb3UzY2FSS2E2VmhqX2RUOHVjNnlndkU0OFp6aHppcTFFbGJjSVhZSWdfSHpPa3R2V1NzRlA0WjNETFZpdjZPU2lkWFFuelBKX3dnVHg3UHlZODdINdIBkgFBVV95cUxQVGxWZkNQN3pCR2NTUXJtZ0J6cTVjVHlWdzVFdUllU3Nudnhvck5mdW5ZaWo1VUVyUVlyTG01QUpkaFJiWFFESjNLTl9aM3RJR0dPdzFjcEd4MEdYY0lqMWgwMmZUZ2lpX3NrN1hWUmthbTRZdG5sb25fQzE0ZHZNbGRBQ3E3TkJUdlFqSVM0dTEzUQ?oc=5",
   "surgos": false,
   "eredeti": "Trump signs bill to rename Social Security claiming ages - NewsNation"
+ },
+ {
+  "ido": 1795464600,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Trump",
+   "Nagy cégek"
+  ],
+  "cim": "Trump 98 millió dollár értékben kereskedett Nvidia részvényekkel, mióta visszatért a Fehér Házba – a The Times",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMHFjY0tYSU9ubFdzeHR6d3JkSm1yNnZ1Uk1IZ056SjYxLTZ2ZFB3MVd1MkdWcEZUYmsxT2VaZ2xISG16eXdhZ013YmFqYkdKdTJ1T3I3ZVVkOVk0VGJCYTZiVTNBclNrNXYyeHFnaF9tcUZvYjR6X3RDclV5TXB5bm9PTWhha09CZXBtSng1cU5jMGphUDZxbjBNZnhKWi1DVEJrTWkzcjVVZw?oc=5",
+  "surgos": false,
+  "eredeti": "Trump traded up to $98m of Nvidia shares since return to White House - The Times"
  },
  {
   "ido": 1795464574,
@@ -126,6 +219,18 @@
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNazVmTDdVRndQMExuOFBzM2lsZkM3Q3pVeUhhY2NqQW5iS3NIX2FqZjNJV3ptZUFSSkhYTkxzVGZ6Mlc5WkpQZHRLV2xLbkVRY3JTZHFvb3l5VzE2YTNURnphT2FBNjhLYzJzN1lKSWtWdVNKUFV5d241UGZzOG9WUDdrSHFvSHBiZUVuZQ?oc=5",
   "surgos": false,
   "eredeti": "Autodesk stock rises over 4% as investors anticipate upcoming earnings report - Traders Union"
+ },
+ {
+  "ido": 1795464085,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Hszi nyomást gyakorolt ​​Trumpra Tajvanra a kínai találkozón, és sürgette az Egyesült Államokat, hogy állítsa le a fegyvereladást - Washington Times",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM0M4bC13T2V3X3RGLWx3bzROY3VKTlhrcEptLU14Z1p6RTJyTUtjVjZpNU9ZM0RnRVFJbDdvX09oLXp0dlRvc3JQQWNKMnR2VmltWkJQelYtbTFFRkhodllQb252cnUtQzNyd0Q4bG1UUXM5c2JQam9rdGN6alVZZVNNRDgyS1B0ZXdsX1hLdV9iUTVMT21GeUZ2aS1uV0FjTGZiSXBSR0tuWmRheG5QYg?oc=5",
+  "surgos": false,
+  "eredeti": "Xi pressed Trump on Taiwan at meeting in China, urged U.S. to halt arms sale - Washington Times"
  },
  {
   "ido": 1795464002,
@@ -566,6 +671,17 @@
   "eredeti": "Nasdaq and S&P 500 Rebound as AI Selloff Tests Markets - FXEmpire"
  },
  {
+  "ido": 1795462003,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A kanadai kötvényhozamok többnyire alacsonyabbak a tőzsdére koncentrálva",
+  "link": "https://www.investing.com/news/stock-market-news/canadian-bond-yields-mostly-lower-with-focus-on-stock-market-5046318",
+  "surgos": false,
+  "eredeti": "Canadian bond yields mostly lower with focus on stock market"
+ },
+ {
   "ido": 1795461990,
   "forras": "Wall Street Journal",
   "temak": [
@@ -816,120 +932,5 @@
   "link": "https://www.investing.com/news/stock-market-news/moodys-affirms-medline-at-ba1-sees-postipo-deleveraging-driving-upgrade-path-5046307",
   "surgos": false,
   "eredeti": "Moody’s affirms Medline at Ba1, sees post-IPO deleveraging driving upgrade path"
- },
- {
-  "ido": 1795461004,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Hogyan reagálnak a befektetők a DHT Holdings (DHT) erősebb eredménykimutatására? – Simply Wall St",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWGlXZnZsUmVVZjM0MExqRlNKQ1FiajFmaGxhTTBmZk0wRlhXcFlQUDFTcERoQ1c1cklZNTdCMTBqdWZaU0oyYjYwNUJGbGJ3WlNRcDRST2QxTkJGVl9PVUVHSkRqbmhfTjdpZUJSX2ZpNUNJNVhPM1FGRU45TC1lQ3c2V0tMcVdRS3FHT0dkeWFHUVRhM3EzYzlZXzhmLVRidnZxQlhqOGU0eXNJYk0yVi11Y1dZLVJHeGVxbUk5R1lHSE1G0gHKAUFVX3lxTE5nTnhsd19UczEwZ1U5Q2R2ZEpQaW0wQ2pPLUNYNC03ZDl0ckEyNFliMHowTkItNmN1cGlEZDhZNFdTeHJZb1hXT1dtdjVDa3hSRmRxYWxpMDRtbjV2ZS1Pd1RZbFh5LXItM0IzRUFoZUlLRWY5eURLX3plQWtoNlZjVTJIMHJPVXIzLW5ua1FJeVVqQmlONUFvby1GODRMekpyMmw4Yl8xRGt2WWdMT0JuRXYwZ0N1ZkpZbWU2QXE5NEdwNm1Ocmxqd3c?oc=5",
-  "surgos": false,
-  "eredeti": "How Investors Are Reacting To DHT Holdings (DHT) Stronger Earnings Report - Simply Wall St"
- },
- {
-  "ido": 1795460935,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump elutasítja Kína biztonsági aggodalmát, és azt mondja, hogy Jensen Huang elvesztése nagyobb veszély",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQamVfN19MTWZxbjF6NUluZDh0a0RmSkY2TE43TGlOVnJla2NuTThXVDhBVXhuekQ5Z3hBN2xUR0ZIV3BrSjRmeXpKSnd1T0s5cEZBSHJRd2c2YmtvWjNiTE5HeWxFbjB1ejFJeC1weDRPQXlHODlDVXdmakxDWEdTRUF4M3FLWWN1STlvalJKNlZ1WENSNU5oVGktR09FazRPVm5Vcmx3?oc=5",
-  "surgos": false,
-  "eredeti": "Trump Dismisses China Security Concerns, Says Losing Jensen Huang Is Bigger Threat - Arise News"
- },
- {
-  "ido": 1795460916,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump azt mondta, hogy utasította a hadsereget, hogy egyelőre tartsa vissza az iowai robbanóanyagok felrobbantását - ABC News - Breaking News, Latest News és videók",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDRzcHljeGtBWUE3T2VtT3Z4eTdWaTllanRQVEpkNlNVMUlZOXN1cVZETWpRQzNGcWlZaV80YWMtVzNCOHljTDRQbWpsbWFib3dCcEJhSXdkYjZUZXJTSkpXUFdJdUxGZEM0M3IwR1Y5VElCLXVlYktjWFM2R2VXdUFxNHY4NkoyU1FuTUxMSWdqMWtmTHlDbURJRWZIQlM0cUN5clpIY1dudw?oc=5",
-  "surgos": false,
-  "eredeti": "Trump says he has ordered military to hold off on Iowa explosives detonation for now - ABC News - Breaking News, Latest News and Videos"
- },
- {
-  "ido": 1795460864,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A Western Digital 14%-kal emelkedett, megemelte a technológiai rally (WDC:NASDAQ) – Alfát keresek",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcC1lZVFYcERlcjQ5Q2o1WTlTa3FyN0p2ZHVYdnhpTDJZQnlrS2RfNks3OXQwNVRKZ19XQ2VrOExFaWxXaENCWFlDNThrd0Q4eWZoQlg4Ny1oSlNlTkZhOHFkQ0M5YlRXOHZrNHBTXzN4T0d0UzIwT2RZckpUeHhBbEZFczl1M2xfMWt5VQ?oc=5",
-  "surgos": true,
-  "eredeti": "Western Digital surges 14%, lifted by tech rally (WDC:NASDAQ) - Seeking Alpha"
- },
- {
-  "ido": 1795460819,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "„AMERIKÁT ÁTVERIK” – SCHUMER azzal vádolja Trumpot és Lutnickot, hogy eladják az Egyesült Államok nemzetbiztonságát Kínának – Moneycontrol.com",
-  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVW8zN2s5bk1QMW1zNEpaLXJvRlNITllfZXktR3ZNVW5JVVZwNEdLTXlHelFoajQ0ai1YWjZ0MjVFeTc4aXZ4VktieHNmbk1JX3ZXS0VUR1NUeFJ5QkNtb3RoV1FYSUs2eXFPWkhONWZHdVJYSy1BaGU4YWRwb2hGak94dDgybEhWRkJrR2h2UzZMeHhCbzFWZ0E0ZzdtM1EzQ09MN09uUXBQeUNjUEt5aFFtVm1HRXdoMHVPSWxNcUw4dFc0OGZDQTZZd0VsTWFHVk9Rb2dNcUpVRWp2ZldmTU9B?oc=5",
-  "surgos": false,
-  "eredeti": "‘AMERICA GETS SCREWED’, SCHUMER Accuses Trump & Lutnick of Selling US National Security to China - Moneycontrol.com"
- },
- {
-  "ido": 1795460783,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Az S&P leminősíti a Flowers Foods-t „BB”-re a kereseti nyomás és a szövetségi kockázatok miatt",
-  "link": "https://www.investing.com/news/stock-market-news/sp-downgrades-flowers-foods-to-bb-on-earnings-pressure-and-covenant-risks-5046299",
-  "surgos": true,
-  "eredeti": "S&P downgrades Flowers Foods to ‘BB’ on earnings pressure and covenant risks"
- },
- {
-  "ido": 1795460704,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Miért esett a Broadcom részvényeinek árfolyama pénteken? – Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaHFTUkk4dkZsOWpKNkRubHNlYV9NNFZXSVdBbDh6ZThXQW01bXFJZXdKUlFTOUxweklWRHVIMHJWcWNERzVSMEp3emJhR2FOU1pUTXNpXzU4V1Q4cUk0MUtsMTZRMU5oaFJrNDhFNU82emdUYXBwdDgxQ0swYWZYRG85MUhRUzY4c3c2MjdCR2JDNVpWZVhR?oc=5",
-  "surgos": false,
-  "eredeti": "Why Did Broadcom Stock Drop On Friday? - Yahoo Finance"
- },
- {
-  "ido": 1795460508,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Forex",
-   "Tőzsde"
-  ],
-  "cim": "A Nasdaq hatalmas ugrást tett: a fellendülés kezdete vagy egy csapda? – FOREX.com",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVRKN0NrRHNtMWVkTnpXTnZGaUl5TXdRTHVoNGhQMVc2alZ0TVFSVG5YZmJUUmUxN3d1Zk9HTHNSQWE3U3FxbEtWTXpqNTktS2xBOG1WMDU4M3o0SmpVdnRBMFR0YmFKTElNdUtOYk1hbV9MUHRucndTMktqQ1FIY2U5Ulk4VVo5Y2JXYWVIVDEyMEFMUjVLTGdfY1ZuaHR60gGsAUFVX3lxTE9mM2taX2NmdHBmblcyVmhBX1ZUdndITW9hQUFLLTlERDFwR1I1ZXN1eUFObTdvQXVtSExaN3dIVVJpaWpDRWh5eVNDX0NXUnNLN3FsY2xCM251T3pHU25rWTE2RmtEd18yQ1ZYN2ZyZEk1dl9pUjEtOHR4VGhTbEgyN1k0clJYdkJsaFlNSFFpTFo0LU5KWGdJUHlxalpVdG9VcnBwa0hzU05JdVI?oc=5",
-  "surgos": false,
-  "eredeti": "Nasdaq Makes Massive Leap: Beginning Bounce or Bull Trap? - FOREX.com"
- },
- {
-  "ido": 1795460468,
-  "forras": "Bloomberg",
-  "temak": [
-   "Tőzsde",
-   "Jegybank/kamat"
-  ],
-  "cim": "A Citadel Securities szerint a 2018-as forgatókönyv további piaci nehézségekre figyelmeztet",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/citadel-securities-says-2018-playbook-warns-of-more-market-pain",
-  "surgos": false,
-  "eredeti": "Citadel Securities Says 2018 Playbook Warns of More Market Pain"
- },
- {
-  "ido": 1795460317,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Az Nvidia részvényei az egekbe szöktek, miután Jensen Huang visszatért vezérigazgatóként – Yahoo! Finance Canada",
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWszLTd2OFJ4a19JRFdVMFlGTUJmTV9obHlzQnA3MlgtaW5BMnl1N0JLc2p0RnJIdUpjU2otNzZxWlI5SkN3UWl5ZWlkallubmJnMTJjWFVLWUt1SEVYV0FKaDJSQUU5TmpUTndfdU9QQ3ZRX1dWelF2NUoxZFNXRFFB?oc=5",
-  "surgos": true,
-  "eredeti": "Nvidia shares soar after Jensen Huang returns as CEO - Yahoo! Finance Canada"
  }
 ]
