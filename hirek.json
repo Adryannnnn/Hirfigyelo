@@ -1,5 +1,63 @@
 [
  {
+  "ido": 1795463640,
+  "forras": "MarketWatch",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Miért jelent valójában figyelmeztető jelet a bikák számára a hétfői hatalmas tőzsdei rali?",
+  "link": "https://www.marketwatch.com/story/why-mondays-huge-stock-market-rally-is-actually-a-warning-sign-for-bulls-49d227a8?mod=mw_rss_topstories",
+  "surgos": false,
+  "eredeti": "Why Monday’s huge stock-market rally is actually a warning sign for bulls"
+ },
+ {
+  "ido": 1795463618,
+  "forras": "Bloomberg Politika",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Trump leállítja a robbantást Iowában, és az új kormányzóra hárítja a felelősséget",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/trump-halts-detonation-in-iowa-puts-onus-on-incoming-governor",
+  "surgos": true,
+  "eredeti": "Trump Halts Detonation in Iowa, Puts Onus on Incoming Governor"
+ },
+ {
+  "ido": 1795463465,
+  "forras": "Bloomberg Politika",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Christopher Smart szerint az Nvidia a nemzetbiztonság és az MI jövőjének „szíve”",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-at-heart-of-natsec-ai-future-says-smart-video",
+  "surgos": false,
+  "eredeti": "Nvidia at 'Heart' of National Security, AI Future, Says Christopher Smart"
+ },
+ {
+  "ido": 1795463185,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Nagyszerű alkalom a diverzifikációra: Todd Sohn",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-23/a-great-time-to-diversify-todd-sohn-video",
+  "surgos": false,
+  "eredeti": "A Great Time To Diversify: Todd Sohn"
+ },
+ {
+  "ido": 1795463040,
+  "forras": "MarketWatch",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Ezek a részvények emelkedtek a legnagyobb mértékben Jensen Huang Nvidia-hoz való visszatérése után",
+  "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+  "surgos": false,
+  "eredeti": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia"
+ },
+ {
   "ido": 1795462983,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -772,6 +830,17 @@
   "eredeti": "Huang’s Return Followed Unprecedented Intervention by Trump"
  },
  {
+  "ido": 1795459345,
+  "forras": "Investing.com",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "Az Egyesült Államok szankciókat vezet be az iráni árnyékbanki hálózatokhoz kapcsolódó több tucat személlyel szemben",
+  "link": "https://www.investing.com/news/stock-market-news/us-imposes-sanctions-on-dozens-linked-to-irans-shadow-banking-networks-5046278",
+  "surgos": true,
+  "eredeti": "US imposes sanctions on dozens linked to Iran’s shadow banking networks"
+ },
+ {
   "ido": 1795459308,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -847,6 +916,17 @@
   "eredeti": "Trump Administration Unveils New Wave of Iran Sanctions - JFeed"
  },
  {
+  "ido": 1795459032,
+  "forras": "Investing.com",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "Az Egyesült Államok keresetet nyújtott be a Binance-hackelés során ellopott több mint 1 milliárd dollár értékű kriptovaluta visszaszerzése érdekében",
+  "link": "https://www.investing.com/news/economy-news/us-files-action-to-recover-over-1-billion-in-cryptocurrency-stolen-in-binance-hack-5046276",
+  "surgos": true,
+  "eredeti": "US files action to recover over $1 billion in cryptocurrency stolen in Binance hack"
+ },
+ {
   "ido": 1795458869,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -856,85 +936,5 @@
   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rdmpweTV5QkFQOEZOekNxc0JqSFZlQmZuRGVqaTZhOEs1UVlGSXlJWE9HQ1k1bDZOekcyMzloTjF1eWpsR1ZLVzVtNlhlQ0tSZGNuUHRJM29hWkk?oc=5",
   "surgos": false,
   "eredeti": "Nvidia stock skyrockets as board reinstates Jensen Huang as CEO - Fox Business"
- },
- {
-  "ido": 1795458825,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Az értékesítési hullámot követően hirtelen fellendült a tőzsde, az Nvidia pedig szárnyal – ABC News – Friss hírek, legfrissebb hírek és videók",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSlB3RXVfeXI1TTlad3gyeV9qSkpHY3lfOUFFVXZ3dldYWkk0WFVZeWF2dVBqa3lSbkl5ci1KY0JvcUNHcHNaaGI5ckdzdk4zdldQbzhudVMxNnlvckhJT19WNFJiZnFUbUdBeUJ0djV0cHJyM1FtRVRBZXRGaXFQNUtaVXp5RlB3OVNuaXN3SGkzX1M2NXfSAZsBQVVfeXFMT29XZ19ucmZqVXY1T2NtcUctWC1RT1RUUEZ3d2NwRTR1TTNrYkJpU0ZqQTNCc1A5NW9hVTM4N212LVBPMThUdEJfYV81RnprY3lCZDR2amo2dkpDRjNCQ1FOdHczUHRGY0I5aFlnQVA2U3F6aURzY0lnLUdoM2hEQjVWRndqUk9CSUs5eDNkQkp2aGRFemRqOFRKaEk?oc=5",
-  "surgos": true,
-  "eredeti": "Stock market rebounds sharply after sell-off, Nvidia soars - ABC News - Breaking News, Latest News and Videos"
- },
- {
-  "ido": 1795458821,
-  "forras": "Bloomberg",
-  "temak": [
-   "Világgazdaság"
-  ],
-  "cim": "A houstoni fedezeti alap, az Aspire két PJM-energiakereskedőt és -gázkereskedőt vesz fel",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/houston-hedge-fund-aspire-hires-two-pjm-power-gas-traders",
-  "surgos": false,
-  "eredeti": "Houston Hedge Fund Aspire Hires Two PJM Power, Gas Traders"
- },
- {
-  "ido": 1795458664,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Miért emelkedik ma a Micron részvényeinek árfolyama? – StockStory",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOXzJkYmdXQ29uMHVBcmx3SDczN3NBZ1hKYmxCM0xpOC03dGFNMFFfVVhxWHU0dkRtazVkYWMxNXRVYV9YQWtrS25UczA1M1p3a1kwT2R5T2h0d0FlMkwxQlQ2ZlBSSXlUT1ZjcXFtYVRKRW9IcEVGWXlPX0RYS01ad2xJdV9vMGJ1dmtvRW11XzYtZExvRXZGZ1RHT3NqejFza1JZcQ?oc=5",
-  "surgos": false,
-  "eredeti": "Why is Micron stock rocketing higher today - StockStory"
- },
- {
-  "ido": 1795458660,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Az Amazon lépést tesz az MI-chipek terén; a részvények az Nvidia fellendülésével együtt emelkednek – Investor's Business Daily",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGNWcWFkazVXMUhqYkdVOXN3UUJFbVppRWw4RUZaVFA1ci1TLWlXUk5xOG1pUWJ0X1VKZEN4SVRpYUpzbVlsSnVhVW1fM3dDdGp3NHFiMXVraHVvUXZBOUExZy0yVWdscE5wZWNUd256d1U0bzh6b0Uwell0NXRqekVVOEo?oc=5",
-  "surgos": false,
-  "eredeti": "Amazon Makes AI Chip Move; Stock Climbs Alongside Nvidia Relief Rally - Investor's Business Daily"
- },
- {
-  "ido": 1795458626,
-  "forras": "Investing.com",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Trump elrendelte, hogy az amerikai hadsereg függessze fel az ólom-azid felrobbantását Iowában",
-  "link": "https://www.investing.com/news/commodities-news/trump-orders-us-army-to-pause-leadazide-detonation-in-iowa-5046270",
-  "surgos": false,
-  "eredeti": "Trump orders US Army to pause lead azide detonation in Iowa"
- },
- {
-  "ido": 1795458615,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Miért emelkedett ma a Micron részvényeinek árfolyama? Az MU akár 20%-ot is emelkedik egy Citi-elemzés és Jensen Huang visszatérése nyomán – Nacionale",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLVVCYW5IeGpGVWh6NU10QlRtY0I3ZC1aSkpTTDRiU2VfcWszWnJRa3VUakt1czlaMEtaWE5kUUt3RXV1dlhNSGo1WVRvdmJjVXowQzZXVWgwOGpKNU85SElUb1hrSmRsSkF0dmNSYmVuT0R6Y0IxY3dHdjd0ckliYWxNYS1xLXBwY3lHZy00dHFqZTBmNGV3djdMLVNEREJzeTZJeXg3LUl3QQ?oc=5",
-  "surgos": false,
-  "eredeti": "Why is Micron stock up today? MU jumps as much as 20% on a Citi note and Jensen Huang's return - Nacionale"
- },
- {
-  "ido": 1795458602,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Nvidia vs. TSMC: Jensen Huang visszatérésével melyik MI-részvény a jobb vétel 2027-re? – The Motley Fool",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdWhCeTlBalBJa1lLUlZlX0xlOWFaWUZQS2VTRVFUUEJwbWVrcU85OTVwQXRKRG9ZUldYZjNaZHk0QWN2dWtPblkwdXluTjB5cDFnZjMzMVEyaVZSZG9QVTdvVUFGSFV1Yk1vd09tQ3Y3NTN1RzNpMHBNQUtsZzBOZFpBdDhjeXRQaWw3MTNFX2Y1ZUdkbjZhZFBmYzNuZ1pUSFlhb3laRG50X0IzQm8wM1p2bUtwOHdSSUMxejNSR1FLZlVnbTZQMzVkR0o?oc=5",
-  "surgos": false,
-  "eredeti": "Nvidia vs. TSMC: With Jensen Huang Back, Which AI Stock Is the Better Buy for 2027? - The Motley Fool"
  }
 ]
