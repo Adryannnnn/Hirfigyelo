@@ -19,6 +19,7 @@ import html
 import json
 import os
 import re
+import socket
 import sys
 import time
 import urllib.error
@@ -483,6 +484,17 @@ def ntfy_kuld(cim, uzenet, link=None, surgos=False):
     urllib.request.urlopen(req, timeout=20).read()
 
 
+class CsakIPv4:
+    """Ideiglenesen csak IPv4-en old fel neveket (néha az IPv6 út akad a GitHub szervereiről)."""
+    def __enter__(self):
+        self.eredeti = socket.getaddrinfo
+        eredeti = self.eredeti
+        socket.getaddrinfo = lambda host, port, family=0, *a, **k: eredeti(host, port, socket.AF_INET, *a, **k)
+
+    def __exit__(self, *kivetel):
+        socket.getaddrinfo = self.eredeti
+
+
 def telegram_kuld(cim, uzenet, link=None, surgos=False):
     global TG_HIBAK
     if TG_HIBAK >= 2:
@@ -490,14 +502,19 @@ def telegram_kuld(cim, uzenet, link=None, surgos=False):
     szov = f"<b>{html.escape(cim)}</b>\n\n{html.escape(uzenet[:3500])}"
     if link:
         szov += f'\n\n<a href="{html.escape(link, quote=True)}">Megnyitás</a>'
-    adat = {"chat_id": TG_CHAT, "text": szov, "parse_mode": "HTML", "disable_web_page_preview": True}
-    req = urllib.request.Request(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
-                                 data=json.dumps(adat).encode("utf-8"),
-                                 headers={"Content-Type": "application/json", **UA})
+    adat = json.dumps({"chat_id": TG_CHAT, "text": szov, "parse_mode": "HTML",
+                       "disable_web_page_preview": True}).encode("utf-8")
     utolso = None
     for kiserlet in range(3):  # a Telegram néha lassan válaszol a GitHub szervereiről: újrapróbáljuk
+        # saját User-Agent nélkül (alap Python), az 1. próba után csak IPv4-en
+        req = urllib.request.Request(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage", data=adat,
+                                     headers={"Content-Type": "application/json"})
         try:
-            urllib.request.urlopen(req, timeout=25).read()
+            if kiserlet == 0:
+                urllib.request.urlopen(req, timeout=25).read()
+            else:
+                with CsakIPv4():
+                    urllib.request.urlopen(req, timeout=25).read()
             TG_HIBAK = 0
             return
         except urllib.error.HTTPError as e:
@@ -516,6 +533,35 @@ def telegram_kuld(cim, uzenet, link=None, surgos=False):
             time.sleep(2)
     TG_HIBAK += 1
     raise utolso
+
+
+def telegram_diagnozis():
+    """Megmutatja, hogy innen (pl. GitHub szerver) elérhető-e a Telegram, és melyik úton."""
+    print("Telegram diagnózis")
+    try:
+        cimek = sorted({(("IPv6" if a[0] == socket.AF_INET6 else "IPv4"), a[4][0])
+                        for a in socket.getaddrinfo("api.telegram.org", 443, type=socket.SOCK_STREAM)})
+        print("  feloldott címek:", ", ".join(f"{t} {i}" for t, i in cimek))
+    except Exception as e:
+        print("  névfeloldás hiba:", e)
+    if not TG_TOKEN:
+        print("  nincs token, a további próbák kimaradnak")
+        return
+    for nev, ctx in (("alap", None), ("csak IPv4", CsakIPv4)):
+        t0 = time.time()
+        try:
+            req = urllib.request.Request(f"https://api.telegram.org/bot{TG_TOKEN}/getMe")
+            if ctx:
+                with ctx():
+                    r = urllib.request.urlopen(req, timeout=15).read()
+            else:
+                r = urllib.request.urlopen(req, timeout=15).read()
+            print(f"  getMe [{nev}]: OK {time.time() - t0:.1f} mp, bot: "
+                  f"{(json.loads(r).get('result') or {}).get('username')}")
+        except urllib.error.HTTPError as e:
+            print(f"  getMe [{nev}]: HTTP {e.code} {e.read()[:150].decode('utf-8', 'replace')}")
+        except Exception as e:
+            print(f"  getMe [{nev}]: HIBA {e.__class__.__name__}: {e} ({time.time() - t0:.1f} mp)")
 
 
 def ertesit(cim, uzenet, link=None, surgos=False):
@@ -786,6 +832,7 @@ def main():
     ap.add_argument("--test", action="store_true", help="tesztértesítés küldése")
     ap.add_argument("--szaraz", action="store_true", help="csak kiírja a híreket, nem küld értesítést")
     ap.add_argument("--telegram-id", action="store_true", help="kiírja a Telegram chat azonosítódat (a botnak írt üzenetből)")
+    ap.add_argument("--telegram-diag", action="store_true", help="Telegram-elérés diagnosztika")
     ap.add_argument("--beallitasok-letrehoz", action="store_true", help="kiírja az alap beallitasok.json fájlt")
     a = ap.parse_args()
 
@@ -795,6 +842,9 @@ def main():
         return
 
     inicializal(beallitasok_betolt())
+    if a.telegram_diag:
+        telegram_diagnozis()
+        return
     if a.telegram_id:
         telegram_chat_id_kiir()
         return
