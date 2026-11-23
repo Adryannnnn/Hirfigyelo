@@ -1,5 +1,65 @@
 [
  {
+  "ido": 1795459880,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Trump",
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Trump megosztott egy mémet, amelyen az Nvidia vezérigazgatója egy piros melltartót emel fel a butleri gyűlésen elfoglalt pózban – GV Wire",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWJ5enhHNGVaeWg4R2ItTWpKakdMamZmdG15Tnc0YzQ1V2lzcmhjVjlsVjRLQjdWeDlUX2ZZeXpZaFBpRnQ3aEJ2cHBlNHhaMEhPdGdHb3NCYTYxOThpaDdrYnE0cTB3amFLZkRVb3UtaHlZOFhSSi1RSEoxNHBZc1hEQnZPclREMWNNQUVSUGxBUXBoeWkzTFlwZE9rdDlZWFVER3V3cGk?oc=5",
+  "surgos": false,
+  "eredeti": "Trump Shares Meme of Nvidia CEO Raising a Red Bra in Butler Rally Pose - GV Wire"
+ },
+ {
+  "ido": 1795459861,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az AMD részvényei kedveltek az opciós medvék körében – Finviz",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zMW1WYzdjNkZ3Y0pTZEtiY0NtYU9JdlgxN29CXzF2aEd0WnJKWVpibExMSjFCa013NU9HbGhSaFZoT0gtbEdCNHg3djVFanQ2RHJKVjJBVllYZERGLUh3ckZyX0o2QThpUmF2Y01jN3pIU2FwS0NGYnM4QQ?oc=5",
+  "surgos": false,
+  "eredeti": "AMD Stock A Favorite Among Options Bears - Finviz"
+ },
+ {
+  "ido": 1795459797,
+  "forras": "Trump (magyarul)",
+  "temak": [
+   "Trump",
+   "Kripto"
+  ],
+  "cim": "Zuhan a Trump-kriptopénz, a legnagyobb tulajdonosoknak exkluzív vacsora jár - Hírstart",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWENXM1M5QzhWaDdVTnk1SEdyWUxjc0dKeGVpOW1YQmhrNHNtNWRZVS1NZFdGVkpWa3kyYTRpWlhndUZ6NU9xUFo2WHJuXzNSLUFMWFJBZlNRUkxjdC1CRUg4b0lxc2tpd0dTaFZDdGt1WHNqc1c1Wmdad29PRy0zODQwMU5PSTFJYV90dlgtdW80U2FISlZzaWlrT25EeVBGQjkxSDlQb0Y1bmM?oc=5",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795459753,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Trump előrejelzése szerint Kína további 250 Boeing repülőgépet fog vásárolni – The San Joaquin Valley Sun",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMW9XaGpFbXF2SzhLU3JQZmVfYzJ6Q19hNE94dElsOVdXZ1hPbFYzUzJLQjMyRDZvakVhSDVkNmdrTmVQcUk5UFFyeG9hdm1xQ2R1eWNnYWRWR3JtOVFiMUtHT0Z4NUdQTDFucFB5a3B2QWhYdFdaTmVxUkVLQlJsbFdXVDhLYWZFV0ZQTlJkV2E?oc=5",
+  "surgos": false,
+  "eredeti": "Trump predicts China will purchase additional 250 Boeing planes - The San Joaquin Valley Sun"
+ },
+ {
+  "ido": 1795459620,
+  "forras": "MarketWatch",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Lehet, hogy az Amazon éppen most talált egy „olcsó” módszert, amellyel sokkal többet hozhat ki a chipeiből",
+  "link": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
+  "surgos": false,
+  "eredeti": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips"
+ },
+ {
   "ido": 1795459380,
   "forras": "MarketWatch",
   "temak": [
@@ -10,6 +70,32 @@
   "link": "https://www.marketwatch.com/story/trumps-push-to-reinstate-jensen-huang-signals-nvidias-ceo-is-too-big-to-fail-10709210?mod=mw_rss_topstories",
   "surgos": false,
   "eredeti": "Trump’s push to reinstate Jensen Huang signals Nvidia’s CEO is too big to fail"
+ },
+ {
+  "ido": 1795459372,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Trump arra számít, hogy Kína további 250 Boeing-repülőgépet vásárol, de a korábbi megállapodás még nem zárult le – Air Data News",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzZqbzFQNm5vdko2RElPY1ZxWnpqd3UwakVUS09GTENLaTRlRnluQXZESjZBYmFqZ0NTLUN3TWZnRHcyam51WjVSNDFOdVVYNHktSUQ2SnJTNEoxZkpaQWg2LUM3NkRlQ0MtRXNJVF9tRW1UQTBZMGxJXzZwd1Vtc2J6NERabU9SVGNFbWdoVzBPVDlkZ21pWFRTTjJxVDc3QnBUeGhUVGdKamdDeEoxekZ3?oc=5",
+  "surgos": false,
+  "eredeti": "Trump expects China to buy 250 more Boeing jets, but earlier deal remains unfinished - Air Data News"
+ },
+ {
+  "ido": 1795459308,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Trump szerint Kína további 250 Boeing-repülőgépet vásárolhat, de a végleges megrendelések még nem egyértelműek – AeroXplorer",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSW51ME0wekcyUGU5cDFBMWd4aGFNNWtodmdoVGxJRU81QndibTB1YnBTYkJJMnNBblJPTWtWdUQxOThTUG5TWm5vY3o5anRvem5KcEVRQVFOcG5Wc2JTMVJGRk4wOS1HUDZxdTBERmVLY3BRZ29XcldLVk1yUW8tUFpWdEtBVTdOYjdvZFctZlRRVTlENVkxWFFMcDZSNGtydG1IdG90TVJja0QyUlJnX01Ddw?oc=5",
+  "surgos": false,
+  "eredeti": "Trump Says China May Buy 250 More Boeing Jets, But Firm Orders Remain Unclear - AeroXplorer"
  },
  {
   "ido": 1795459268,
@@ -35,6 +121,32 @@
   "eredeti": "Is Nvidia Stock Cheap? - The Motley Fool"
  },
  {
+  "ido": 1795459080,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "„A helyes és megfelelő döntés”: Trump dicséri az Nvidiát, amiért visszaállította Jensen Huangot vezérigazgatói posztjára – KITV",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPam5YbTdpY0lPaHIxOTlJZ3JEbVZaTVV1Vkw4VHZUSHRGNXVXOUpZUkhOSHpFQmFxVEpXVS05RjBzRGxhUTRSTXYwX0RLRzA0RGNfTzU0N093US04SF9KVWo3aHZPcU5iZWo4WWphSVd4NnZJNk9VVXhYc1lwcFl2bjBxOUwxOVluZVVMQ0U2dFNESEtJLXI4N0EwdVR1SUhDZmFUeVVESWpSVExseUFnbHFQZUpfOTFrS3hEckpBa1VDbmtMQlJFcWZ5Z1ZpOFUxR1N1eE4xQkZKaGY3emhVbXhIVXF0ODJBbWp1MmZlbDU?oc=5",
+  "surgos": false,
+  "eredeti": "\"The Correct and Proper Decision\": Trump Praises Nvidia Reinstating Jensen Huang as CEO - KITV"
+ },
+ {
+  "ido": 1795459080,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump – döntések",
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "A Trump-adminisztráció újabb szankcióhullámot jelentett be Iránnal szemben – JFeed",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hWDJvWmVVXzVuYkdNMXRHbmdlSFJyYldvZXk5WWpIMU9ORThCLWh2YXdOQndNQjh4QWlkcWhYMWFBaTJzODVfdVViekJvMEZSU0wyQTAtZ0E0eURhdzBVY3JfUWVveXJIMHh4NFFkRmZBaGFk?oc=5",
+  "surgos": true,
+  "eredeti": "Trump Administration Unveils New Wave of Iran Sanctions - JFeed"
+ },
+ {
   "ido": 1795458869,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -44,6 +156,18 @@
   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rdmpweTV5QkFQOEZOekNxc0JqSFZlQmZuRGVqaTZhOEs1UVlGSXlJWE9HQ1k1bDZOekcyMzloTjF1eWpsR1ZLVzVtNlhlQ0tSZGNuUHRJM29hWkk?oc=5",
   "surgos": false,
   "eredeti": "Nvidia stock skyrockets as board reinstates Jensen Huang as CEO - Fox Business"
+ },
+ {
+  "ido": 1795458825,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Az értékesítési hullámot követően hirtelen fellendült a tőzsde, az Nvidia pedig szárnyal – ABC News – Friss hírek, legfrissebb hírek és videók",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSlB3RXVfeXI1TTlad3gyeV9qSkpHY3lfOUFFVXZ3dldYWkk0WFVZeWF2dVBqa3lSbkl5ci1KY0JvcUNHcHNaaGI5ckdzdk4zdldQbzhudVMxNnlvckhJT19WNFJiZnFUbUdBeUJ0djV0cHJyM1FtRVRBZXRGaXFQNUtaVXp5RlB3OVNuaXN3SGkzX1M2NXfSAZsBQVVfeXFMT29XZ19ucmZqVXY1T2NtcUctWC1RT1RUUEZ3d2NwRTR1TTNrYkJpU0ZqQTNCc1A5NW9hVTM4N212LVBPMThUdEJfYV81RnprY3lCZDR2amo2dkpDRjNCQ1FOdHczUHRGY0I5aFlnQVA2U3F6aURzY0lnLUdoM2hEQjVWRndqUk9CSUs5eDNkQkp2aGRFemRqOFRKaEk?oc=5",
+  "surgos": true,
+  "eredeti": "Stock market rebounds sharply after sell-off, Nvidia soars - ABC News - Breaking News, Latest News and Videos"
  },
  {
   "ido": 1795458664,
@@ -795,120 +919,6 @@
   "cim": "CrowdStrike earnings beat overshadowed by $43.9B Zscaler acquisition",
   "link": "https://www.investing.com/news/stock-market-news/crowdstrike-earnings-beat-overshadowed-by-439b-zscaler-acquisition-93CH-5046206",
   "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795453860,
-  "forras": "Magyar cégek (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Egyetlen bejelentés kellett csak hozzá: óriásit ugrott a magyar tőzsde hétfőn - Pénzcentrum",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXdLUFNBYXhNdmZFR0JiOEpfS2JMWm92ZzJtZ1AxNU41X3RERXdrQ29aQXVFaEp0a1h3dndRUXhhVnNmZy03aWxPRFp2bm53UEtnSjVKYzlDYy1yYks3X1dVMWdJbzJVZFdkUWNGWVFCSzJLVWxEZldmZjBzQ1lhbG5DZ0tqdmlXcXpfX3R1OExpYlZmekswTkxxMEc0SzdLNHVGTjNVdVpGZmZkM0Z0SDhjcHJsTzdwWEZMX1VMSjlWR2RTUm5xWkg2TzhLUQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795453830,
-  "forras": "Wall Street Journal",
-  "temak": [
-   "Jegybank/kamat"
-  ],
-  "cim": "Japan’s Economy Contracts Amid Inflation Squeeze - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnNPaXBmZFY0ZFJKNkNqcTNfdXgwNVV2U19YRzZRQTFtbXVNX3ZJRmR0NnlOaTZsZFJ4aGFwOTRaUU9YUHl3NkJhUE9fOUY2LUtUdU5Xdld2OExGMFhfbXQ1M09FWmt0STVDd2NaN1Btb1Q4dlVra0pCQWRqd1lTbnVuSXZMMlNqek0wdW9ZVVJjemxpT1hz?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795453800,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Kripto"
-  ],
-  "cim": "Trump Invokes China at Meme Coin Dinner to Justify His Crypto Involvement - CryptoPotato",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWhzUlcwMURYdDE3STNfQTBsZGJRczJ5Qm1HRk5mclQ3SWsxLUNfbGZuUGp3b0poRlhpNEs5dG9aTi1WNmRfWVVxdFpzTlgxRWpFcm53bFNwenRuTFdFZHRIdDhQVzE3NXU1aUtJRXdaZVMxWlBFRS04bGVXbmRlSTNBN09LRGlQLU9KOVVyVlBJR2I2ZGVXZ29xUUItRkhG?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795453740,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "'Who isn't in contact?' Trump astonishes with shrug at China spy report - Raw Story",
-  "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9CNjZ0SGhray1aQ3pxVnM4YXExTUtMTzVYdkxldVM1VUNsUEZiVzJrcGpoY3h0c213NlpJZ0VQdWtIZ1lM0gFXQVVfeXFMUFFPdmZRblNrbWdGMzlCOG9LZ3ZYaHlOYTc0ZnJkTTA5bWFMTGRrT2k1bXFnRndnQThJZEtWWlFHUTd3ZjZiUEpiYVVJdDdQcXI4SnQ4ZmJr?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795453695,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "CrowdStrike Beats Earnings Estimates, Raises Guidance — Yet Stock Plunges After Zscaler Deal - Benzinga",
-  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSWI5eXhWazhzY0hUSndXTlV2TmNCS1V0MVBaSHVINjhMS2xmN2lHRUJ4ZUEtdy1VZmdzdGhUSC1wVjJ1bkZJNnhrTWxac1UtN0hCQ1Z2YXA0MGhMNF8zN19aNkdHT0tvbWY5ZnBzdFB6RERQR1lMem5seWx1YzdSdzFkaWJGb2U4Y0VXSGJsZk9wZjFCWklXNU9WRGpyRnExbEg4VGpyLTdTNmFQR2ptUFVlUEtaenpPR2lsQW1SQXVvbHcwOFdGWEdYazVQcWwwVmNzbjEtM3BXMHotRFJj?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795453650,
-  "forras": "Investing.com",
-  "temak": [
-   "Jegybank/kamat"
-  ],
-  "cim": "Brazil cuts 2027 growth forecast to 1.8%, raises inflation outlook",
-  "link": "https://www.investing.com/news/economy-news/brazil-cuts-2027-growth-forecast-to-18-raises-inflation-outlook-5046203",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795453620,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Nvidia Reinstates Jensen Huang As CEO; Shares Surge 33% - i24NEWS",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ29qcVNmR19zc3JvQm9qOTFiak9DUlVSUDdQeHZORXdDTnFTcTNOMWozRXNzb04tbGRqRXkwLVI4WHpRWXhOVjJhclhlcVR6N2FmZlpjZEhjSGd2ZkhGNnpJcWFuMTFQcm5pS2p1d3RVc2JrMEZiTHllbUhBTDdsa1RuUVNQWENTY2EyUmxvOGZXeC1GWnlJdTU4S3Y5c1pTVVU0a0kwc1NHUHNEQ1lSb1ZfQUpSaGZKV0xWX3h4Zw?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795453475,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Trump",
-   "Nagy cégek"
-  ],
-  "cim": "Trump’s Own Stock Portfolio Likely Benefits From Nvidia’s Rise - The New York Times",
-  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTDFUcXJ0QmJqOHJ2V0tOUE5hTUgtTy01cnBiY0swakpXM1FQektvVGpmNDZVSTdkeFhpQ3dNVEpJUkcwYXlWRjViVUM3cENGZk9wb3NRZS1BV0lzVEJfZDVnVk9pYy0xVU9fYUZuTjZXQjllc1ZsRklOODZJS3NKNGlIM2lyUQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795453440,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Az S&P 500 éppen most került korrekciós szakaszba. Előfordulhat, hogy 3 millió dolláros nyugdíj-portfóliója kevésbé diverzifikált, mint gondolná – 24/7 Wall St.",
-  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSTNLUVMyQTgwQTFYNlc2cm5pdWpCZklabTdIdEdOM2FIdWs2SndzNWtIOFFnQ1o3UUFzRGxvRUplVGYybE1Lell6YkZMRTFSYlI0Y1hrNjF0RHZqeDF2ZHU4U3d3aEdjN2drbGo5MExHclBYUHZfaW1RcktTU0xqOXN6dFZyMnIzRG8xLWVDeVg5OVRQdUFuSnEzQ0tBUklHMkZjMjBEVjlLQkV4U3I4RHYwWGc1Z3oyUWhVbXVTMnItQ01jRmtyZ0lTUkVRbWdhYkJwLTVoNXBLS21XU0N5Q2dmckdzQWprd1I0TklB?oc=5",
-  "surgos": false,
-  "eredeti": "The S&P 500 Just Fell Into a Correction. Your $3 Million Retirement Portfolio May Be Less Diversified Than You Think - 24/7 Wall St."
- },
- {
-  "ido": 1795453380,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "This Is the Number That Could Change Nvidia Stock’s Outlook for 2027 - 24/7 Wall St.",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOEdwaDdvTnZQRktKcmMzWlJoQXA2LVltbzRnT2l5R1NLOEExeTRwOGs4VDNzd1l2S21QWkhhVHZ4cHNRNllBVEhDQ18tbzV4LVlrU0NaeGJWYTBYcl8tSWJ6MHVjeUpqVmR2bjZlVFo0Q1hwNVhfdFU1Qy1EdEhwMXA0ZDZ0RmdUUUNXX1VsNndjVFd5TjdOcXh0ZU8ya0ZfaW45b0JabVJ4Z2dVYXpKMjR2UQ?oc=5",
-  "surgos": false,
   "eredeti": ""
  }
 ]
