@@ -8,7 +8,8 @@ A témákat, szavakat és forrásokat a beallitasok.json fájlban tudod szerkesz
 Használat:
     python3 hirfigyelo.py                         # egyszeri ellenőrzés
     python3 hirfigyelo.py --loop                  # folyamatos figyelés
-    python3 hirfigyelo.py --test                  # tesztértesítést küld
+    python3 hirfigyelo.py --test                  # tesztértesítést küld (ntfy és/vagy Telegram)
+    python3 hirfigyelo.py --telegram-id           # kiírja a Telegram chat azonosítódat
     python3 hirfigyelo.py --szaraz                # csak kiírja a híreket, nem küld értesítést
     python3 hirfigyelo.py --beallitasok-letrehoz  # kiírja az alap beallitasok.json fájlt
 """
@@ -68,6 +69,12 @@ ALAP = {
         "tűzszünet*", "megállapod*", "békemegállapodás*", "békeszerződés*", "nukleáris támadás*",
         "atomtámadás*", "invázió*", "hadüzenet*", "hadiállapot*",
     ],
+    # Értesítési csatornák: ntfy és/vagy Telegram-bot (mindkettő mehet egyszerre).
+    # A Telegram-bot tokenjét és a chat azonosítót ide ne írd, ha a repó nyilvános:
+    # használd a TELEGRAM_BOT_TOKEN és TELEGRAM_CHAT_ID GitHub secreteket.
+    "ntfy_aktiv": True,
+    "telegram_bot_token": "",
+    "telegram_chat_id": "",
     # Telegram: NYILVÁNOS csatornák neve @ nélkül, például ["valamicsatorna", "masikcsatorna"].
     # Privát csoportot és csoportbeszélgetést nem tud olvasni.
     "telegram_csatornak": [],
@@ -182,6 +189,9 @@ SURGOS_RE = None
 KIZART_RE = None
 SULYOS_RE = None
 NAPI = set()
+NTFY_AKTIV = False
+TG_TOKEN = ""
+TG_CHAT = ""
 NTFY_TOPIC = ""
 NTFY_SERVER = os.environ.get("NTFY_SERVER", "https://ntfy.sh")
 
@@ -218,9 +228,13 @@ def beallitasok_betolt():
 
 
 def inicializal(cfg):
-    global CFG, FEEDEK, TEMA_RE, SURGOS_RE, KIZART_RE, SULYOS_RE, NAPI, NTFY_TOPIC
+    global CFG, FEEDEK, TEMA_RE, SURGOS_RE, KIZART_RE, SULYOS_RE, NAPI, NTFY_TOPIC, NTFY_AKTIV, TG_TOKEN, TG_CHAT
     CFG = cfg
     NTFY_TOPIC = os.environ.get("NTFY_TOPIC") or cfg.get("ntfy_topic", "")
+    NTFY_AKTIV = bool(cfg.get("ntfy_aktiv", True)) and bool(NTFY_TOPIC) and not NTFY_TOPIC.startswith("CSERELD")
+    # Telegram-értesítés: a bot tokenjét és a chat azonosítót inkább környezeti változóban (GitHub secret) add meg
+    TG_TOKEN = (os.environ.get("TELEGRAM_BOT_TOKEN") or cfg.get("telegram_bot_token", "")).strip()
+    TG_CHAT = str(os.environ.get("TELEGRAM_CHAT_ID") or cfg.get("telegram_chat_id", "")).strip()
     FEEDEK = {}
     for nev, f in cfg["forrasok"].items():
         if isinstance(f, str):
@@ -454,7 +468,7 @@ def eredeti_formaz(szoveg_):
     return szoveg_
 
 
-def ertesit(cim, uzenet, link=None, surgos=False):
+def ntfy_kuld(cim, uzenet, link=None, surgos=False):
     # JSON API-t használunk, így az ékezetes szöveg is hibátlanul megy át
     adat = {"topic": NTFY_TOPIC, "title": cim, "message": uzenet, "priority": 4 if surgos else 3,
             "tags": ["rotating_light" if surgos else "chart_with_upwards_trend"]}
@@ -465,6 +479,55 @@ def ertesit(cim, uzenet, link=None, surgos=False):
     req = urllib.request.Request(NTFY_SERVER.rstrip("/") + "/", data=json.dumps(adat).encode("utf-8"),
                                  headers={"Content-Type": "application/json", **UA})
     urllib.request.urlopen(req, timeout=20).read()
+
+
+def telegram_kuld(cim, uzenet, link=None, surgos=False):
+    szov = f"<b>{html.escape(cim)}</b>\n\n{html.escape(uzenet[:3500])}"
+    if link:
+        szov += f'\n\n<a href="{html.escape(link, quote=True)}">Megnyitás</a>'
+    adat = {"chat_id": TG_CHAT, "text": szov, "parse_mode": "HTML", "disable_web_page_preview": True}
+    req = urllib.request.Request(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
+                                 data=json.dumps(adat).encode("utf-8"),
+                                 headers={"Content-Type": "application/json", **UA})
+    urllib.request.urlopen(req, timeout=20).read()
+
+
+def ertesit(cim, uzenet, link=None, surgos=False):
+    """Minden bekapcsolt csatornára elküldi. Csak akkor hiba, ha mindegyik csatorna elbukott."""
+    csatornak = []
+    if NTFY_AKTIV:
+        csatornak.append(("ntfy", ntfy_kuld))
+    if TG_TOKEN and TG_CHAT:
+        csatornak.append(("Telegram", telegram_kuld))
+    if not csatornak:
+        raise RuntimeError("nincs beállított értesítési csatorna (ntfy vagy Telegram)")
+    hibak = []
+    for nev, fv in csatornak:
+        try:
+            fv(cim, uzenet, link, surgos)
+        except Exception as e:
+            hibak.append(e)
+            print(f"[!] {nev} értesítés nem ment ki ({e.__class__.__name__}: {str(e).replace(TG_TOKEN, '***') if TG_TOKEN else e})",
+                  file=sys.stderr)
+    if len(hibak) == len(csatornak):
+        raise hibak[0]
+
+
+def telegram_chat_id_kiir():
+    """Segéd: kiírja azokat a chat azonosítókat, akik már írtak a botnak."""
+    if not TG_TOKEN:
+        sys.exit("Előbb add meg a bot tokenjét: TELEGRAM_BOT_TOKEN környezeti változó vagy telegram_bot_token a beállításokban.")
+    adat = json.loads(letolt(f"https://api.telegram.org/bot{TG_TOKEN}/getUpdates").decode("utf-8"))
+    van = {}
+    for u in adat.get("result", []):
+        m = u.get("message") or u.get("channel_post") or u.get("my_chat_member") or {}
+        c = m.get("chat") or {}
+        if c.get("id") is not None:
+            van[c["id"]] = c.get("title") or c.get("username") or c.get("first_name") or ""
+    if not van:
+        sys.exit("Még nincs üzenet. Írj egy üzenetet a botodnak a Telegramban (pl. /start), aztán futtasd újra.")
+    for i, n in van.items():
+        print(f"chat_id: {i}   ({n})")
 
 
 def hirlista_ment(uj_tetelek, eredeti=None):
@@ -696,6 +759,7 @@ def main():
     ap.add_argument("--loop", action="store_true", help="folyamatos figyelés")
     ap.add_argument("--test", action="store_true", help="tesztértesítés küldése")
     ap.add_argument("--szaraz", action="store_true", help="csak kiírja a híreket, nem küld értesítést")
+    ap.add_argument("--telegram-id", action="store_true", help="kiírja a Telegram chat azonosítódat (a botnak írt üzenetből)")
     ap.add_argument("--beallitasok-letrehoz", action="store_true", help="kiírja az alap beallitasok.json fájlt")
     a = ap.parse_args()
 
@@ -705,12 +769,16 @@ def main():
         return
 
     inicializal(beallitasok_betolt())
+    if a.telegram_id:
+        telegram_chat_id_kiir()
+        return
     if a.test:
         ertesit("Teszt a hírfigyelőtől", "Ha ezt látod, működik az értesítés.")
         print("Tesztértesítés elküldve.")
         return
-    if NTFY_TOPIC.startswith("CSERELD") and not a.szaraz:
-        sys.exit("Előbb írd át az ntfy_topic értékét a beallitasok.json fájlban egy saját, egyedi névre.")
+    if not (NTFY_AKTIV or (TG_TOKEN and TG_CHAT)) and not a.szaraz:
+        sys.exit("Nincs értesítési csatorna: írd át az ntfy_topic értékét egyedi névre, és/vagy add meg a "
+                 "TELEGRAM_BOT_TOKEN és TELEGRAM_CHAT_ID értékeket.")
     if a.loop:
         while True:
             try:
