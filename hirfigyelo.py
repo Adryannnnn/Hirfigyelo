@@ -353,18 +353,42 @@ def link_kulcs(link):
     return "l" + hashlib.sha1(link.encode("utf-8")).hexdigest()[:14]
 
 
+FORD_STAT = {"ok": 0, "hiba": 0, "kihagyva": 0, "mm": 0}
+
+
 def forditas(szoveg_, cel="hu"):
-    """Cím fordítása (a Google Translate nem hivatalos, kulcs nélküli végpontján át).
-    Ha bármi hiba van, az eredeti szöveget adja vissza, így az értesítés nem marad el."""
+    """Cím fordítása. Először a Google (kulcs nélküli végpont), kétszer próbálva,
+    ha az nem megy, a MyMemory ingyenes szolgáltatás. Ha mindkettő hibázik, az eredeti szöveg marad,
+    de a hiba bekerül a naplóba és a statisztikába."""
+    hiba = None
+    for kiserlet in range(2):
+        try:
+            url = ("https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl="
+                   + urllib.parse.quote(cel) + "&dt=t&q=" + urllib.parse.quote(szoveg_))
+            adat = json.loads(letolt(url, timeout=10).decode("utf-8"))
+            ford = "".join(r[0] for r in adat[0] if r and r[0]).strip()
+            if ford:
+                FORD_STAT["ok"] += 1
+                time.sleep(0.15)
+                return ford
+        except Exception as e:
+            hiba = e
+            time.sleep(1.5)
     try:
-        url = ("https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl="
-               + urllib.parse.quote(cel) + "&dt=t&q=" + urllib.parse.quote(szoveg_))
+        url = ("https://api.mymemory.translated.net/get?q=" + urllib.parse.quote(szoveg_)
+               + "&langpair=en|" + urllib.parse.quote(cel))
         adat = json.loads(letolt(url, timeout=10).decode("utf-8"))
-        ford = "".join(r[0] for r in adat[0] if r and r[0]).strip()
-        return ford or szoveg_
+        ford = html.unescape((adat.get("responseData") or {}).get("translatedText", "")).strip()
+        if ford and "MYMEMORY WARNING" not in ford.upper():
+            FORD_STAT["ok"] += 1
+            FORD_STAT["mm"] += 1
+            return ford
     except Exception as e:
-        print(f"[!] fordítás nem sikerült ({e.__class__.__name__})", file=sys.stderr)
-        return szoveg_
+        hiba = hiba or e
+    FORD_STAT["hiba"] += 1
+    print(f"[!] fordítás nem sikerült ({hiba.__class__.__name__ if hiba else 'üres válasz'}): {szoveg_[:50]}",
+          file=sys.stderr)
+    return szoveg_
 
 
 MAGYAR_RE = re.compile(r"[áéíóöőúüűÁÉÍÓÖŐÚÜŰ]")
@@ -508,7 +532,10 @@ def egy_kor(kuldes=True):
         fm, keret = {}, int(CFG.get("max_fordit", 60))
         for tet in [x[0] for x in szurt] + lista_uj:
             c = tet[4]
-            if c in fm or len(fm) >= keret or time.time() - t0 > 120:
+            if c in fm:
+                continue
+            if len(fm) >= keret or time.time() - t0 > 150:
+                FORD_STAT["kihagyva"] += 1
                 continue
             fm[c] = c if MAGYAR_RE.search(c) else forditas(c, cel)
         for orig, mag in fm.items():
@@ -560,6 +587,10 @@ def egy_kor(kuldes=True):
         except Exception as e:
             print(f"[!] értesítés nem ment ki ({e.__class__.__name__}: {e})", file=sys.stderr)
 
+    if cel:
+        print(f"Fordítás: {FORD_STAT['ok']} sikeres (ebből MyMemory: {FORD_STAT['mm']}), "
+              f"{FORD_STAT['hiba']} sikertelen, {FORD_STAT['kihagyva']} kihagyva (keret/idő), "
+              f"futásidő eddig: {int(time.time() - t0)} mp")
     kiment = 0
     if kuldes:
         if elso_futas:
