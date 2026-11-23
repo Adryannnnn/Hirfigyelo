@@ -21,6 +21,7 @@ import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -192,6 +193,7 @@ NAPI = set()
 NTFY_AKTIV = False
 TG_TOKEN = ""
 TG_CHAT = ""
+TG_HIBAK = 0  # egymás utáni, teljesen elbukott Telegram-küldések ebben a futásban
 NTFY_TOPIC = ""
 NTFY_SERVER = os.environ.get("NTFY_SERVER", "https://ntfy.sh")
 
@@ -482,6 +484,9 @@ def ntfy_kuld(cim, uzenet, link=None, surgos=False):
 
 
 def telegram_kuld(cim, uzenet, link=None, surgos=False):
+    global TG_HIBAK
+    if TG_HIBAK >= 2:
+        raise RuntimeError("Telegram ebben a futásban kihagyva (ismételt időtúllépés)")
     szov = f"<b>{html.escape(cim)}</b>\n\n{html.escape(uzenet[:3500])}"
     if link:
         szov += f'\n\n<a href="{html.escape(link, quote=True)}">Megnyitás</a>'
@@ -489,7 +494,28 @@ def telegram_kuld(cim, uzenet, link=None, surgos=False):
     req = urllib.request.Request(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage",
                                  data=json.dumps(adat).encode("utf-8"),
                                  headers={"Content-Type": "application/json", **UA})
-    urllib.request.urlopen(req, timeout=20).read()
+    utolso = None
+    for kiserlet in range(3):  # a Telegram néha lassan válaszol a GitHub szervereiről: újrapróbáljuk
+        try:
+            urllib.request.urlopen(req, timeout=25).read()
+            TG_HIBAK = 0
+            return
+        except urllib.error.HTTPError as e:
+            torzs = e.read()[:300].decode("utf-8", "replace")
+            if e.code == 429:
+                try:
+                    var = int(json.loads(torzs).get("parameters", {}).get("retry_after", 3))
+                except Exception:
+                    var = 3
+                utolso = RuntimeError(f"HTTP 429: {torzs}")
+                time.sleep(min(var, 15))
+                continue
+            raise RuntimeError(f"HTTP {e.code}: {torzs}") from None  # 4xx: újrapróbálás nem segít
+        except Exception as e:
+            utolso = e
+            time.sleep(2)
+    TG_HIBAK += 1
+    raise utolso
 
 
 def ertesit(cim, uzenet, link=None, surgos=False):
