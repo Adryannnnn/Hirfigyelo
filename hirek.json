@@ -1,17 +1,17 @@
 [
  {
-  "ido": 1795442940,
-  "forras": "Portfolio.hu",
+  "ido": 1795443224,
+  "forras": "CoinDesk",
   "temak": [
    "Tőzsde"
   ],
-  "cim": "Fordulat az Nvidiánál: visszatér Jensen Huang, széttépik a részvényt",
-  "link": "https://www.portfolio.hu/uzlet/20261123/fordulat-az-nvidianal-visszater-jensen-huang-szettepik-a-reszvenyt-878516",
+  "cim": "Jensen Huang returns as Nvidia CEO as shares jump 27%",
+  "link": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27",
   "surgos": false,
   "eredeti": ""
  },
  {
-  "ido": 1795442940,
+  "ido": 1795443120,
   "forras": "Portfolio.hu",
   "temak": [
    "Forex",
@@ -19,6 +19,29 @@
   ],
   "cim": "Visszatér Jensen Huang - Felrobbant az Nvidia árfolyama!",
   "link": "https://www.portfolio.hu/uzlet/20261123/visszater-jensen-huang-felrobbant-az-nvidia-arfolyama-878356",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795443099,
+  "forras": "Bloomberg Politika",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Trump Praises Nvidia’s Decision to Reinstate Huang as CEO",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/trump-praises-nvidia-s-decision-to-reinstate-huang-as-ceo",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795442940,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Fordulat az Nvidiánál: visszatér Jensen Huang, széttépik a részvényt",
+  "link": "https://www.portfolio.hu/uzlet/20261123/fordulat-az-nvidianal-visszater-jensen-huang-szettepik-a-reszvenyt-878516",
   "surgos": false,
   "eredeti": ""
  },
@@ -130,6 +153,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795441188,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump Holds Off On Iran Strike As Netanyahu Presses For Joint Action - Report | LIVE BLOG - i24NEWS",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc3ZQMnNPYUJvbS1NdExvU2VXQnZPSkltN0NMSjBWQmE3Uzg2T0FEUU1RVFhmeXo0TGlOQUVfcFowZVBSTTdKMURiS210MzFqOGVlcmFiVFd0SllERE1yVzFvNkw1TmFNMWNSNGRSbU9XRlRCaFpOMnFQTDYySkdFMi00Um5PNkRna3ZhYXR0eDRQTUctLXAycjI4bkwtZEI1LUx4UjNMaEs0ZTV2cWtxVEQ2MVhBNUhyb2l5YlQyZjJCVXA4dVpONnVISkZCUQ?oc=5",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
   "ido": 1795441086,
   "forras": "Bloomberg",
   "temak": [
@@ -218,19 +253,6 @@
   ],
   "cim": "Yardeni Cuts S&P 500 Target After Stock Selloff",
   "link": "https://www.bloomberg.com/news/videos/2026-11-23/yardeni-cuts-s-p-500-target-after-stock-selloff-video",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795440145,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Kripto"
-  ],
-  "cim": "US President Donald Trump Explains Why He Supports Bitcoin and Cryptocurrencies! “China is the Target!” - Cryptonews.net",
-  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55RllOWGlhUEIwMkRiXzRhcHJPUU00RTFwbnhhYzl6VjhUOWlqMWpfZ0dpVEJGSDZxX0JvQzZ1N1lyRnhsRElKYzVVTlQ0eXQ4TU9CYXI4V0w?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -432,7 +454,7 @@
   "temak": [
    "Jegybank/kamat"
   ],
-  "cim": "Turkey May Use Gold Tools to Improve FX Position, Governor Says",
+  "cim": "Turkey May Use Gold to Bolster FX Position, Governor Says",
   "link": "https://www.bloomberg.com/news/articles/2026-11-23/turkey-may-use-gold-tools-to-improve-fx-position-governor-says",
   "surgos": false,
   "eredeti": ""
@@ -625,13 +647,13 @@
   "eredeti": ""
  },
  {
-  "ido": 1795435434,
-  "forras": "Bloomberg",
+  "ido": 1795435471,
+  "forras": "Wall Street Journal",
   "temak": [
-   "Jegybank/kamat"
+   "Trump"
   ],
-  "cim": "Market Volatility May Not Be Enough to Make the Fed Pause: Dawson",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-23/volatility-may-not-be-enough-to-make-fed-pause-dawson-video",
+  "cim": "Howard Lutnick Is the Ultimate Survivor in the Trump Administration - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYWdaT2Rsd3FHbFF3cjhUMXZpTDQ5X0MydDhvUTNaa2doWGtScV85RVJETVBnRGgwZTRLSm5XeVluV2xoN1dHc1cwWXF1ZmN1akwwSGRmLWxMTDFxaC1kcVVRMzFoa3hncWN5U0tHZmJsVW9mQzVrRDZEVlRWeW9rdl9FRHhyMGMwdS1yRWNIalpjSkQxQ01tTnNyUFdLZE1oeFpfS1diVnBsWHFialRiVXZn?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -713,19 +735,6 @@
   "cim": "ECB to let banks pledge more tokenized securities as collateral",
   "link": "https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795434203,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "US Democrats to probe investment deals with South Korea, others under Trump tariff push - 헤럴드경제",
-  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wdGlnTmVmek9pY1VZQ01QdFFWbjZ4Uko2ZF9pVHFac19wTVBoR2FkOEZMSXBna2hVLTIzZ083ZTh4M1lQckswOWpIUFliRURKSHgwN2dSSQ?oc=5",
-  "surgos": true,
   "eredeti": ""
  },
  {
@@ -867,17 +876,6 @@
   ],
   "cim": "Opinion | Trump Moves on East Potomac Park - WSJ",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa0VHczluMzJieE1mdDR1czNWS01SQ253U3JYdmROMUU2UGpWQWNXRDFSVEwzQlBFWUpiU1VuZ0hGRGpGbHk3TlNCUXZfS0JBMU5hY3pUUWF1RzJIVGdEUGVzX09UN2NkNV81ZzZkNjJ1Uk92SUtfVHVBLTF5OEh1WUlvSkowMDBHZ2NwWFNR?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795432500,
-  "forras": "Wall Street Journal",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Anthropic, Nvidia Rise Premarket After Historic AI Selloff - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTTVGejhQWkUzWXZTS0wtYmpISWhwOTVFaTM2LXJKZkwwSFozSjdWX0ZzdzRPc1VMUFp0UGlTOXlSdEttWmpWc0RCREtsQXpZZmp2eWxMUlVzR1cwVEJ0UndMNzFMcnE3dDAwMXB6R1dLYXpPUXlYSGlsUFFWTVpwLU80dUx5RE9PUzRKcEppNGFpTVFkMG1aNTFGbHhlUHhFN0lMR3VkMldWWmpjZGFXTV9kYW9peDFoYy16ZG5JYUlUN2pSYnZlNTNhTkpIRkZTUFlPZXdR?oc=5",
   "surgos": false,
   "eredeti": ""
  },
