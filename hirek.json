@@ -1,5 +1,84 @@
 [
  {
+  "ido": 1795468364,
+  "forras": "CNN",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Trump legnagyobb kockázata Jensen Huang kapcsán – CNN",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAySGtLT1o2UnU1N2pCQUg1Nzc1Q2czT2ZMY1NMbmcwY2M5bnRqWXZBWDBtR0VLenZBV0l4SWhqRlZaVWlkRW1SUXJYTUFXZXB1cjV5REVkSHZfQ1gyZkQ0OGt2Q2pISlFIT0Z3WFlTMFAzd0U?oc=5",
+  "surgos": false,
+  "eredeti": "Trump’s major risk on Jensen Huang - CNN"
+ },
+ {
+  "ido": 1795467979,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A New York-i részvények feljebb zárnak; Nasdaq Jumps 6,51% - bloomingbit",
+  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00NjhYRlJRSmZIbDRmWnlGOWl3VTlsYUwxVHBxQTZZLVZjb1RLYXdyNS1oME9WUUZYZENWWnB0eHRVT0pOS0RQUmFJMEI1Yklna2dIcA?oc=5",
+  "surgos": false,
+  "eredeti": "New York Stocks Close Higher; Nasdaq Jumps 6.51% - bloomingbit"
+ },
+ {
+  "ido": 1795467964,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "A tőzsde élesen fellendül az eladás után, az Nvidia szárnyal - ABC30 Fresno",
+  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXQ3ZkJ4OVFibHBERjR0bTJPc2U0MGd3TWdvNDZ0a0pmd21EU2Z2cS1nZnY5XzlzSXczMHNUcnR0Q0I5VEU0SWlmOEFGcVl6RTFFbjd1QlhSRjlhU3Q4eE9uRlE3anBtX3N6cDRpWk9tQzNwSEpuZDIzMlVDZnQyVElxTDRCRFZnVUxCaTZR?oc=5",
+  "surgos": true,
+  "eredeti": "Stock market rebounds sharply after sell-off, Nvidia soars - ABC30 Fresno"
+ },
+ {
+  "ido": 1795467872,
+  "forras": "Wall Street Journal",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Az Union Pacific vezérigazgatója bocsánatot kért, mivel a márciusi megjegyzés az összeolvadás ellen tiltakozott – WSJ",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnRremxyWXlsMVdTck9wWTQ4OHRjN2kzTldiWmxWT1BHZzQ4SjdTa0F3dGlxdzlqMGhfeGt4dXlOZE9nV0Nhd0ctWUhxejcxQUFSc0JHcUsxVVFrZDA5MmExSGs5WktCcG0xRjhaNEhuQjQ0TnI0WWE0blpCbm54dHRrVktwLWRqXzlSZnhjbEZENGpMYVh4NEJsWXlaZjBDVXg1SGR3dmpHN05fU2FCYkhMVUVlcVJn?oc=5",
+  "surgos": false,
+  "eredeti": "Union Pacific CEO Apologizes as March Remark Fuels Opposition to Merger - WSJ"
+ },
+ {
+  "ido": 1795467843,
+  "forras": "Cointelegraph",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "Az Egyesült Államok 1,1 milliárd dollárnyi kriptot akar visszaszerezni az Észak-Koreához köthető Binance hack során",
+  "link": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "surgos": true,
+  "eredeti": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack"
+ },
+ {
+  "ido": 1795467649,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Miért szárnyalt ma a TSMC részvénye – A tarka bolond",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92TkVUSlNHYU1SY3BsX3E1MWN3elI4c2hqQ0NONE5DOU5FVWl2cTZEVk1tb282dTE0TEJGU1RhRndzTTZhOU5rbXEyVVlRQzd2ckxua1dORnktSjljNG1KNnlrSVQtZEE2YUFxbDFoY0JRdXFRdnZ1UERn?oc=5",
+  "surgos": false,
+  "eredeti": "Why TSMC Stock Soared Today - The Motley Fool"
+ },
+ {
+  "ido": 1795467600,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Széttépték a befektetők a tech-papírokat, nagy emelkedéssel zárt az amerikai tőzsde",
+  "link": "https://www.portfolio.hu/uzlet/20261123/szetteptek-a-befektetok-a-tech-papirokat-nagy-emelkedessel-zart-az-amerikai-tozsde-878356",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795467500,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -21,6 +100,18 @@
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUdhR0xqQzkzMEtKME9JbmYzMzFUNGVzNld5OV9xY3NfQXpfUko3M05QMzZ6bkxJY0UxQm9MS2JwOHphTzdaQXhDdzdRdG5xX2M4ZEo3VlJhNGhYWjdPZ2lVbk9lQmRKbWlCWDVMOU80TW9XeUFPTl9YSFRkanlIelU1QUg4X21WcW9IOGVsXzVBakdnUl9OajhrVVFYMThHTlJXYklSUk9TU0VWTkpWeHBvTXc3anljVUJKWVpxQ1RuSXAtM0hQOVd0WQ?oc=5",
   "surgos": false,
   "eredeti": "Trump barges into Nvidia’s internal decisions, opens door to even more federal meddling in the economy - Reason Magazine"
+ },
+ {
+  "ido": 1795466975,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "A \"Feathers\" és a \"Freedom\" megérkezett DC-be Trump pulykakegyelmezése előtt - Washington Examiner",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdm9nd0V2cXhWM1N5U1JRSVNVeTNveFhqYThISDY5NzVZdzJMZGt5RTdmek9CVzc0RVpWZTRRWVRuRWpucmR0NkxVLWhlRmttUXpxZTdHYXdXdUlyck41eS1oUWxmMDRZRTZ2M2hKNF9EVWNMNjlrUlhjcXI3d29aQXJ6enlRb0t5TVVfQ3kyQlB3TnRIY0h4RkRfRmU3dFlqc3dKQjR5bw?oc=5",
+  "surgos": false,
+  "eredeti": "'Feathers' and 'Freedom' arrive in DC ahead of Trump's turkey pardon - Washington Examiner"
  },
  {
   "ido": 1795466400,
@@ -204,6 +295,17 @@
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUNBM2l5X2hMbWtleUdLUjJuLUZkdDZXUHFhWDFRelhkNWpaS091UV8yTVoyQXZFb3UzY2FSS2E2VmhqX2RUOHVjNnlndkU0OFp6aHppcTFFbGJjSVhZSWdfSHpPa3R2V1NzRlA0WjNETFZpdjZPU2lkWFFuelBKX3dnVHg3UHlZODdINdIBkgFBVV95cUxQVGxWZkNQN3pCR2NTUXJtZ0J6cTVjVHlWdzVFdUllU3Nudnhvck5mdW5ZaWo1VUVyUVlyTG01QUpkaFJiWFFESjNLTl9aM3RJR0dPdzFjcEd4MEdYY0lqMWgwMmZUZ2lpX3NrN1hWUmthbTRZdG5sb25fQzE0ZHZNbGRBQ3E3TkJUdlFqSVM0dTEzUQ?oc=5",
   "surgos": false,
   "eredeti": "Trump signs bill to rename Social Security claiming ages - NewsNation"
+ },
+ {
+  "ido": 1795464636,
+  "forras": "Negyedéves jelentések (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Mikor lesz a SpaceX következő bevételi jelentése? Még nincs dátum, és a következő SPCX feloldást december 8. után állítja be – Nacionale",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdHhsLTNUc3UxRS1venZwTXlKZVpwWEp0X1EwZEpHM3RDRlBHY3JLQU54ZENrRFpTZjNaLW4za0FMUkJxM2VVMjE2RHZzSjZ5V3A3M0hxYVpIWXdtQXJGcEtlT1ZvQ3BTY1dhSlh2blZfY2ZVTHVEVGhkSE02aE5JZjR2bHp6YmxiS2RtclVZRDhxd1NFRlcwQXpoaHhqQk43bDBSb2FORkVORWNZMTlFM0djVEF1VnNo?oc=5",
+  "surgos": false,
+  "eredeti": "When is SpaceX's next earnings report? No date yet, and it sets the next SPCX unlock after December 8 - Nacionale"
  },
  {
   "ido": 1795464600,
@@ -826,110 +928,5 @@
   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNU0N4akl3bTdUMVJmdTZQT044a0JPZkpvU284eXFRRmQ4X2dYcUYwb1dZZzlWWTlVa3JDYUxFaDA1ZWVCZ3lQVGtZWGhvYndULUY0dndIUGtqZXROZUtRM09JcFQ5SHlmUTlJQklaTXZoM2xjV1JTbmlLUDZxZGwwWnBTODc1eXBvdEJEcjF6ODNoTVhzMzdQRmhwWno5bTVwTHpvNXh6QWQ3cGc2SU9uQUdtMkhuOXBSbUtrdy1CZ2tCTUJJRHB0dlB6dmpVWVBLbVltdWNwSUk0SFU?oc=5",
   "surgos": false,
   "eredeti": "\"The correct and proper decision\": President Trump praises the decision to reinstate Jensen Huang as Nvidia's CEO - Soap Central"
- },
- {
-  "ido": 1795461918,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump azt mondja, hogy elrendelte a katonaságnak, hogy egyelőre ne robbantsák fel az iowai robbanóanyagokat – ABC7 Los Angeles",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmRvaWtzM2c0Nk1qdjV4NHhSckpDMVlDOGtQTU05aG5uV0thbUdOV29PT1ZHWDVrcmE4WUZ2SzF4c3FiTWpwbUJBQm5DNmV2eFhITnd5ODFtSmtSMjlGaUhhZ0lKZ1RZMTdXVUlGVl9yX194dzJrbHdlc3BqT0dNR2pEX3ZKQTIzYUJRYjYxQmQ3OVJxWFgzMGk1ODBnSDVhUmd6ckgtUEVlamc?oc=5",
-  "surgos": false,
-  "eredeti": "Trump says he has ordered military to hold off on Iowa explosives detonation for now - ABC7 Los Angeles"
- },
- {
-  "ido": 1795461900,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Melania Trump: Új ukrajnai tűzszüneten dolgozunk – Breakingthenews.net",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0l4c2hiWlUwUS1GNTl5U0hRQ1A5NWdfcUUyNlFDNHc1ZXBkcVZ1VE9KbVNKYnFiMkt0cmp0Nk12eGRfQW45X3dZUEZkSTlSeXgtb0lGVjVkVXJpVXFVNzB4cXhwWTgxYzBObXZDdEZJZ29NX1BtaTRvckwzMWNPZGtPdmR4NUFDcExSblhfM09TeFpBUUkxeQ?oc=5",
-  "surgos": true,
-  "eredeti": "Melania Trump: Working on new Ukraine ceasefires - Breakingthenews.net"
- },
- {
-  "ido": 1795461888,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Melania Trump first lady csatlakozik a katonafeleségekhez, hogy támogassák a katonákat az ünnepek idején – WKNO FM",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQnVGVktIV2ZlMi1xNlZWNjZGb2tJQm9lNnpJX0ozTXVMaTdndW1JSXpXNHJGenBnWnNxaElQeTJ6Y2V2cXpSYmdoN2FReU9BaW9VMkFiTVd2N0RkTE9IbnBPb19JWGZKLVFpMTNXVmMwaUxYdnE3YVFsd1oyZ05jazlMLVRPTzVjaWRJVnd5US1rM0RxS3pPdFRTQ2k5SFBZQ0FQM1IzcGpUR1dqcklBRTFnMTFGTlZCc3NlX0ZR?oc=5",
-  "surgos": false,
-  "eredeti": "First Lady Melania Trump Joins Military Spouses to Support Troops During Holiday Season - WKNO FM"
- },
- {
-  "ido": 1795461840,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Mi történik az NVIDIA részvényeivel, a piacokkal, miután Jensen Huang visszaállította vezérigazgatói posztját - WBAL-TV",
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMHFqb3BWUTdCUmtoX281RVlOUmtqRlZsVDVfRWQwb2U5NEtGTlFZX3h1T29rNk1ON0F0WjdzTjIxa0piSEF2NFhIcm5pRzVYV3N2UlhPTHFiV2lKbzROam1TejB4MmtueGJvNGhUTXRhVHpXenVQcjhGeHREa0JzR0dn?oc=5",
-  "surgos": false,
-  "eredeti": "What’s happening with NVIDIA stock, markets after Jensen Huang reinstated as CEO - WBAL-TV"
- },
- {
-  "ido": 1795461800,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Trump leállította az Iowa államban tervezett ólomazid-robbantást a bírósági döntésig – Forth.News",
-  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yNFNpQ3R2dDh4TTFFTm1fMG43bDJXR2ZUWTRUclNxaFhhZUdGLVA0Z3dzTHlsTVVOWjdoS2FaU3NOZlpaaV9aSmRRMno3SnNhQ2FiV3JKQ3dNZ2QxZERRQjdR?oc=5",
-  "surgos": true,
-  "eredeti": "Trump Halts Planned Iowa Lead Azide Detonation Pending Court Decision - Forth.News"
- },
- {
-  "ido": 1795461745,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "A Target „három egymást követő negyedévben is felülmúlta a Walmartot”. A Walmart részvényeinek ára továbbra is több mint kétszerese a vállalat értékelési mutatójának – Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQkFVV09zUUczU29RMExxSWJkYXJJTXdWNFZuRW1Ed3dSeC11ZS1STEtXWnFmRDhnSVZ5enJ2TUlmek1UblpfR0ZSdGZndjJIUnJZRHFJcUgzeE1SLVhHalF2dUduX0MtMTBtajNxVUFhX2RZTWM1UVlsTW82WG5SSmFSWl8xWjZaYllVbVBWWmpMbTU4dHpYMThhOFNPanR2TDln?oc=5",
-  "surgos": false,
-  "eredeti": "Target Has “Out-Comped Walmart Three Quarters in a Row.” Walmart Still Trades at More Than 2x Its Multiple - Yahoo Finance"
- },
- {
-  "ido": 1795461717,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Donald Trump hálaadás napi pulykáinak élete olyan, mint a hírességeké a kegyelem előtt – Crave Online",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeVBoM0tjYWNkYWJ1VExsTXZKOS1LQVdxRDZUUDJKRFR6b0h3eWwySkxUYWpQVUt0ZGxueXByMEpER0hSMzJ5ZV9HUWcyRFNTLVJ0UVpfNXlva1RNdEdCek1zc1ZqUkI4Sk1LV3hDWEdWV0FHbnljVjlvRFYzVkZpRUxFd3BpT0ROSnBSRi1CWktjQmZ6TVVjSA?oc=5",
-  "surgos": false,
-  "eredeti": "Donald Trump’s Thanksgiving Turkeys Are Living Like Celebrities Before Pardon - Crave Online"
- },
- {
-  "ido": 1795461660,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "„Jensen ítélőképessége továbbra is megkérdőjelezhető”: Mit mondanak a Wall Street elemzői Huang visszatéréséről – Business Insider",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMUl3NTFLSFA5Y1lfYmd2VFdaRExybFVhd1VhOFJiblprUmhHUHg3QWx3eHRlTHNBdExaZzNPaVZyMEhkYWdhM3JXUFV2ckJNZ1VKNUYtQzhfZUJJcU9KTDR6UXZGWTdNdTl4SldXNy1LYmJ1YzZja0U3UnFSWnNhZTFBZXdpQWlxcFp3bW15T2llR1VVNVR1NnVkZw?oc=5",
-  "surgos": false,
-  "eredeti": "'Jensen's judgment remains under question': What Wall Street analysts are saying about Huang's comeback - Business Insider"
- },
- {
-  "ido": 1795461600,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Az Nvidia emelkedése 2 billió dollárral növelte a Nasdaq 100 értékét, és a technológiai részvények árfolyama is megugrott – Proaktív pénzügyi hírek",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMk9PUVpobU5sM1pkMWlreWI2YVhQaU5fSVUzSklwZ0VBRWcwSGhnZmx4ZTd3UTl6endjaEFEZW1GZUthclZiVlU3SW03bDFzeFN0VUt1WGVSNWdZb0dhS3RIcDVtTDIwMWVaQlJYZHNxTmlqZW5jcWZaWmVreXY5cUZhdHdBUGhybnJ5R1YwNHdzRGNuVVVUWlNnWk5rT0pIbmQ0a2NCZ2tXOHBkVDNfd25sTHV3U2JTbk1mbGNwUHRqd08yWWxqQkY0Z3l2Wms?oc=5",
-  "surgos": true,
-  "eredeti": "Tech stocks surge as Nvidia rally adds $2 trillion to Nasdaq 100 - Proactive financial news"
  }
 ]
