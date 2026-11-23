@@ -1,5 +1,82 @@
 [
  {
+  "ido": 1795472756,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Nov. 23.: Az Nvidia részvényeinek árfolyama megugrott Huang visszatérésével; Ukrajna, Oroszország és Irán fokozzák a támadásokat – NBC News",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUTQ1cUtBWHRHMW80cHJoVTEzbEx6ajZ1RVotNENNeFZNX0E1dHJDRUdoalFIbmJRR3lrNXFMUktaUzBmMHRJMnM3LXhZY0hUWVBJSE5HVW1BT2VxR1J1THUzOUZWOHEyemdJOGgtclpFVWF2WDg5VmlfY3ROWW4wTmlCSG5IcUpLRUYzZG96cG9IZTBwaXNqdlp1dW1nX0R3d1ByY09lbmc2c2hPaGtWTnBwNy15WWc5MXluOElQdlR6SVRE?oc=5",
+  "surgos": true,
+  "eredeti": "Nov. 23: Nvidia stock soars on Huang’s return; Ukraine, Russia and Iran ramp up attacks - NBC News"
+ },
+ {
+  "ido": 1795472700,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Az S&P 500 elveszítette a 2026-ra várt nyereségét, ahogy erősödnek a kamatlábakkal kapcsolatos aggályok; a BofA felhívja a figyelmet a Fed irányváltását kiváltó tényezőre – BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHY0hsZmxYMEpBaXhhRkY3T1dfZG5zYlA0M2ZRRWJyRllINjYzOExCYXBmYkN5UTdiM2pmODFRMlJvNVQ0eGFmOFJBM25reV9ocThYdDZvZ0dBb0l4Q3RNcXdTT1dQTnFNZzB3RFZNVlB1NVY2eFE?oc=5",
+  "surgos": false,
+  "eredeti": "S&P 500 Wipes Out 2026 Gains as Rate Fears Mount; BofA Flags a Fed Pivot Trigger - BigGo Finance"
+ },
+ {
+  "ido": 1795472640,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Trump és az áldozatok családjai „igazságtalanságként” ítélik el Newsom kegyelmi döntését – The Independent",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTUNlUVdyNXNOZm9YemhIb2lQRGlSRTdPUkFCdHFWVWdFRjhuVk5WbTNWTFZiUWZ5RVpRWS1uWl8xTTN2b1hMMGRCS09mcUR2VXJFOTR0NHh5X0dyMXMwSUVKdG5TY2IzdVZrREV5SkdCcjJxZDVHcWJCQkpvLW9YNkJSd3dzSDlpb0taaF9EUm1OQlFqMTVVWk5UWDE5MkYzMGVZU1VQU2d0NFpicDg1ZFI5Q1FkUTFxa2c?oc=5",
+  "surgos": false,
+  "eredeti": "Trump, victims’ families condemn Newsom’s death row clemency as ‘act of injustice’ - The Independent"
+ },
+ {
+  "ido": 1795472345,
+  "forras": "Bloomberg Politika",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Jensen Huang visszatérése az Nvidia élére felgyorsítja a kongresszusi vizsgálatokat",
+  "link": "https://www.bloomberg.com/news/newsletters/2026-11-23/jensen-huang-s-return-to-nvidia-ramps-up-congressional-probes",
+  "surgos": false,
+  "eredeti": "Jensen Huang’s Return to Nvidia Ramps Up Congressional Probes"
+ },
+ {
+  "ido": 1795472207,
+  "forras": "Bloomberg Politika",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Trump bírálja Newsomot a halálbüntetések enyhítéséért a 2028-as választások előzetesében",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/trump-slams-newsom-for-commuting-death-sentences-in-2028-preview",
+  "surgos": false,
+  "eredeti": "Trump Slams Newsom for Commuting Death Sentences in 2028 Preview"
+ },
+ {
+  "ido": 1795472184,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Miért ugrott meg ma az ASML részvényeinek árfolyama? – The Motley Fool",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rZl9ISEJBMUZkRnhUOU5laENPUExROWoxYWEtVEZvQVd0VTN3c3haZWktektBT2JvV1BkdWNRanlmNWUzYlpsSjdqZ3BZQjZ3VUNPUERyMEtlNWZrcDFJQUk4bFV1NzlDY1N5dW84N2R6UnRFVzFzc3R3?oc=5",
+  "surgos": false,
+  "eredeti": "Why ASML Stock Popped Today - The Motley Fool"
+ },
+ {
+  "ido": 1795472126,
+  "forras": "BBC World",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az Egyesült Államok felveszi a feketelistára az ázsiai MI-céget, a Megaspeedet az Nvidia-botrány után",
+  "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+  "surgos": false,
+  "eredeti": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal"
+ },
+ {
   "ido": 1795471998,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -106,6 +183,18 @@
   "eredeti": "Bets Against Nvidia Stock Lost $11.3 Billion on Monday. The Wild Swings Are Just Starting. - Barron's"
  },
  {
+  "ido": 1795470897,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Tőzsde ma, november 23.: Az Advanced Micro Devices az AI-chipek fellendülésének köszönhetően emelkedik, miután az Nvidia visszahelyezte Jensen Huangot vezérigazgatói posztjára – The Motley Fool",
+  "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeWlXazZSREdHVFpCWDBzdG1YTHQwU2JmZXc5Y0dqamhsaTV0YWo5UzFqbUk2aVM0Q0p6TWtxb3kzdUQtdVVySWg0V3lNRm1SSlNuMmx3V09SVGhvZUh6bS1hNmFHR05ENGdHSjRDR1o1SmxnTXJMYmQ0ZWdTRmhBbk0xTjBENHdoRUQ3RG1waTZNYkNodEFMdHZrQjRkRmJUUkxPWkxLR3dkUXdyaTNGcmwxdlp5SlFtRmxpMENLRTBoWDV3aE45cktrVU94Rnk2cXdlXzg1d3hQZ2g3NWgxbmxjc2trcEtvN1o1S3VHNThuS2dnTmZSVU15aUF2ZWFaaTdwU0ZKOWsyTnc?oc=5",
+  "surgos": false,
+  "eredeti": "Stock Market Today, Nov. 23: Advanced Micro Devices Climbs on AI-Chip Rebound After Nvidia Reinstates Jensen Huang as CEO - The Motley Fool"
+ },
+ {
   "ido": 1795470813,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -206,6 +295,17 @@
   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQUxRbDNHUlIyeEVjZlIzR1liQ2g0UExiYXowV0hxSUpZOERKRFRSbjZuTnU2RWZOU1dqWVA0dVBLN1RPVjBXVEJMOF9fcXFRMVBJSG5SNGp5MWFUbHkySXNnSGhJNVJ5YVZuQnQ4NDVIandnazFoNXJlYmVaWDUzXzlIbVpSSEtj?oc=5",
   "surgos": true,
   "eredeti": "Video Why does Nvidia have such a huge influence on the stock market? - ABC News - Breaking News, Latest News and Videos"
+ },
+ {
+  "ido": 1795469737,
+  "forras": "Negyedéves jelentések (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A HPE részvényei a negyedéves eredmények és az előrejelzések túlteljesítése ellenére is estek a zárás utáni kereskedésben. Szerző: Investing.com – Investing.com India",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVEd3WGhUTWtZQWRWZ1ZJQndlZzd4RzhYcE5IVGp2bnlZWC00WDBtdjA5NUFUNnRGSVJMbVdidXlGeHdMR1I4c3l6WDJTdnY4dVJrRUdmNWI2aXlRcVExZHd2UE94LU0wVGxHcW93SEtYT05HQVNFQ3AxckxURkcxMGRxcGhxN1Nzd1hfcDBXckIwemR4ZDdvQVYzYXJHSnBkWTVIMnA0NlJTOXM5MnF4bDc3S3h1dw?oc=5",
+  "surgos": false,
+  "eredeti": "HPE stocks falls after hours despite quarterly results, guidance beat By Investing.com - Investing.com India"
  },
  {
   "ido": 1795469708,
@@ -341,6 +441,17 @@
   "eredeti": "Trump has a personal stake in Nvidia's future - USA Today"
  },
  {
+  "ido": 1795469107,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "A Trump-adminisztráció szankciókat vezet be az Nvidia-botrány középpontjában álló szingapúri céggel szemben – The New York Times",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3FWXzBPaVJLUVVWWDJYZkxmcEYwMU5rSUItY2lVcmRzaVFPN3VOZzBLTFIzMExSY0x0VmxfSXZwV1Y5LW5yekNHNnJhcFFPMlpiVVN1ZnBTSUtyblY4U0xLemRSS0lZQ2RGSGZ3bFowcS13V3J5LXZ5LVExTTBtdXhncFJrYUlKbEI0cENTc3ZMSFR3dkx3dzdtWGFUY1o1cExsWUZEZw?oc=5",
+  "surgos": true,
+  "eredeti": "Trump Administration to Sanction Singaporean Firm at Center of Nvidia Scandal - The New York Times"
+ },
+ {
   "ido": 1795469022,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -407,6 +518,18 @@
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdEJQam1TaUpZMFpVMmdvSk41N29rWkFDblB0MXd6NU9zczlrYklrUXVFczFuQjI3dmdleC1nWmY0RVdKOUgwdzcwYXNBN3hRZmNQeFpyMXFFbjRQQUNoemlDSXVkZzhYRDZHcnY0ckNDUDdndzBGNkFCNldJcHdiV0w5QjFxaUN0ZFc0UmszYy1hSjZN?oc=5",
   "surgos": false,
   "eredeti": "Qualcomm climbs 10%, pulled higher by broad tech rally (QCOM:NASDAQ) - Seeking Alpha"
+ },
+ {
+  "ido": 1795468866,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Az Nvidia vezeti a Wall Streeten tapasztalható fellendülést, miközben az S&P 500 index 4,7%-ot emelkedett Jensen Huang visszatérését követően a chipgyártó cég vezérigazgatói posztjára – WSVN",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93dy1CekxyR3BSSnA5MktTMHJNRnU0T3hvOUF5bkpSeXRwamliS3RYNndGTm91UnhJYUFPQXM3Z1MyczFpdWIyRjQ2UVVHU0FqbmRRS0pNV3puUkpNR2lSdDJUaE9tcDJvdXg3OVR5bVEtWG5lVGc?oc=5",
+  "surgos": true,
+  "eredeti": "Nvidia leads a surge on Wall Street as the S&P 500 leaps 4.7% following Jensen Huang’s return as the chip company’s CEO - WSVN"
  },
  {
   "ido": 1795468844,
@@ -646,6 +769,18 @@
   "eredeti": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack"
  },
  {
+  "ido": 1795467780,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "A Nvidia 2003 óta a legnagyobb egynapos részvényárfolyam-emelkedését könyvelte el Jensen Huang visszatérése után – Business Insider",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdml1dzBFbTNyWnBYRWtfSGQ3b3lwU2VhQk1VeEdTSFhFYkRZZWw5VW5RV0U3U2E1cGNHZDBwNzlOQUhUUkVUVjRPcUxaOWNDbTg3OHdhNURiNUNLaFdzN3VWR2JEUWgtcmxhWVNxWXkwMU0xcVRTQzhhWHRkMW9hMDl1akU0ZVhRWGJUc2Job09YejJteURxLWpjVzVVbWc?oc=5",
+  "surgos": false,
+  "eredeti": "Nvidia just posted its biggest single-day stock rally since 2003 after Jensen Huang's comeback - Business Insider"
+ },
+ {
   "ido": 1795467764,
   "forras": "Bloomberg Politika",
   "temak": [
@@ -771,141 +906,5 @@
   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLVJRdWlobDNsNFF2VmVjRlBva1phRWRBd2tPUWt1VnNyM3I2MHdWXzE0ejQ0TklZZ2VRSExBT3VhRml6S2ZaUVZaY0Jxa0ZrVGJIRHEtMVBqSkJqVkhiTEZyZzlLWUkwODE1WVpXRlRrbEowNHlXWHBNSnVsNVBJajdxOXZlci1fY3l2SFV1eVhQQnhUZUlPZ01BeDZBckpiQktJa1p0ZjhRVzhKRko2cUtZNE9yMUd0Snk4aXE0MkZXdnZFMVJ6eWt6cFpSRjgwWGRr?oc=5",
   "surgos": false,
   "eredeti": "Jensen Huang’s return to Nvidia saved the stock market — for now. Will the rebound last? - MarketWatch"
- },
- {
-  "ido": 1795466976,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Trump belevág az Nvidia belső döntéseibe, és ajtót nyit a még nagyobb szövetségi beavatkozás előtt a gazdaságba – Reason Magazine",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVUdhR0xqQzkzMEtKME9JbmYzMzFUNGVzNld5OV9xY3NfQXpfUko3M05QMzZ6bkxJY0UxQm9MS2JwOHphTzdaQXhDdzdRdG5xX2M4ZEo3VlJhNGhYWjdPZ2lVbk9lQmRKbWlCWDVMOU80TW9XeUFPTl9YSFRkanlIelU1QUg4X21WcW9IOGVsXzVBakdnUl9OajhrVVFYMThHTlJXYklSUk9TU0VWTkpWeHBvTXc3anljVUJKWVpxQ1RuSXAtM0hQOVd0WQ?oc=5",
-  "surgos": false,
-  "eredeti": "Trump barges into Nvidia’s internal decisions, opens door to even more federal meddling in the economy - Reason Magazine"
- },
- {
-  "ido": 1795466975,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "A \"Feathers\" és a \"Freedom\" megérkezett DC-be Trump pulykakegyelmezése előtt - Washington Examiner",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdm9nd0V2cXhWM1N5U1JRSVNVeTNveFhqYThISDY5NzVZdzJMZGt5RTdmek9CVzc0RVpWZTRRWVRuRWpucmR0NkxVLWhlRmttUXpxZTdHYXdXdUlyck41eS1oUWxmMDRZRTZ2M2hKNF9EVWNMNjlrUlhjcXI3d29aQXJ6enlRb0t5TVVfQ3kyQlB3TnRIY0h4RkRfRmU3dFlqc3dKQjR5bw?oc=5",
-  "surgos": false,
-  "eredeti": "'Feathers' and 'Freedom' arrive in DC ahead of Trump's turkey pardon - Washington Examiner"
- },
- {
-  "ido": 1795466958,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A Semtech árfolyama 8%-kal esett a várakozásokat felülmúló eredmények ellenére",
-  "link": "https://www.investing.com/news/earnings/semtech-falls-8-despite-earnings-beat-5046535",
-  "surgos": true,
-  "eredeti": "Semtech falls 8% despite earnings beat"
- },
- {
-  "ido": 1795466950,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump további 250 Boeing-repülőgépet jósol Kínának, mivel a korábbi ígéret még függőben van – AeroTime",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV09YNE1adldPeDM5M1o0b3ZQQlJnMUt6aWhHRC04V2ZGa2lISEo0ejY0TXBnQWdqQVdlQ19RY2xRRUZKc0tKd0hEZUdBMk80QmQ2c0FwT3ZIemVCSHpvSURDOG5Hbmg0R0dQbU91dFRvendKcmNHeDg0emZvMURNQS1Ub9IBgwFBVV95cUxNV09YNE1adldPeDM5M1o0b3ZQQlJnMUt6aWhHRC04V2ZGa2lISEo0ejY0TXBnQWdqQVdlQ19RY2xRRUZKc0tKd0hEZUdBMk80QmQ2c0FwT3ZIemVCSHpvSURDOG5Hbmg0R0dQbU91dFRvendKcmNHeDg0emZvMURNQS1Ubw?oc=5",
-  "surgos": false,
-  "eredeti": "Trump predicts 250 more Boeing jets for China as earlier pledge still pending - AeroTime"
- },
- {
-  "ido": 1795466400,
-  "forras": "MarketWatch",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "A short eladók elfüstölődnek, mivel az Nvidia a tőzsde történetének legnagyobb egynapos nyereségét jelenti",
-  "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
-  "surgos": false,
-  "eredeti": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history"
- },
- {
-  "ido": 1795466162,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Bajban vannak az AMD részvényei egy rövid eladói jelentést követően? - A tarka bolond",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPclhvdTVuOXdjb2dEZmc4YTNGUk5DZllnVzkzWTQwbl9NM1VxVGtsNjBLRnZUX1lXT196clVESUFZVXhUMzB3YzhZSUFSY0VWV2ZuckhkMW54dzV2aU9MVFJoLUpGVVZMNEFFaWszOENUR1Z4WUlxNDc1R2lmenhJRHQ1a0Y0ZXdPaXFwUW1CS2EtYU1UY3BQWlliVWlaX3lmaWRQUmhVNkZJdkE?oc=5",
-  "surgos": false,
-  "eredeti": "Is AMD's Stock in Trouble After a Concerning Short-Seller Report? - The Motley Fool"
- },
- {
-  "ido": 1795466078,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Véget ért az amerikai tőzsdekrach? A Nasdaq 6,6%-ot emelkedett, amikor az Nvidia Sparks Massive Rally – a részvények csökkenése alatt",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOUg4bEEyTEdrdlRuRzExY3IxWFZ2dHVIa2QtMmVPcE43d1NCcW1fdDY4Mk9hUTg2MjNjMFhMZ0dkTndNeU53TDlSNDN6TndHeVh2SmpmYmR6WVFMRVpmTlU4MmhEWEx3eTNBZC1IempPSjJXRnpOOE1tQ3dpbWl0aw?oc=5",
-  "surgos": true,
-  "eredeti": "Is the US Stock Market Crash Over? Nasdaq Surges 6.6% as Nvidia Sparks Massive Rally - Stocks Down Under"
- },
- {
-  "ido": 1795466066,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A Hewlett Packard eredménye 0,16 dollárral meghaladta a várakozásokat, a bevétel pedig felülmúlta a becsléseket",
-  "link": "https://www.investing.com/news/earnings/hewlett-packard-earnings-beat-by-016-revenue-topped-estimates-5046493",
-  "surgos": true,
-  "eredeti": "Hewlett Packard earnings beat by $0.16, revenue topped estimates"
- },
- {
-  "ido": 1795465982,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Vége a legrosszabbnak az Nvidia Stock esetében? - A tarka bolond",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVDVUOGRzN3FrN3V0dVVSQ2JNbUMwYjZYa3NHXzJwVW9lajI0dGlBajZwX1BRWk5KeFZhMUx2ZWQ4TmNoY0VRc1NpbjYzMjZ0SnJwckZFTnNUb1E4OHRIeldROHlkZkN4enQ1bmhSSVdra1hiNzd2ejRqZGNBU0tOSWxJdw?oc=5",
-  "surgos": false,
-  "eredeti": "Is the Worst Over for Nvidia Stock? - The Motley Fool"
- },
- {
-  "ido": 1795465929,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A HPE részvényei a zárás utáni kereskedésben estek, annak ellenére, hogy a negyedéves eredmények és az előrejelzések is meghaladták a várakozásokat",
-  "link": "https://www.investing.com/news/earnings/hpe-stocks-falls-after-hours-despite-quarterly-results-guidance-beat-5046357",
-  "surgos": false,
-  "eredeti": "HPE stocks falls after hours despite quarterly results, guidance beat"
- },
- {
-  "ido": 1795465877,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Miért emelkedik ma az Oracle részvényeinek árfolyama? Írta: Investing.com – Investing.com Ausztrália",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjRHOWtmUEN4dmphVGFWY0oyaVhJNkl5SDJRS2RpUnVfeWhleW1EWDZROHl1ZF9lUlBSblFHQjR4UE1MclljeUZ5TXRab2plbW9LRGxWdXFob2FQbWhVdC03cnhxSGJtX0tLcEFFSHhEUi1ITWdsRDdoQW5Yakc3bldYYUlkNV9MMmJCOE5RR3FOU3U2cnotZTJ3?oc=5",
-  "surgos": false,
-  "eredeti": "Why is Oracle stock surging today? By Investing.com - Investing.com Australia"
- },
- {
-  "ido": 1795465858,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Az amerikai részvények árfolyama emelkedett a kereskedés zárásakor; a Dow Jones ipari átlag 3,01%-kal nőtt",
-  "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-301-5046476",
-  "surgos": false,
-  "eredeti": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 3.01%"
  }
 ]
