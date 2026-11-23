@@ -322,13 +322,23 @@ def cim_kulcs(cim):
 
 
 STOP = set("the a an of to in on for and or at by with as is are was were be from that this it its after over "
-           "new says say said will would could may amid vs into than more has have had not but".split())
+           "new says say said will would could may amid vs into than more has have had not but "
+           "trump market markets stock stocks news report reports update live today price".split())
 
 
 def tokenek(cim):
-    """A cím lényegi szavai: így az ugyanarról szóló, de másként megfogalmazott hírt felismerjük."""
+    """A cím lényegi szavai (tövezevel): így az ugyanarról szóló, de másként megfogalmazott hírt felismerjük."""
     c = re.sub(r"\s+[-–|]\s+[^-–|]{2,40}$", "", cim.lower())
-    return sorted({w for w in re.findall(r"\w+", c) if len(w) > 2 and w not in STOP})
+    ki = set()
+    for w in re.findall(r"\w+", c):
+        if len(w) <= 2 or w in STOP:
+            continue
+        for veg in ("ing", "ed", "es", "s"):
+            if w.endswith(veg) and len(w) - len(veg) >= 4:
+                w = w[:-len(veg)]
+                break
+        ki.add(w[:6])
+    return sorted(ki)
 
 
 def hasonlo(a, b):
@@ -336,7 +346,9 @@ def hasonlo(a, b):
     if len(a) < 3 or len(b) < 3:
         return False
     k = len(a & b)
-    return k / len(a | b) >= 0.5 or (min(len(a), len(b)) >= 4 and k / min(len(a), len(b)) >= 0.75)
+    jac = k / len(a | b)
+    ov = k / min(len(a), len(b))
+    return (k >= 2 and jac >= 0.5) or (k >= 3 and (jac >= 0.3 or ov >= 0.55))
 
 
 def feed_letolt(elem):
@@ -543,12 +555,24 @@ def egy_kor(kuldes=True):
                 eredeti[mag] = orig
         szurt = [((s_, i, n, t, fm.get(c, c), l), tk) for ((s_, i, n, t, c, l), tk) in szurt]
         lista_uj = [(s_, i, n, t, fm.get(c, c), l) for (s_, i, n, t, c, l) in lista_uj]
+    # --- második szűrés a (lefordított) magyar címekkel: így a más nyelvű / más szavú azonos hír is kiesik ---
+    ismert_hu = [x["th"] for x in mult + fuggo if x.get("th")]
+    tokenek_hu, szurt2 = {}, []
+    for tet, tk in szurt:
+        th = tokenek(tet[4])
+        if any(hasonlo(th, m) for m in ismert_hu):
+            continue
+        ismert_hu.append(th)
+        tokenek_hu[tet[4]] = th
+        szurt2.append((tet, tk))
+    szurt = szurt2
     tokenek_cim = {x[0][4]: x[1] for x in szurt}
 
     def rekord(x):
         s_, i, n, t, c, l = x
         return {"ido": i, "forras": n, "temak": t, "cim": c, "link": l, "surgos": s_,
-                "eredeti": eredeti.get(c, ""), "t": tokenek_cim.get(c, tokenek(c))}
+                "eredeti": eredeti.get(c, ""), "t": tokenek_cim.get(c, tokenek(c)),
+                "th": tokenek_hu.get(c, tokenek(c))}
 
     surgosak = [x[0] for x in szurt if x[0][0]]
     for x in (x[0] for x in szurt if not x[0][0]):
@@ -565,9 +589,10 @@ def egy_kor(kuldes=True):
     # --- ÁLLAPOT MENTÉSE AZ ÉRTESÍTÉS ELŐTT: így semmi sem mehet ki kétszer, még hiba/időtúllépés esetén sem ---
     if kuldes and not elso_futas:
         for x in surgosak:
-            mult.append({"ido": most, "t": tokenek_cim.get(x[4], tokenek(x[4]))})
+            mult.append({"ido": most, "t": tokenek_cim.get(x[4], tokenek(x[4])),
+                         "th": tokenek_hu.get(x[4], tokenek(x[4]))})
         for x in osszefoglalo:
-            mult.append({"ido": most, "t": x["t"]})
+            mult.append({"ido": most, "t": x["t"], "th": x.get("th", x["t"])})
     elif kuldes:
         fuggo, utolso = [], most
     if kuldes:
@@ -596,15 +621,22 @@ def egy_kor(kuldes=True):
         if elso_futas:
             biztonsagos(ertesit, "Hírfigyelő elindult", "Innentől csak az új, fontos híreket küldöm.")
         else:
-            # sürgős hírek azonnal
-            if len(surgosak) > maxe:
-                for x in surgosak[:maxe - 1]:
-                    biztonsagos(kuld_egyet, x)
-                maradek = surgosak[maxe - 1:]
-                biztonsagos(ertesit, f"+{len(maradek)} további sürgős hír", "\n".join("• " + x[4] for x in maradek[:15]))
-            else:
-                for x in surgosak:
-                    biztonsagos(kuld_egyet, x)
+            # sürgős hírek azonnal, de a futásonként ugyanabba a témába esőket EGY értesítésbe vonjuk össze
+            csoportok = {}
+            for x in surgosak:
+                csoportok.setdefault(x[3][0], []).append(x)
+            csoport_lista = list(csoportok.values())
+            for n, cs in enumerate(csoport_lista):
+                if n >= maxe:
+                    maradek = [y for c in csoport_lista[n:] for y in c]
+                    biztonsagos(ertesit, f"+{len(maradek)} további sürgős hír",
+                                "\n".join("• " + y[4] for y in maradek[:15]))
+                    break
+                if len(cs) == 1:
+                    biztonsagos(kuld_egyet, cs[0])
+                else:
+                    biztonsagos(ertesit, f"🔴 {cs[0][3][0]} | {len(cs)} hír",
+                                "\n".join(f"• {y[4]} ({y[2]})" for y in cs[:10]), cs[0][5], True)
             kiment += len(surgosak)
             # nem sürgős hírek: egyetlen összefoglaló
             if len(osszefoglalo) == 1:
