@@ -1,5 +1,50 @@
 [
  {
+  "ido": 1795465555,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az Nvidia részvényei megugrottak, miután felkeltette Jensen Huang bejelentette, hogy közel van – a hagyma",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFltZVZlRmZZeGhibjczWElaQXlKLXk2VE5QcVFoQTRHX0xFZFRGaG43ZlA4dVFqdnFOUDRIWllwODVlWmZFZ2ItMTdkQ00zUS1hNk9RVVZKcXF4cXlLTVcxNkRaLXhiRzVnODRFRWZfWk82WVBUdjkwc1M3eUNZdmYwaDJmeGliVzQyX2UxbkZ2UQ?oc=5",
+  "surgos": true,
+  "eredeti": "Nvidia Stock Surges After Aroused Jensen Huang Announces He’s Close - The Onion"
+ },
+ {
+  "ido": 1795465500,
+  "forras": "MarketWatch",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az Oracle és a CoreWeave részvények nagy növekedést mutatnak, mivel a befektetők fogadnak, hogy a mesterséges intelligencia készpénze tovább fog áramlani",
+  "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+  "surgos": false,
+  "eredeti": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing"
+ },
+ {
+  "ido": 1795465428,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Trump több mint 17 milliárd dolláros délkelet-ázsiai ügyletet jelent be – Qazinform",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTHFmcUdWbjRxSktsSGVUUkZzUGV0YzJ3NmthckdoeVhyVTBhR041Z3RZOU44MEdQNmQ5S1dBeXVaOVMtdXA2T2JLVW5YRTl4aGY1bE4zNENtbVJwbHJUcWRtTTh1djByVjFnRFhaLWNZYXlaMUcxcks0eElyT0d6WFNmVWVScGU2cmfSAYoBQVVfeXFMUFpJZjhZekpNZVJLZkxEUnhUZmVMbHJYZ3JkVXB4VkZjSVFCV0dyTGdPTnVDOENwbVRTcG11MDdjWl8tTmtNUW5sWk10QW1WazV5dlYxOWFaRUtFT0JjTkZhTndGZ3VldHVaek11WTBsV3prVWJfcDAzX09udWxmcDJNQzdoVjhKWGJn?oc=5",
+  "surgos": false,
+  "eredeti": "Trump announces over $17B in Southeast Asia deals - Qazinform"
+ },
+ {
+  "ido": 1795465374,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az Nvidia részvényei robbanásszerűen emelkedtek a vezérigazgató megdöbbentő megváltása után – FinanceBuzz",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54NXpWZnNxUmdTenBOUnJIQjlTQlZkMEoyWDROdGtqOWs3c3dtcE8yZlpVLUlac1c4UjdCUXg5bDYxeGNUdzlKb0toSThqZW05aHJ2OVlPZkN5X2RJeWoxbWlLQjhaMC1yX3pLV0w5Skk?oc=5",
+  "surgos": false,
+  "eredeti": "Nvidia Stock Explodes Higher After a Shocking CEO Reversal - FinanceBuzz"
+ },
+ {
   "ido": 1795464668,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -23,6 +68,17 @@
   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZjlIT24wc0JtbW9yb0F1U09rOVM0ck0yRUZWWFM1MHAtellhem1BeWNYZEdkSHBxWGVPN0ZGSUNicjVGXzYtZ1dhSFpyN0ptenhzM25kdUtnTTlpVnRUcjNrS190ZGdpSHNYNHZRVVJVSHlPd0F2WVpyVFRNVDdPZV81WEZYNl9pck12Yw?oc=5",
   "surgos": false,
   "eredeti": "Brent crude moves lower amid Trump’s Iran de-escalation comments: Can renewed diplomacy stabilize oil supply? - Traders Union"
+ },
+ {
+  "ido": 1795464512,
+  "forras": "Bloomberg Politika",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Az Nvidia felújítja Huangot Trump Push közepette",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-23/balance-of-power-early-edition-11-23-2026-video",
+  "surgos": false,
+  "eredeti": "Nvidia Rehires Huang Amid Trump Push"
  },
  {
   "ido": 1795464300,
@@ -107,6 +163,17 @@
   "eredeti": "Prediction: This Is What Nvidia's Stock Will Be Worth by the End of 2027 - The Motley Fool"
  },
  {
+  "ido": 1795463931,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Hogyan játssz az AMD Stock-val, ahogy Hunterbrook új rövid jelentéssel lecsapja a céget – Barchart.com",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUGtQQXd2TllZXzYtaEJrSkM0c3V1RGRLVlhycU5BNUFKekVfSWVnamYzQ0ZYOUZxeXlyeFNqNmtyYkVxUXE4OEtWNm1VTUIyT0JPdkRSMEctMnJFb0lCUmV5ck16N1g2d2NiaU4zLXg5NGY4alpDRXBCUnpJSTBrY2QwaldESVktbjdXcVNCOE9KR2V1ZTFYMm40VHZjY0dlZGxvdWMyWmVIR1hSSF9JbDhSMzRoOXlyODU1TEc0UQ?oc=5",
+  "surgos": false,
+  "eredeti": "How to Play AMD Stock as Hunterbrook Slams the Company With a New Short Report - Barchart.com"
+ },
+ {
   "ido": 1795463783,
   "forras": "Nagy cégek 2 (Google News)",
   "temak": [
@@ -189,6 +256,17 @@
   "eredeti": "Nvidia at 'Heart' of National Security, AI Future, Says Christopher Smart"
  },
  {
+  "ido": 1795463329,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az Nvidia részvényei az egekbe szöknek, miután Jensen Huangot visszahelyezték az Nvidia vezérigazgatói posztjába – Fox News",
+  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45TGIyT0NQenFqdUpmVUlzbDFaOTVjUWt3ZFp3bEZXaFp0ZjViSk0yOTVEUzMxbmFRZ3dfUzhHai1mMElJYTBnTW5zM2preWg4M1ZONFhn?oc=5",
+  "surgos": false,
+  "eredeti": "Nvidia stock skyrockets after Jensen Huang is reinstated as Nvidia CEO - Fox News"
+ },
+ {
   "ido": 1795463260,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -269,6 +347,17 @@
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaHlPXzlOYjlKVVFZTndYWTU4bEtjVWFRcGpHT05VNnpKeWtyVmxlbkhrZmF0T21COHZmUFBfQlVuVmRiZDkya01mUlBuUHg1TmhuVWlydWZMQllXNGI3X1JsanNiRnBBcjluTkZWV0M4Q2FzMTZRUHBaQ2NyalNYMzJGa1pwbG1zQUJzanJmXzNXZjJQYTh3?oc=5",
   "surgos": false,
   "eredeti": "Cathie Wood sells $17M in Nvidia shares, signaling strategic shift - Crypto Briefing"
+ },
+ {
+  "ido": 1795462690,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az Nvidia visszahelyezi Jensen Huang vezérigazgatói posztját, a részvények 30%-ot ugrottak - BeInCrypto",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zc18weDFubFVJaU91RmdBQ3gxYmgwTzBxLXNQSVA5V1JxZkgwSEk3eE1KenFuMFlvWENFUGVIU2VfYm1UWVJ3NEdSTWQ4VzdibFZyV2lnU001TzByOHVldEpGZ3lpb1R4am1nME40aXFjZw?oc=5",
+  "surgos": false,
+  "eredeti": "Nvidia Reinstates Jensen Huang as CEO, Stock Jumps 30% - BeInCrypto"
  },
  {
   "ido": 1795462601,
@@ -718,6 +807,17 @@
   "eredeti": "AMD shares skyrocket, what you need to know - TradingView"
  },
  {
+  "ido": 1795461016,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A Moody’s megerősíti, hogy a Medline a Ba1-en van, és az IPO utáni tőkeáttétel-növekedést látja",
+  "link": "https://www.investing.com/news/stock-market-news/moodys-affirms-medline-at-ba1-sees-postipo-deleveraging-driving-upgrade-path-5046307",
+  "surgos": false,
+  "eredeti": "Moody’s affirms Medline at Ba1, sees post-IPO deleveraging driving upgrade path"
+ },
+ {
   "ido": 1795461004,
   "forras": "Negyedéves jelentések (Google News)",
   "temak": [
@@ -776,6 +876,17 @@
   "eredeti": "‘AMERICA GETS SCREWED’, SCHUMER Accuses Trump & Lutnick of Selling US National Security to China - Moneycontrol.com"
  },
  {
+  "ido": 1795460783,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Az S&P leminősíti a Flowers Foods-t „BB”-re a kereseti nyomás és a szövetségi kockázatok miatt",
+  "link": "https://www.investing.com/news/stock-market-news/sp-downgrades-flowers-foods-to-bb-on-earnings-pressure-and-covenant-risks-5046299",
+  "surgos": true,
+  "eredeti": "S&P downgrades Flowers Foods to ‘BB’ on earnings pressure and covenant risks"
+ },
+ {
   "ido": 1795460704,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -820,119 +931,5 @@
   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWszLTd2OFJ4a19JRFdVMFlGTUJmTV9obHlzQnA3MlgtaW5BMnl1N0JLc2p0RnJIdUpjU2otNzZxWlI5SkN3UWl5ZWlkallubmJnMTJjWFVLWUt1SEVYV0FKaDJSQUU5TmpUTndfdU9QQ3ZRX1dWelF2NUoxZFNXRFFB?oc=5",
   "surgos": true,
   "eredeti": "Nvidia shares soar after Jensen Huang returns as CEO - Yahoo! Finance Canada"
- },
- {
-  "ido": 1795460291,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Alphabet stock jumps on Nvidia CEO news, analyst support - StreetInsider",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWdGbDdUcTZ1ZFU4QnBLY2N6czR0NDFtWkxBQ0VOa28wc0Nxbi1VY3YwRlotWTV3Mk5kWlhIcXRHN1RyQllKMWFwUUdNX0t1a3piMHZ3c0VOSk9jWVZGbXJVeTE3QU5PZFc4ak02ZzdETVFEMmJMNklJVDBFSG5yVVJsbUxDdWs1WTBJT052ZHdMb3czMjdCSnZKX0UwLVpQNjJ3ODlTa2tCM1RUWFBqZml3?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795460280,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Az Nvidia részvényárfolyamának emelkedése ráirányítja a figyelmet Huang befolyására és a vállalatirányításra – Proaktív pénzügyi hírek",
-  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcTBSZUxoOUdpM25MRkdYLWVfeGFSQzZPUXgxS0FWbU9YSjI3T09PVE9acGtSQjlSQUN4ek1fRjVhclBIaEN0c1Fxd0p4U2FHakFMTEZObVphYmtjcWxuc1hUWTM4MGNnUkhTODQtbjNZUUxCcFFLU0huTTVWOTVjMEx4Mmwxc2IwUVp0MGtuUzVWNVZSTlBEMWp1cDhZUFhPbkd6cUpkYk5XRXVwSjROeE04dE1Ibjl3a1BBY2xhQU5SOGxROS1maXpRcjFaZEltQ20zSWtrNG56Ylo1?oc=5",
-  "surgos": false,
-  "eredeti": "Nvidia rally puts spotlight on Huang's influence and corporate governance - Proactive financial news"
- },
- {
-  "ido": 1795460100,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A Deutsche Bank 9000-re emelte az S&P 500 2027 végére vonatkozó célkitűzését, és körülbelül 30%-os emelkedést prognosztizál – BigGo Finance",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aTDVVNlhBZlg0LW9GZ0ZjUUhHVG01dl9pN2dicVkybnJXMzBXcTRzUHRtaVpvQWFxZmhIUFlSMlZpRnhoXzVLN1dTbUc1ejg4emNWNnRxamdvdEs4N0JaUEJBMEQxQTh5WkY4eGlJQWtVNmxqWEE?oc=5",
-  "surgos": false,
-  "eredeti": "Deutsche Bank Sets S&P 500 End-2027 Target at 9,000, Forecasting Roughly 30% Upside - BigGo Finance"
- },
- {
-  "ido": 1795460100,
-  "forras": "MarketWatch",
-  "temak": [
-   "Trump",
-   "Jegybank/kamat"
-  ],
-  "cim": "Trump is open to capping credit-card interest rates — but holiday shoppers shouldn’t bank on it yet",
-  "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795460096,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Peterson: Íme, mit árul el Jensen Huanggal kapcsolatos hirtelen irányváltása Trumpról és Kínáról – CNBC",
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVjZya0NLX2VRMFc5MFdsTUtRNEJGUmRrRDNreUxjWTlhc0oxbnNTVHo0TmJUWF8wdXhxa1QydDV4c3VvRVdtbEdvZzJDX0NhenZQZkxLSG85Qml3dE4xdkdlcXpmQVdfZEZ4ZjR4QzJNQ25DZzdZMUNVaVMzdjR0alFR0gGHAUFVX3lxTE9xT1NrT2Q2TVlKUTNpaFc5R3ZtdDdFMFlEQWFiLVVIbjF6N2ZxTnc0TDBnaGJBcEs0bTUzNDBFOEZzSWJpV082bllSSFltWHJSMlhjanFaZ3VEWERaR3YyUE9vbW00MFlfa3BMbHBKMFYzVnc5S0VNNnIwSmgzUnhmNFk2QUU4NA?oc=5",
-  "surgos": false,
-  "eredeti": "Peterson: Here’s what Bessent’s about face on Jensen Huang reveals about Trump and China - CNBC"
- },
- {
-  "ido": 1795460063,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Nvidia reinstates Jensen Huang after Trump spoke ‘directly’ to board - The Washington Post",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmNHaTN2YnhWcEZ0QVVkbkdNamZzRU5VWFRYd0JhaDVpaEpveDRzc2F6X21RS1lqZjIxbVZUaXhsYllvelpqQjdfYWtuYm0yVUV4eEdoT00xNV9aalVLSm9SNFVReTZQVXpqU2Z5WXBwNHo0RDBfY2FuaENWUy16UHNPU1E0eV9pUGN5VlByS0RzM09BS1NVQ3FlbENIMjB6WkcyQ2lOb3BRUldJZHJBdW1Ebm8yZVk?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795460040,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Michael Burry and Elon Musk Disagree on NVIDIA. It's Up 32% Today, so What's Next for NVDA Stock? - 24/7 Wall St.",
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkZWNEdkMEdpMjh6T1ZfTWtLRVFGd05YWGxRSXJsZjhJYktKeV9ydFh3VGNNOHNvMUZ0NUJkRXBfcUthRmdOaWNIZHk2Wm5LMG1Xd000NkxSd2loWXpFSGhRdUZyblYwbmd6ZW9QOUF4YlFlNUczTHhhR1NzNTZXWURvTkV4Y3c5cVRQV1lESVUxS0FBUm14SE1DTVRteXNTeVYzZUFpUlc1QWgweDZldjc3Ql9ENXJnWk1KMjdqYUh3cHdPLTVRdGVyWjl1MEtp?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795459921,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Is Micron Technology Stock a Buy at $700? - The Motley Fool",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLUhGNTlPTkd0c09ldVg4ZlpQbVowWGdsVVBtN1F4TDJTUHV4SlpOU2UzaHU2Wnl3X1JFR0pOQmtGRktJbkwwVFdWUmoxYWVEV1pRNVlaZzQ4QW9EdXpQUGlxeHVMUlpkQUFOQl91SEg1TndveGJVbVJDaHpnRE4zVGFOajdFaGdrdEE?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795459920,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Oracle Stock Snaps Losing Streak. Funding for Data-Center Buildout Is in Place. - Barron's",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbm1rWDJTRDhPc0E4bXQ5SEVzOEhOYkFXWHJ0V19UbG5URTJkYXhuNV9NaW1TS2NZQ2xjdlRtdnBTcWM0NnpnbEU2VG1IZHpLdzJUa182bzgtdkgzdmxMVFpWMXNUS3QwUmZENEJQRmplcXJWeVQyRTJCUEl5NlNpdW9fdDRXejJY?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795459880,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Trump",
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Trump megosztott egy mémet, amelyen az Nvidia vezérigazgatója egy piros melltartót emel fel a butleri gyűlésen elfoglalt pózban – GV Wire",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWJ5enhHNGVaeWg4R2ItTWpKakdMamZmdG15Tnc0YzQ1V2lzcmhjVjlsVjRLQjdWeDlUX2ZZeXpZaFBpRnQ3aEJ2cHBlNHhaMEhPdGdHb3NCYTYxOThpaDdrYnE0cTB3amFLZkRVb3UtaHlZOFhSSi1RSEoxNHBZc1hEQnZPclREMWNNQUVSUGxBUXBoeWkzTFlwZE9rdDlZWFVER3V3cGk?oc=5",
-  "surgos": false,
-  "eredeti": "Trump Shares Meme of Nvidia CEO Raising a Red Bra in Butler Rally Pose - GV Wire"
  }
 ]
