@@ -35,6 +35,15 @@ jobs:
         timeout-minutes: 2
         run: python3 hirfigyelo.py --test
 
+      - name: Telegram diagnózis
+        if: github.event.inputs.teszt == 'true'
+        continue-on-error: true
+        timeout-minutes: 2
+        run: |
+          python3 hirfigyelo.py --telegram-diag
+          echo "--- curl próba ---"
+          curl -sS -m 20 -o /dev/null -w "curl getMe: HTTP %{http_code}, %{time_total} mp\n" "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/getMe" || echo "curl hiba"
+
       - name: Hírek ellenőrzése
         if: github.event.inputs.teszt != 'true'
         timeout-minutes: 4
