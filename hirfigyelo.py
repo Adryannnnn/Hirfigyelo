@@ -505,29 +505,34 @@ def telegram_kuld(cim, uzenet, link=None, surgos=False):
     adat = json.dumps({"chat_id": TG_CHAT, "text": szov, "parse_mode": "HTML",
                        "disable_web_page_preview": True}).encode("utf-8")
     utolso = None
-    for kiserlet in range(3):  # a Telegram néha lassan válaszol a GitHub szervereiről: újrapróbáljuk
-        # saját User-Agent nélkül (alap Python), az 1. próba után csak IPv4-en
+    hatarido = time.time() + 45  # egy üzenetre legfeljebb ennyi ideig próbálkozunk
+    kiserlet = 0
+    while kiserlet < 8 and (kiserlet == 0 or time.time() < hatarido):
+        # saját User-Agent nélkül (alap Python); a 3. próbától csak IPv4-en
         req = urllib.request.Request(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage", data=adat,
                                      headers={"Content-Type": "application/json"})
+        kiserlet += 1
         try:
-            if kiserlet == 0:
-                urllib.request.urlopen(req, timeout=25).read()
+            if kiserlet < 3:
+                urllib.request.urlopen(req, timeout=15).read()
             else:
                 with CsakIPv4():
-                    urllib.request.urlopen(req, timeout=25).read()
+                    urllib.request.urlopen(req, timeout=15).read()
             TG_HIBAK = 0
+            time.sleep(0.5)  # a Telegram korlátoz a gyors egymás utáni üzeneteket
             return
         except urllib.error.HTTPError as e:
             torzs = e.read()[:300].decode("utf-8", "replace")
             if e.code == 429:
+                # a GitHub szerverei közös IP-n osztoznak, ezért a Telegram néha korlátoz: kivárjuk a megadott időt
                 try:
-                    var = int(json.loads(torzs).get("parameters", {}).get("retry_after", 3))
+                    var = int(json.loads(torzs).get("parameters", {}).get("retry_after", 2))
                 except Exception:
-                    var = 3
+                    var = 2
                 utolso = RuntimeError(f"HTTP 429: {torzs}")
-                time.sleep(min(var, 15))
+                time.sleep(min(var + 1, 20))
                 continue
-            raise RuntimeError(f"HTTP {e.code}: {torzs}") from None  # 4xx: újrapróbálás nem segít
+            raise RuntimeError(f"HTTP {e.code}: {torzs}") from None  # más 4xx: újrapróbálás nem segít
         except Exception as e:
             utolso = e
             time.sleep(2)
