@@ -1,5 +1,40 @@
 [
  {
+  "ido": 1795459380,
+  "forras": "MarketWatch",
+  "temak": [
+   "Trump",
+   "Nagy cégek"
+  ],
+  "cim": "Trump arra irányuló törekvése, hogy visszahelyezze Jensen Huangot, azt jelzi, hogy az Nvidia vezérigazgatója túl nagy ahhoz, hogy megbukjon.",
+  "link": "https://www.marketwatch.com/story/trumps-push-to-reinstate-jensen-huang-signals-nvidias-ceo-is-too-big-to-fail-10709210?mod=mw_rss_topstories",
+  "surgos": false,
+  "eredeti": "Trump’s push to reinstate Jensen Huang signals Nvidia’s CEO is too big to fail"
+ },
+ {
+  "ido": 1795459268,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Az Nvidia részvényárfolyamának emelkedése fellendítette a Nasdaq-100 indexet a globális részvénypiacok erőteljes eladásai után – Forbes Middle East",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFR4SktITGI0Wnk0b0t6ZFY5VWFZUm5kVk93VlR0Nkgxczd0TjRXajljczJGVHI4X0tFNDdmZmNGSkJNYnN2S2VveU5JRmoyODRkUmY2QnZ1LUtMYlFKdUx5bm9KVnZGWGJNQW55ZWgxcm50QlNiS2dXelZsM1BmT2U5MUNqSUJ6d2d3cHJXNy0zbW9XVFdGQ0JWblEzT0YwbDJ1WFkxYTQ5M2dCLVh3ZHduUUhIOUFtWFlnMVBvUUJYQlFlc0xNSU53?oc=5",
+  "surgos": false,
+  "eredeti": "Nvidia Rally Lifts Nasdaq-100 Following Sharp Global Stock Market Selloff - Forbes Middle East"
+ },
+ {
+  "ido": 1795459262,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Olcsó az Nvidia-részvény? – The Motley Fool",
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XVDlibDBqNDRZcHZkM1hfa3hYVFAxV3c2NXBITENkT2xsckVoanQ0NG1lTFpvaGVSLURPeENva1FVTVRrLV9wbW1xQmpsMFZpWFBmWXJjNXBVY1Z4SkJlSG9MTmZKcGQ2RjEwMjFQSjFNQQ?oc=5",
+  "surgos": false,
+  "eredeti": "Is Nvidia Stock Cheap? - The Motley Fool"
+ },
+ {
   "ido": 1795458869,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -873,39 +908,6 @@
   ],
   "cim": "This Is the Number That Could Change Nvidia Stock’s Outlook for 2027 - 24/7 Wall St.",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOEdwaDdvTnZQRktKcmMzWlJoQXA2LVltbzRnT2l5R1NLOEExeTRwOGs4VDNzd1l2S21QWkhhVHZ4cHNRNllBVEhDQ18tbzV4LVlrU0NaeGJWYTBYcl8tSWJ6MHVjeUpqVmR2bjZlVFo0Q1hwNVhfdFU1Qy1EdEhwMXA0ZDZ0RmdUUUNXX1VsNndjVFd5TjdOcXh0ZU8ya0ZfaW45b0JabVJ4Z2dVYXpKMjR2UQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795453380,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Nvidia, Dell, Micron, Anthropic, CrowdStrike, UnitedHealth, and More Stocks That Explain Today’s Market - Barron's",
-  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Gb1NJc213U3JRbHpTNS1TT2lENXJ5RFY4aGQ3TWl0ZWZGajJMNUNpRDcwSWFtTm81ZzZackhuQ3g4cG5qbi1sckItb08tSnFld0hHTW5NVXVGYzZzRXdxanhIUVg?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795453354,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Stocks Soar as Huang’s Nvidia Return Fuels AI Bets: Markets Wrap - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795453324,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "A Decade Later, Apple Remains Berkshire's Biggest Stock Bet - MacRumors",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFFMbTdHMVRNWXpnSjF5RjNOX1BHeWtjUHJ2azdsQjdoNExlS1lIZVN5bGtoUUhfRWJkbW1fRDVYWGhTcHRDcnlEaFZ2dVhKR3hkcnp4UHdnc3lFRFFEUzZyTElRb0x3RGYyckZYQ2lwelRXaTk5NHVYckUzOVVtWFVIT3htZHM?oc=5",
   "surgos": false,
   "eredeti": ""
  }
