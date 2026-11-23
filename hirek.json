@@ -1,5 +1,29 @@
 [
  {
+  "ido": 1795460508,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Forex",
+   "Tőzsde"
+  ],
+  "cim": "A Nasdaq hatalmas ugrást tett: a fellendülés kezdete vagy egy csapda? – FOREX.com",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNVRKN0NrRHNtMWVkTnpXTnZGaUl5TXdRTHVoNGhQMVc2alZ0TVFSVG5YZmJUUmUxN3d1Zk9HTHNSQWE3U3FxbEtWTXpqNTktS2xBOG1WMDU4M3o0SmpVdnRBMFR0YmFKTElNdUtOYk1hbV9MUHRucndTMktqQ1FIY2U5Ulk4VVo5Y2JXYWVIVDEyMEFMUjVLTGdfY1ZuaHR60gGsAUFVX3lxTE9mM2taX2NmdHBmblcyVmhBX1ZUdndITW9hQUFLLTlERDFwR1I1ZXN1eUFObTdvQXVtSExaN3dIVVJpaWpDRWh5eVNDX0NXUnNLN3FsY2xCM251T3pHU25rWTE2RmtEd18yQ1ZYN2ZyZEk1dl9pUjEtOHR4VGhTbEgyN1k0clJYdkJsaFlNSFFpTFo0LU5KWGdJUHlxalpVdG9VcnBwa0hzU05JdVI?oc=5",
+  "surgos": false,
+  "eredeti": "Nasdaq Makes Massive Leap: Beginning Bounce or Bull Trap? - FOREX.com"
+ },
+ {
+  "ido": 1795460468,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde",
+   "Jegybank/kamat"
+  ],
+  "cim": "A Citadel Securities szerint a 2018-as forgatókönyv további piaci nehézségekre figyelmeztet",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/citadel-securities-says-2018-playbook-warns-of-more-market-pain",
+  "surgos": false,
+  "eredeti": "Citadel Securities Says 2018 Playbook Warns of More Market Pain"
+ },
+ {
   "ido": 1795460291,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -9,6 +33,17 @@
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWdGbDdUcTZ1ZFU4QnBLY2N6czR0NDFtWkxBQ0VOa28wc0Nxbi1VY3YwRlotWTV3Mk5kWlhIcXRHN1RyQllKMWFwUUdNX0t1a3piMHZ3c0VOSk9jWVZGbXJVeTE3QU5PZFc4ak02ZzdETVFEMmJMNklJVDBFSG5yVVJsbUxDdWs1WTBJT052ZHdMb3czMjdCSnZKX0UwLVpQNjJ3ODlTa2tCM1RUWFBqZml3?oc=5",
   "surgos": false,
   "eredeti": ""
+ },
+ {
+  "ido": 1795460280,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Az Nvidia részvényárfolyamának emelkedése ráirányítja a figyelmet Huang befolyására és a vállalatirányításra – Proaktív pénzügyi hírek",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcTBSZUxoOUdpM25MRkdYLWVfeGFSQzZPUXgxS0FWbU9YSjI3T09PVE9acGtSQjlSQUN4ek1fRjVhclBIaEN0c1Fxd0p4U2FHakFMTEZObVphYmtjcWxuc1hUWTM4MGNnUkhTODQtbjNZUUxCcFFLU0huTTVWOTVjMEx4Mmwxc2IwUVp0MGtuUzVWNVZSTlBEMWp1cDhZUFhPbkd6cUpkYk5XRXVwSjROeE04dE1Ibjl3a1BBY2xhQU5SOGxROS1maXpRcjFaZEltQ20zSWtrNG56Ylo1?oc=5",
+  "surgos": false,
+  "eredeti": "Nvidia rally puts spotlight on Huang's influence and corporate governance - Proactive financial news"
  },
  {
   "ido": 1795460100,
@@ -21,6 +56,18 @@
   "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
   "surgos": false,
   "eredeti": ""
+ },
+ {
+  "ido": 1795460096,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Peterson: Íme, mit árul el Jensen Huanggal kapcsolatos hirtelen irányváltása Trumpról és Kínáról – CNBC",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVjZya0NLX2VRMFc5MFdsTUtRNEJGUmRrRDNreUxjWTlhc0oxbnNTVHo0TmJUWF8wdXhxa1QydDV4c3VvRVdtbEdvZzJDX0NhenZQZkxLSG85Qml3dE4xdkdlcXpmQVdfZEZ4ZjR4QzJNQ25DZzdZMUNVaVMzdjR0alFR0gGHAUFVX3lxTE9xT1NrT2Q2TVlKUTNpaFc5R3ZtdDdFMFlEQWFiLVVIbjF6N2ZxTnc0TDBnaGJBcEs0bTUzNDBFOEZzSWJpV082bllSSFltWHJSMlhjanFaZ3VEWERaR3YyUE9vbW00MFlfa3BMbHBKMFYzVnc5S0VNNnIwSmgzUnhmNFk2QUU4NA?oc=5",
+  "surgos": false,
+  "eredeti": "Peterson: Here’s what Bessent’s about face on Jensen Huang reveals about Trump and China - CNBC"
  },
  {
   "ido": 1795460063,
@@ -138,6 +185,17 @@
   "eredeti": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips"
  },
  {
+  "ido": 1795459499,
+  "forras": "CNN",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "„Nem bízunk abban, hogy Trump el fogja érni a békét” – mondta egy volt ukrán miniszter a tárgyalásokról – CNN",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTJFa0wzZWJyLThBYkZObzF6OWRZMzREMlYtUjA5TXFya1FFZU56cXlqX2ZCV1EtRXcwSGxTMmJDTTMyVWtMZDAxREVQYmtibEJkSnk5U0ZZWlo4OFRkdTZsMDRpU3lDYnhtV2Vod2tnTVVueHhGa1gzRkNNZ05WLTZ1eUp2dXQyanFiSV9NWQ?oc=5",
+  "surgos": false,
+  "eredeti": "‘We don’t trust Trump to deliver peace’: Former Ukrainian minister says on talks - CNN"
+ },
+ {
   "ido": 1795459390,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -173,6 +231,18 @@
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzZqbzFQNm5vdko2RElPY1ZxWnpqd3UwakVUS09GTENLaTRlRnluQXZESjZBYmFqZ0NTLUN3TWZnRHcyam51WjVSNDFOdVVYNHktSUQ2SnJTNEoxZkpaQWg2LUM3NkRlQ0MtRXNJVF9tRW1UQTBZMGxJXzZwd1Vtc2J6NERabU9SVGNFbWdoVzBPVDlkZ21pWFRTTjJxVDc3QnBUeGhUVGdKamdDeEoxekZ3?oc=5",
   "surgos": false,
   "eredeti": "Trump expects China to buy 250 more Boeing jets, but earlier deal remains unfinished - Air Data News"
+ },
+ {
+  "ido": 1795459368,
+  "forras": "Bloomberg Politika",
+  "temak": [
+   "Trump",
+   "Nagy cégek"
+  ],
+  "cim": "Huang visszatérését Trump példátlan beavatkozása előzte meg",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/huang-s-return-followed-unprecedented-intervention-by-trump",
+  "surgos": false,
+  "eredeti": "Huang’s Return Followed Unprecedented Intervention by Trump"
  },
  {
   "ido": 1795459308,
@@ -271,6 +341,17 @@
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSlB3RXVfeXI1TTlad3gyeV9qSkpHY3lfOUFFVXZ3dldYWkk0WFVZeWF2dVBqa3lSbkl5ci1KY0JvcUNHcHNaaGI5ckdzdk4zdldQbzhudVMxNnlvckhJT19WNFJiZnFUbUdBeUJ0djV0cHJyM1FtRVRBZXRGaXFQNUtaVXp5RlB3OVNuaXN3SGkzX1M2NXfSAZsBQVVfeXFMT29XZ19ucmZqVXY1T2NtcUctWC1RT1RUUEZ3d2NwRTR1TTNrYkJpU0ZqQTNCc1A5NW9hVTM4N212LVBPMThUdEJfYV81RnprY3lCZDR2amo2dkpDRjNCQ1FOdHczUHRGY0I5aFlnQVA2U3F6aURzY0lnLUdoM2hEQjVWRndqUk9CSUs5eDNkQkp2aGRFemRqOFRKaEk?oc=5",
   "surgos": true,
   "eredeti": "Stock market rebounds sharply after sell-off, Nvidia soars - ABC News - Breaking News, Latest News and Videos"
+ },
+ {
+  "ido": 1795458821,
+  "forras": "Bloomberg",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "A houstoni fedezeti alap, az Aspire két PJM-energiakereskedőt és -gázkereskedőt vesz fel",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/houston-hedge-fund-aspire-hires-two-pjm-power-gas-traders",
+  "surgos": false,
+  "eredeti": "Houston Hedge Fund Aspire Hires Two PJM Power, Gas Traders"
  },
  {
   "ido": 1795458664,
@@ -842,84 +923,6 @@
   ],
   "cim": "Trump signs Smucker's bill to add clarity to Social Security retirement terminology - LancasterOnline",
   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQWEVzRDRTS0VuTkFBT0xfTXFfbWRlenM2enZmV2pHQ0ZENWN1VHFpV0FpSFFZelN0ZTctNHlLMHQyeW1fY0gyVnhudjBGbEJJS1U4alJiRXNGbms2WmdjYXl6aFNGaVExc2VGUFJFNTNnU1l5czJOZllvWHRkXzJfMmFSS3Q1VVNSZTlPM2xvb0pMcnBCTE1ScExPZDdmWUR4amF5b3MtNEQtVFl3S1JVTFhqclRFcmNHeU1TblBvWGdHbmVHNmtCcl9vMlZRUHQ4WkNJRmxFcFY3M294cHFwbkdpVG9kX3g2T09rYjdHSW5kRkZoVWRoanVBbThfNld6Y3NrdA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795454775,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Hub Group stock may move 2.1% on upcoming earnings report By Investing.com - Investing.com India",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTU9Yb1owZVdZWE5DOFhvRi03UENRR2hVY2otT3l6NGZ4MGxRR2tqdG1SajhNQ1l0cUM5aEpKdlhHM0w4aDEyRmlnb0xKVHlBOUhSLWpJal9WLXpHSXl6OUhRZXlsa0NCWjEydlpzczllclVOQjVzZWxCTVpKam1aejdHWUVHMHVaTFFsVmlYdWctMlAzUGh1aDlJSlYycHo0a0ppcTFyYmVwM2pVMHB4emVkUUJlZ2s?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795454656,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Tesla Stock Booms: What's Going On? - Benzinga",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEN0Ylh6WWpQa3dSSnl3SVFqV1RhbUhLU3FKZGtMdjRRcmJkT0hfQXBxbmRSZWNGUExVa3Azcm8wd2o5WnNxcmpUVERnd0NrRkNfdERSZXppTUlJSldqSkUyek0xellxMUx0NG9fQndoLXRYaGtJTl9BMUEydV81elpHTnFhM05FWUlwa01qa01kRTBxR2VsaA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795454580,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Is the stock market open Thanksgiving, Black Friday? See market dates - Savannah Morning News",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbDdrUTFSczdtcmp3N21zcFBOdDJuU0E4NTJqYVdRWmRqZEtXby1OVTQyR05DZXRhNWFIYmNTU2s0Sk1nei10T1RmTDdtWUlaUG9FODJkOEI1dWZRVGxLWnc5NHItaG5NbkhlS0FjX19TaVl1dENhM1p5SUxCTmxTVFdUMDBnejFRWkFPV1lwQWFwMTVvRXpMTXBDeENCOFRQVDdGck1UTkdEbGY0di1RZkZJTVhHNXRwajRIVTYyNFV5cGxHdThPY19iT3I?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795454486,
-  "forras": "Bloomberg Politika",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "NATO to Send AWACS Plane to Poland After Russian Missiles Crash",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/nato-to-send-awacs-plane-to-poland-after-russian-missiles-crash",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795454460,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "‘Totally Involved’: WH Brags About Prez’s Role In Jensen Huang’s Return, As Trump Plays Coy About It - Mediaite",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNakxQd0h2UEN6T28zWG54NVI1M0VQS2EtQTIzNHpReDl4M0tvWG1POFo5eDlBYkdxQlJSbWVCQXlvYnh0dDh2aUVpa2FnM3N6aHFlcW9XdHhwZGlKVXIxZ1NTSjJvdUkxRDJYMlpxVGxiV0tUSnFMTU1BVnRTNVl1ampUcEs3VkNyY0pCN3BOTnVvS1ZfTmJ4ZDJXd24wZFBJMlE0VkJwZ3pHWFl2ZVdmUEtWSndqLUtvOXpNR1p3bXdfcVZYaE1QdzJFaw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795454400,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Stock market SURGES, Nvidia stock SKYROCKETS after Huang is reinstated as CEO - Modern Ghana",
-  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Kem9pLU5pc2FMdjlRcEVXZ2RtLTE0ZTM0Vno3ZTNBUktUcWJ1Y3ROeDdOSE1HYTFkT0JGZGZ0OTE4OFV1M2NHME1Ca0pNbjY4UVVObDA1XzEtTHRJeVpR0gFcQVVfeXFMTy03UzZhdzRtUWEwMGgxWEI2eF9lZV91Z3Z4alNsaE1BNkxBLUYyck1JR3h6VkdHbzlEU1FCbnZyd0NZaTB5UGRobkV6cDhma1FhbDdFQTRYaFVMQmc?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795454376,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Here's where we stand on AMD shares after Jensen Huang's return to Nvidia - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTN3YnRUa0JOZUxWXzhPTlUtZmkzU1NrSmZzamgtTHBYdFNOSHdyYy1nUlg3ZWU1U29jVjBXTVEwbjJKNVpCVl9VUDlzMzR5ZWxNLWhDYVBQOWdrOVljOUNBOEw1dnNHWG5ZVFVObEJzeFB0aF96ZGtyNzRTV3l3NTJwRWdFc1VMdlZKSFB5b2J4WlhXNy11dUtwTmFwZjBBTHdLaER0LVNZMzRiSUI4eFhZZFBjUXdydkZzRTlHaGw?oc=5",
   "surgos": false,
   "eredeti": ""
  }
