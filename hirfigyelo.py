@@ -57,12 +57,24 @@ ALAP = {
     # Nem sürgős hírekből legfeljebb ennyi óránként megy egyetlen összefoglaló (0 = azonnal, külön-külön).
     # Sürgős hír továbbra is azonnal jön. Ha nincs új hír, semmi sem megy.
     "osszefoglalo_ora": 2,
+    # Az a téma, amin "napi_osszefoglalo": true van (alapból a háborús), naponta legfeljebb EGY összefoglalót küld,
+    # ennyi órától (helyi idő) kezdve. Kivétel: ha a cím a "sulyos_szavak" valamelyikét tartalmazza,
+    # az azonnal, sürgősként megy ki.
+    "napi_ora": 18,
+    "sulyos_szavak": [
+        "ceasefire", "cease-fire", "truce", "peace deal", "peace agreement", "peace accord", "peace treaty",
+        "agreement", "agrees", "agreed", "nuclear strike", "nuclear attack", "invasion", "invades", "invaded",
+        "declares war", "declared war", "martial law", "mass casualties",
+        "tűzszünet*", "megállapod*", "békemegállapodás*", "békeszerződés*", "nukleáris támadás*",
+        "atomtámadás*", "invázió*", "hadüzenet*", "hadiállapot*",
+    ],
     # Telegram: NYILVÁNOS csatornák neve @ nélkül, például ["valamicsatorna", "masikcsatorna"].
     # Privát csoportot és csoportbeszélgetést nem tud olvasni.
     "telegram_csatornak": [],
     "temak": {
         "Trump – háború": {
             "aktiv": True,
+            "napi_osszefoglalo": True,
             "szavak": ["trump"],
             "es_szavak": [
                 "war", "military", "troops", "strike", "strikes", "attack", "invasion", "invade", "missile",
@@ -168,6 +180,8 @@ FEEDEK = {}
 TEMA_RE = {}
 SURGOS_RE = None
 KIZART_RE = None
+SULYOS_RE = None
+NAPI = set()
 NTFY_TOPIC = ""
 NTFY_SERVER = os.environ.get("NTFY_SERVER", "https://ntfy.sh")
 
@@ -204,7 +218,7 @@ def beallitasok_betolt():
 
 
 def inicializal(cfg):
-    global CFG, FEEDEK, TEMA_RE, SURGOS_RE, KIZART_RE, NTFY_TOPIC
+    global CFG, FEEDEK, TEMA_RE, SURGOS_RE, KIZART_RE, SULYOS_RE, NAPI, NTFY_TOPIC
     CFG = cfg
     NTFY_TOPIC = os.environ.get("NTFY_TOPIC") or cfg.get("ntfy_topic", "")
     FEEDEK = {}
@@ -229,6 +243,8 @@ def inicializal(cfg):
         es = kulcs_regex(t["es_szavak"]) if t.get("es_szavak") else None
         TEMA_RE[nev] = (kulcs_regex(t.get("szavak", [])), es)
     SURGOS_RE = kulcs_regex(cfg.get("surgos", []))
+    SULYOS_RE = kulcs_regex(cfg.get("sulyos_szavak", []))
+    NAPI = {nev for nev, t in cfg["temak"].items() if t.get("aktiv", True) and t.get("napi_osszefoglalo")}
     KIZART_RE = kulcs_regex(cfg.get("kizart", []))
 
 
@@ -312,6 +328,9 @@ def elemzes(cim, leiras):
     if KIZART_RE.search(t):
         return [], False
     temak = [nev for nev, (rx, es) in TEMA_RE.items() if rx.search(t) and (es is None or es.search(t))]
+    if any(n in NAPI for n in temak):
+        # napi összefoglalós téma: csak a tényleg súlyos hír (pl. megállapodás) sürgős
+        return temak, bool(SULYOS_RE.search(cim))
     return temak, bool(temak) and bool(SURGOS_RE.search(cim))
 
 
@@ -528,7 +547,9 @@ def egy_kor(kuldes=True):
     mult = [x for x in kall.get("kuldott", []) if most - x.get("ido", 0) < 48 * 3600]
     fuggo = [x for x in kall.get("fuggo", []) if most - x.get("ido", 0) < max_kor]
     utolso = float(kall.get("utolso_osszefoglalo", 0))
-    ismert = [x["t"] for x in mult] + [x["t"] for x in fuggo]
+    napi_fuggo = [x for x in kall.get("napi_fuggo", []) if most - x.get("ido", 0) < max(max_kor, 36 * 3600)]
+    utolso_nap = kall.get("utolso_napi", "")
+    ismert = [x["t"] for x in mult] + [x["t"] for x in fuggo] + [x["t"] for x in napi_fuggo]
     szurt = []
     for tet in uj:
         tk = tokenek(tet[4])
@@ -556,7 +577,7 @@ def egy_kor(kuldes=True):
         szurt = [((s_, i, n, t, fm.get(c, c), l), tk) for ((s_, i, n, t, c, l), tk) in szurt]
         lista_uj = [(s_, i, n, t, fm.get(c, c), l) for (s_, i, n, t, c, l) in lista_uj]
     # --- második szűrés a (lefordított) magyar címekkel: így a más nyelvű / más szavú azonos hír is kiesik ---
-    ismert_hu = [x["th"] for x in mult + fuggo if x.get("th")]
+    ismert_hu = [x["th"] for x in mult + fuggo + napi_fuggo if x.get("th")]
     tokenek_hu, szurt2 = {}, []
     for tet, tk in szurt:
         th = tokenek(tet[4])
@@ -576,7 +597,7 @@ def egy_kor(kuldes=True):
 
     surgosak = [x[0] for x in szurt if x[0][0]]
     for x in (x[0] for x in szurt if not x[0][0]):
-        fuggo.append(rekord(x))
+        (napi_fuggo if any(n in NAPI for n in x[3]) else fuggo).append(rekord(x))
 
     # összefoglaló: csak ha van függő hír, és telt el elég idő az előző óta
     kozte = float(CFG.get("osszefoglalo_ora", 2)) * 3600
@@ -586,17 +607,27 @@ def egy_kor(kuldes=True):
         osszefoglalo, fuggo = fuggo[:maxe], fuggo[maxe:]
         utolso = most
 
+    # napi összefoglaló (pl. háború): naponta egyszer, a megadott órától, ha van mit küldeni
+    napi_kuld = []
+    most_dt = datetime.now()
+    ma = most_dt.strftime("%Y-%m-%d")
+    if napi_fuggo and ma != utolso_nap and most_dt.hour >= int(CFG.get("napi_ora", 18)):
+        napi_fuggo.sort(key=lambda x: x["ido"], reverse=True)
+        napi_kuld, napi_fuggo = napi_fuggo[:15], []
+        utolso_nap = ma
+
     # --- ÁLLAPOT MENTÉSE AZ ÉRTESÍTÉS ELŐTT: így semmi sem mehet ki kétszer, még hiba/időtúllépés esetén sem ---
     if kuldes and not elso_futas:
         for x in surgosak:
             mult.append({"ido": most, "t": tokenek_cim.get(x[4], tokenek(x[4])),
                          "th": tokenek_hu.get(x[4], tokenek(x[4]))})
-        for x in osszefoglalo:
+        for x in osszefoglalo + napi_kuld:
             mult.append({"ido": most, "t": x["t"], "th": x.get("th", x["t"])})
     elif kuldes:
         fuggo, utolso = [], most
     if kuldes:
-        KULDOTT_FAJL.write_text(json.dumps({"kuldott": mult[-500:], "fuggo": fuggo, "utolso_osszefoglalo": utolso},
+        KULDOTT_FAJL.write_text(json.dumps({"kuldott": mult[-500:], "fuggo": fuggo, "utolso_osszefoglalo": utolso,
+                                            "napi_fuggo": napi_fuggo, "utolso_napi": utolso_nap},
                                            ensure_ascii=False), encoding="utf-8")
     ALLAPOT_FAJL.write_text(json.dumps(lattott[-10000:]))
     hirlista_ment(lista_uj, eredeti)
@@ -646,12 +677,17 @@ def egy_kor(kuldes=True):
                 biztonsagos(ertesit, f"Hírösszefoglaló ({len(osszefoglalo)} hír)",
                             "\n".join(f"• {o['cim']}" for o in osszefoglalo[:15]))
             kiment += len(osszefoglalo)
+            # napi összefoglaló (háború)
+            if napi_kuld:
+                biztonsagos(ertesit, f"Napi összefoglaló – {', '.join(sorted(NAPI))} ({len(napi_kuld)} hír)",
+                            "\n".join(f"• {o['cim']}" for o in napi_kuld), napi_kuld[0]["link"])
+            kiment += len(napi_kuld)
     else:
-        for x in surgosak + [(o["surgos"], o["ido"], o["forras"], o["temak"], o["cim"], o["link"]) for o in osszefoglalo]:
+        for x in surgosak + [(o["surgos"], o["ido"], o["forras"], o["temak"], o["cim"], o["link"]) for o in osszefoglalo + napi_kuld]:
             print(f"{'!!' if x[0] else '  '} [{'/'.join(x[3])}] {x[2]}: {x[4]}  {x[5]}")
             kiment += 1
 
-    print(f"Kész: {kiment} értesítés, {len(fuggo)} vár összefoglalóra" + (" (első futás, alapállapot mentve)" if elso_futas else ""))
+    print(f"Kész: {kiment} értesítés, {len(fuggo)} vár összefoglalóra, {len(napi_fuggo)} vár a napi összefoglalóra" + (" (első futás, alapállapot mentve)" if elso_futas else ""))
     return kiment
 
 
