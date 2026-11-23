@@ -171,7 +171,31 @@
         "bux",
         "gyorsjelentés*",
         "csőd*",
-        "felvásárl*"
+        "felvásárl*",
+        "earnings report",
+        "quarterly results",
+        "quarterly earnings",
+        "earnings beat",
+        "earnings miss",
+        "beats estimates",
+        "misses estimates",
+        "raises guidance",
+        "cuts guidance",
+        "raises forecast",
+        "cuts forecast",
+        "stock futures",
+        "s&p",
+        "nasdaq composite",
+        "russell 2000",
+        "vix",
+        "magnificent seven",
+        "stocks fall",
+        "stocks rise",
+        "stocks jump",
+        "negyedéves*",
+        "eredményjelentés*",
+        "nasdaq*",
+        "s&p*"
       ]
     },
     "Jegybank/kamat": {
@@ -218,6 +242,91 @@
         "olajár*",
         "aranyár*"
       ]
+    },
+    "Nagy cégek": {
+      "aktiv": true,
+      "szavak": [
+        "nvidia",
+        "apple",
+        "microsoft",
+        "alphabet",
+        "google",
+        "amazon",
+        "meta",
+        "facebook",
+        "tesla",
+        "broadcom",
+        "tsmc",
+        "amd",
+        "intel",
+        "netflix",
+        "oracle",
+        "palantir",
+        "openai",
+        "jpmorgan",
+        "goldman sachs",
+        "berkshire",
+        "walmart",
+        "visa",
+        "mastercard",
+        "boeing",
+        "exxon",
+        "eli lilly",
+        "pfizer",
+        "samsung",
+        "asml",
+        "arm holdings",
+        "micron",
+        "mol",
+        "otp",
+        "richter",
+        "magyar telekom",
+        "4ig"
+      ],
+      "es_szavak": [
+        "earnings",
+        "results",
+        "quarter",
+        "quarterly",
+        "guidance",
+        "forecast",
+        "outlook",
+        "revenue",
+        "profit",
+        "shares",
+        "stock",
+        "stocks",
+        "buyback",
+        "dividend",
+        "acquisition",
+        "acquires",
+        "merger",
+        "lawsuit",
+        "antitrust",
+        "fine",
+        "fined",
+        "layoffs",
+        "recall",
+        "export",
+        "chip",
+        "chips",
+        "downgrade",
+        "upgrade",
+        "price target",
+        "market value",
+        "trillion",
+        "investigation",
+        "probe",
+        "negyedéves*",
+        "eredmény*",
+        "bevétel*",
+        "nyereség*",
+        "árfolyam*",
+        "osztalék*",
+        "részvény*",
+        "gyorsjelentés*",
+        "vásárl*"
+      ]
     }
   },
   "surgos": [
@@ -256,7 +365,19 @@
     "rekord*",
     "háború*",
     "támadás*",
-    "azonnali"
+    "azonnali",
+    "beats estimates",
+    "misses estimates",
+    "profit warning",
+    "cuts guidance",
+    "raises guidance",
+    "earnings beat",
+    "earnings miss",
+    "stock split",
+    "downgrade",
+    "bankruptcy",
+    "layoffs",
+    "recall"
   ],
   "kizart": [
     "horoscope",
@@ -346,6 +467,29 @@
     "Yahoo Finance": {
       "aktiv": true,
       "url": "https://finance.yahoo.com/news/rssindex"
+    },
+    "Nagy cégek (Google News)": {
+      "aktiv": true,
+      "gnews": "(Nvidia OR Apple OR Microsoft OR Alphabet OR Amazon OR Meta OR Tesla OR Broadcom OR TSMC OR AMD) (earnings OR results OR guidance OR shares OR stock)"
+    },
+    "Nagy cégek 2 (Google News)": {
+      "aktiv": true,
+      "gnews": "(Netflix OR Oracle OR Palantir OR OpenAI OR JPMorgan OR Berkshire OR Walmart OR Boeing OR Intel OR Micron OR ASML) (earnings OR results OR guidance OR shares OR stock)"
+    },
+    "Negyedéves jelentések (Google News)": {
+      "aktiv": true,
+      "gnews": "(\"quarterly results\" OR \"earnings report\" OR \"beats estimates\" OR \"misses estimates\" OR \"raises guidance\" OR \"cuts guidance\")"
+    },
+    "S&P 500 / Nasdaq (Google News)": {
+      "aktiv": true,
+      "gnews": "(\"S&P 500\" OR Nasdaq OR \"Dow Jones\") (record OR futures OR close OR selloff OR rally)"
+    },
+    "Magyar cégek (Google News)": {
+      "aktiv": true,
+      "gnews": "MOL OR OTP OR Richter OR \"Magyar Telekom\" gyorsjelentés OR eredmény OR osztalék OR árfolyam",
+      "nyelv": "hu-HU",
+      "orszag": "HU"
     }
-  }
+  },
+  "osszefoglalo_ora": 2
 }
