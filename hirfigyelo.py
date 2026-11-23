@@ -773,6 +773,9 @@ def main():
         telegram_chat_id_kiir()
         return
     if a.test:
+        print(f"Csatornák: ntfy={'BE' if NTFY_AKTIV else 'KI (nincs/alap ntfy_topic)'}, "
+              f"Telegram={'BE' if (TG_TOKEN and TG_CHAT) else 'KI'} "
+              f"(token {'van' if TG_TOKEN else 'HIÁNYZIK'}, chat_id {'van' if TG_CHAT else 'HIÁNYZIK'})")
         ertesit("Teszt a hírfigyelőtől", "Ha ezt látod, működik az értesítés.")
         print("Tesztértesítés elküldve.")
         return
