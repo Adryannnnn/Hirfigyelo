@@ -1,5 +1,29 @@
 [
  {
+  "ido": 1795454460,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "‘Totally Involved’: WH Brags About Prez’s Role In Jensen Huang’s Return, As Trump Plays Coy About It - Mediaite",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNakxQd0h2UEN6T28zWG54NVI1M0VQS2EtQTIzNHpReDl4M0tvWG1POFo5eDlBYkdxQlJSbWVCQXlvYnh0dDh2aUVpa2FnM3N6aHFlcW9XdHhwZGlKVXIxZ1NTSjJvdUkxRDJYMlpxVGxiV0tUSnFMTU1BVnRTNVl1ampUcEs3VkNyY0pCN3BOTnVvS1ZfTmJ4ZDJXd24wZFBJMlE0VkJwZ3pHWFl2ZVdmUEtWSndqLUtvOXpNR1p3bXdfcVZYaE1QdzJFaw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795454161,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Trump signals 250 more Boeing jet sales to China; firm orders remain unclear (BA:NYSE) - Seeking Alpha",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbm0zNV9wSC0yeTBIUngySS1BeUtYV2NDOHNEeHFWOTQ0eHBnVVdvYW9NNzl4YmtNZ0JCZTJxWkxvOEtPVU1uSzhidlNlOUhGdGpDN0Q4LVp4bFBjQTZUQ09xNGg3MDBFN25qRHpVU2p6RzVmLWR4QV9ZSlVZREF3RVgycUI2TFoxZkh3ZjhmNlJRbHAyckNHM0dsUEppTGRRN2xtc01sTzhfcVF3RWxCajNHbw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795453830,
   "forras": "Wall Street Journal",
   "temak": [
@@ -7,6 +31,31 @@
   ],
   "cim": "Japan’s Economy Contracts Amid Inflation Squeeze - WSJ",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnNPaXBmZFY0ZFJKNkNqcTNfdXgwNVV2U19YRzZRQTFtbXVNX3ZJRmR0NnlOaTZsZFJ4aGFwOTRaUU9YUHl3NkJhUE9fOUY2LUtUdU5Xdld2OExGMFhfbXQ1M09FWmt0STVDd2NaN1Btb1Q4dlVra0pCQWRqd1lTbnVuSXZMMlNqek0wdW9ZVVJjemxpT1hz?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795453800,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump",
+   "Kripto"
+  ],
+  "cim": "Trump Invokes China at Meme Coin Dinner to Justify His Crypto Involvement - CryptoPotato",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWhzUlcwMURYdDE3STNfQTBsZGJRczJ5Qm1HRk5mclQ3SWsxLUNfbGZuUGp3b0poRlhpNEs5dG9aTi1WNmRfWVVxdFpzTlgxRWpFcm53bFNwenRuTFdFZHRIdDhQVzE3NXU1aUtJRXdaZVMxWlBFRS04bGVXbmRlSTNBN09LRGlQLU9KOVVyVlBJR2I2ZGVXZ29xUUItRkhG?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795453740,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "'Who isn't in contact?' Trump astonishes with shrug at China spy report - Raw Story",
+  "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9CNjZ0SGhray1aQ3pxVnM4YXExTUtMTzVYdkxldVM1VUNsUEZiVzJrcGpoY3h0c213NlpJZ0VQdWtIZ1lM0gFXQVVfeXFMUFFPdmZRblNrbWdGMzlCOG9LZ3ZYaHlOYTc0ZnJkTTA5bWFMTGRrT2k1bXFnRndnQThJZEtWWlFHUTd3ZjZiUEpiYVVJdDdQcXI4SnQ4ZmJr?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -29,6 +78,17 @@
   ],
   "cim": "Nvidia Rehires Huang in Stunning Comeback",
   "link": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-rehires-huang-in-stunning-comeback",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795452837,
+  "forras": "CNBC",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+  "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
   "surgos": false,
   "eredeti": ""
  },
@@ -124,6 +184,18 @@
   "eredeti": "The return of Jensen Huang has saved the U.S. stock market — for now. Why the rebound may not last."
  },
  {
+  "ido": 1795452190,
+  "forras": "Trump (magyarul)",
+  "temak": [
+   "Forex",
+   "Tőzsde"
+  ],
+  "cim": "Az amerikai részvények árfolyama megugrott, miután az Nvidia visszahelyezte Jensen Huangot vezérigazgatónak. - Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcXdGcFNrUElEdXpvbzFaTTExZHhCSFhELWVkalFPWXdwdlVlN2hrMmRtcUYweDY4U0U1Nnk1REsxQ19vcm04RWJMcVJTbXVQR3ItaUZrWWRRLUItTkVaczRsY2ZjUHFCZUQtNEJPUWhuQjhNZjRTQW1WTE14blpYa1MtY3FLSVZ0RUQ3OW1HSzBnYlg0d0VrN2lEVWM0aGtLMFE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795451949,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -207,6 +279,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795451172,
+  "forras": "Reuters",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "EU Commission proposes ban on Russian athletes, ex-fighters in new Russia sanctions package - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1A2RHl1RS1IaFcyWmlES0xYNW1lbnM5VlhwWVU5ajZhRVVBa0Mydi1OZG4tS0tCYVJKX1JiOUtmWlNTZVJmTGRTRlFtZTRXRTRxcXB1aGMya2JhWm41UXE5Y2pxTlFDNzVSQ2MyV0RPZzNoYlZtazdMX3RYRnB6VFFsaEFnTGI5RFk4TnczUE9aTXFqcGNxZ0psd1JUczRBNi1LSkpnVk8?oc=5",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
   "ido": 1795451125,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -239,6 +322,18 @@
   "link": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "surgos": false,
   "eredeti": "Cross River Bank enters Bitcoin-backed lending with $250K loans"
+ },
+ {
+  "ido": 1795450534,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Elizabeth Warren denounces Nvidia’s ‘reckless decision’ to reinstate Huang, while Trump takes credit for the move - The Boston Globe",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1lzdFRPYVZ0dFQxeXVfSDRXWl9VQjFJb1p4ZUg1MVhOeVlHOWpCRGVmdHNwcW9xQ1o1Sld4T3VHUFY5MkdQNlJTRFhfUTlNQjFuZUhWWVNMNDlHYVFHLW0wNTBiLXdVVEhnZ0NOTDdiS0ZPZk5vajVPNGZUc1owSmVjc1kzblozSF9hWFlfWjFDYlptclNhaQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
  },
  {
   "ido": 1795450509,
@@ -331,6 +426,29 @@
   ],
   "cim": "Rubrik stock may move 11% on Nov. 30 earnings release",
   "link": "https://www.investing.com/news/stock-market-news/rubrik-stock-may-move-11-on-nov-30-earnings-release-93CH-5046127",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795450023,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump Says Jensen Huang Could Have Moved to China - Political Wire",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSWFNWmZwOVRnS2p0cXZ4c0JHZHAtc3F2MkVWZzdaeU9vemMxcFVGemwtcE8ycHhacVJ0SHpaNHlMdGxZZEU0SWFPTGVNQXhPNXJrZ0cyY0oydzlnQVBOZHZwVkpWdEVDS1lmY1lDLTlCVEZQeFVTdTZ2ZEN6MXdqN2swS2xSamdwRHJGNGJZX2M?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795449969,
+  "forras": "Reuters",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Trump tells CNBC he was represented at Nvidia board, spoke to Huang - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa3pYc1MzQXZDVUNIbmZKWjQxRXBNeWtHRlllMWc2TWVNSkJuU2dIUS1MQkxseVVRam11MERTY1JucUxKNGhjdUlyQml3WFpucGljS2I5dnNDY05jd3NmeG85bkdZNmplNzltOC1waVFJaUdvWEYxNDVncmFKWXNGUTJBQmFDWW1pT2VOS3VFLWQwR0VwVS1ST1F2Y1VlVkJ4NG9xaDRrRnZIbWM?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -543,6 +661,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795448545,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Trump: \"Huang Jensen's Return Was the Right Decision... No Evidence of Illegal Activity\" - 아시아경제",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hdlFVV0ZjMmdEOTJRNGtFRUxkbTRoWFdrclJNWHQwSkRxN1NDVzhzR3ZkT256WHZpRS1qUm1ycC1UQ2JIeHBHR1pyUmtHc3Z4eERhc0R4Tk5NSXN4TWktY3FWLWM?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795448537,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -645,6 +775,17 @@
   ],
   "cim": "Nvidia: kilőttek a részvények Jensen Huang visszatérésének hírére - 24.hu",
   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhZHctWlZHUW81WFIyNXJoZmo2X3dxLUFQU1ZYRDZUb2pxcG12VTNxV1gtTDNsXzdYMWl6dU1pQ1lDRUMzR3dlcGRLYzVBOVRNUnVTSVZjWHpsa2J0MC1hVmJHam10Vm1XR2lDandHR2V1Zm1KQjRrMHVmVQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795447847,
+  "forras": "Trump (magyarul)",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "Újabb szankciókat jelentett be Moszkva ellen Ursula von der Leyen: sorra kerültek a kriptohálózatok és a sportszövetségek is - | hvg.hu",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV0g2TDZuXzFTSDU1YUt6MmxUdjJ0VUJRUE1GSGJjX1dtY0ZqSU9ZYVFoLXpnaFhsVk80VjBXZWdhRk1xSXNRSEpZRnVrR0lMc3lIZ2xMUWh3ajl6U2o4aU1JTlpud3hERE13aTc1N2o2NGh5Nk1zV21wcUpqRXhtenlsTmFMRDZialQw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -788,141 +929,5 @@
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWk01bk9iRUpaaEhTQ1RKTXVXdEQyblBoSjRFb1FBZjBjbzJZdi03REh0RHpKTnFBSnQzRGdoMXNSLWMyVEtQaDBjN2dMVS1zR2otTXhPRzVQeWJaRmZiaXZ6R1dkcUFFSGRYTTRMSWtsWGhEQmhrUmgyaGgtZWRjbjQ5MUl2T3ZuSEhFUDVOY2pNbHRaWG5KMmJydmk3UmZib3djVnV4QXlEcnh2ZUE?oc=5",
   "surgos": false,
   "eredeti": "AI rally set to add $2 trillion to Nasdaq-100 as Huang returns to Nvidia helm - Reuters"
- },
- {
-  "ido": 1795446359,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Nasdaq soars nearly 7% as Huang’s return to Nvidia reignites AI trade",
-  "link": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795446305,
-  "forras": "Wall Street Journal",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Treasury Yields Fall, German Bunds’ Tick Higher - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795446275,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Union Pacific, Norfolk Southern CEOs discuss merger benefits",
-  "link": "https://www.investing.com/news/company-news/union-pacific-norfolk-southern-ceos-discuss-merger-benefits-93CH-5046041",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795446267,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Donald Trump praises decision to bring back Jensen Huang as Nvidia boss - Sky News",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYThLWkpjRVhURllKLUQxVm9QQnc1cE9LWkpzeWYzOE9TamFMS1l5U2s5LTJmUGROTS04LWc5Zi1uNjhHMmRtUzBtTjAzWWxKZFNKazc3aloySXBZQ2cybHlwZ2dabWwxeUZzY2FFT2QycnRBanI4eWVIbnY3cDFpd0o2QUhpN0FFVHZFaF9ad09uOFNTaVdSRGc1dUdXTDFQZGthbHVEQlJiNU0?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795446152,
-  "forras": "CoinDesk",
-  "temak": [
-   "Trump",
-   "Kripto",
-   "Tőzsde"
-  ],
-  "cim": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
-  "link": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795446120,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Forex"
-  ],
-  "cim": "Tisza-kormány: Magyar Péter Kárpátaljára látogat, fontos döntések jönnek a héten",
-  "link": "https://www.portfolio.hu/gazdasag/20261123/tisza-kormany-magyar-peter-karpataljara-latogat-fontos-dontesek-jonnek-a-heten-878368",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795446066,
-  "forras": "Wall Street Journal",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Print Edition | Wall Street Journal - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTTkRGYzd3dFoxX2pOYlVwU056dTdTelI3WldBbjJFRDkyWF9pN3JkMFBHdFZQOWNDSXhqVkRKZ18wd281aDN6alpkYks1bDdBY3FySGg2OWdLc3cyV1p3ZTBB?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795446000,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump’s Iran gamble and unfulfilled promises: A final move by the CIA and Mossad? - Washington Examiner",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZUJmUXVZRmZrM2xJSEc4VjZSMzA0TjBOTHJHWThEODA2aTVhNWo2aVJQdU1ZRTdlSjhkZVdiT3d6d08wYTVvYS01WWpqSjJYSm1nZUpqcnFpWktkSjB5MzRteGdiaGFncm9JdkJQVzVsMVRVNGdGaFZsSHhGTmpwSF81bWZnekxwU3RkcG1ZZElCdk5tSmc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795445903,
-  "forras": "Reuters",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Nvidia reinstates Jensen Huang as CEO amid pressure from President Trump, investors - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795445640,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Elszabadult a bika a tőzsdéken, zsákolják a befektetők a tech-papírokat!",
-  "link": "https://www.portfolio.hu/uzlet/20261123/elszabadult-a-bika-a-tozsdeken-zsakoljak-a-befektetok-a-tech-papirokat-878356",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795445550,
-  "forras": "Wall Street Journal",
-  "temak": [
-   "Jegybank/kamat"
-  ],
-  "cim": "U.K. Inflation Rises as Energy Costs Keep Pressure on Bank of England - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdkZKRW1BZDJ1X2RCT1hOVGN4SFN5NzBneU1VZFc2SEdEdnJJZTBlVGJzTDVoc1ltMWp1T2lCZHJtSGNOVEVnMzl4VlFKU0ZSVXp1M2pUejVlVTh6RHJZSGhodFhSQmNYeDRHZjlyLWNpX0xmcVJSaURYU2g4Y2FqbEg0RFJfakRsX3FWWUdwVmQza25vdTA0LTVmME4yVmEwUThRU0dZY1JOc2x6Z0VjbU1GSmF2OGhmc0FBT0lB?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795445479,
-  "forras": "Trump (magyarul)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Donald Trump és a befektetők nyomására az Nvidia rehabilitálta Jensen Huangot - Qubit",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE93M19hbTgzQXJqengxeUFEUGlDRWNSb0Rvc2pfdjZJcnVSbTZaalp5TEMyNm5YNHhZclNGSThURXdMcUFzcl9tRFl0WWYxeFktbFpJUUNwVF9UQldsUnE5dDdCbDNkMjhlUGFSRGdvOHdGU1JFdHJ6QVhwMDhLRzJhTDVRUFVGM1NjeDVzRmIxUDlSREhhaVBpWU9tMzRMb3ZNOWI5VXg?oc=5",
-  "surgos": false,
-  "eredeti": ""
  }
 ]
