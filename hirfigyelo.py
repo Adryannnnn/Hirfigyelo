@@ -23,6 +23,7 @@ import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -30,6 +31,7 @@ from pathlib import Path
 MAPPA = Path(__file__).resolve().parent
 BEALLITAS_FAJL = Path(os.environ.get("HIRFIGYELO_BEALLITASOK", MAPPA / "beallitasok.json"))
 ALLAPOT_FAJL = Path(os.environ.get("HIRFIGYELO_ALLAPOT", MAPPA / "lattott.json"))
+KULDOTT_FAJL = Path(os.environ.get("HIRFIGYELO_KULDOTT", MAPPA / "kuldott.json"))
 HIREK_JSON = Path(os.environ.get("HIRFIGYELO_HIREK", MAPPA / "hirek.json"))
 HIREK_HTML = HIREK_JSON.with_suffix(".html")
 UA = {"User-Agent": "Mozilla/5.0 (hirfigyelo/3.0)"}
@@ -49,6 +51,9 @@ ALAP = {
     # Kikapcsolás: "fordit": "" . A már magyar címeket nem fordítja.
     "fordit": "hu",
     "max_fordit": 60,
+    # Nem sürgős hírekből legfeljebb ennyi óránként megy egyetlen összefoglaló (0 = azonnal, külön-külön).
+    # Sürgős hír továbbra is azonnal jön. Ha nincs új hír, semmi sem megy.
+    "osszefoglalo_ora": 2,
     # Telegram: NYILVÁNOS csatornák neve @ nélkül, például ["valamicsatorna", "masikcsatorna"].
     # Privát csoportot és csoportbeszélgetést nem tud olvasni.
     "telegram_csatornak": [],
@@ -313,6 +318,34 @@ def cim_kulcs(cim):
     return "t" + hashlib.sha1(re.sub(r"\W+", "", c).encode("utf-8")).hexdigest()[:14]
 
 
+STOP = set("the a an of to in on for and or at by with as is are was were be from that this it its after over "
+           "new says say said will would could may amid vs into than more has have had not but".split())
+
+
+def tokenek(cim):
+    """A cím lényegi szavai: így az ugyanarról szóló, de másként megfogalmazott hírt felismerjük."""
+    c = re.sub(r"\s+[-–|]\s+[^-–|]{2,40}$", "", cim.lower())
+    return sorted({w for w in re.findall(r"\w+", c) if len(w) > 2 and w not in STOP})
+
+
+def hasonlo(a, b):
+    a, b = set(a), set(b)
+    if len(a) < 3 or len(b) < 3:
+        return False
+    k = len(a & b)
+    return k / len(a | b) >= 0.5 or (min(len(a), len(b)) >= 4 and k / min(len(a), len(b)) >= 0.75)
+
+
+def feed_letolt(elem):
+    nev, url = elem
+    try:
+        if url.startswith("tg:"):
+            return nev, telegram_elemek(letolt("https://t.me/s/" + url[3:]).decode("utf-8", "replace"), url[3:]), None
+        return nev, feed_elemek(letolt(url)), None
+    except Exception as e:
+        return nev, [], e
+
+
 def link_kulcs(link):
     return "l" + hashlib.sha1(link.encode("utf-8")).hexdigest()[:14]
 
@@ -387,6 +420,7 @@ def hirlista_ment(uj_tetelek, eredeti=None):
 
 
 def egy_kor(kuldes=True):
+    t0 = time.time()
     lattott = json_betolt(ALLAPOT_FAJL, None)
     elso_futas = lattott is None
     lattott = lattott or []
@@ -395,14 +429,13 @@ def egy_kor(kuldes=True):
     max_kor = float(CFG.get("max_kor_ora", 24)) * 3600
     uj, lista_uj = [], []
 
-    for nev, url in FEEDEK.items():
-        try:
-            if url.startswith("tg:"):
-                elemek = telegram_elemek(letolt("https://t.me/s/" + url[3:]).decode("utf-8", "replace"), url[3:])
-            else:
-                elemek = feed_elemek(letolt(url))
-        except Exception as e:
-            print(f"[!] {nev}: nem sikerült ({e.__class__.__name__}: {e})", file=sys.stderr)
+    # a hírforrásokat egyszerre kérdezi le, így a futás gyors marad
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        eredmenyek = list(ex.map(feed_letolt, FEEDEK.items()))
+
+    for nev, elemek, hiba in eredmenyek:
+        if hiba:
+            print(f"[!] {nev}: nem sikerült ({hiba.__class__.__name__}: {hiba})", file=sys.stderr)
             continue
         for cim, link, leiras, ido in elemek:
             kulcsok = [cim_kulcs(cim)] + ([link_kulcs(link)] if link else [])
@@ -425,47 +458,111 @@ def egy_kor(kuldes=True):
     lista_uj.sort(key=lambda x: x[1], reverse=True)
     maxe = int(CFG.get("max_ertesites", 8))
 
-    # fordítás magyarra (először az értesítésre szánt hírek, utána a lista többi tagja)
+    # --- ugyanarról a történetről ne jöjjön több értesítés (más forrás, más cím) ---
+    kall = json_betolt(KULDOTT_FAJL, {})
+    if not isinstance(kall, dict):
+        kall = {}
+    mult = [x for x in kall.get("kuldott", []) if most - x.get("ido", 0) < 48 * 3600]
+    fuggo = [x for x in kall.get("fuggo", []) if most - x.get("ido", 0) < max_kor]
+    utolso = float(kall.get("utolso_osszefoglalo", 0))
+    ismert = [x["t"] for x in mult] + [x["t"] for x in fuggo]
+    szurt = []
+    for tet in uj:
+        tk = tokenek(tet[4])
+        if any(hasonlo(tk, m) for m in ismert):
+            continue
+        ismert.append(tk)
+        szurt.append((tet, tk))
+
+    # --- fordítás magyarra (először az értesítésre szánt hírek, utána a lista többi tagja) ---
     eredeti = {}
     cel = CFG.get("fordit", "")
     if cel:
         fm, keret = {}, int(CFG.get("max_fordit", 60))
-        for tet in uj + lista_uj:
+        for tet in [x[0] for x in szurt] + lista_uj:
             c = tet[4]
-            if c in fm or len(fm) >= keret:
+            if c in fm or len(fm) >= keret or time.time() - t0 > 120:
                 continue
             fm[c] = c if MAGYAR_RE.search(c) else forditas(c, cel)
         for orig, mag in fm.items():
             if mag != orig:
                 eredeti[mag] = orig
-        uj = [(s, i, n, t, fm.get(c, c), l) for (s, i, n, t, c, l) in uj]
-        lista_uj = [(s, i, n, t, fm.get(c, c), l) for (s, i, n, t, c, l) in lista_uj]
+        szurt = [((s_, i, n, t, fm.get(c, c), l), tk) for ((s_, i, n, t, c, l), tk) in szurt]
+        lista_uj = [(s_, i, n, t, fm.get(c, c), l) for (s_, i, n, t, c, l) in lista_uj]
+    tokenek_cim = {x[0][4]: x[1] for x in szurt}
+
+    def rekord(x):
+        s_, i, n, t, c, l = x
+        return {"ido": i, "forras": n, "temak": t, "cim": c, "link": l, "surgos": s_,
+                "eredeti": eredeti.get(c, ""), "t": tokenek_cim.get(c, tokenek(c))}
+
+    surgosak = [x[0] for x in szurt if x[0][0]]
+    for x in (x[0] for x in szurt if not x[0][0]):
+        fuggo.append(rekord(x))
+
+    # összefoglaló: csak ha van függő hír, és telt el elég idő az előző óta
+    kozte = float(CFG.get("osszefoglalo_ora", 2)) * 3600
+    osszefoglalo = []
+    if fuggo and (most - utolso >= kozte):
+        fuggo.sort(key=lambda x: x["ido"], reverse=True)
+        osszefoglalo, fuggo = fuggo[:maxe], fuggo[maxe:]
+        utolso = most
+
+    # --- ÁLLAPOT MENTÉSE AZ ÉRTESÍTÉS ELŐTT: így semmi sem mehet ki kétszer, még hiba/időtúllépés esetén sem ---
+    if kuldes and not elso_futas:
+        for x in surgosak:
+            mult.append({"ido": most, "t": tokenek_cim.get(x[4], tokenek(x[4]))})
+        for x in osszefoglalo:
+            mult.append({"ido": most, "t": x["t"]})
+    elif kuldes:
+        fuggo, utolso = [], most
+    if kuldes:
+        KULDOTT_FAJL.write_text(json.dumps({"kuldott": mult[-500:], "fuggo": fuggo, "utolso_osszefoglalo": utolso},
+                                           ensure_ascii=False), encoding="utf-8")
+    ALLAPOT_FAJL.write_text(json.dumps(lattott[-10000:]))
+    hirlista_ment(lista_uj, eredeti)
 
     def kuld_egyet(x):
         surgos, _, nev, temak, cim, link = x
         uzenet = cim + (f"\n{eredeti[cim]}" if cim in eredeti else "")
         ertesit(f"{'🔴 ' if surgos else ''}{' · '.join(temak[:2])} | {nev}", uzenet, link, surgos)
 
+    def biztonsagos(fv, *args):
+        try:
+            fv(*args)
+        except Exception as e:
+            print(f"[!] értesítés nem ment ki ({e.__class__.__name__}: {e})", file=sys.stderr)
+
+    kiment = 0
     if kuldes:
         if elso_futas:
-            ertesit("Hírfigyelő elindult", "Innentől csak az új, fontos híreket küldöm.")
-        elif len(uj) > maxe:
-            for x in uj[:maxe - 1]:
-                kuld_egyet(x)
-            maradek = uj[maxe - 1:]
-            ertesit(f"+{len(maradek)} további fontos hír", "\n".join("• " + x[4] for x in maradek[:15]))
+            biztonsagos(ertesit, "Hírfigyelő elindult", "Innentől csak az új, fontos híreket küldöm.")
         else:
-            for x in uj:
-                kuld_egyet(x)
+            # sürgős hírek azonnal
+            if len(surgosak) > maxe:
+                for x in surgosak[:maxe - 1]:
+                    biztonsagos(kuld_egyet, x)
+                maradek = surgosak[maxe - 1:]
+                biztonsagos(ertesit, f"+{len(maradek)} további sürgős hír", "\n".join("• " + x[4] for x in maradek[:15]))
+            else:
+                for x in surgosak:
+                    biztonsagos(kuld_egyet, x)
+            kiment += len(surgosak)
+            # nem sürgős hírek: egyetlen összefoglaló
+            if len(osszefoglalo) == 1:
+                o = osszefoglalo[0]
+                biztonsagos(kuld_egyet, (o["surgos"], o["ido"], o["forras"], o["temak"], o["cim"], o["link"]))
+            elif osszefoglalo:
+                biztonsagos(ertesit, f"Hírösszefoglaló ({len(osszefoglalo)} hír)",
+                            "\n".join(f"• {o['cim']}" for o in osszefoglalo[:15]))
+            kiment += len(osszefoglalo)
     else:
-        for surgos, _, nev, temak, cim, link in uj:
-            print(f"{'!!' if surgos else '  '} [{'/'.join(temak)}] {nev}: {cim}  {link}")
+        for x in surgosak + [(o["surgos"], o["ido"], o["forras"], o["temak"], o["cim"], o["link"]) for o in osszefoglalo]:
+            print(f"{'!!' if x[0] else '  '} [{'/'.join(x[3])}] {x[2]}: {x[4]}  {x[5]}")
+            kiment += 1
 
-    json_ment = json.dumps(lattott[-6000:])
-    ALLAPOT_FAJL.write_text(json_ment)
-    hirlista_ment(lista_uj, eredeti)
-    print(f"Kész: {len(uj)} új fontos hír" + (" (első futás, alapállapot mentve)" if elso_futas else ""))
-    return len(uj)
+    print(f"Kész: {kiment} értesítés, {len(fuggo)} vár összefoglalóra" + (" (első futás, alapállapot mentve)" if elso_futas else ""))
+    return kiment
 
 
 def main():
