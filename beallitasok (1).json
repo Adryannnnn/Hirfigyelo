@@ -1,0 +1,351 @@
+{
+  "_megjegyzes": "Szerkeszthető beállítások. Témát/szót/forrást törölhetsz vagy hozzáadhatsz. Egy téma vagy forrás kikapcsolása: 'aktiv': false. Szó végi * = bármilyen ragozás.",
+  "ntfy_topic": "CSERELD-LE-egyedi-nev-123",
+  "percek": 10,
+  "max_ertesites": 8,
+  "max_kor_ora": 24,
+  "max_hir_a_listaban": 80,
+  "fordit": "hu",
+  "max_fordit": 100,
+  "telegram_csatornak": [],
+  "temak": {
+    "Trump – háború": {
+      "aktiv": true,
+      "szavak": [
+        "trump"
+      ],
+      "es_szavak": [
+        "war",
+        "military",
+        "troops",
+        "strike",
+        "strikes",
+        "attack",
+        "invasion",
+        "invade",
+        "missile",
+        "nuclear",
+        "ceasefire",
+        "peace deal",
+        "peace talks",
+        "pentagon",
+        "nato",
+        "iran",
+        "israel",
+        "gaza",
+        "russia",
+        "ukraine",
+        "putin",
+        "zelensky",
+        "china",
+        "taiwan",
+        "north korea",
+        "háború*",
+        "katon*",
+        "támadás*",
+        "rakéta*",
+        "tűzszünet*",
+        "béketárgyalás*",
+        "orosz*",
+        "ukrán*"
+      ]
+    },
+    "Trump – döntések": {
+      "aktiv": true,
+      "szavak": [
+        "trump"
+      ],
+      "es_szavak": [
+        "executive order",
+        "signs",
+        "signed",
+        "orders",
+        "decision",
+        "decides",
+        "announces",
+        "announced",
+        "veto",
+        "pardon",
+        "sanctions",
+        "ban",
+        "bans",
+        "tariff",
+        "tariffs",
+        "nominates",
+        "nominee",
+        "fires",
+        "appoints",
+        "plan",
+        "deal",
+        "bill",
+        "döntés*",
+        "rendelet*",
+        "bejelent*",
+        "aláír*",
+        "vám*",
+        "szankció*",
+        "kinevez*",
+        "elnöki"
+      ]
+    },
+    "Trump": {
+      "aktiv": true,
+      "szavak": [
+        "trump",
+        "white house",
+        "fehér ház"
+      ]
+    },
+    "Kripto": {
+      "aktiv": true,
+      "szavak": [
+        "bitcoin",
+        "btc",
+        "ethereum",
+        "ether",
+        "crypto",
+        "cryptocurrency",
+        "kripto*",
+        "stablecoin",
+        "tether",
+        "solana",
+        "xrp",
+        "binance",
+        "coinbase",
+        "spot etf",
+        "bitcoin etf",
+        "crypto etf",
+        "halving",
+        "crypto regulation",
+        "crypto hack",
+        "exchange hack",
+        "strategic bitcoin reserve",
+        "microstrategy"
+      ]
+    },
+    "Forex": {
+      "aktiv": true,
+      "szavak": [
+        "forex",
+        "fx market",
+        "eur/usd",
+        "usd/jpy",
+        "gbp/usd",
+        "usd/chf",
+        "eur/huf",
+        "usd/huf",
+        "dollar index",
+        "dxy",
+        "us dollar",
+        "yen",
+        "sterling",
+        "currency",
+        "currencies",
+        "forint*",
+        "deviza*",
+        "árfolyam*"
+      ]
+    },
+    "Tőzsde": {
+      "aktiv": true,
+      "szavak": [
+        "stock market",
+        "wall street",
+        "s&p 500",
+        "nasdaq",
+        "dow jones",
+        "sell-off",
+        "selloff",
+        "rally",
+        "crash",
+        "bond yield",
+        "treasury yield",
+        "earnings",
+        "bankruptcy",
+        "merger",
+        "acquisition",
+        "ipo",
+        "profit warning",
+        "tőzsde*",
+        "részvény*",
+        "bux",
+        "gyorsjelentés*",
+        "csőd*",
+        "felvásárl*"
+      ]
+    },
+    "Jegybank/kamat": {
+      "aktiv": true,
+      "szavak": [
+        "federal reserve",
+        "the fed",
+        "fomc",
+        "ecb",
+        "bank of england",
+        "bank of japan",
+        "rate cut",
+        "rate hike",
+        "interest rate",
+        "inflation",
+        "cpi",
+        "powell",
+        "lagarde",
+        "mnb",
+        "kamat*",
+        "infláció*",
+        "jegybank*"
+      ]
+    },
+    "Világgazdaság": {
+      "aktiv": true,
+      "szavak": [
+        "gdp",
+        "jobs report",
+        "nonfarm",
+        "unemployment",
+        "recession",
+        "tariff",
+        "trade war",
+        "sanctions",
+        "opec",
+        "oil price",
+        "crude",
+        "gold price",
+        "commodities",
+        "recesszi*",
+        "vám*",
+        "munkanélküliség*",
+        "olajár*",
+        "aranyár*"
+      ]
+    }
+  },
+  "surgos": [
+    "breaking",
+    "just in",
+    "urgent",
+    "plunge",
+    "surge",
+    "soar",
+    "tumble",
+    "crash",
+    "record high",
+    "all-time high",
+    "emergency",
+    "halts",
+    "default",
+    "collapse",
+    "hack",
+    "rate cut",
+    "rate hike",
+    "tariff",
+    "sanction",
+    "ban",
+    "approves",
+    "war",
+    "attack",
+    "strike",
+    "invasion",
+    "missile",
+    "nuclear",
+    "ceasefire",
+    "executive order",
+    "veto",
+    "zuhan*",
+    "szárnyal*",
+    "rekord*",
+    "háború*",
+    "támadás*",
+    "azonnali"
+  ],
+  "kizart": [
+    "horoscope",
+    "celebrity",
+    "recipe",
+    "sweepstakes",
+    "sponsored",
+    "giveaway",
+    "price prediction",
+    "top 5 coins"
+  ],
+  "forrasok": {
+    "Reuters": {
+      "aktiv": true,
+      "gnews": "site:reuters.com (markets OR stocks OR economy OR bitcoin OR crypto OR forex OR Trump)"
+    },
+    "Wall Street Journal": {
+      "aktiv": true,
+      "gnews": "site:wsj.com (markets OR stocks OR economy OR bitcoin OR crypto OR dollar OR Trump)"
+    },
+    "CNN": {
+      "aktiv": true,
+      "gnews": "site:cnn.com (markets OR business OR economy OR stocks OR bitcoin OR crypto OR Trump OR war)"
+    },
+    "Bloomberg": {
+      "aktiv": true,
+      "url": "https://feeds.bloomberg.com/markets/news.rss"
+    },
+    "Bloomberg Politika": {
+      "aktiv": true,
+      "url": "https://feeds.bloomberg.com/politics/news.rss"
+    },
+    "Investing.com": {
+      "aktiv": true,
+      "url": "https://www.investing.com/rss/news.rss"
+    },
+    "Investing.com Forex": {
+      "aktiv": true,
+      "url": "https://www.investing.com/rss/news_1.rss"
+    },
+    "Investing.com Kripto": {
+      "aktiv": true,
+      "url": "https://www.investing.com/rss/news_301.rss"
+    },
+    "Portfolio.hu": {
+      "aktiv": true,
+      "url": "https://www.portfolio.hu/rss/all.xml"
+    },
+    "CoinDesk": {
+      "aktiv": true,
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+    },
+    "Cointelegraph": {
+      "aktiv": true,
+      "url": "https://cointelegraph.com/rss"
+    },
+    "Trump – háború (Google News)": {
+      "aktiv": true,
+      "gnews": "Trump (war OR strike OR military OR troops OR Iran OR Russia OR Ukraine OR Israel OR Gaza OR China OR Taiwan OR NATO OR ceasefire)"
+    },
+    "Trump – döntések (Google News)": {
+      "aktiv": true,
+      "gnews": "Trump (\"executive order\" OR signs OR decision OR announces OR veto OR pardon OR sanctions OR tariff)"
+    },
+    "Trump (magyarul)": {
+      "aktiv": true,
+      "gnews": "Trump háború OR döntés OR vám OR rendelet",
+      "nyelv": "hu-HU",
+      "orszag": "HU"
+    },
+    "BBC World": {
+      "aktiv": true,
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+    },
+    "BBC Business": {
+      "aktiv": true,
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+    },
+    "CNBC": {
+      "aktiv": true,
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"
+    },
+    "MarketWatch": {
+      "aktiv": true,
+      "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"
+    },
+    "Yahoo Finance": {
+      "aktiv": true,
+      "url": "https://finance.yahoo.com/news/rssindex"
+    }
+  }
+}
