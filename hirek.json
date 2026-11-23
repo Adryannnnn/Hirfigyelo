@@ -1,5 +1,49 @@
 [
  {
+  "ido": 1795452240,
+  "forras": "MarketWatch",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Jensen Huang visszatérése megmentette az amerikai tőzsdét – egyelőre. Miért nem tarthat a visszapattanás.",
+  "link": "https://www.marketwatch.com/story/the-return-of-jensen-huang-has-saved-the-u-s-stock-market-for-now-why-the-rebound-may-not-last-f72656ce?mod=mw_rss_topstories",
+  "surgos": false,
+  "eredeti": "The return of Jensen Huang has saved the U.S. stock market — for now. Why the rebound may not last."
+ },
+ {
+  "ido": 1795451943,
+  "forras": "CoinDesk",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "A Cathie Wood-féle ARK Invest lehúzza a dugót két tervezett kripto-ETF-ről",
+  "link": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
+  "surgos": false,
+  "eredeti": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs"
+ },
+ {
+  "ido": 1795451811,
+  "forras": "Bloomberg",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "A CFTC előrejelzési piaci szabálya a Fehér Ház felülvizsgálata alatt",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/prediction-market-rule-from-cftc-under-white-house-review",
+  "surgos": false,
+  "eredeti": "Prediction Market Rule from CFTC Under White House Review"
+ },
+ {
+  "ido": 1795451020,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Az UBS, a Barclays 1,2 milliárd eurós adósságba ragadt, amikor az Irca felbomlik",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/ubs-barclays-stuck-with-1-2-billion-debt-as-irca-deal-unravels",
+  "surgos": false,
+  "eredeti": "UBS, Barclays Stuck With €1.2 Billion Debt as Irca Deal Unravels"
+ },
+ {
   "ido": 1795451017,
   "forras": "Cointelegraph",
   "temak": [
@@ -883,51 +927,6 @@
   ],
   "cim": "Fordulat az Nvidiánál: visszatér Jensen Huang, széttépik a részvényt",
   "link": "https://www.portfolio.hu/uzlet/20261123/fordulat-az-nvidianal-visszater-jensen-huang-szettepik-a-reszvenyt-878516",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795442831,
-  "forras": "Trump (magyarul)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Érkezik a Trump-osztály: nukleáris meghajtású csatahajókat kap az amerikai haditengerészet - Neokohn",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdnJiV2VWNmllRGV0c1p4cFNYMnRKU3dvRC1pS084NVZDeWttUWpZQWlELUlnWi1aamUwcWEtVlgwMWRWem5wMzhRcmttNXhTMDV0cUVvOVpCbThHVUVtQWdfWkZXcmg4b2pCNjRYUEkzN0dfWGppXzVhcnNBNFdUaUpqMjZNQVZwV2p5dnNUQTNNQkJqdVQ5a2J0bXBNczQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795442820,
-  "forras": "MarketWatch",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Nvidia stock soars as Jensen Huang returns as CEO",
-  "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795442796,
-  "forras": "Cointelegraph",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "Here’s what happened in crypto today",
-  "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795442777,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Nvidia board reinstates Huang as CEO, Trump hails 'correct' decision - France 24",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWtCSVk3VGxlWEV4ZnZsbE83a3J6akRzbWJYanUyLUROWFgtbFdraU9IRjBlaGV6aldKSWl4Yl9QWmQtNjNYZ3N4SkNGeHhFVlZIemlqRXZnZzdxbFY1UGYwNjk0d1Y5MUZLeHFXV2RuVjR1N1lPN18wODJkS3Z0eG91dTlmRUc3QnhxNW5IbkRTNUtaZTVVTkp1MmxHWnJiNXdIS2F3R091UWs0eWNTbTg1TWI?oc=5",
   "surgos": false,
   "eredeti": ""
  }
