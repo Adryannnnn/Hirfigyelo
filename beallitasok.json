@@ -11,6 +11,7 @@
   "temak": {
     "Trump – háború": {
       "aktiv": true,
+      "napi_osszefoglalo": true,
       "szavak": [
         "trump"
       ],
@@ -492,5 +493,36 @@
     }
   },
   "osszefoglalo_ora": 2,
-  "eredeti_stilus": "dolt"
+  "eredeti_stilus": "dolt",
+  "napi_ora": 18,
+  "sulyos_szavak": [
+    "ceasefire",
+    "cease-fire",
+    "truce",
+    "peace deal",
+    "peace agreement",
+    "peace accord",
+    "peace treaty",
+    "agreement",
+    "agrees",
+    "agreed",
+    "nuclear strike",
+    "nuclear attack",
+    "invasion",
+    "invades",
+    "invaded",
+    "declares war",
+    "declared war",
+    "martial law",
+    "mass casualties",
+    "tűzszünet*",
+    "megállapod*",
+    "békemegállapodás*",
+    "békeszerződés*",
+    "nukleáris támadás*",
+    "atomtámadás*",
+    "invázió*",
+    "hadüzenet*",
+    "hadiállapot*"
+  ]
 }
