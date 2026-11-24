@@ -1,5 +1,61 @@
 [
  {
+  "ido": 1795517931,
+  "forras": "CoinDesk",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "Az Egyesült Államok 1,1 milliárd dollárt akar lefoglalni a Binance feltörése során, miközben az észak-koreai pénzeszközök folyamatosan mozognak",
+  "link": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
+  "surgos": false,
+  "eredeti": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving"
+ },
+ {
+  "ido": 1795517730,
+  "forras": "CoinDesk",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "A BTCS eladja étere több mint felét, hogy visszafizesse az Aave 43,8 millió dolláros adósságát",
+  "link": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
+  "surgos": false,
+  "eredeti": "BTCS sells more than half its ether to repay $43.8 million in Aave debt"
+ },
+ {
+  "ido": 1795517483,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Trump",
+   "Nagy cégek"
+  ],
+  "cim": "„Pszichotikusan görbe”: Trump egyetlen nap alatt 15 millió dollárt keresett az Nvidia részvényein – Közös álmok",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sMnZlVGROVTJxbHIzcm9UZ1hkcWdVTElpMTVsam13cmhraTQzOS04Y1FqZWhkUVlra2VyeUlsNWVjZmhfOEVrZDZhS256VHpKMzNFWkJuSC1pUDlNc193SEdfT2J0TkJ1eVhWWQ?oc=5",
+  "surgos": false,
+  "eredeti": "'Psychotically Crooked': Trump Made Up to $15 Million on Nvidia Shares in a Single Day - Common Dreams"
+ },
+ {
+  "ido": 1795517467,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Egyes elemzők szerint az Nvidia vezérigazgatójának visszaállítása nem csak a részvények növekedését, hanem a Fed-kamatláb növekedésének valószínűségét is növeli - Credit Union Daily",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUlJSSHczQzFYWXRsRFUxS0R1dmJVV1hTV3ZESk1ONU9Sb2VWYzh0SFlJOVNEUXkySzZVSFdSWFUzZ29vMVRrNU1EVmJuVHFMeC01UjZBdXpGTHozX0ZFb1RNMTFsaTdaUndGUENuV3ROeG9NZTYwVktJVUs1WW9FdDVTR0ZvTzJxVkpQbU1HelBaZVBNckx2bllibENaR2wtbUluYUY3WEptSndjemFacWx5Z2pGNFk3eDRxZ3E4N1pxekVZZnp0SE1EaXlFMEk?oc=5",
+  "surgos": false,
+  "eredeti": "Reinstatement of Nvidia CEO Doesn't Just Boost Stock, But Also Likelihood of Fed Rate Increase, Say Some Analysts - Credit Union Daily"
+ },
+ {
+  "ido": 1795517400,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az Nvidia történelmi tőzsdei emelkedése azt mutatta, hogy Washington egyre agresszívebb a piacok visszaállításával kapcsolatban – Business Insider",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFJlNWZmZ0VpdkJFV0FaZHI3eWRzTWVwcHMtdEpBaDBwNjRMbFN5NEE0UERpMUZYYk85VElLRmh1dWNZRDE0MlFQSUZpRVVjXzN6aVNWNmNMb2FBLXNNcFJqa282X1Q1YTFwYUZURG1obG83ekZNNzlvaU9TWEVjYmg3YmZ1X1lYUUMyVjhYbkdiUGNrSDB2MVpHZTZMSUdoSnBoQnNFdXkteVRyeHc?oc=5",
+  "surgos": false,
+  "eredeti": "Nvidia's historic stock surge showed Washington is getting more aggressive about backstopping markets - Business Insider"
+ },
+ {
   "ido": 1795516880,
   "forras": "Bloomberg Politika",
   "temak": [
@@ -47,6 +103,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795516440,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Huckabee szerint Trump a diplomáciát részesíti előnyben Iránnal, de kész ismét katonai erőt alkalmazni, ha Teherán elutasítja a feltételeket - i24NEWS",
+  "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZDZPSllPSUl5UUNqWXdaWGt0LWppM1RBMTdFZ1lIQncyZzRQd2tyaWRwODhDWWRDaU5LYTRZVEZvZWtnWDVQWENoY1U3bC12TTR3QkhIdi1BdlgxZlNjdURuS3IzQTFFSGc3a2Q0Z3lBaVpfVE14SjJIZ0xnVGRKQVdJTlo0YXZINWRuTXNJclFfaVFNZ29KSnFCMmV1aEhCLW1RZXRFYkJQeXJQdDVjUm1LSU1md0hUaUg2STlKNVU5eElBQjhGWHd2bWhLeFpQaXphWmh1ZDQtOW1pVzR0Uk1yNnJ4WTdIb1RTQVFLaExCcDV5QWQxTGVwUk9kaFBR?oc=5",
+  "surgos": false,
+  "eredeti": "Huckabee says Trump prefers diplomacy with Iran but is ready to use military force again if Tehran rejects terms - i24NEWS"
+ },
+ {
   "ido": 1795516380,
   "forras": "Nagy cégek 2 (Google News)",
   "temak": [
@@ -82,6 +150,18 @@
   "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
   "surgos": false,
   "eredeti": "South Korea regulator backs bank-controlled stablecoins after months of dispute"
+ },
+ {
+  "ido": 1795516020,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Trump",
+   "Nagy cégek"
+  ],
+  "cim": "Trump \"15 millió dollárt nyert Huang visszatéréséből\" az Nvidia tőzsdei kereskedési vizsgálatára irányuló felszólítások közepette - The Independent",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM19nRmoxcndIOU9iekt0Tkk1V0w2YXZWV09zZ1FxNHd5MU01WDZCN0tEVWgxeFg3UWNSMTgtQ2VBUHVQcVJxMEtCQzdpSnJkVS1nVXVaLVBEam1pZUUxRWg2MDB4RDBmSHFfSXR5ZzNFZ2NfU24tSUNEZmpyS08wTVRZRlF5eVp5Y3Q5blNfczZQOVE?oc=5",
+  "surgos": false,
+  "eredeti": "Trump ‘gained $15m from Huang’s return’ amid calls for Nvidia stock trade probe - The Independent"
  },
  {
   "ido": 1795515861,
@@ -302,6 +382,17 @@
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPelZmYVNXUzR2QUFvUUd3NFV2am9VZG41YmJ2dE9CSEV3a2lvN05ZV2VNaXJqeGt2bU1BOHktbVo2RkstbjNuMnhGUUFQQzBFWTRKZ05XTG04eGlXb18xdGZTeDBuTERUSWVsZlZ3eVA4V1RwdUJpbkEzR0VrOE5LUUtwQ1FpQm1IZGpuejlIQ3BVSFE?oc=5",
   "surgos": false,
   "eredeti": "Trump to Meet with NATO Secretary General Rutte in Florida — Reuters - UA.NEWS"
+ },
+ {
+  "ido": 1795513766,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A Kingsoft Cloud bevételei 0,20 jennel meghaladták a becsült bevételt",
+  "link": "https://www.investing.com/news/earnings/kingsoft-cloud-earnings-beat-by-020-revenue-topped-estimates-5047564",
+  "surgos": false,
+  "eredeti": "Kingsoft Cloud earnings beat by ¥0.20, revenue topped estimates"
  },
  {
   "ido": 1795513680,
@@ -819,98 +910,6 @@
   ],
   "cim": "Megszavazta a Tisza vagyonadóját a parlament - De most jönnek csak az igazi izgalmak",
   "link": "https://www.portfolio.hu/gazdasag/20261124/megszavazta-a-tisza-vagyonadojat-a-parlament-de-most-jonnek-csak-az-igazi-izgalmak-878626",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795510800,
-  "forras": "Bloomberg",
-  "temak": [
-   "Trump – döntések",
-   "Trump",
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Odd Lots: Mit jelent Huang visszatérése az MI-kereskedelem számára (podcast)",
-  "link": "https://www.bloomberg.com/news/audio/2026-11-24/odd-lots-what-huang-s-return-means-for-the-ai-trade-podcast",
-  "surgos": false,
-  "eredeti": "Odd Lots: What Huang’s Return Means for the AI Trade (Podcast)"
- },
- {
-  "ido": 1795510800,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Van egy új játékszabály a tőzsdéken, Donald Trumpnak hívják",
-  "link": "https://www.portfolio.hu/befektetes/20261124/van-egy-uj-jatekszabaly-a-tozsdeken-donald-trumpnak-hivjak-878660",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795510717,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Jensen Huang visszatérése az Nvidia élére az részvények árának emelkedését eredményezte – AMWatch",
-  "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKVGQtNTdYQTVvNXVxNVZyXy1OMVRPdWdxcmV5aW9jVXVVU1ZtcUZsbU1vOVRhZjNzbV9VWjVIdGJwQ3Iwd2FlU3pFaXZua3RpZl94aHNHMWxjVkZCaWIyQVZMcExPdDhaWmNrcE1NUQ?oc=5",
-  "surgos": false,
-  "eredeti": "Jensen Huang's return to Nvidia sends shares soaring - AMWatch"
- },
- {
-  "ido": 1795510434,
-  "forras": "Wall Street Journal",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A Nasdaq az évben veszteséges lett – WSJ",
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RaUhWLVdDQi05aHVLU1hiMkdFRnIyYmNObm9fNV93R3Z5ZEt1b0QzTHdUSmVJOWZaNGlheDdnckJWNWNKcW5zNkMtOUJHWmg3Q1hNUkFyTUwxSFNlMUVacV95dGllbkM1MlUxV2FlUVl3YmRMdXpjdWxWemV1Zw?oc=5",
-  "surgos": false,
-  "eredeti": "Nasdaq Turns Red For The Year - WSJ"
- },
- {
-  "ido": 1795510380,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Világgazdaság"
-  ],
-  "cim": "Elfogadták a visszaküldött törvényt: a NAV külön vizsgálja a politikusok vagyonosodását",
-  "link": "https://www.portfolio.hu/gazdasag/20261124/elfogadtak-a-visszakuldott-torvenyt-a-nav-kulon-vizsgalja-a-politikusok-vagyonosodasat-878662",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795510203,
-  "forras": "Trump (magyarul)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Donald Trump felgyorsítaná a kivégzéseket, új utasítást adott ki - ORIGO",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONXFxU0tqY3picWxZU09aSHA5aVFBTW93N0Q2UWVhRjhieTcxdTFTdXBYaHBCYlltTnpqZmVhWkRUSWt2b3ZYSE8tMXJtQnFrQ1BmLWFsTWVoRVBZaE5NZkhyWWlaOVBLRXgzTXU2Qk4taHk2ZHNSSnROX1U4c0pSZGJ2UDV0ZzdTcFE1dE1aZHZPWjg?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795510201,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Bevételhívási átirat: Az SBB erősebb működési nyereséget könyvel el 2026 harmadik negyedévében",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-sbb-posts-stronger-q3-2026-operating-gains-93CH-5047453",
-  "surgos": false,
-  "eredeti": "Earnings call transcript: SBB posts stronger Q3 2026 operating gains"
- },
- {
-  "ido": 1795510200,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Váratlan fordulat a kulisszák mögött: Trump veje még az elnökkel is szembement Ukrajna miatt",
-  "link": "https://www.portfolio.hu/global/20261124/varatlan-fordulat-a-kulisszak-mogott-trump-veje-meg-az-elnokkel-is-szembement-ukrajna-miatt-878672",
   "surgos": false,
   "eredeti": ""
  }
