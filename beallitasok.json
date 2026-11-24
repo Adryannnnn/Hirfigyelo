@@ -9,8 +9,8 @@
   "max_ertesites": 8,
   "max_kor_ora": 24,
   "max_hir_a_listaban": 80,
-  "fordit": "hu",
-  "max_fordit": 100,
+  "fordit": "",
+  "max_fordit": 150,
   "telegram_csatornak": [],
   "temak": {
     "Trump – háború": {
@@ -497,7 +497,7 @@
       "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"
     },
     "Yahoo Finance": {
-      "aktiv": true,
+      "aktiv": false,
       "url": "https://finance.yahoo.com/news/rssindex"
     },
     "Nagy cégek (Google News)": {
@@ -560,6 +560,17 @@
   "csendes_ig": 7,
   "reggeli_ora": 7,
   "surgos_szunet_perc": 0,
+  "ikonok": {
+    "Trump – háború": "🪖",
+    "Trump – döntések": "🏛️",
+    "Trump": "🇺🇸",
+    "Kripto": "₿",
+    "Forex": "💱",
+    "Tőzsde": "📈",
+    "Jegybank/kamat": "🏦",
+    "Világgazdaság": "🌍",
+    "Nagy cégek": "🏢"
+  },
   "reggeli_arfolyamok": {
     "Nvidia": "NVDA",
     "Apple": "AAPL",
