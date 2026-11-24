@@ -20,6 +20,10 @@ on:
           - teszt
           - mindenki
         default: teszt
+      naptar:
+        description: "A mai piros mappás EUR/USD naptárat azonnal elküldi a TESZT-címzettnek (a híreket nem ellenőrzi)"
+        type: boolean
+        default: false
       diag:
         description: "Telegram-diagnózis is (csak ha a tesztelés közben a Telegram nem válaszol; terheli a botot)"
         type: boolean
@@ -67,6 +71,11 @@ jobs:
             python3 hirfigyelo.py --kozlemeny "$KOZLEMENY" --teszt-cimzett
           fi
 
+      - name: Naptár (teszt)
+        if: github.event.inputs.naptar == 'true'
+        timeout-minutes: 2
+        run: python3 hirfigyelo.py --naptar --teszt-cimzett
+
       - name: Telegram diagnózis
         if: github.event.inputs.diag == 'true'
         continue-on-error: true
@@ -79,7 +88,7 @@ jobs:
           curl -sS -m 20 -o /dev/null -w "curl getMe: HTTP %{http_code}, %{time_total} mp\n" -A "Mozilla/5.0" "${API%/}/bot${TELEGRAM_BOT_TOKEN}/getMe" || echo "curl hiba"
 
       - name: Hírek ellenőrzése
-        if: github.event.inputs.teszt != 'true' && github.event.inputs.kozlemeny == ''
+        if: github.event.inputs.teszt != 'true' && github.event.inputs.kozlemeny == '' && github.event.inputs.naptar != 'true'
         timeout-minutes: 4
         run: python3 hirfigyelo.py
 
