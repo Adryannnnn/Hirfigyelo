@@ -697,6 +697,19 @@ def telegram_kuld(cim, uzenet, link=None, surgos=False, html_uzenet=None):
     raise utolso
 
 
+def teszt_cimzettre_valt():
+    """Teszt/próba módban csak a külön teszt-címzett kap üzenetet (TELEGRAM_TEST_CHAT_ID, NTFY_TEST_TOPIC),
+    a felhasználók semmit sem látnak. Ha nincs teszt-címzett beállítva, inkább nem küld semmit."""
+    global NTFY_TOPIC, NTFY_AKTIV, TG_CHAT
+    nt = os.environ.get("NTFY_TEST_TOPIC", "").strip()
+    tc = os.environ.get("TELEGRAM_TEST_CHAT_ID", "").strip()
+    NTFY_TOPIC, NTFY_AKTIV = nt, bool(nt)
+    TG_CHAT = tc
+    if not (NTFY_AKTIV or (TG_TOKEN and TG_CHAT)):
+        sys.exit("Nincs teszt-címzett beállítva (TELEGRAM_TEST_CHAT_ID és/vagy NTFY_TEST_TOPIC secret), "
+                 "ezért nem küldök semmit: így a felhasználók nem kapnak felesleges üzenetet.")
+
+
 def telegram_diagnozis():
     """Megmutatja, hogy innen (pl. GitHub szerver) elérhető-e a Telegram, és melyik úton."""
     print("Telegram diagnózis" + ("" if "api.telegram.org" in TG_API else " (közvetítőn át)"))
@@ -1055,6 +1068,8 @@ def main():
     ap.add_argument("--loop", action="store_true", help="folyamatos figyelés")
     ap.add_argument("--test", action="store_true", help="tesztértesítés küldése")
     ap.add_argument("--szaraz", action="store_true", help="csak kiírja a híreket, nem küld értesítést")
+    ap.add_argument("--kozlemeny", metavar="SZOVEG", help="a megadott közleményt kiküldi a felhasználóknak (a híreket nem ellenőrzi)")
+    ap.add_argument("--teszt-cimzett", action="store_true", help="a közlemény/teszt csak a teszt-címzettnek megy")
     ap.add_argument("--telegram-id", action="store_true", help="kiírja a Telegram chat azonosítódat (a botnak írt üzenetből)")
     ap.add_argument("--telegram-diag", action="store_true", help="Telegram-elérés diagnosztika")
     ap.add_argument("--beallitasok-letrehoz", action="store_true", help="kiírja az alap beallitasok.json fájlt")
@@ -1072,7 +1087,17 @@ def main():
     if a.telegram_id:
         telegram_chat_id_kiir()
         return
+    if a.kozlemeny is not None:
+        szov = a.kozlemeny.strip()
+        if not szov:
+            sys.exit("Üres közlemény, nem küldök semmit.")
+        if a.teszt_cimzett:
+            teszt_cimzettre_valt()
+        ertesit("📢 Közlemény" + (" (előnézet)" if a.teszt_cimzett else ""), szov)
+        print("Közlemény elküldve" + (" (csak a teszt-címzettnek)." if a.teszt_cimzett else " a felhasználóknak."))
+        return
     if a.test:
+        teszt_cimzettre_valt()  # a teszt sosem megy a felhasználóknak
         print(f"Csatornák: ntfy={'BE' if NTFY_AKTIV else 'KI (nincs/alap ntfy_topic)'}, "
               f"Telegram={'BE' if (TG_TOKEN and TG_CHAT) else 'KI'}"
               f"{' (közvetítőn át)' if 'api.telegram.org' not in TG_API else ''} "
