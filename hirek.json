@@ -1,5 +1,61 @@
 [
  {
+  "ido": 1795544748,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "JP Morgan Chase & (JPM): JPMorgan notes tied to Nasdaq-100 futures index, maturing 2032 - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTGdGUmhPeVNWanZlblVGM2VPbHN5VFRTNlJyblhNcmNGTngzTFRrUy1EUWg2bkxSYkxickFjOVJLdEpQTUVoeU1hNDl6V2pyYUVWYjN0eEViUnFxeEstTlM4ei01cUEwWkhxWGNEM09sUlNuRl9ZNWRQTlk1ODVleVJGS0hYbnd2TlBR?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795544424,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Nvidia stock slides as Jensen Huang return sparks national security debate - Fox Business",
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tRUszVlVxMGdKN2pOMGJMUV9EZy1IZV90eFNnclZ0OWQ1bnJSQWdOOE1haThaR2xITWU1cFVLX1dxZ3d0QnppdldORjJpNnhMSnZIYzR4UGRaZkE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795544340,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Megjelentek az első információk a Sajtóalapról: megmentenék a bajba jutott vidéki médiumokat",
+  "link": "https://www.portfolio.hu/gazdasag/20261124/megjelentek-az-elso-informaciok-a-sajtoalaprol-megmentenek-a-bajba-jutott-videki-mediumokat-878852",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795544220,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "President Trump to pardon two turkeys at White House ceremony - CBS News",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLVBxV2FCczczdTU4eG1sdTdWZ0xPa2FsM1BFOWlrTnpyMTBySUVBYmNxdDJIeUtTTXB1S3RSclNBaFllTjdmRVdMTGhZMUlHOVdBdGtlYWY4U1p1QUZFNkZQS3ZoYjBYRGt5VDAtRFBxTHNoaERqYUVqVV95Zlg3QUtnT2YyaUJiSFdvNzBucDhXaGJ4ZlpURkxtTzhERWw4QUE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795544102,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "I Finally Bought Nvidia Stock During the Sell-Off. Here's the Price I'd Pay to Buy More. - The Motley Fool",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVFpVZllxUHg3OG9sOWMtaUx0aWpwd0lrZnBncm96Skc4V0NFU2NReGRjeGtMenhrRHlYd2NsOUkzNVNsUGtiZm9ydFhXTWZTeEtQT0t3OFd3cmR1WGpQU0I1WkcwTkxyNmF3b05VMWtOdFBBc3NUVm5HNXVROHc2TjFmb1pVeHlqSE9ZdkVMMk8xUEtycTNkdUhpM2hWTTktTmFWX19pWkZad3ZwTWFWSUFBWnRkbXNLcEFKckF3akl5dzlEbzFvbw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795543817,
   "forras": "Negyedéves jelentések (Google News)",
   "temak": [
@@ -7,6 +63,17 @@
   ],
   "cim": "Dollar Tree’s stock is skyrocketing. One number in its earnings report helps explain why - Fast Company",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjFtTXRFR1IxMFpiWWZCNFA5RTBReG9rdE1tQVJESDNqNXRzbWI1MkhCclRscDJIZ2UtTUpsbmZDT3UwSndXQWYySGNQcXhaV0hmOWk0ZlFwbGp4VUwyRGVOMlJpMnYwSUtvVnpVWGlJbC1idng2bjAwUHItNFFIOVA2cWYzWTdjZ1BPaE1GMFBhb3pLai1PRHo5dTFoOHJ4NHRwSGhUYW8xbmV0VTBOSEJEaS1nYmVmNWNIT0ZqYmE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795543798,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Berkshire Hathaway (BRK.A) Stock Looks Cheap Relative To Its Profit Power - Simply Wall St",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblk0SEdrNXRZbnF2YWNSU3NkUzFJckRzZ1lsWHNfemZ3SjRGUmtWNmc2Q3JUMHdkVWRGa1ZueWJWUWdfSVhNbzMzVFB1OEY3UWpMWnJhU3pkMkFoZzZpV0xRZHV3Um9ubmhHaXFtNmRIX2ltamNfenY2MF9BVUM5UExVaXE2REdxeFF0eFFoMVVTYmFTYnVEd0RyZ3ZWc0RFUl9teEVGdThGUl9nOTFHYmYyRm04WGo0QU1YdzJmU0F1MkpEUElHMnpfTFRfMlR6U2hCU2hobDc4dG9FVFRBN1dRZULSAeoBQVVfeXFMUEdMLUYtNTQxd2NpcHk5ZzVEalEzUnBYb3ROcTF6VXJfT1dXS2dxM2ZPVTdPQ2JnMkpSUFEwaE50RENTSk9PSXJCdzJxb2U2cVNRNktwNkFFRHI3MU1PSzMxcmVRSU1IVVNvT29jUWY4ZlVaRDkweXRTMmlSWWxMbTNfRFh1V0ppbXFHVHdUQS1KTmxKMXNSRjRIellxZ19lTlR1U0VzS2JId19xNllrWng3blZIVUNIUXR3ZVFWUjRIdVJQOVhwNmxCbHp4a192ZndaQkhWMGdKSkhDZ2ZDcnc0VWlhTEtReXVR?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -68,6 +135,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795543361,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Why Jim Cramer’s Trust Bought More Boeing After Its Post-Earnings Drop - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnpVM2tCVmhoZm9xTGtCQ2FXcG41enpIMzA0Ry1YQ2dWeVRCeHE4UUpBbzZ5dVJKS2R3bTlLNmV4R1lFanJELTFWZGR0WThXbm5FZnhIa19naW9qWndHTkw3NS0zZTNEX1ByWjJ3LU1QeXM5M3ZkXzZMbHY0cmM2Ykxfa1BLOXlwZERmZHlLUU85X01jeklv?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795543200,
   "forras": "Portfolio.hu",
   "temak": [
@@ -121,6 +200,17 @@
   ],
   "cim": "Trump januárig békemegállapodást akar Ukrajnában? - Magyar Hírlap",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVGxET1lJS1AxM1ZPd0JiZkxoTmRPU01IQm9EclowS2QtdG5iR0JqcU1KRjUxZ3p4clRJUkxtdmdYcE5XaUx1TVhzQmRkZUxBYV9CR1BVdDl4eXJ1VHhNbHI3aHJwY1AyeXNXUExVQ0NGaWQ4elBlNEdFU1laaU1jcEc5NndTNnRybHRZd0ZlSVdqTDhyY3NhRkd0SmRXUFh5cXFN?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795542826,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLVlVQW41ckp3MEdDOGFDa1Q4MVVhZGtIUzhMN3l2OHBXZllyb2VLUnVEcUxmdVp4T0NXU2VfT2pwMjdJcmpVeXVEUm5KOWtFZWpQMzYySUxYM0xSOEZvcWUyLTU3Z0dmZDd3NlJjemZidDI2NzdKZ2NoenBBcEJBeWttMlNiOHpIQkV4RVlGQm9XbmhJb0RB0gGcAUFVX3lxTFBIXzhSVHJRVGRsTGlFR2o5emlBUzBYdkZ1TnoxTjd2eThxNjU0V2Rvd3RmOWxkcUI0UmN0MGxFQ29TZldBU0ZLS19IWFNnaFRUSjZibHRnMGF4Y1VYRHl1VHQ4SkxxU3dhejBobmNQek9qZ0JXYWFUa2lLTTRjWVlybjVnWUpjZ2lCQU9kZzhDdm5xSVhPcE14ZmtsTw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -193,6 +283,18 @@
   "cim": "Trump Executive Order Targets Congressional Oversight - USA Herald",
   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WWlFMRzE4SElVYVBtMkZQNlZfN2ljY2pWb2JxNnNxckxQUGZEWTVPaDNPdU5KQWstTmFJRTV3Zld0d1hBU0xTNXAxdTc5UHU2dWdaVlNteTBKR1UyR3k4ZEdzN1E3akt2am5wbjItd3AzNjhrQ2JN?oc=5",
   "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795542302,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Stock Market Midday, Nov. 24: Nvidia Drops 9% as Wall Street's Historic AI Rally Loses Momentum - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYVZqbFp0S2VwUjFCTVJFWkJZS2NSbnNNVl9yVkRDQ0U4bElGTU56bF85Qi1JbVZfam85b1E4eFZyRl9wbElvQVRtZU1UcDk1eWVMcXplN2JwM1BGQmRraktoQ0hoQWstUlNBQjJGOHJaa3ZjRzhxV3NYOTM5aWgzTnV5c2MzUFh1aEhFYVpHV0pwbHFKc2c?oc=5",
+  "surgos": false,
   "eredeti": ""
  },
  {
@@ -321,6 +423,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795541152,
+  "forras": "Bloomberg",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "Bank of Canada Fades Core Inflation, Switches Gauges",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/bank-of-canada-fades-core-inflation-switches-gauges",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795541100,
   "forras": "Bloomberg",
   "temak": [
@@ -413,6 +526,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795540484,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "US STOCKS-Nasdaq, S&P 500 fall as Nvidia-driven AI rally unwinds - Devdiscourse",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX3JxT0VMbVo1ZEhkSHFsUDJYTi1yOVVZV0ZVM0N1N0hVNFhsLWRMcEdxYkh2b3ptaS1iQ181MDFiWE5nQTJLTnU3OHpZZ21DTzlvZm9Gd2ZidXFKdGVTT04tVWZFbHZjQUh6WTNPQ3l1eDY4NHZBdG1LSXN3RFpFU0Z3M2Vod2tKby1ZdHRRQ1hnaGEtTG1rN2tJUXpSX0puLVFQaWpPNjA4RnU1LWU0Nmc4RFpqY1VLZlVmeWl30gHDAUFVX3lxTE81OWlaeEFzZWtjY0lDamh2Z2gxNmRabkpSRVd2Y0JkYkZjbGxaZnNNcnV6cmdldGlXMjk5VDhiOUdrOVcyVGVEY1hFYVEwRVJCNmdGblBISE5vejNIb3daQ1M4N3ZCbmtSdHdOSjdxY0lfUm05a29FSGEzU2JtR1BUN3pXLVRFUklsRVNiazRCYmFSUG5PQUFZWVc5MVc3UkN5c3V5NUF3eDc2eDhYWTVaUFZvX25jS2c4b1dNRFl3dWhoTQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795540468,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -420,6 +545,28 @@
   ],
   "cim": "Nasdaq, S&P 500 fall as Nvidia-driven AI rally unwinds - StreetInsider",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSHlGQ1JkTHZOTFo1LTdESURqQ2FDSkhPeWxNdmE3Zzg3NlhDdElJN3lOS3VLbk4xNzgtYm55M0FtY0lsMW12a2Nob3FjcnNORGNLZnBHUFFmUmthOUNYYlNTT0NEUkx3S05rTXRaTzJoWDFNbUpvYXRpQjFvMDY1T0JiR0N3TEY3cWYzdWp6ZkVjcDc4Und5SmthOXcwcHpnSVJidHI5UjB0ejVIMnE0aDA2YVVmQQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795540433,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Jensen Huang is back at Nvidia, but the China chip scandal is far from over - Ynetnews",
+  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9keHNkMGdzQml2MF9Rcl9pV0J1OTlUVUVENXByZkJIbUR6TmJhZ1JfM21wUVVsM20xdlpsMW94NThWV1dhcDA1bEJXUFJXWHd2RUFVNlBuM3pQZm5JU29fLVBn?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795540363,
+  "forras": "Negyedéves jelentések (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Kohl's Q3FY26 Results: Adjusted EPS jumps to $1.76, beats estimates - scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMGtqaDRDckdhM2lUT0RpQmpaWE16bUhtd1F0N1J3SDVCdXk1cnNnREQzSG1ITDFiY2ZKR3BPLTRNQXoxYVdES2prN2xkSGs3cy15MkRQdzF2MEdMZUNqZTBkM1Y2S2haTFdLWTZfaFByMzQyVHg4TzRudmluSmRhUWJYVUt1b2tIdlB3eUN0bi16THpPMU9wMGF4QkNoYjJDdjQyQmlfY2tZU0lkc1RTNm1wTGU2RWxBa3c?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -445,6 +592,18 @@
   ],
   "cim": "Why Is Intel Stock Down Today? Shares Fall 8.1% to $54.83 as Chip Rally Cools After 16.3% Jump - Around Prague",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1hzRkw4OWJpcE9GMHBjSFp0WV9KdlFKWC1ZY01nSmgxbkRrM2N2eGRBTVFBM21BNTRQNVdmcUljT0Y0dDNNc20zcDJjYTFPUExuQkItZ251ZENpQ3JIVDl4YmxYLS1INUREY2JFLTZVMnBEQlptYU5JWjJFTjd5S1lMbmFaWHQxeUF3UDFRSkE4QnQzbWxWMjh2X21fQ2lkOVg5WmpURDdzMmdWWHc?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795540172,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump weighs killing Iran’s top leaders as war enters ninth month: Report - The Indian Express",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTENDakUtS3BCT3ZEXzJOYWt1UFM0LVdKeEZieHp2TmxObkdNa2E5dHYwZER5aUVlVFR5dmQwcENQMENPQTNDSGRVWGdrdnNQX2V0MzBSNTN3S3pKZ0RMTVVLcERSU1ZHZ01NSFlkNkJVZGpIWDFWVVFESlBva0JubTZyYXpFRnVyYzRHYmNNNnRPVlRRNGtFTG5BNW12TVQ2ckhRcmxSNGpWYVV3YlNzedIBtwFBVV95cUxQcXo5LVllS1otUkhRSl9ZWlFuaG82czJlX2xZUmJFN1F4UGh6bE1VWWRWUHEtVEhTQksxZHczTnJnMTFNNnVTZ1V5OFdjNEtCVi1ta3VyVlExQWdyV2J1S2Y0OTlZdXlYeVRkZkVaVG5NTzFDVW9NQXpOb1U2eFhoWUlxMHhBZUM3MDIya1ZLTzN1bV9seWFGZG1pSHRZNDd4RUR3N2ptR2I4T1BPUVUzN0dYVGFLOFk?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -481,6 +640,39 @@
   ],
   "cim": "HP Stock Enters Earnings Report With Low Expectations for PC Sales - Barron's",
   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3VmxnLVlBZFBjQy1PMktRelRBQTNaeGtyZDZmb0xlZE5mTmRrNkZaR0RKa290TW5reW1kbVRsTVh2emU1Q3lISnNVZEJYRzY2SEZRQ0hxMW5kTnRPVGdNRkNKOG8tdEQ4MVhJY3VRZ29DVVk0V3hLb3pxaGg?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795539992,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Dick’s Sporting Goods earnings analysis: questions answered and next catalysts",
+  "link": "https://www.investing.com/news/stock-market-news/dicks-sporting-goods-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048855",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795539961,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Best Buy earnings analysis: questions answered and next catalysts",
+  "link": "https://www.investing.com/news/stock-market-news/best-buy-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048854",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795539948,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Analog Devices earnings analysis: questions answered and next catalysts",
+  "link": "https://www.investing.com/news/stock-market-news/analog-devices-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048853",
   "surgos": false,
   "eredeti": ""
  },
@@ -554,6 +746,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795539634,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Medtronic earnings analysis: questions answered and next catalysts",
+  "link": "https://www.investing.com/news/stock-market-news/medtronic-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048851",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795539632,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -572,6 +775,39 @@
   ],
   "cim": "Jensen Huang, the NVIDIA scandal – how Trump saved the businessman: key details - 24 Канал",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbzNJQUg5MllheFZhb3pwbDFydzFLbXJhbUZJeXpldFdXMUlsdlUzTGN3QzFpWEhrRFhkcXBGYk1hSE9Ud2w5N2Jib3VLOFFyZ09WRWhJVEpORWYxaTcwVi1iMXpDV1NQdEdxSkxIVmRza1dkQllwZU5rck5qY3lLdmJZNnBraUNXMnJVd1V4TnJWREcwM0lBbS14Y0NGd01KS3VEMnYyMFpDMDk1aEJLYXdIVWNfdw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795539574,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Agilent earnings analysis: questions answered and next catalysts",
+  "link": "https://www.investing.com/news/stock-market-news/agilent-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048842",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795539567,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Zerostack earnings beat by $19.39, revenue topped estimates",
+  "link": "https://www.investing.com/news/earnings/zerostack-earnings-beat-by-1939-revenue-topped-estimates-5048841",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795539545,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Zoom earnings analysis: questions answered and next catalysts",
+  "link": "https://www.investing.com/news/stock-market-news/zoom-earnings-analysis-questions-answered-and-next-catalysts-93CH-5048840",
   "surgos": false,
   "eredeti": ""
  },
@@ -608,6 +844,18 @@
   ],
   "cim": "Donald Trump position on Israel unchanged after Mike Huckabee questions aid decision - The Jerusalem Post",
   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXdktfRzFaUXhTWHhjaElXcnBzRnU0ZEthQzRpeTJTWnh1Um5WQUhXTzItbmVMd0JLUVN3QVoxT2pWWVZDWU5nbTNuaW5iZm0wdjJONDZGbTlvY0k?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795539128,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "U.S. Stocks Mostly Lower After Nvidia Earnings Fail to Soothe Nerves - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -665,257 +913,6 @@
   "cim": "The political stakes of President Trump’s bid to reinstate Jensen Huang - CNN",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY2N5aHRPWFVTMVlmd21XVndOLUMyRGxFbFFwdXZaNUxoMkhKX2pHTHBJLWtBV3cwRUZKUUQwZlpNdFRtdk1ILUFFTVlfVy1QT3FzakZsUVQ3Z3BfMWNWZVd6MmxvYWRhalFTLWtKb1JldUNDMUVCU3dYdXhMaUEtQWdfYWhkM213Tnk5NVlvaXhNd1NBeUxVYUZCWk41VDhHRHM1ZF9MQUZjMC1rMnV0aHQtcnNGTHpKN0RaZzFR?oc=5",
   "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795538905,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Nvidia Shatters Microsoft's Historic Stock Market Record - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOUhFTlZQenpxUnNhem9mQ1NncDZ4WGhEcS1hbFhKeWZBUXdoOW9LX253d1FjM3EzOEFXdV9nM1liVDNRUUlRSVVObGRrdW55NUFwOU42QnhTMGN3ektFbXhYMy1zbm9mT281cHl6UmxCU1dHQW1Mek1wV0xrVFdVRG5iY1dUanVpcGhMczdGT0t3UHM0cFpQRDBzVjJzSEhlTk5wVVhSZnVsRHdOV29TZ2NQOUY0ZDg?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795538872,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Why Micron Stock Dove Today - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1pXeVliMG9QY3ZzQnYycmdHZHlLNjVhLWVvVlA2MDZRZWlrRjVidGpuczBXQ0VvZXhRN01RLXpfV0E1T3BNRnBvRmJBYUhkeUlRWHdvNmN4T1pDWVQ5SXY5a2RWbHJWZjBqbWI0UzJWWURzTGp4M2E2XzFWSkszREZTemFNSzJuSlB1TDF3cGFORnN0c1VB?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795538765,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Down On TSMC Stock? Your Buy Price Decides It - Trefis",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLWc4NXFYcWoxVVljOGZaR2kzVHF2QnY5X2l0eEY4Ri1BWGNhTzlMWWhiM1BLdWtXWnN2QWhabzliQzBSYjI1UFBMV3gxYUlqMnBfTjhqWTBDb0Z0SUFCeTBxdVRvTjBNVEF2ZFVmeWFXSXQyZ0RNbTZpb0dlYmhLT2Yzc2hzam5ENVVzZzJOSC1kWWN3cjI5WTh0Nm1xVWlGSlVsR2NIWQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795538742,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Earnings call transcript: Vapores posts strong Q3 2026 results as stock slips",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-vapores-posts-strong-q3-2026-results-as-stock-slips-93CH-5048827",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795538678,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Why is Anthropic stock crashing today? ANT shares plunge 13%, fall below $83 IPO price and lose nearly 32% - The Economic Times",
-  "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNQkdKNFhiaFB2S1l1cElUdDJRb01YQWVqWlZaakpWdlRxN3Nka2RKSFRwVVdod2xYSU9zSnRHcm5pbTFjVDdlZ3FlRFZRMkN4Uk9TNmlacFlQMjJUdGNUZWFacGM4dG9HamRyMjMyNHBwSHAyNm5LcklXUUluQWUzYzRuLW1BZjd6WnQ4ZXgxSHV2emNaTTdMOF9BOUYzVGRSZ2Fqby1VU0ctOHVsQVNib3ZwdnVaOUdBd1IwTTdMaGFhb1BFMHo4MVVOaVdBUGp6WTdqQjJDY3laN0gxSktJd1dfS0dDb1R2NFJCbS1ZMEo1OU5WZzljNklJMzRudnFtN1V4VGRrWFd5ZVVkVDFOZElCN0xNUGVCZ2dhQUFhNW4yYkF6TXVPbUIzSU5vOTZ2NWfSAbcCQVVfeXFMTnVCaE1oaWliRVRXSkg3Y3dHV1FHOC1EdVN0U3pBZWRUamxuUW5LenUwVFNRbXBSMkFXd25HQnVuV21vMGw2QzdzbkNUWTVxZHB1WUswOGpzQVQ2bEJTdXBWTTJTX3R4S25aT2NRVjhGNENiTGprbEZJQk9LMEFaZk96d0xVUnN1cDE3OXdONzMyamVfQjBmTGZlQm1BOUVpLVJzU1dDeWVMOExKYjFBcWtrNVBvYW5RNkdja2lpckZDWFIxQ25VUVJJNkxFeXAwQW1mYTB5WFNpTjZJTV9Cdnc1djhFLXhiaWhYcksyTnEyM2RFQ042djZ6SWNxOGtGN0ZKQmc2TXl5VU8wb3cxMXdXZ2Jnb0UyelhDd3YySUpQcnNJci1RLTdiQk45cWhGRHRjTThfR28?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795538642,
-  "forras": "Investing.com",
-  "temak": [
-   "Jegybank/kamat"
-  ],
-  "cim": "BoC’s Macklem sees softer year-end inflation but warns of 2027 price spillover",
-  "link": "https://www.investing.com/news/economy-news/bocs-macklem-sees-softer-yearend-inflation-but-warns-of-2027-price-spillover-5048818",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795538580,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Jegybank/kamat"
-  ],
-  "cim": "A rácsok mögött hallgathatják meg Matolcsy Györgyöt: \"ha nem jön el hozzánk, akkor megyünk mi\"",
-  "link": "https://www.portfolio.hu/gazdasag/20261124/a-racsok-mogott-hallgathatjak-meg-matolcsy-gyorgyot-ha-nem-jon-el-hozzank-akkor-megyunk-mi-878836",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795538545,
-  "forras": "Bloomberg",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Nvidia (NVDA) Surging on Huang’s Reinstatement Brings Back Leveraged ETF Debate",
-  "link": "https://www.bloomberg.com/news/newsletters/2026-11-24/nvidia-nvda-surging-on-huang-s-reinstatement-brings-back-leveraged-etf-debate",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795538534,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Nvidia Stock's $954 Billion Rally Comes With an Unfinished Inquiry - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS215aTF4MmtUX3NmbXhlU0RvV1lIZXNkZEZrY19wZ1VsN0w2SDZDV1lwRUZDcG56c0t5ZWc5NGJpdy0tYkJQT01EakRmTkdqeTk4R29tZU03Q0NxMUdteXRPOE81NmFVSjh1YlRid3Fza2tqeFo5VFNMLWxfbE9JenZ4WURTTERGV2ZacTRoeTVXN0pxcU5kZ0thT2JuR3lhUzcyamc3OWh6SUMxSkpucjY3UnBHLTNqdDRVLUZxNFh2RzA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795538520,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "NATO Secretary-General Mark Rutte to visit U.S. for talks with President Donald Trump on Nov. 24-25 - The New Voice of Ukraine",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1VyYnJvM194RUN0SWdDOF9YYTk1ZEphY2RBVFc5bzN0aHBFX2FNQ0lPMEhkZlNHUDJfY3M4SE9YLWFGc2U0VS1EckNZN3FFSHhPQk1sT1pUZ2VuSDIzaU11NldrakQ4S0ZyVU5FX2VqSnFaV2VtcnhSclhtQVFmbERkbmtPZzB6a2JFTk80S0NhSXpI0gGQAUFVX3lxTFBMNGIxS0dkRWRjUDVhMGFaeF9xdDZzUUcyNTVoSy1JSmRBY2dfVjNKaTBxZmZfNW8tcmVkcVQybWd4eTEweEwxeEtxNGlIRy1OeTJGMFpUYmxHTFlwdGxDdFNlOWZqQzNKQUYtMUFiTVFZazVYeC1mZjZDcGJETWNBU04zdEpjNEsxbHlCejRjNw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795538518,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Huang's return fails to dispel doubts as Nvidia shares drop - Yahoo News Singapore",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZWERoRVpFTXBoV0k1clA5aGptNGVnY2J6MGpvQ0VEYktUSVhQcVVoR1dPc3dZWEtycWM2U3E4dkxWVkV6Yk1GazFxbkxSdWUydGU0dDF5SVFuZzd1bHVXQjl1azNqUzhnVkwycVdOWFNkM1g3ZmdOWUxWWFN1eEk?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795538461,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Micron: The Permanent AI Tax Justifies A Buy (Rating Upgrade) (NASDAQ:MU) - Seeking Alpha",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGZDdWoxNnhPUjZLRVJSWTB5aTFFNmJQNjJfTzl3dkRyem1Ca3FRTlp5WXlqMnY0RUtSbmNxY2w4V09BMUhJeXJMT2RSMm9GMnhXWW1RNUJTNmc5T2ZwNzdXa21MbVlHbnZXazY1N2RwNEc1d0dGZUd6WDdzSkV1d3RvUnZwRE1seXNQWFFFcjdNRTRKU0FMWlZQSDQ0YXcxUnpJclRVX19NbUFneGNib0dlaEdfcFp2NEE?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795538294,
-  "forras": "Bloomberg",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Top Strategist Calls Nvidia a House of Cards",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-24/top-strategist-calls-nvidia-a-house-of-cards-video",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795538151,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Kripto",
-   "Nagy cégek"
-  ],
-  "cim": "Micron stock slides as much as 12% after BNP Paribas downgrade and price target cut - Crypto Briefing",
-  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1WHk0N1JWRVhrNDU2d0F6QlRsa3lybWRsQ0hFMFIwTGdpYjhqalB3V1pVVk5YYW5sOTJ4MF85eUhpbGRDV0JvNXNzNU5PYXRtTGlVM2hBT1N4aWM0OGZtVS16dzV2TExRV01WOVo4Vnh3SkNoUTFF?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795538040,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "A legmagasabb szintű riasztást rendelte el a Microsoft",
-  "link": "https://www.portfolio.hu/uzlet/20261124/a-legmagasabb-szintu-riasztast-rendelte-el-a-microsoft-878834",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795537945,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump administration said to consider targeted killings of Iranian leaders - The Times of Israel",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYnUydFd5NFF1YU5DaVlDczBKeFduTjk1czAxRDY4dHpKVW9OanFhMnNfbXhxNE4xNzRYT2l6ZXIxTTZyWVhKVkNadGpHMUFyTnFZck9JUE5RTzRWWFo5RlFwM3dPSjdyZ0pjUm9UOTM5NWw2VlM1NTVEakowM21wb295ZE85UU9heFliNHFneVlDQUhFTVdWV1h1dTE1MjFZNG9FdFdlX2tpT3FEZFJUQzNoOWNaZjZCa0M0Vg?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795537945,
-  "forras": "Bloomberg Politika",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Nvidia Drama 'Screams for Significant Investigations,' Says Admiral Stavridis",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-ceo-return-was-premature-says-admiral-stavridis-video",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795537861,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Why Is AMD Stock Down Today? Shares Fall 12% on 337 Million-Share Resale Filing, Chip Selloff - Around Prague",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTRNMHBXRWpyaEN4YlpHcXpEOHFsUEI0S3hoMVN5Z0EycEJwOGdyMmdFM3JIWmVPUk5UV3gzc0R4YnZBRzVUZHpjMm9SQ2tLa0hZNW01OXpCR3k3QTlCR0c1NExBSFVya1dscW9NaWRkUWR5eTllaDJlZXEybzQ2YUl4eEhqYUhIaTc0LVFYeTJuRmRSQnBxRnlfcWpFVjI3MDlrbHVzd2pndjhRY3JQTVRB?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795537835,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Donald Trump readies raft of new tariffs on major economies - Financial Times",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHc3TDUxWVRLbmRUa1hzMWJseUNEMUQzOUtfajgxMVFlM2NoWDNyRlZYWUVfZEgwbWctWm5FakVubjdZT25mcUtzU3JfcjVQcVFDUXFtWEdISDJuSFdUZGQ3VG1wODYtZzFJT0NpZV8xLUxoMFlLbThuN3VZUGhrNTJXek0?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795537802,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Berkshire Hathaway Has Sold More Than Half Its Bank of America Shares Since 2024. Is the Stock a Buy, Sell, or Hold 25% Below Its High? - The Motley Fool",
-  "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMXJoemVxT1pQZ0tZSkVSREhfT0VqMGpBZHJwMkl0enVTUHYxdHZqVC11MDZRR2pOUl84VXlGSlVsZ0tJYVpDTXFkLUJvcTdjZ090b2E1cVQ3SGxCR2hLcGROYWJYaUhzVWdGdVJkYVFLeHBwWXY2VDNuWkVidnJJVkRXYVhWY1pYMXpkNUp1dDU4Z0tDV180bmZoNVg1NEM5Tzk4RXFhb2FKVUdaWUJ2d1lWS0dOY2tGQjZ6REpEOWdSaFZ6MWV2UW5wUWgyczVCRk94RHpQaGdhNnNrVjJJQ1JFVXV4c0J1dXVRZGlEOHZqNU1vSE1zUy1XV2s4YkpTN2hz?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795537800,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Európa kulcsfontosságú ipara a szakadék szélén: már a termelés harmada leállt, gyárbezárások és csődhullám jöhet",
-  "link": "https://www.portfolio.hu/global/20261124/europa-kulcsfontossagu-ipara-a-szakadek-szelen-mar-a-termeles-harmada-leallt-gyarbezarasok-es-csodhullam-johet-878814",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795537747,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Világgazdaság"
-  ],
-  "cim": "James Moore: Some urgent questions for Mark Carney before a tariff deal with the U.S. - CTV News",
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeGQ3NlFGMVJsZGRrb3BTZzk4VVJYeVBHYndiMnVyVlc1UG4yUnJYeDZkYkdqZ2NfNWtoSGM0azM0UjY2N0htaGppamxZbHE0ck4tcUpxNk80TmxzbGlQNWJNSVpGTEtDNXZwMFUwSmdnTm9jZERxNHV4Xy14VjE5UlVQc1c1TE92ZXZCcjdhaWZfNHpYb29HY29qUUFVLWdjNDRnQmtxQk9iLXlBeU9kaDR3aXJBaFl2dXlFdGpCUFBnYzNxVTB6QXNRN0V2SXdL?oc=5",
-  "surgos": true,
   "eredeti": ""
  }
 ]
