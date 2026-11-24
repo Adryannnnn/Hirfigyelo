@@ -44,7 +44,7 @@ jobs:
           sleep 30  # hagyjuk lecsengeni a korlátozást az előző lépés után
           python3 hirfigyelo.py --telegram-diag
           echo "--- curl próba ---"
-          curl -sS -m 20 -o /dev/null -w "curl getMe: HTTP %{http_code}, %{time_total} mp\n" "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/getMe" || echo "curl hiba"
+          curl -sS -m 20 -o /dev/null -w "curl getMe: HTTP %{http_code}, %{time_total} mp\n" -A "Mozilla/5.0" "${TELEGRAM_API_URL:-https://api.telegram.org}/bot${TELEGRAM_BOT_TOKEN}/getMe" || echo "curl hiba"
 
       - name: Hírek ellenőrzése
         if: github.event.inputs.teszt != 'true'
