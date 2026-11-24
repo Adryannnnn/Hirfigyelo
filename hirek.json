@@ -1,5 +1,28 @@
 [
  {
+  "ido": 1795489640,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A japán kötvények az egész hozamgörbén emelkednek a hazai részvények szárnyalásával párhuzamosan",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/japanese-bonds-rally-across-curve-as-domestic-stocks-surge",
+  "surgos": true,
+  "eredeti": "Japanese Bonds Rally Across Curve as Domestic Stocks Surge"
+ },
+ {
+  "ido": 1795489500,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump ismét azt mondja, hogy Kína további 250 Boeing-repülőgépet fog vásárolni – ez továbbra is csak szóbeli várakozás – BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyVXVMdlNoQzAzTnBEVUJtVklfNFMwUHYxVGg5QURNWWc3V251ZFZzcHYwc1hYMk94cHhsQmV5dDNNSXlScmJzSUc5ZFZxcDFNc0hkVzRiS1BCNmpJSV9rT0c2QmtDeng5eHU5d2NLd1R0WVNSWlE?oc=5",
+  "surgos": false,
+  "eredeti": "Trump Again Says China Will Buy 250 More Boeing Jets — Still Just a Verbal Expectation - BigGo Finance"
+ },
+ {
   "ido": 1795489113,
   "forras": "Nagy cégek 2 (Google News)",
   "temak": [
@@ -22,6 +45,18 @@
   "eredeti": "Warren: ‘Interesting’ Trump immediately thought of insider trading when asked about pressuring Nvidia - CNN"
  },
  {
+  "ido": 1795488120,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Kalifornia kormányzója, Newsom szövetségi szintű reformot sürget az elnöki kegyelmezési jogkörrel kapcsolatban, és azzal vádolja Trumpot, hogy „kegyelmet árul” – ANI News",
+  "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUUdmbFlnNUptYlpvVUJ4S2VSQWZ3X0JQVzZxMW1KbmktSWZ1WXd6UVhyTTJHcEhxOGhpenlUYnB6Z3J0dE1jbnhIWEs4d0xyM0RWSG12b3pLaFBtbU5tcFdDcFlYRE1EX2dsUXlDNFVGQTNiVkxGNUI1VV9KTVFLWjRSWGI0OUFMVUlVRXY4QXNfUmJ5Y0xhWjF1M21NbFVDNE1OWXNGcnc5UEFmd2xpOElJRmZxYVpvSDZuRjh4Nkh1d09BdEg5aTFfWUFGaTNudGVFbV92YjJKbjI2dFVRcno5UUJRdFE0U1pOWjRLX3UxQzFS?oc=5",
+  "surgos": false,
+  "eredeti": "California Governor Newsom calls for federal reform of presidential pardon power, accuses Trump of 'selling mercy' - ANI News"
+ },
+ {
   "ido": 1795488000,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -31,6 +66,29 @@
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2IxYUd4RUpyMlphZEc2NEs2akF4N01LV195aWNBd0F5TEtTWlFHeW9Tb3Raa1UtYUFMeWVlWjRaZXBzUWVUTFo1b0ZWemRNWEZRY2VUTUlTMUpxb3E1YWhINkJFV2pIU2UyN3RPRm90LWVsT19GRHNWZUlqWWJOeHFRcExyRTlFMjFyYTF2WmRkSGFSMnlrYmd3YnJYVjg?oc=5",
   "surgos": false,
   "eredeti": "Asian stocks roar back as Jensen Huang's Nvidia return reignites the AI trade - Business Insider"
+ },
+ {
+  "ido": 1795487700,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Jensen Huang visszatérése az Nvidia vezérigazgatói posztjára fellendítette az MI-részvények árfolyamát, de kongresszusi vizsgálatok várhatók – és az elemzők kockázatokat látnak a jövőben – Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTncwRERMVndYZHd5cTJtTTRhUHR0ZkpGQVg1T3RvNnNyY2tvOHpVUC1QY3J4TWk4RHAta2NFM3ZsbWVQazJEdEVRV0xWTGZMVndBYzFFaU11VGxWVlFJdGN2NjZzYmV6Y0NGVGo5dFNMYnJKRXBjQ2t6a3pnRG1kVkpPdU1DZkItRm1aVFNlMXJ4Y25HcVRZNXJR?oc=5",
+  "surgos": false,
+  "eredeti": "Jensen Huang’s Return As Nvidia CEO Sparks AI Stock Rally, But Congressional Probes Loom – And Analysts See Risks Ahead - Yahoo Finance"
+ },
+ {
+  "ido": 1795487123,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Órákkal azután, hogy Jensen Huang visszatért az Nvidia-hoz, Trump felvette a szingapúri Megaspeedet a feketelistára: jelentés – The Indian Express",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY0tpR1o0U0tmTDVXTkdiS0pvdk91dWdEUjdiUWhvWHg3MTJHZW5XVGh0TVpBLWt0bEYzcGs4ZHlrZEhka1VGaWhTZnd5TXkySEVnSEtLem91UmxjNU0yZGxqV0sxbG1HcE54YVBTUF9tSHJuWDRNVkY3bm9zMEUyUDZNYUpubHRBZmRTSng2MFd3ZG1fdHowakVVc25BLWU5ZzBseWtoSndma1huU2V0ZGNyWUpLU21LTU00N3dwU1dwUWFFTHg1bdIBzwFBVV95cUxNZlRHeGJ5M3RmXy1CdVZJd2NsTm9HUUtuY0oyeUwxMVY2YVExVU9veTVfX20wZzdwRUpUekNWMjVDYmdqY3hpajBveWV2cXlsQkZQY3NZbXdSTkxyVGFDaUQxLWoyX3RscVp5dEMtQkVycTRFeUZhajVRLWdsS0loa1pYNGlZc0FYT3NCZXpQQVZ4LUFjNFRjMW9mbWJQV19ORW9zZlhrYnhiVXUzYXo2b0dXVDZlMWwxa2ZtbTBUMWRLbDhiOHQ2UkhNZlFQeWc?oc=5",
+  "surgos": false,
+  "eredeti": "Hours after Jensen Huang returns to Nvidia, Trump blacklists Singapore’s Megaspeed: Report - The Indian Express"
  },
  {
   "ido": 1795486380,
@@ -818,6 +876,17 @@
   "eredeti": "Charged: Wall Street warms to Tesla as merger review takes center stage - Yahoo Finance"
  },
  {
+  "ido": 1795478634,
+  "forras": "Trump (magyarul)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Hogyan avatkozott közbe Trump, hogy visszahozza a volt Nvidia vezérigazgatót? - Vietnam.vn",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTjBMMHZIVm5iUVJlMWkxc0hDMjdiLTdfbFJXVjFqMGpjTENFbTNKUUNIcTNLaGhVeHVDOVJVQ2ZGalJOM2dQdFRTOUsxX21KS3Vkam14Q1VuSkdfTEFMTV9FTW5OLXUxcWQ4WVlodXZmb3VSRTIzcDJxem1fcVpPTGVJcS1JRzc4MktqQUM1X1g?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795478514,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -852,75 +921,5 @@
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVBuczlvbi1TeUk5ei1FMDRIQlVKRkozLUtQZmV3Rlk1R3NGTEpOQXI1YXVDNzJ5a0FRUUx3eWc3SkxfcC1NVUo4czNFbXBXeGx6WmVqSG91SkNnd2hpNzZmVkNUSURBUmJsYUxKVVVYeDlkOWFRVnFiTFZ4VGUtWUloU2tXakxfV3BENXBNazRaM2t0RHd3OVdR?oc=5",
   "surgos": false,
   "eredeti": "Trump delays Iowa Army hazardous material detonation - CNN"
- },
- {
-  "ido": 1795478292,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Mamdani keményen bírálja a mesterséges intelligenciára támaszkodó tőzsdét Jensen Huang visszatérése után – Al Jazeera",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXlxcWVuWXR3Ukt1NmIwLUJzdF9pRkhyTTRPZ293SU1WYVFBZWhGYTJRSWRPRDVLSUJQS2dKQ0l2R1VZT2g3N3MyZHBCYXZKZFY4cTJyTVNFTUFyc09oZ1g2SmlqRE9OdHQzMTFYZ2hBdDQxYXJGdkYzX1hpMklZSmlpN2p6SkJUbXVNTEszckd5UEdDSjBXMW4yYWhmUDlSWVpvbWctZGVHNWc2T2tfRGVVaU5meXMw0gG-AUFVX3lxTE5NLVRzWkV2cUpIRzNoZ0h2aWhCWEQ3ZnE5ZmNHdlhpVklQLURiM05kWnZDOHE0RVhnTjcwOHdZZjVsTGpDRktZaDRHUzVLY1pTQ1JFY2NlRkk1X3poc1o2aVlnZ2tlWmtDbVNzQW1sT1ZKLVFJckp0V0xVUEFGbWliSUVxY2txajhadWVTemhjUTYxVXM3UWFwNzdxaEJ4OXdaZjZzMDZySVdfTGdmeXVPdG4ybldPLUYyWFgxc1E?oc=5",
-  "surgos": false,
-  "eredeti": "Mamdani blasts AI-reliant stock market after Jensen Huang’s return - Al Jazeera"
- },
- {
-  "ido": 1795478163,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Az Nvidia részvényeinek árfolyama 31,48%-kal emelkedett november 23-án, amikor Huang visszatért a vezérigazgatói posztra – Nation Thailand",
-  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XNUo1aDZsdndjV1RfWGFkUVlVTnhxSE1XS3NZX19pZXpkY2YwdHNQRnMzNlh4ZWhOXzRGMDQ2UXhXWHpiVFZlbENJR2IySWZXc3B6bE16Y2R3T3hHa1ZN?oc=5",
-  "surgos": false,
-  "eredeti": "Nvidia shares rise 31.48% on 23 Nov as Huang returns as CEO - Nation Thailand"
- },
- {
-  "ido": 1795478150,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump – döntések",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "A vámok újra csapnak: 343 vállalat 28,5 milliárd dollár értékű Trump-vámvisszatérítésről számol be. A kiskereskedelmi eredményeket érdemes alaposabban megvizsgálni – TIKR.com",
-  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMFNBZzZJaTIwRzJIenR6dUY2LU5HbWJKSFlvbGJVLWpuRkx3U21LY3dGM3hrSlhsc0FmclQ1T3Q0aTdUbVVVR1BpRGJQWVNya3Q5eVB0dkkzcjNNbENJRHp3aXplSWUtZTh5ckxCellMWl9kYU1oQ3BLVTMzdDlvVDNSZWwwMEs2c2pjSnB4c3BwN2RCTGU1b29tc0lxejk3TDJlN0JlQzl0b0JYYW16X3lwSnE4UGdDNnVhdzd4bEY0b0NZYTZfQ3BCQUhaRnc0UkJ2bV9jQjVwVEF5dF9rWjBhcw?oc=5",
-  "surgos": false,
-  "eredeti": "Tariffs Strike Again: 343 Companies Report $28.5 Billion in Trump Tariff Refunds. Retail Beats Need a Second Look - TIKR.com"
- },
- {
-  "ido": 1795478042,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "A haditengerészet megtartja a Black Pearl Harbor hős nevét a fuvarozón, miután mérlegelte, hogy Trumpra átnevezze – Everett Post",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT1RsT29DS3ExWWtNSHlqNFVIOGtmcm5INHRrbktZalBkamlRSnRuSzhPOFdrU054MV9mbWdsTWJUcVllRUJKZGFWTjVCMVpfQllWemJUMHZkb2xNX2QzNU0zeV9ZV3prTUZhTXVxVVB5aWpQRERDSFo1eXRwVjAyQzZTblA4cVB3SktpdTF1ZERKNWZVYndTem9zR2hzUmJIemFlTXJCREFiWW1xbWFleGQ4M1VTMkVZcm5PWFVIRnNvYjZO?oc=5",
-  "surgos": false,
-  "eredeti": "Navy keeps Black Pearl Harbor hero’s name on carrier after weighing renaming it for Trump - Everett Post"
- },
- {
-  "ido": 1795478040,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "„Én kötöttem meg az üzletet”: Trump azt mondja, hogy „meggyőzte” az Nvidia igazgatótanácsát, hogy állítsák vissza Jensen Huangot – Everett Post",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZHZwLUt4VFdoU3pfU3g5eEo2WHJ6cnowNDFfR1FqRXlaUXVvbEMxY1d3OUQ5NGdFT1lzcnAtenV2aEloaGktZm5VZHV6YXhkSXh3VGZfUDRzUzF5NlNMTDlMTnViWnBsa3J0Qml3VV9YbmIyRzZTNk9QVUVaZkNBSGoyb2FzOWxOQXlKNWpESXJ2enplbTR2ZzAzRjdBSFFkcllRYmg3ZVlneTFmVWxYRy1ac2x1Vk0?oc=5",
-  "surgos": false,
-  "eredeti": "‘I made the deal’: Trump says he ‘convinced’ Nvidia board to reinstate Jensen Huang - Everett Post"
- },
- {
-  "ido": 1795477723,
-  "forras": "Investing.com",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Magyarázat – Melyek azok az egyesült államokbeli szövetségi és állami vizsgálatok, amelyekkel az Nvidia és Jensen Huang szembesül?",
-  "link": "https://www.investing.com/news/stock-market-news/explainerwhat-are-the-various-us-federal-and-state-probes-faced-by-nvidia-and-jensen-huang-5046777",
-  "surgos": false,
-  "eredeti": "Explainer-What are the various US federal and state probes faced by Nvidia and Jensen Huang?"
  }
 ]
