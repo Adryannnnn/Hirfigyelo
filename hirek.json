@@ -1,5 +1,39 @@
 [
  {
+  "ido": 1795507815,
+  "forras": "Magyar cégek (Google News)",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Kitart a jó hangulat a pesti tőzsdén, a Magyar Telekom kilőtt a rajtkor – a forint rápihent az Nvidia-ralira - Világgazdaság",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQVpiMjhxSkNoVExzQVM1RkdKN0ZuczE0WVhadTF6TEhKTmd5TDhmRk9CWE9YeFJoamNiNDFYM0daQVZQc3JDdjZXZFhlaGRuZHlFbFNmZGpsSlRLX3hTV1lEczZINFRZRTRieW5sdjN3cXpxSUdxMFhsNm5aNndrdWk0VUJqN2R3d2VWWnVhVjdrZw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795507736,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az Nvidia részvényei megugrottak Jensen Huang lemondása után 11 nappal történt visszatérése nyomán – South China Morning Post",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWURaeDRwRS1lZkdFb0F0OFZKb3c4cG1lTjJPeVoxT0hSRjY5dC1COHc3RXh6angybDBnZi1BNDF2ZkVxbDZ0V0xNX3VXZnpQTk0tdnpBRWlqM0JwS00xSzVmTzBROWgtUmhHcnBESjc4QTZuOW00UjRMdzV2Nll5Nlg1dGxyUi1sUjFZVTJpcF9jeXpWT3BTR2c1MjlhV2VycG5YSEtqaWFvaHhTR1dVQU1CS01sZjdHSmVmUXRHUnNtMkJiYV9GUnZB?oc=5",
+  "surgos": true,
+  "eredeti": "Nvidia shares surge over Jensen Huang reinstatement 11 days after resignation - South China Morning Post"
+ },
+ {
+  "ido": 1795507440,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex",
+   "Jegybank/kamat"
+  ],
+  "cim": "Kurali Zoltán: \"Az MNB szeptemberben lezárta a kamatcsökkentési ciklust\"",
+  "link": "https://www.portfolio.hu/deviza/20261124/kurali-zoltan-az-mnb-szeptemberben-lezarta-a-kamatcsokkentesi-ciklust-878644",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795506599,
   "forras": "Bloomberg",
   "temak": [
@@ -9,6 +43,18 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-24/franklin-templeton-urges-investors-to-look-beyond-the-ai-trade",
   "surgos": false,
   "eredeti": "Franklin Templeton Urges Investors to Look Beyond the AI Trade"
+ },
+ {
+  "ido": 1795506436,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Világgazdaság"
+  ],
+  "cim": "A tőzsdék és a határidős ügyletek emelkednek a Nasdaq masszív emelkedését követően. A kőolaj ára csökkent – Il Sole 24 ORE",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeVlfMVo3VE1pS3R5NlY2Vkk1dTY0XzJMZUh2SHB1T3FhQkRpQ1pOTmRXSWNNT202OVJUSlpIdzBtcVYzX1BLdWVENTA1MkNpMkNRZDh6b0tiQWFFbXdaMkpuLTZSRVV3Zkp3X21ZVEpwcDNCbTZFSzQxZzJwYmxFWU1kMkt6cHNJUlNFbGUyS1lUbEw1dVNPZUdGdVNGRVJTa0NkM3A3YWJCUQ?oc=5",
+  "surgos": false,
+  "eredeti": "Stock markets and futures up following massive Nasdaq rally. Crude oil down - Il Sole 24 ORE"
  },
  {
   "ido": 1795506222,
@@ -384,6 +430,17 @@
   "eredeti": "Emerging Market Stocks Rally as Huang’s Return Revives AI Trade"
  },
  {
+  "ido": 1795501504,
+  "forras": "Trump (magyarul)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Felgyorsíttatná a halálbüntetések végrehajtását Donald Trump - Hírstart",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlpvYWdQZHFUWVMtei0za3NFMjV2QmVlODk0SGNPQ1VhWjF3SEhQLUduVlN2VkVVQW5GMnRjQWxiVV9Bb1FSUExTOTQ2U3RibUhYeDNPeG9JV2pVeXFhc0R2ODdQU3dvWTdqaVh4V2Q3NEdRY0tmbFp0LU1KMGprNUY4cWtjMWNBd2YtSzlhZW9UaE5XanZSWWhwZ2Q?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795501500,
   "forras": "Portfolio.hu",
   "temak": [
@@ -477,6 +534,17 @@
   "eredeti": "Trump defends Huang's Nvidia comeback, claims China could have hired him - Business Standard"
  },
  {
+  "ido": 1795500637,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Tőzsde: Az S&P 500 ma emelkedéssel vagy csökkenéssel nyit? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY) – Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdEo2WjRxWHotLTh0aUtwWDBuTmpxYk1yNlVkSDExYnpSRHl0cTNLMzUwWXMzUDY3cTBZSUNCZk5PcTQ1b1NJY3ZNU1BsczBpZTI4VXh3XzZZWjlBVFo2dHRYNUVxSjB5cThCRnk2am1kYV9fbWFIQTNlUU9LbmZVTHFkb3J6VXJCYWlkdVNxaTh4YS1jS2xUVF9nMXpUOGVOazhIYUpHMGt3MnBRMmVCV3dJeWt3TjQ?oc=5",
+  "surgos": false,
+  "eredeti": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY) - Benzinga"
+ },
+ {
   "ido": 1795500108,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -554,6 +622,17 @@
   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb3NQVGpHOFlKTk4xaWRjNWZiS2cySzZiY0lnTFVLU1RoRF9zbWcxak83RkZYOExqZUplcTNBOU1NLVhNa1Y2TldUVGNFdmd2VXVSTGNqRDZGdjZTYU5DaFc0c1luaTV0VG1BUWZHR1U3Z2VJc0lIZ3p6SnVDX0FZMWZJNmR6QQ?oc=5",
   "surgos": false,
   "eredeti": "Trump Signs Directive To Bolster, Expedite Death Penalty - Yahoo News Singapore"
+ },
+ {
+  "ido": 1795499037,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "ASML 2026. december 1370,000 eladási opció (ASML261231P01370000) részvény múltbeli árfolyamai és adatai – Yahoo Finance Szingapúr",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jNlgxVUZJQ3hrV1lseTBPelRMQ3I0SnFSWlRVbG0tT2EtWWNPNm80VXFCVldzR2hfcDdzSDRaWUJMZ25DSFdHbFF0TTZVNkdITEJxWTdtTlRDRlVVUlRNWGc1Y1ZQc0lvUGNVUnhWR2U?oc=5",
+  "surgos": false,
+  "eredeti": "ASML Dec 2026 1370.000 put (ASML261231P01370000) stock historical prices and data - Yahoo Finance Singapore"
  },
  {
   "ido": 1795498982,
@@ -830,85 +909,5 @@
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSExKQlhycmtSUmdvNWYtNUhGVlZWTzBscjNNTGZ6Z2lBN1BtUWdQREhCdFZLSHE3MXlZcUt6V3Y2cFZOX1VwcVRWY1lkMHZ6b0FrYVlNZ19lOEMwejM5aGVRWFd1aDQtTTlWUVdfREUwenZRbUQyYUZ5V1BjaXZLdklVcFktdVBaeUV6NXBzRFZObDlpMzNVV1kzeHZ0YTJJYUc5djJ0X0dPSXN0VGt2RFZwVS1JQ0hIR3FldVRSM3BtckJ0?oc=5",
   "surgos": false,
   "eredeti": "Trump had 4 reasons to ‘convince’ Nvidia to rehire Jensen Huang. Here’s why it matters globally - The Conversation"
- },
- {
-  "ido": 1795495854,
-  "forras": "Bloomberg",
-  "temak": [
-   "Forex"
-  ],
-  "cim": "Szingapúr és Kína elmélyítik a jüanhoz fűződő kapcsolataikat, különös tekintettel a vállalatokra",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-china-to-deepen-yuan-ties-with-focus-on-corporates",
-  "surgos": false,
-  "eredeti": "Singapore, China to Deepen Yuan Ties With Focus on Corporates"
- },
- {
-  "ido": 1795495630,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "A Berkshire Hathaway befektetéseinek negyedét az Apple-ben tartja – The Mac Observer",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUJzRVR5WjRjU0IxLU51WGprazl2Z25Ca0c1aEM3U3pXUVNaNnMza21YR2hxSVlvYUp6TDZkOWxQTm1acVRHX2RWajZYei1PZ3BQdzh5cE0xVnpRWFg5N2VjSHdHRjdyZFhEN1VOZE5lODZSR0ZKZ2lneGVITWxmaE5lZmEtMy1wSWk1OTBPbDF3d2R1bEFwNkY5VVI?oc=5",
-  "surgos": false,
-  "eredeti": "Berkshire Hathaway Keeps a Quarter of Its Investments in Apple - The Mac Observer"
- },
- {
-  "ido": 1795495453,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump tárgyalásokat tervez a NATO-val, miközben Medvegyev fokozza a nukleáris fenyegetéseket – cwibc.co.id",
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6cU5pUUR4cDMzWm1LWnZkcDZxVjR6dk1ZLUNlNEkySFBhdVRkVkoxMEt2X29aN0dOakpRS1ZpWjU2b1k1YU04U3FZR3dYUjI3MDZxOUdGOUhlMk1Rc1lwQnQ5eUIwdkI4anc?oc=5",
-  "surgos": false,
-  "eredeti": "Trump Schedules NATO Talks as Medvedev Escalates Nuclear Threats - cwibc.co.id"
- },
- {
-  "ido": 1795495353,
-  "forras": "Bloomberg",
-  "temak": [
-   "Jegybank/kamat",
-   "Világgazdaság"
-  ],
-  "cim": "Az államkötvények árfolyama emelkedik, mivel az olcsóbb olaj enyhíti az inflációval kapcsolatos aggályokat",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
-  "surgos": false,
-  "eredeti": "Treasuries Advance as Cheaper Oil Alleviates Inflation Concerns"
- },
- {
-  "ido": 1795495320,
-  "forras": "Wall Street Journal",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Az ázsiai részvények visszapattantak, mivel Huang visszahelyezése fellendítette az MI-részvények árfolyamát – WSJ",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0pBT3BvcTJqUGdDbUlRYkdJRV9qNjZTdkVtQndVSWpSMmxSMVJqT3VQdy1BcWJDZTRkRGotMUJpdlRiT25NUXZhdC1KZXhjUFh4VUZaMGNZSE1xMlNOMDZYOVJqTmNjeUpqcjlSYW9JdE9uMkp1VlpnMVVGd1Y3S2tVSC1BZmhsY1dIVEp1TExsUWVXcWNTclh4QVkwV3EwU2o5WkhLQlpsUWdUT3FsOQ?oc=5",
-  "surgos": false,
-  "eredeti": "Asian Equities Rebound as Huang Reinstatement Sparks AI-Stock Rally - WSJ"
- },
- {
-  "ido": 1795495124,
-  "forras": "Investing.com",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Az Nvidia részvényeinek árfolyama emelkedik, mivel a Piper Sandler fenntartja a vállalat minősítését a vezérigazgató visszatérése után",
-  "link": "https://www.investing.com/news/analyst-ratings/nvidia-stock-rises-as-piper-sandler-maintains-rating-after-ceo-return-93CH-5047080",
-  "surgos": false,
-  "eredeti": "Nvidia stock rises as Piper Sandler maintains rating after CEO return"
- },
- {
-  "ido": 1795495079,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Trump",
-   "Nagy cégek"
-  ],
-  "cim": "Trump tavaly év végén legalább 12 millió dolláros Nvidia részvényt birtokolt - ABC News - Breaking News, Latest News és videók",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcm16eGltaFhHdnNpMi1kZi1vVERncG1Qc0pGa2Voa3B5WV82YnhTSTh1WXc3b3Q5VjFudjBpd2lFZExCT2Y4TkZZN0xIXzhlZ2d4dE9wbWpNRXNpcHhoRXRCaUJnWG9mdjJTa242VU9zQThKZVlGZEdUZUJPbi1lVVY4Q1psOXNxaW1jQkxhMNIBlAFBVV95cUxQOXhoLWhSci1qSU5XTHpYclFNTUd5V1NENzRzRksyS185Vmd3VDU4VmxtLUl1MFVtSktfRnpCUzE2RTFnMnd5TFIweHpKSjNITzVMMm9IUWlGMG9FMjl5enFYblFyb25wWHFFVjdCd1h6SFByVjlYQVphMDI4MlA3dE9jamR3N2ZBWlRDUURLOTFCMHRs?oc=5",
-  "surgos": true,
-  "eredeti": "Trump owned at least $12 million in Nvidia stock at the end of last year - ABC News - Breaking News, Latest News and Videos"
  }
 ]
