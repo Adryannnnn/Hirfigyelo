@@ -1,5 +1,50 @@
 [
  {
+  "ido": 1795504105,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "A Nasdaq az Nvidia-részvények árfolyam-emelkedésének köszönhetően 2025 áprilisa óta a legjobb napi teljesítményt érte el: a kapzsisági index továbbra is „extrém” szinten áll – Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNU2t4M0pQbWRrdUhYU3paOS1DRkJIM2lZZndQbEF2Sm42MklHS3lQZFJjZHpxdTVZZmlzXzEtVjZ2NENtcWY5WC1vMnRlYlNLT295U05DcUgzeUlIX1dBeTdhbnpiamtUTjVlanl5YjNCcFQtd2RxSkY4clM3Umc2SHp2cGxtNnEwOE1MOUZHZmxWdVl4aHlycHZDNHViNndWckZZV0xRRk1fTHJUVm9hWlJ4UWNqZFVKT0JlLU10NWpSLVo0N00xSDJLTV9JbGpGVXlOSTI2SXNqT3k2d0VpUW5DbG56R1ZZZGRjcEVtZDVKN3NudFdodkFpdjhBTlJWbzJncEkxWQ?oc=5",
+  "surgos": true,
+  "eredeti": "Nasdaq Records Best Session Since April 2025 Amid Surge In Nvidia Shares: Greed Index Remains In ‘Extreme - Benzinga"
+ },
+ {
+  "ido": 1795503921,
+  "forras": "Bloomberg Politika",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "Spanyolország lakhatási válsága felerősíti a haragot a választások előtt",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-24/spain-s-housing-crisis-fuels-anger-ahead-of-election-video",
+  "surgos": false,
+  "eredeti": "Spain’s Housing Crisis Fuels Anger Ahead of Election"
+ },
+ {
+  "ido": 1795503528,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "FTSE 100 élőben: Az Egyesült Királyság részvényei csatlakoznak a globális részvények emelkedéséhez",
+  "link": "https://www.bloomberg.com/news/live-blog/2026-11-24/ftse-100-live-updates-pound-gilts-gold-prices-uk-retail-sales-nvidia-ai-stocks-jensen-huang-trump-iran-what-s-moving-uk-markets-right-now-markets-today-mwucfxwp",
+  "surgos": false,
+  "eredeti": "FTSE 100 Live: UK Stocks Set to Join Global Stocks Rally"
+ },
+ {
+  "ido": 1795503300,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "NQ: A Nasdaq-futurák szünetet tartanak a 6,5%-os emelkedés után, az Nvidia visszatérése világszintű ralihoz vezet – TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTFBNekpnUDFtdVJHRTVWbzZiRGZYMFE0VjNGem9BNk90RjhFbHBtVXBlZTlJbDRzTk5iZmtsRXNVMjNWQkR6Z2Y4RHFNR1A1QTF4M2VQb2Jld0JOWUViZHVIcnhyMTdKQnRKakJvaUs5aXJNdVFIX0N6VDAybkpuNi1hYWNMZ3RwNTRJWC1DTlpzc244MTRzMWFjU25HUXV6WXlwTUt6SzRQNVY4V0w5b0cxNEJKYVoxVkFFM2w1YTZlUnp2VFBKMXFGZFMwNWxEOVFTZw?oc=5",
+  "surgos": true,
+  "eredeti": "NQ: Nasdaq Futures Pause After 6.5% Surge, Nvidia Comeback Ignites Global Rally - TradingView"
+ },
+ {
   "ido": 1795502953,
   "forras": "Bloomberg",
   "temak": [
@@ -20,6 +65,17 @@
   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQUt1X2tGOE9QdXVOVjlFLUlFZFJjLWZLeTFDb3hsbkszMExpQmxwOWtGcnk2ZkFTWVNvaENja3pnOWZVNU5zOGttTG9wZFhqaTc0Uzd3Y2pIZ1Z3LXByckpHYWdFRnpuMnpJZU9UMVBCOXduTVhOby1kU3hzMkpxRA?oc=5",
   "surgos": false,
   "eredeti": "[Column] Thank you for fighting the good fight against Trump, America - 한겨레"
+ },
+ {
+  "ido": 1795501964,
+  "forras": "Trump (magyarul)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Már ebben is benne van Donald Trump keze, de bárki is meglepődött ezen? - Liner.hu",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTmN1UVRZX0x5T3ZnRWdBYnlDLVU1M1Q0Skc3TmthQVRCVjRBNDdwa25aWVFXWm44VVN2MVVDNW1tUlQwZkYwcVRlZVFSQmpfbFlPM05nUG1NM0RuTmNCYldEdGgybzVrTlVIdzYzSU1HYThpLXFGcU83V29XTXNGS1p1OA?oc=5",
+  "surgos": false,
+  "eredeti": ""
  },
  {
   "ido": 1795501916,
@@ -102,6 +158,17 @@
   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHJSc1lQSFFnSU90UmhzTDNkRHo0NG1PUXF4eW1IejA5dXg2UkEwWGpCNmxNUVFKRVZYNzNZWi1waHljeEluVW56bWg4b25uTDN3dXA2WUtXcXRtVEVBdm1oUzNhQVBfVnZGMExxYWh2bS1vOWxtU3g0R2d4eGtPMjZ0N2hhd084R1pFUHdDVTluc1Z3aGlWX0RndG1OX0s1cUZCNm9WbG9RckllWDNKSlRxSmI?oc=5",
   "surgos": false,
   "eredeti": "U.S. stock futures tick higher after Nvidia-led Wall Street rally - Investing.com"
+ },
+ {
+  "ido": 1795500900,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Tisza-kormány: most dönt a parlament, hogyan fizet adót a magyar 2027-ben",
+  "link": "https://www.portfolio.hu/gazdasag/20261124/tisza-kormany-most-dont-a-parlament-hogyan-fizet-adot-a-magyar-2027-ben-878590",
+  "surgos": false,
+  "eredeti": ""
  },
  {
   "ido": 1795500900,
@@ -846,75 +913,5 @@
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2hFem5hQ1ZXSElQV1JvVTVNVjNYNVZiTG05RFRqcnI2akVZVHNuQmo3dGp1cUg2ZWQ0N1hwdHgweVFOSWRxdUd0RG50RHRqRnJWX1FlQld2RnBub3ZIcHcxajJmWG81N2JXY3NKblJpaDlMYWg1VUIzT0hhemVFZ0UwZ0x4WExrbkoxYVo4RElIQjVabTJSUjBMNHNCNndWbENweGkzc0hwdUVYbFE?oc=5",
   "surgos": true,
   "eredeti": "Tariff refunds worth millions are helping fund corporate bonuses - Scripps News"
- },
- {
-  "ido": 1795490216,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Irán megalázza Trump haditengerészetét! Három tanker robbant fel Hormuzban az IRGC „halálcsapda” figyelmeztetése után – The Times of India",
-  "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPLXBJRElDLUdkMjhldlRmUGFudFpHcUljcHJ2ZjhfVHZfNjE3N0hRYW0zU05yREsxUjBSTEc3WHp4Mk5tRXN4MFlhQnJVdWRod0NOTmJIU052Y3dPQVBQSjBNWTV5TjZEcTNUZmZCbHBQLWRvck9rcDFRTklpNWpYR29hYmY2QmVNWDFJeDd6X1NlUUg2YXRiV1NDbTBrUWxaVWlZWVpCQ0FIdFYtRGlYWDAxWFJkUTR2VFo3Wk1zM2dYeFc5cVU5Wk1VNlVOdlNUd2xkNDFmN056SmU3Y0JfeVRpOENkS3RTaGZzdEZkLVdvejZHY1djcm5za9IBgAJBVV95cUxQekFyUGRHTFUwcmpjOWo5bFJycEpvVGxQUk5lYXAyTlp4a0tDV3UzY0ptWW5HV095U3VHRmY4c2F4Y2JWcGxiYmJYZ1ZCTlhCdElwNnhXMkltM2RsUkpHNjdfMXRnOFItUHIxVzNFdkRFeTdfU1lGUGlQS2pFSnhJalNDS0MxMld1cElQNzAxSHhzcTdIazNZWlFKS0xmMjNWT2JZLWlZczQ0THZtU2JkQ2JyN08xWkNqdkZLU3N5UTgtczljOENrLUdnOHZITktEcnk4T1dTTUhySGJqWTJDZFFoVDVsX1FHM2xWc0tuWkpiYndSUTUxRm9QV1JvRUxS?oc=5",
-  "surgos": false,
-  "eredeti": "Iran Humiliates Trump's Navy! 3 Tankers Explode In Hormuz After IRGC's ‘Death Trap’ Warning - The Times of India"
- },
- {
-  "ido": 1795489764,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump szerint Kína Jensen Huangot választotta a vezető szerepre az Nvidia lemondása után - mondta Trump - Moneycontrol.com",
-  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaFIwaVgweDI5SUpVS2ViYzlzYkZLNDN0WVp5bW9hYTJxZy0yR2hwZTcyU1dabWFQTFE2OTQ0YUF2X093dXB5NnpHUHhYUTZkWGNud3JlTVF6b0VpR1BfUXpDemFGR1dfWEljVGZ4NUh2ZG9jd1UtMWNCMWdEemlVb09xQWdIOUxtal8xdVNNQlpfbURTQ2c2Q1NjUTFNUVRtRldfY1NvUTZKdEl0c3p0YnlmNDFjTUFkOTVxYVNValQ0OXkwdldEUHRTcDRNVVBXRDZjT2ZMONIB3AFBVV95cUxORFlJV0VTY1phRzNRbUdpUkVvMmtySDk4WUpxaVUzeE40Nkx6Q0h1b1Y1bFZNUlMxc0pqby1KTlNyWHFZRFZ0RDE3OWNSaG5Hby1MYjNBamh5cV9YNHVEQldNekQ5amQtMHp4U0lSVDJLaDZQclRaMi1qRS00TU9Fc3o0b3dVczQ3LWxfRDFOS21pMU9CNkFPRzdub3NOanV5WWVrd3JYeUtCWW9nZ3lvRVlURDByNWFxbkI3WG9PWmFXX0FIekQ5czZ2RFJMTVFPUUdrRVp5SHJIem9z?oc=5",
-  "surgos": false,
-  "eredeti": "China may have tapped Jensen Huang for top role after Nvidia resignation, says Trump - Moneycontrol.com"
- },
- {
-  "ido": 1795489640,
-  "forras": "Bloomberg",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A japán kötvények az egész hozamgörbén emelkednek a hazai részvények szárnyalásával párhuzamosan",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/japanese-bonds-rally-across-curve-as-domestic-stocks-surge",
-  "surgos": true,
-  "eredeti": "Japanese Bonds Rally Across Curve as Domestic Stocks Surge"
- },
- {
-  "ido": 1795489598,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump úgy gondolja, hogy Kína további 250 Boeing repülőgépet fog vásárolni, Világhírek – AsiaOne.com",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaEpaSjdrTkk5QlNyVjJMNERLNk1UZVdNWms4X3ZScWxRUFVJaHNlbDFiNHJQZWxtN0Npb0Z1ek5DeWRKTmNCRTJmWmZHTnB4VEJ0VEd6S2hHaXBocTExNXN5dl84QzVlTDhjNWlaOTB4b1BsNUhiQTg1bmJGSWRDa0N5VjdGc0puX3FuVUtUdw?oc=5",
-  "surgos": false,
-  "eredeti": "Trump thinks China will buy another 250 Boeing airplanes, World News - AsiaOne.com"
- },
- {
-  "ido": 1795489500,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump ismét azt mondja, hogy Kína további 250 Boeing-repülőgépet fog vásárolni – ez továbbra is csak szóbeli várakozás – BigGo Finance",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyVXVMdlNoQzAzTnBEVUJtVklfNFMwUHYxVGg5QURNWWc3V251ZFZzcHYwc1hYMk94cHhsQmV5dDNNSXlScmJzSUc5ZFZxcDFNc0hkVzRiS1BCNmpJSV9rT0c2QmtDeng5eHU5d2NLd1R0WVNSWlE?oc=5",
-  "surgos": false,
-  "eredeti": "Trump Again Says China Will Buy 250 More Boeing Jets — Still Just a Verbal Expectation - BigGo Finance"
- },
- {
-  "ido": 1795489426,
-  "forras": "Bloomberg Politika",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Wong szerint Szingapúr nem lesz alkalmas az USA forgácsos szegélyeinek szoknyájára",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-won-t-be-conduit-to-skirt-us-chip-curbs-wong-says",
-  "surgos": false,
-  "eredeti": "Singapore Won’t Be Conduit to Skirt US Chip Curbs, Wong Says"
  }
 ]
