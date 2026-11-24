@@ -1,5 +1,40 @@
 [
  {
+  "ido": 1795495854,
+  "forras": "Bloomberg",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Szingapúr és Kína elmélyítik a jüanhoz fűződő kapcsolataikat, különös tekintettel a vállalatokra",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-china-to-deepen-yuan-ties-with-focus-on-corporates",
+  "surgos": false,
+  "eredeti": "Singapore, China to Deepen Yuan Ties With Focus on Corporates"
+ },
+ {
+  "ido": 1795495453,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump tárgyalásokat tervez a NATO-val, miközben Medvegyev fokozza a nukleáris fenyegetéseket – cwibc.co.id",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6cU5pUUR4cDMzWm1LWnZkcDZxVjR6dk1ZLUNlNEkySFBhdVRkVkoxMEt2X29aN0dOakpRS1ZpWjU2b1k1YU04U3FZR3dYUjI3MDZxOUdGOUhlMk1Rc1lwQnQ5eUIwdkI4anc?oc=5",
+  "surgos": false,
+  "eredeti": "Trump Schedules NATO Talks as Medvedev Escalates Nuclear Threats - cwibc.co.id"
+ },
+ {
+  "ido": 1795495353,
+  "forras": "Bloomberg",
+  "temak": [
+   "Jegybank/kamat",
+   "Világgazdaság"
+  ],
+  "cim": "Az államkötvények árfolyama emelkedik, mivel az olcsóbb olaj enyhíti az inflációval kapcsolatos aggályokat",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/treasuries-advance-as-cheaper-oil-alleviates-inflation-concerns",
+  "surgos": false,
+  "eredeti": "Treasuries Advance as Cheaper Oil Alleviates Inflation Concerns"
+ },
+ {
   "ido": 1795495079,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -116,6 +151,17 @@
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEJEc3NMNGhjTHlKR2tiMTFLWHZrYjBTUmdsMjZseVRCWVpCdDVKUmxCV0kzYnE4MFhPQno1cHZIQzBOWGhzQ0FvNXdsN1dRcnd5RDY2VG13UnlqU1V5Yi1EZGdvTGxTdGc2XzM2RHRzbE01NGFOaThXMlhqTjVuVUlWN1RuM3FHME9kdEFEMUdud1hYVG5tRGNhRk0?oc=5",
   "surgos": false,
   "eredeti": "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants - Yahoo Finance"
+ },
+ {
+  "ido": 1795491766,
+  "forras": "Investing.com",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "Az indiai gazdaság 2027-ben: a BofA az infláció és a rúpiával kapcsolatos kockázatok ellenére is erősödést jósol",
+  "link": "https://www.investing.com/news/economy-news/indian-economy-in-2027-bofa-forecasts-strength-despite-inflation-rupee-risks-5047009",
+  "surgos": false,
+  "eredeti": "Indian economy in 2027: BofA forecasts strength despite inflation, rupee risks"
  },
  {
   "ido": 1795491666,
@@ -438,6 +484,18 @@
  },
  {
   "ido": 1795485600,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Kripto",
+   "Tőzsde"
+  ],
+  "cim": "A Dow, a Nasdaq és a Bitcoin is emelkedett Huang visszatérésekor, de miért fordult meg a Bitcoin? – Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPemNIUkZiZkpxaV92YkR6YWJwVHdrX3RJcktDWWFRUlg1dlhTeGlra01jMnIxQzIwVTRjOHM5aGc1YW1lOHg4azM5QkJMd2xNRFBpcnpLVGJaOUpyR2FCSms0UkEzMXNMX3RVczZXa3V3TXNFZDl1U1RVOGdJcmp2SFFFdWxYM1pROW9qWEViSFRhbzA1WU5GbVNDZw?oc=5",
+  "surgos": false,
+  "eredeti": "Dow, Nasdaq and Bitcoin Jump on Huang's Return, but Why Did Bitcoin Reverse? - Yahoo Finance"
+ },
+ {
+  "ido": 1795485600,
   "forras": "Wall Street Journal",
   "temak": [
    "Trump"
@@ -480,6 +538,18 @@
   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YRjkyNm5qZS0wb3VWRXJsOUllTHpVTTJuMXRLVm1EM3paWGlyWUllcmJqTkdYak1vWnIxSjVWTjdGOVozMmZVdk5VZGw4alR1ajM3OVR4c2hCQUhYaGVlSmxTV2gwY3Z3dWFn?oc=5",
   "surgos": false,
   "eredeti": "Nvidia board reinstates Jensen Huang as CEO after intervention from Pres. Trump - CNN"
+ },
+ {
+  "ido": 1795484981,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Trump beavatkozása megfordította az Nvidia igazgatótanácsának Huanggal kapcsolatos döntését – 조선일보",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1NqeUUzWC1JVTFxLUhjSGVMdVBtb3B3OThabGFnS3hGNVpVRHdQN043VkVfMDQ3QTFxcGIyMWxKOU9KQnN3VE43RnJLMXpsUjNIRk9kZk0xRzc2aG9tRnpLWnJDaENPY0xyOVFqdlRONWt6Mm5mczJrLUt0TDh2LWRFNHo2LXdr?oc=5",
+  "surgos": false,
+  "eredeti": "Trump's Intervention Reverses Nvidia Board's Huang Decision - 조선일보"
  },
  {
   "ido": 1795484880,
@@ -853,74 +923,5 @@
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5",
   "surgos": false,
   "eredeti": "Gold edges up on bargain buying after selloff; US inflation data awaited - Reuters"
- },
- {
-  "ido": 1795481756,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trump rendkívüli Nvidia-beavatkozása mellékes nemzetbiztonsági aggodalmakra – The New York Times",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY3A4YXNjbWpURzZIbVp4YTkwUTh0V0V3ekhXbmpjU2RlSzZEV053Zk1NTXFENk5lNDc4TjJWb040em10bzFvU2hvUUpiaFY2TXB3czgzTFpsYk5PeUs4M3VRNy1DUXBKWXd3T2JGNUd6bHMxdTJfSFhQWGxyamlPdjFReEgzS1RoWGc?oc=5",
-  "surgos": false,
-  "eredeti": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns - The New York Times"
- },
- {
-  "ido": 1795481640,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Elizabeth Warren Trump adminisztrátorának magyarázatát kéri az Nvidia vezérigazgatójának visszaállításáról szóló döntéshez – MassLive",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYmVDTG1FV2lLYllXXzB4amtEc05JY0JRUlkzSWFyaVpNTDRyc0k0Q2xVNFV6bUhwMXUwSUdDUjhsODlKdVlJX3djaVFNZWdEdURuT3Z0MDRQVmZDZGYwa1hoQmsyQ3JhTWlrdEt2RDFtZ3lSVV9yUlprU0hTakxVbkdOSzBtaTJDOUxPZUJXOTVESUx2UlpJMXVnRnJQaTQtZWxlaERLZEhkWUNVZjlaeUNiN1JBRE9lcnFVQ1FDdi1UUWdHWVA0aEUzSEROdw?oc=5",
-  "surgos": false,
-  "eredeti": "Elizabeth Warren demands Trump admin explain ‘input’ in decision to reinstate Nvidia CEO - MassLive"
- },
- {
-  "ido": 1795481476,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Miért van ma az AMD készlete? A részvények 6,85%-ot ugrottak, mivel az Nvidia visszahozta Jensen Huangot vezérigazgatóként – Prága környékén",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNnY4Si13ak00X3lmN0FMSnFwcW9CQXloaFpsMzhTUk42aDFNWUthQm9pZHkxaEwyX3MxTkhjbEV5eVpsNGhhSm5KV1d4NGR2R2dTV1RkUnVLQWxNNVBrVE1Cems0R0pJeTlGeWlRUzFJaU15MTFZWUNJMDR3R2F4UFRHVkVMSkppaDROa3Nmcl9wdnRZZ2Fvd1J4cXkyaVdlVG80NkJGNHk1T0xpblpfV1ZB?oc=5",
-  "surgos": false,
-  "eredeti": "Why Is AMD Stock Up Today? Shares Jump 6.85% as Nvidia Brings Back Jensen Huang as CEO - Around Prague"
- },
- {
-  "ido": 1795481280,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Az amerikai részvény határidős árfolyama stabil az Nvidia vezette Wall Street rally után – a Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFkzaTBpMy1QY3pYOG1fR1dlUG0yZ0ZEcEtpYlpXeGxsNXZaQzczVzlTLUdSOXFZUTlRX2pDd0F0TVRfVmpLYng2ZUE1NU9hSVVLalVxcEVKT1p5Uzd1S19UWDVVUjJNb1JPSmRUSDVEYUVkMElmSzU3eHU3dDhzSktWOXRjOWV6YkZWMDc4WjBqdm5aaXpXaUJ3?oc=5",
-  "surgos": false,
-  "eredeti": "U.S. stock futures steady after Nvidia-led Wall Street rally - Yahoo Finance"
- },
- {
-  "ido": 1795481120,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Az ázsiai chipgyártó részvények szárnyalnak az Nvidia rally nyomán; Dél-Korea, Tajvan vezet",
-  "link": "https://www.investing.com/news/stock-market-news/asia-chipmaking-stocks-soar-tracking-nvidia-rally-skorea-taiwan-lead-5046844",
-  "surgos": true,
-  "eredeti": "Asia chipmaking stocks soar tracking Nvidia rally; S.Korea, Taiwan lead"
- },
- {
-  "ido": 1795481086,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "A Micron részvényei 19%-ot ugrottak a Huang hozamára, és nincs mögötte új szerződés – Startup Fortune",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORUZjSnNPUUJnVGt2MjBiUThmTlR1R3VFVjNlWHdIWUo1eWxfZ1ZFOTVhQUJkMGVtbWZXNWlKaFZ0S1doNUJsWEpjY2lXSHNxaVZKdURmUnFSa1o3Vlg3UnFXSndQaktMcEo3WkdfNi01UjU4UFdpX2hfWk5hcWdpVTJyeU9nUVF3MlhTeHd0MTAzTGQ3SGFlMlFtczFyWU0?oc=5",
-  "surgos": false,
-  "eredeti": "Micron stock jumps 19% on Huang's return, with no new contracts behind it - Startup Fortune"
  }
 ]
