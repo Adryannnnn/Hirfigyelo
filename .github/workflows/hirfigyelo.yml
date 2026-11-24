@@ -9,6 +9,10 @@ on:
         description: "Csak tesztértesítést küld (a híreket nem ellenőrzi)"
         type: boolean
         default: false
+      diag:
+        description: "Telegram-diagnózis is (csak ha a tesztelés közben a Telegram nem válaszol; terheli a botot)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -37,14 +41,15 @@ jobs:
         run: python3 hirfigyelo.py --test
 
       - name: Telegram diagnózis
-        if: github.event.inputs.teszt == 'true'
+        if: github.event.inputs.diag == 'true'
         continue-on-error: true
         timeout-minutes: 2
         run: |
           sleep 30  # hagyjuk lecsengeni a korlátozást az előző lépés után
           python3 hirfigyelo.py --telegram-diag
           echo "--- curl próba ---"
-          curl -sS -m 20 -o /dev/null -w "curl getMe: HTTP %{http_code}, %{time_total} mp\n" -A "Mozilla/5.0" "${TELEGRAM_API_URL:-https://api.telegram.org}/bot${TELEGRAM_BOT_TOKEN}/getMe" || echo "curl hiba"
+          API="${TELEGRAM_API_URL:-https://api.telegram.org}"
+          curl -sS -m 20 -o /dev/null -w "curl getMe: HTTP %{http_code}, %{time_total} mp\n" -A "Mozilla/5.0" "${API%/}/bot${TELEGRAM_BOT_TOKEN}/getMe" || echo "curl hiba"
 
       - name: Hírek ellenőrzése
         if: github.event.inputs.teszt != 'true'
