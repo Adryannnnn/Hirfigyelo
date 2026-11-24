@@ -843,17 +843,106 @@ def ertesit(cim, uzenet, link=None, surgos=False, html_uzenet=None):
 FF_NAPTAR_URL = "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
 MFX_NAPTAR_URL = "https://www.myfxbook.com/forex-economic-calendar"
 ZEN_ZSEBEL = {"EUR": "🇪🇺", "USD": "🇺🇸"}
+TRUMP_IKON = {"High": "🔴", "Medium": "🟠", "Low": "🟡"}
+
+
+def trump_kulcs(d, cim):
+    return f"{d.strftime('%Y-%m-%d %H:%M')}|{cim}"
+
+
+def trump_allapot_ment(lattott):
+    """A már jelzett Trump-események mentése (a 2 napnál régebbieket eldobja)."""
+    from datetime import timedelta
+    hatar = (datetime.now() - timedelta(days=2)).strftime("%Y-%m-%d")
+    allapot = json_betolt(KULDOTT_FAJL, {})
+    if not isinstance(allapot, dict):
+        allapot = {}
+    allapot["trump_beszed"] = {k: v for k, v in lattott.items() if k[:10] >= hatar}
+    KULDOTT_FAJL.write_text(json.dumps(allapot, ensure_ascii=False), encoding="utf-8")
+
+
+def trump_jelol(ma, trump):
+    """A reggeli naptárban már szereplő Trump-eseményeket ismertnek jelöli, hogy ne jöjjenek újra."""
+    try:
+        allapot = json_betolt(KULDOTT_FAJL, {})
+        lattott = dict(allapot.get("trump_beszed", {})) if isinstance(allapot, dict) else {}
+        for d, penz, cim, imp, elo, elozo in trump:
+            lattott.setdefault(trump_kulcs(d, cim), "naptar")
+        trump_allapot_ment(lattott)
+    except Exception as e:
+        print(f"[!] Trump-állapot mentése nem sikerült: {e}", file=sys.stderr)
+
+
+def trump_beszed_ellenorzes():
+    """Napközbeni figyelés: ha a Forex Factory naptárába BÁRMILYEN színű Trump-esemény (beszéd, sajtótájékoztató)
+    kerül, azonnal értesít a pontos (budapesti) időponttal, majd röviddel az indulás előtt emlékeztet.
+    Csendes órákban nem küld (a reggeli naptár ezeket is tartalmazza)."""
+    if not CFG.get("trump_beszed_aktiv", True):
+        return 0
+    from zoneinfo import ZoneInfo
+    most_dt = datetime.now(ZoneInfo("Europe/Budapest"))
+    ma, ora = most_dt.strftime("%Y-%m-%d"), most_dt.hour
+    tol, ig = int(CFG.get("csendes_tol", 22)), int(CFG.get("csendes_ig", 7))
+    if (ora >= tol or ora < ig) if tol > ig else (tol <= ora < ig):
+        return 0
+    penznemek = CFG.get("naptar_penznemek") or ["EUR", "USD"]
+    try:
+        _, _, trump = ff_naptar(penznemek, ma)
+    except Exception as e:
+        print(f"[!] Trump-beszéd ellenőrzés: a naptár nem érhető el ({e.__class__.__name__}: {e})", file=sys.stderr)
+        return 0
+    allapot = json_betolt(KULDOTT_FAJL, {})
+    lattott = dict(allapot.get("trump_beszed", {})) if isinstance(allapot, dict) else {}
+    emlek = int(CFG.get("trump_emlekezteto_perc", 20))
+    kuldeni = []
+    for d, penz, cim, imp, elo, elozo in trump:
+        perc = (d - most_dt).total_seconds() / 60
+        if perc < -60:
+            continue  # már lezajlott
+        k = trump_kulcs(d, cim)
+        ikon = TRUMP_IKON.get(imp, "⚪")
+        if k not in lattott:
+            lattott[k] = "uj"
+            if 0 < perc <= emlek:
+                lattott[k + "#r"] = "r"   # indulás előtt közvetlenül derült ki: emlékeztető már nem kell
+            kuldeni.append((k, f"🎤 Trump – {d.strftime('%H:%M')}", f"{ikon} {d.strftime('%H:%M')} – {cim}\n(Forex Factory szerint, budapesti idő; mappa színe: {ikon})"))
+        elif emlek and 0 < perc <= emlek and (k + "#r") not in lattott:
+            lattott[k + "#r"] = "r"
+            kuldeni.append((k + "#r", f"⏰ Trump {int(perc) + 1} percen belül – {d.strftime('%H:%M')}", f"{ikon} {d.strftime('%H:%M')} – {cim}"))
+    if not kuldeni:
+        return 0
+    trump_allapot_ment(lattott)  # előbb mentünk, így hiba esetén sem megy ki kétszer
+    kiment = 0
+    for k, cim, uzenet in kuldeni:
+        try:
+            ertesit(cim, uzenet, None, True)
+            kiment += 1
+        except Exception as e:
+            print(f"[!] Trump-értesítés nem ment ki ({e.__class__.__name__}: {e})", file=sys.stderr)
+            lattott.pop(k, None)
+            trump_allapot_ment(lattott)
+    return kiment
 
 
 def ff_naptar(penznemek, ma):
-    """Forex Factory heti JSON-csatornája: a mai, piros mappás (High) események a megadott pénznemekre.
-    Visszaad: [(idő, pénznem, cím, előrejelzés, előző)]."""
+    """Forex Factory heti JSON-csatornája: a mai PIROS (High) és SZÜRKE (Holiday) események, valamint a
+    TRUMP-eseményei (beszéd stb.) a mappa színétől függetlenül.
+    Visszaad: (piros, szurke, trump). piros/szurke: [(idő, pénznem, cím, előrejelzés, előző)];
+    trump: [(datetime, pénznem, cím, impact, előrejelzés, előző)] időrendben."""
     from zoneinfo import ZoneInfo
     bud = ZoneInfo("Europe/Budapest")
     adat = json.loads(letolt(FF_NAPTAR_URL, timeout=25).decode("utf-8"))
-    ki = []
+    piros, szurke, trump = [], [], []
     for e in adat:
-        if e.get("impact") != "High" or e.get("country") not in penznemek:
+        imp = e.get("impact")
+        cim = str(e.get("title", "")).strip()
+        trump_e = "trump" in cim.lower() and imp != "Holiday"
+        if not trump_e and (imp not in ("High", "Holiday") or e.get("country") not in penznemek):
+            continue
+        if imp == "Holiday":
+            # a szürke (ünnep) esemény egész napos: a dátum szerinti napot nézzük, időzóna-átváltás nélkül
+            if str(e.get("date", ""))[:10] == ma:
+                szurke.append(("egész nap", e["country"], cim, "", ""))
             continue
         try:
             d = datetime.fromisoformat(e["date"]).astimezone(bud)
@@ -861,9 +950,12 @@ def ff_naptar(penznemek, ma):
             continue
         if d.strftime("%Y-%m-%d") != ma:
             continue
-        ki.append((d, e["country"], str(e.get("title", "")).strip(), e.get("forecast") or "", e.get("previous") or ""))
-    ki.sort(key=lambda x: x[0])
-    return [(d.strftime("%H:%M"), c, t, f, p) for d, c, t, f, p in ki]
+        if trump_e:
+            trump.append((d, e.get("country", ""), cim, imp or "", e.get("forecast") or "", e.get("previous") or ""))
+        if imp == "High" and e.get("country") in penznemek:
+            piros.append((d, e["country"], cim, e.get("forecast") or "", e.get("previous") or ""))
+    piros.sort(key=lambda x: x[0]); trump.sort(key=lambda x: x[0])
+    return [(d.strftime("%H:%M"), c, t, f, p) for d, c, t, f, p in piros], szurke, trump
 
 
 def mfx_naptar(penznemek):
@@ -889,37 +981,74 @@ def mfx_naptar(penznemek):
     return ki
 
 
-def naptar_sorok(lista):
+def naptar_sorok(lista, jel="🔴"):
     sima, htm = [], []
     for ido, penz, cim, elo, elozo in lista:
         extra = " – ".join(x for x in (f"várható: {elo}" if elo else "", f"előző: {elozo}" if elozo else "") if x)
-        s = f"🔴 {ido} {ZEN_ZSEBEL.get(penz, '')} {penz} – {cim}" + (f" ({extra})" if extra else "")
+        s = f"{jel} {ido} {ZEN_ZSEBEL.get(penz, '')} {penz} – {cim}" + (f" ({extra})" if extra else "")
         sima.append(s)
         htm.append(html.escape(s))
     return sima, htm
 
 
 def naptar_kuldes(ma, teszt=False):
-    """Reggeli naptár-üzenet: Forex Factory + Myfxbook piros mappás EUR/USD események. True, ha elment."""
+    """Reggeli naptár-üzenet: piros mappás EUR/USD hírek (név + időpont, budapesti idő) és a szürke mappa
+    (ünnepek). Ha nincs piros hír, ezt külön kiírja. True, ha elment."""
     penznemek = CFG.get("naptar_penznemek") or ["EUR", "USD"]
-    reszek, hibak = [], []
+    sima_sorok, htm_sorok, hibak = [], [], []
     db = 0
-    for nev, fn in (("Forex Factory", lambda: ff_naptar(penznemek, ma)), ("Myfxbook", lambda: mfx_naptar(penznemek))):
-        try:
-            lista = fn()
-            sima, htm = naptar_sorok(lista) if lista else (["Ma nincs piros mappás EUR/USD esemény."],) * 2
-            if lista:
-                db += len(lista)
-            reszek.append((f"{nev} ({len(lista)})", sima, htm))
-        except Exception as e:
-            hibak.append(nev)
-            print(f"[!] {nev} naptár nem érhető el ({e.__class__.__name__}: {e})", file=sys.stderr)
-            reszek.append((nev, [f"Nem sikerült lekérni ({e.__class__.__name__})."], [html.escape(f"Nem sikerült lekérni ({e.__class__.__name__}).")]))
+
+    def hozzaad(sima, htm=None):
+        sima_sorok.append(sima)
+        htm_sorok.append(htm if htm is not None else html.escape(sima))
+
+    def forras(nev, piros, szurke, trump=None):
+        nonlocal db
+        db += len(piros)
+        hozzaad(f"{nev}", f"<b>{html.escape(nev)}</b>")
+        if piros:
+            s, h = naptar_sorok(piros, "🔴")
+            sima_sorok.extend(s); htm_sorok.extend(h)
+        else:
+            hozzaad("✅ Nincs mára piros mappás hír.")
+        if szurke is not None:
+            if szurke:
+                s, h = naptar_sorok(szurke, "⚪")
+                hozzaad("Szürke mappa (ünnep / nem gazdasági):")
+                sima_sorok.extend(s); htm_sorok.extend(h)
+            else:
+                hozzaad("⚪ Szürke mappa: ma nincs.")
+        trump = [t for t in (trump or []) if t[3] != "High"]  # a piros Trump-esemény már fent szerepel
+        if trump:
+            hozzaad("🎤 Trump-események (más színű mappa):")
+            for d, penz, cim, imp, elo, elozo in trump:
+                hozzaad(f"{TRUMP_IKON.get(imp, '⚪')} {d.strftime('%H:%M')} – {cim}")
+        hozzaad("")
+
+    try:
+        piros, szurke, trump = ff_naptar(penznemek, ma)
+        forras("Forex Factory", piros, szurke, trump)
+        if not teszt:
+            trump_jelol(ma, trump)
+    except Exception as e:
+        hibak.append("Forex Factory")
+        print(f"[!] Forex Factory naptár nem érhető el ({e.__class__.__name__}: {e})", file=sys.stderr)
+        hozzaad(f"Forex Factory: nem sikerült lekérni ({e.__class__.__name__}).")
+        hozzaad("")
+    try:
+        forras("Myfxbook", mfx_naptar(penznemek), None)
+    except Exception as e:
+        hibak.append("Myfxbook")
+        print(f"[!] Myfxbook naptár nem érhető el ({e.__class__.__name__}: {e})", file=sys.stderr)
+        hozzaad(f"Myfxbook: nem sikerült lekérni ({e.__class__.__name__}).")
+        hozzaad("")
     if len(hibak) == 2:
         return False
-    sima = "\n\n".join(f"{c}\n" + "\n".join(s) for c, s, _ in reszek)
-    htm = "\n\n".join(f"<b>{html.escape(c)}</b>\n" + "\n".join(h) for c, _, h in reszek)
-    ertesit(f"📅 Piros mappás hírek – {'/'.join(penznemek)} ({db})" + (" [TESZT]" if teszt else ""), sima, None, False, htm)
+    sima = "\n".join(sima_sorok).strip()
+    htm = "\n".join(htm_sorok).strip()
+    cim = (f"📅 Mai piros mappás hírek – {'/'.join(penznemek)} ({db})" if db
+           else f"📅 Nincs mára piros mappás hír – {'/'.join(penznemek)}")
+    ertesit(cim + (" [TESZT]" if teszt else ""), sima, None, False, htm)
     return True
 
 
@@ -1140,6 +1269,7 @@ def egy_kor(kuldes=True):
                                             "napi_fuggo": napi_fuggo, "utolso_napi": utolso_nap,
                                             "utolso_reggeli": utolso_reggeli, "utolso_surgos": utolso_surgos,
                                             "utolso_naptar": utolso_naptar, "naptar_probak": naptar_probak,
+                                            "trump_beszed": kall.get("trump_beszed", {}),
                                             "tg_szunet_ig": TG_SZUNET_IG},
                                            ensure_ascii=False), encoding="utf-8")
     ALLAPOT_FAJL.write_text(json.dumps(lattott[-10000:]))
@@ -1246,6 +1376,12 @@ def egy_kor(kuldes=True):
                 KULDOTT_FAJL.write_text(json.dumps(allapot, ensure_ascii=False), encoding="utf-8")
             except Exception as e:
                 print(f"[!] naptár állapot visszaállítása nem sikerült: {e}", file=sys.stderr)
+
+    if kuldes and not elso_futas:
+        try:
+            kiment += trump_beszed_ellenorzes()
+        except Exception as e:
+            print(f"[!] Trump-beszéd ellenőrzés hibázott ({e.__class__.__name__}: {e})", file=sys.stderr)
 
     if kuldes and TG_SZUNET_IG != tg_szunet_regi:
         # a Telegram korlátozott: a szünet időpontját elmentjük, hogy a következő futások ne terheljék tovább
