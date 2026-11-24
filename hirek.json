@@ -1,5 +1,106 @@
 [
  {
+  "ido": 1795521291,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Vélemény | Az Nvidia bebizonyítja, hogy senki sem tud semmit a tőzsdéről - The Washington Post",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTi03OVRQelFBa2FKOS1ray10bDRKZUtnekpoQl9qdjBXOUNrR2FVMFZ1OElzaE4xRlp4RDBBTGdhTmt3TVVYY3ZkdmtOTDM4cnJhdk9vUDlqM1haSGxLV29ySHFzLVk5OHBMY2wzRHZNaFpoUzdEQURVTWMtWXE5WmR3MFl3NVVOZHBmOGxwdnN1cjFRNkVYVnJ6TG02STNzWFJQMW1SRTdOZw?oc=5",
+  "surgos": false,
+  "eredeti": "Opinion | Nvidia proves nobody knows anything about the stock market - The Washington Post"
+ },
+ {
+  "ido": 1795521263,
+  "forras": "Negyedéves jelentések (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A Medtronic fenntartja az éves előrejelzést a vegyes negyedéves eredmények után – Traders Union",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmZHaVd2bDBQTVZiOVhSdkxaM3p1Z2Y0OFpKZGpSZzlmbUlHMmRsek11T2xBOGE0M0dRczU0aWJLajd5M3VqYXhZellZSzhMenRCeGZYNXFGREJYMkppMGd4TU8yN0dVNDRBTlpkc1lPMElTdFE5cVZxOGwyd2dpNFB0TkR2bGpzend1WVp2UzdzM1NnWGgwZQ?oc=5",
+  "surgos": false,
+  "eredeti": "Medtronic maintains annual forecast after mixed quarterly results - Traders Union"
+ },
+ {
+  "ido": 1795521120,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Félmillió magyar adatai kerültek veszélybe, röpködnek a milliós bírságok",
+  "link": "https://www.portfolio.hu/gazdasag/20261124/felmillio-magyar-adatai-kerultek-veszelybe-ropkodnek-a-millios-birsagok-878734",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795520956,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "A Meta Stock visszaesett az előpiacon, mivel a C osztályú részvények szüneteltetése 60 milliárd dolláros mesterségesintelligencia-finanszírozási terv késik – Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNURCWEpIbFQ1TVVkdzRSWGxQUWRPS2pyRmxYdXRvT2FTNDVCMUJ5SG9vaEZ2YXh5cS1EWEEtQnFQdE9Lb2xUdnAzRlZzUU5FOWxfLXpnZFJwSjhOY2x4MHU5endNWHNuQjZjc3l0M24yZFNzSkFUNUtOMFZhdlNHbllNWVhsbXlfZ2VfbUp3Q25iTWtEeWI5cmxDU1FhUG9LQ2tSbHFDbkhxQ3lzbWt4NElsUGtablh6R1g1OG5SUExhWjBET1dUM25xSkhpdUhFTzdodXhn?oc=5",
+  "surgos": false,
+  "eredeti": "Meta Stock Dips Premarket As Class C Share Pause Delays $60 Billion AI Funding Plan - Benzinga"
+ },
+ {
+  "ido": 1795520820,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Esésnek indult a forint",
+  "link": "https://www.portfolio.hu/deviza/20261124/esesnek-indult-a-forint-878594",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795520820,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "Megszólalt Varga Mihály a magyar euróbevezetésről",
+  "link": "https://www.portfolio.hu/gazdasag/20261124/megszolalt-varga-mihaly-a-magyar-eurobevezetesrol-878740",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795520713,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Trump bírálja a kaliforniai halálraítélt kegyelmi döntését - cbs19.tv",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc29hVm5uSFZlZnNLN1dOZ0RxRks3Wlh3VjRlaHJkNTRORWFicUxKSUI5S3VhSzVfOXZVajVHT3lXOEVTcmFRUjByMFpkZ3E5cTJTeHh0TjhNeEwxXzFnRkJuejFLZmFYM1VBRTNoT2dzb1RZLXA3QWJ5UkJNNU95b0JZMzUyVHg1ZmJnWHk0TFA2NElFeHJhVFhYVlpVNGQtakF6dXhxQ0ZmclhwYzJPa01SZTRGN3pVaGc5RWQ5ejR3ajhUaVJIblZJTGFxcmM?oc=5",
+  "surgos": false,
+  "eredeti": "Trump criticizes California death row clemency decision - cbs19.tv"
+ },
+ {
+  "ido": 1795520459,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Miért csökken ma az Nvidia részvénye? - Coinpedia",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5TXhfT2VrZmpSN0RPa25LT1hhRW9PUzdhdTBjMnhwSE5ycTJsV0FkRmh2aFQtOVJEVG5POHN1Z1ZYeGxSVVdGVXg3OENERnc0UjlUeFMyZWtXOFFhQXpfMW1wUmpkUXoxUnlDSFhySFBqaUNCLTNhTzdOcGzSAYIBQVVfeXFMUEZVbnRvTnJHOHlsT3FaY3JzQ1lFbGZLQlNxbDhGNGVTMWI2aHhLZE5NV3pQeFdEdVNqbm9IY3h0VlljUnRCaWxqZ3hfVWg1em9QQi1iUmxMSnZLYW85dFVJOHhnemtEblhDckNYOG9xQ2VfNVQxX2duaVJRakpkM2hYUQ?oc=5",
+  "surgos": false,
+  "eredeti": "Why Is Nvidia Stock Down Today? - Coinpedia"
+ },
+ {
+  "ido": 1795520433,
+  "forras": "Cointelegraph",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "A Bitcoin csökkent Huang Nvidia kilépésekor, de 5%-ot ugrott a visszatérése után",
+  "link": "https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "surgos": false,
+  "eredeti": "Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return"
+ },
+ {
   "ido": 1795520340,
   "forras": "MarketWatch",
   "temak": [
@@ -91,6 +192,18 @@
   "eredeti": "Nvidia Market Whiplash Far From Over, Says RBC’s Wu Silverman"
  },
  {
+  "ido": 1795519170,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "A SpaceX és a Tesla igazgatói tárgyalásokat folytatnak a 3500 milliárd dolláros lehetséges egyesülésről – Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPelNaSXNWTm03SUdNU1E1YlFqaHMzeG1heTVrY0FsMWROU0V1TmxBY0k1LW9pWF9sbGQxMTMzSWM2SDN5SHF2N19mTGE1c1QyNG5RUWFLbjZuNnU5RlE3STl1eHJXUG51SkNWTWJGMnluMlFYaG5pb2tjTHdOWE11RTFGU1o0OFBMQ0YwZExIRGF5TGEyWmJZUnhSZFd0aGs?oc=5",
+  "surgos": false,
+  "eredeti": "SpaceX and Tesla Directors Hold Talks Over Potential US$3.5 Trillion Merger - Yahoo Finance"
+ },
+ {
   "ido": 1795519164,
   "forras": "Bloomberg",
   "temak": [
@@ -112,6 +225,17 @@
   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcTlUNmR2azQ4N2c0R2tmYTVnVmlmakYtaXkyQ0pBS0NORGVkVVA3S3d4YlhtMHpqOWVaWHNOMXhMM1NTeVF0bGpTX2ZIdzI5VEQwRWhBSjBlOVhGTkVTMlc3M2hNdDAzYVoyVWZ3aHJWbGh2enN4M05EQ0xqc0g3MHJGbXZRX2hjVkRKZ3NuVnZoVFJiVUYtaVRmd3BGcmRnaGpiWUdZcWM5Mm42aHM0UTV0OTBjTUE?oc=5",
   "surgos": false,
   "eredeti": "Why are stock market futures down today? Nasdaq futures slip as Nvidia gives back part of Monday's rally - Nacionale"
+ },
+ {
+  "ido": 1795518967,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az ASML (ENXTAM:ASML) részvényei prémiummal kereskedhetnek a 107%-os kifutást követően – Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2wyeEpDa1lkbDRrcVlNXzBrWFVSMTAybUpjSDBTemFDSUJCUmx3cFA3YUxQcGtHSERyUlFXU2QyTk1wYWxHRElKa1B1UXpUWDl3YnN4MDBhRDJXbnk1N1poYVlpVlRYdkJyTTJDSHJTdXRtcFA1RXBzS3VfSHh5RFlQcjJkLWRvcWdLWFlES1lTUG0tVHc?oc=5",
+  "surgos": false,
+  "eredeti": "ASML (ENXTAM:ASML) Stock May Trade At A Premium Following Its 107% Run - Yahoo Finance"
  },
  {
   "ido": 1795518720,
@@ -347,6 +471,28 @@
   "eredeti": "BTCS sells more than half its ether to repay $43.8 million in Aave debt"
  },
  {
+  "ido": 1795517690,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A Wedbush csökkentette a Zscaler részvényeinek minősítését a CrowdStrike felvásárlásakor",
+  "link": "https://www.investing.com/news/analyst-ratings/wedbush-cuts-zscaler-stock-rating-on-crowdstrike-acquisition-93CH-5047759",
+  "surgos": false,
+  "eredeti": "Wedbush cuts Zscaler stock rating on CrowdStrike acquisition"
+ },
+ {
+  "ido": 1795517641,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A Dollar Tree bevétele 0,25 dollárral meghaladta a becsléseket",
+  "link": "https://www.investing.com/news/earnings/dollar-tree-earnings-beat-by-025-revenue-topped-estimates-5047756",
+  "surgos": false,
+  "eredeti": "Dollar Tree earnings beat by $0.25, revenue topped estimates"
+ },
+ {
   "ido": 1795517483,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -427,6 +573,17 @@
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNlFDejB5bGZ3YzVwRzRXTWZqbkJFUV9tbEcyeGhqTTBpZHhsRTNkX1hXQVhDNV96ZHp6WXVDZ1VZZ2JuTjZpRW44Vnc2RVVSd0FLcDJLcEFGLXBUV2c1cHBNYzNRR0dhQmViYnFCSzlSdno2WGJDTU5fNS1UTzIwSlJsUHA4TlE0eGQtYWJn?oc=5",
   "surgos": false,
   "eredeti": "Micron: Pounding The Buy Table (Double Upgrade) - Seeking Alpha"
+ },
+ {
+  "ido": 1795516560,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "Kármán András páros lábbal szállt bele az előző kormányba és Nagy Mártonba",
+  "link": "https://www.portfolio.hu/gazdasag/20261124/karman-andras-paros-labbal-szallt-bele-az-elozo-kormanyba-es-nagy-martonba-878720",
+  "surgos": false,
+  "eredeti": ""
  },
  {
   "ido": 1795516560,
@@ -766,163 +923,5 @@
   "link": "https://www.portfolio.hu/gazdasag/20261124/egyre-tobb-magyar-tesz-felre-de-a-rendszeressegben-meg-van-hova-fejlodni-877436",
   "surgos": false,
   "eredeti": ""
- },
- {
-  "ido": 1795514321,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "A világ részvényei vegyesek a Wall Street fellendülése után, amikor Jensen Huang visszatér az Nvidia vezérigazgatójaként – Click2Houston",
-  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWnY1VjFrdUpMbVZwTUJWSHdLLTg5Qlh3WjRpY0l5aFN6Vmw2MVNuNEJsTUk5QzJ5VjcyTWxZdFk3X1NObEdZb0JPNkhXd3RialV2OFdGSGhTanBib2htc0F4OXo5UkFGdk1raV9PTU83dE52M3E5R2dNV3hmbThLdHF2RVZ4bUxGVThpZXY4WV9jSW1PemJfdnFHZ0R4ZW9TN09WbVF2OWxIX1ljSjFhVll3MmdtbE41eHNMSXQ0SDJiWmhySGhSTTNuekhrSUk?oc=5",
-  "surgos": false,
-  "eredeti": "World stocks are mixed after Wall Street's rebound as Jensen Huang returns as Nvidia’s CEO - Click2Houston"
- },
- {
-  "ido": 1795514280,
-  "forras": "MarketWatch",
-  "temak": [
-   "Tőzsde",
-   "Jegybank/kamat"
-  ],
-  "cim": "A bikák és a medvék által okozott meglepetések, amelyek jövőre meglephetik a befektetőket a Bank of America szerint",
-  "link": "https://www.marketwatch.com/story/the-bull-and-bear-surprises-that-could-ambush-investors-next-year-according-to-bank-of-america-1cf7dc26?mod=mw_rss_topstories",
-  "surgos": false,
-  "eredeti": "The bull and bear surprises that could ambush investors next year, according to Bank of America"
- },
- {
-  "ido": 1795514222,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Az Nvidia vezérigazgatója, Jensen Huang visszatért, és a részvénybefektetők újabb nagyszerű híreket kaptak az AI Chip Giant - The Motley Fool -ról",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS01WZUtnM25rYlFRMS04d0ZwVl9DT2JFOGEwTFdUc0ZwZ3ZMajNBQkxjbHZLYm1LZ0JES2dOOFIwajgtSGU0d1hhSUlXREg5SnVNS193djZzQlBpZGVZS1Y1bXJrYlh6Z0NOTGFGZnB5dkFkcXVtOHE4Q3M0Qm9vV3Npb29ZR0dHU3VIYmJpb3NCRzZpQ25GcGFuMGh0UQ?oc=5",
-  "surgos": false,
-  "eredeti": "Nvidia CEO Jensen Huang Is Back, and Stock Investors Just Got More Great News About the AI Chip Giant - The Motley Fool"
- },
- {
-  "ido": 1795514220,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Hogyan emelte fel a mesterséges intelligencia fellendülése az Enablence Technologies Inc.-t (TSXV:ENA) a TSX Venture Exchange-en a negyedéves eredmények előtt - kalkine.ca",
-  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTlV2YmdmbGdxektsSUJ3MkdUTEpETWFRMkpOZVZoeW1md211YjJnQ2laUnFmWURlOTQ0S25GTVFoeU5vbEpaUWQzcmJYVWt5TU1QSmJQTWs2dmxMdk1PLVI1LVB6SEh1TE5ENTZ4eFZHc2NnR2lqMGRfbHVNQS1GYlFuUDNMVVRIR0xWVS1JdU5OZ0J1aEtNeWZMTjNwck1QZzl5djdDbmFtQmlQUmVfbnFDMDZyZ3JDV1QzV2JJRjdrZHJieWYxTHZlZWxtQm5yS2hQYkl2Zk9iVnpzbzlQQWZ4cHM?oc=5",
-  "surgos": false,
-  "eredeti": "How the AI rebound lifted Enablence Technologies Inc. (TSXV:ENA) on the TSX Venture Exchange ahead of quarterly results - kalkine.ca"
- },
- {
-  "ido": 1795514205,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "A Walmart elnök-vezérigazgatója, John Furner 1,69 millió dollár értékben értékesített vállalati részvényeket Az Investing.com cikke alapján – Investing.com India",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON0xzb2NkRjNhc3FndGZnZ1FqcmxlSWtNMHRJcGRCYm52WUduTHk3X3dJelFQRnhSSnh1eU9GRUhtNVNKcW1XR2k4cU5EMzd5emdTZTVLc3E1SGtONnhvbkpETDYybHpLRTEwMWtIb0JlRlpRWi04blBDb0hucVdsZ2xzUGhFRWs1LXFEeFNaMVpPVDNRWjN3S2R0V29kcG5UX3JQZkMtUnRydzJkdzlxazVBbVNNakNGQ1A0X1RWSHM?oc=5",
-  "surgos": false,
-  "eredeti": "Walmart president & CEO John Furner sells $1.69M in company stock By Investing.com - Investing.com India"
- },
- {
-  "ido": 1795513978,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump Floridában találkozik Rutte NATO-főtitkárral – Reuters – UA.NEWS",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPelZmYVNXUzR2QUFvUUd3NFV2am9VZG41YmJ2dE9CSEV3a2lvN05ZV2VNaXJqeGt2bU1BOHktbVo2RkstbjNuMnhGUUFQQzBFWTRKZ05XTG04eGlXb18xdGZTeDBuTERUSWVsZlZ3eVA4V1RwdUJpbkEzR0VrOE5LUUtwQ1FpQm1IZGpuejlIQ3BVSFE?oc=5",
-  "surgos": false,
-  "eredeti": "Trump to Meet with NATO Secretary General Rutte in Florida — Reuters - UA.NEWS"
- },
- {
-  "ido": 1795513819,
-  "forras": "Reuters",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "A német minisztert \"megdöbbentette\" Trump beavatkozása az Nvidiára – Reuters",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckxlY3A0OWdwSmZNdVJYX2RTblUzN1NjcXJGUXoyQnBHUXlMdlBoNUNMeTVUZVB2cnZYQUFnYll3ZnFzSmo0VHJoTm1HM0VpUmx3WFhtVF9wbmFIclhtZG9pdzBXWVFtd2pZREIwdG5EWW90cU1TbEppYzFZNFEtMFNmYzVFZnpfSzVia3VIMjhWNzFDNVpFQWljRQ?oc=5",
-  "surgos": false,
-  "eredeti": "German minister 'shocked' by Trump's intervention on Nvidia - Reuters"
- },
- {
-  "ido": 1795513766,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A Kingsoft Cloud bevételei 0,20 jennel meghaladták a becsült bevételt",
-  "link": "https://www.investing.com/news/earnings/kingsoft-cloud-earnings-beat-by-020-revenue-topped-estimates-5047564",
-  "surgos": false,
-  "eredeti": "Kingsoft Cloud earnings beat by ¥0.20, revenue topped estimates"
- },
- {
-  "ido": 1795513680,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "A Walmart ügyvezető alelnöke, Nicholas James 361 720 dollár értékben adott el részvényeket Írta: Investing.com - Investing.com UK",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWEhtWFI5ZGYzY0RiWlc1Z0s4T1ZQUEhxTjUtUU5KeTNoQU4wOUcxZXFxbFFsLUFSQXNqOGctN2x6elBHeHlwQVlweFhVUVVhM3BNbERlcDY4TXM0dUhEOHZPV0JDVXBBTS0wZ1B3bDY4c0czODVnUWF2ZTh3SFhfZUJEUnp3MFBicXJHSmpDZ0ppZ3JuUDZDRkY0cnRWVFhQYlhhNmZPSXlFRWFQWG0xSGRzSzJVSFZjbU5EWjRtbnpXUnpwY1UxZk5SZw?oc=5",
-  "surgos": false,
-  "eredeti": "Walmart executive vice president Nicholas James sells $361,720 in shares By Investing.com - Investing.com UK"
- },
- {
-  "ido": 1795513535,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Az Nvidia részvényei nagyot zuhantak Jensen Huang vezérigazgatói posztjának visszatérésekor – a Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2VuMWM0TmxDX1JHckNONUktS3M3eFVSbDVJeWQ0bWZsUFlhWTZ6dkZWSi1lUTlZUjVnamk5OTQ4bTBBc2ViWHJzekF0cTlWSlo0blR1ZkU2RDNYVU5QbnJOaDcwZVlmWlljTHEwRV9wQ2pfdG9nNG1icTZvcnBwalZFZGRCa3Q0dTNvQ2dWcVdzTnlGcHZEajN4ME5URDNTTV9RODhxSWQzdlBTZUZDZTF1ZkExektQMVhibk5PdFoyMEJfMmtIYnZR?oc=5",
-  "surgos": false,
-  "eredeti": "Nvidia stock falls after epic rally on Jensen Huang's return as CEO - Yahoo Finance"
- },
- {
-  "ido": 1795513373,
-  "forras": "CNN",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "A republikánusok szakítanak Trumppal Jensen Huang Nvidia-vezérigazgatói kinevezése miatt – CNN",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR3pCQnIxcS0tdTZzRjM1aWliT20zUmF5OEhCOUNVSjRBRXh1OEFQYjc1T2pJX3dfVWVXU3d6bXczSFdHVHZNWFRVdGd6LWg1LXMyTl96WkIxUVE0ZmRybms2NXVwbXFFNjJWdWdOYjVGTUkyb3hGa0dzb2Y0NTJHNWpjUk9FVjNZcGxRV2hobw?oc=5",
-  "surgos": false,
-  "eredeti": "Republicans break from Trump over Jensen Huang’s Nvidia reinstatement - CNN"
- },
- {
-  "ido": 1795513320,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Jegybank/kamat"
-  ],
-  "cim": "Újabb jó hír érkezett Németországból, 3 éves csúcson a gazdasági hangulat",
-  "link": "https://www.portfolio.hu/gazdasag/20261124/ujabb-jo-hir-erkezett-nemetorszagbol-3-eves-csucson-a-gazdasagi-hangulat-878694",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795513200,
-  "forras": "Trump (magyarul)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Donald Trump arra utasította az amerikai igazságügyi minisztériumot, hogy gyorsítsák fel a halálos ítéletek végrehajtását - 10perc.hu",
-  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYmpudUJzUkNzd2R6YllNa0x6M1d0LVJOYmtCS1FkNXNtMjNTQ21rYUNHNFJNVFpRU2VjSXI4SGVsaUFFenRwMEczdFZPbzhrajB1LTlpaFVWUlRyTHFndXRaRGdOUnM3V24zWV9wanoyVUZiTFpqM05MMktCSTFlb1BmblNGTXhiWjlYMHZlNGhNU184bU5ycDFFQy1JalZ1ajR5WjljLVNxSFZZWldrbXpnd3Z3SGd0TGprRkVZTTN2VUtFb0pnMHJ3NnRhcDdyd2ZZMzZiRUZ6V0dQWU4zcFVQUWVFeXY1cDdvOEwwU2JNeVU?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795513127,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Jensen Huang visszatérése megemeli a Wall Streetet a Micronon túl: Dell, Intel és a következő lépések – Prága környékén",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNUxMc2toVk5TZmp1NnE2T2x3WjkxRmwzaUp5T2xFNWYwTHpxUy0yNDlveURnT2dLSXh3TEdPem9MVVhuanNVV0dxQkdMZ3FndGdPcm1aUFlYMlpXcmFjaGZua09sQklHRUJDZFRqUUZhMXo2WnBQa2FRZDVBb2RPRFdOdFJDeWN1Ulh2MHN2YzU1SXlmbnE5X0o5dDZfZ1cxLTVwUVhYU0lzUi12Rm4tbHNJZE9vQQ?oc=5",
-  "surgos": false,
-  "eredeti": "Jensen Huang's Return Lifts Wall Street Beyond Micron: Dell, Intel and What's Next - Around Prague"
  }
 ]
