@@ -4,6 +4,7 @@
   "ntfy_aktiv": true,
   "telegram_bot_token": "",
   "telegram_chat_id": "",
+  "telegram_api_url": "",
   "percek": 10,
   "max_ertesites": 8,
   "max_kor_ora": 24,
