@@ -587,39 +587,66 @@ def csoportosit(tetelek):
             for t in sorted(csop, key=lambda t: sorrend.index(t) if t in sorrend else len(sorrend))]
 
 
-def szekcios_uzenet(tetelek, fejlec=True, max_sima=3300, max_html=3600):
-    """Átlátható, témák szerint tagolt üzenet. Visszaad: (sima szöveg az ntfy-hez, HTML a Telegramhoz).
-    A Telegram-változatban minden cím kattintható link. Ha nem fér el, a végén jelzi, hány hír maradt ki."""
+def szekcios_reszek(tetelek, fejlec=True, max_sima=3300, max_html=3600, max_reszek=6):
+    """Témák szerint tagolt üzenet(ek). Visszaad egy listát: [(sima szöveg az ntfy-hez, HTML a Telegramhoz), ...].
+    Ha a hírek nem férnek el egy üzenetben (a Telegram üzenetenként max. 4096 karaktert enged, ez nem függ
+    a Premium előfizetéstől), több üzenetre bontja őket. Legfeljebb max_reszek üzenetet ad; ami ezen túl
+    maradna, arról az utolsó üzenet végén jelzés van."""
+    reszek = []
     sima, htm = [], []
     hs = hh = 0
-    kiirt = 0
+    db = 0      # hír az aktuális üzenetben (a fordító-gomb számozásához)
+    kiirt = 0   # összes kiírt hír
     ikonok = CFG.get("ikonok", {})
+
+    def lezar():
+        nonlocal sima, htm, hs, hh, db
+        if sima:
+            reszek.append(("\n".join(sima), "\n".join(htm)))
+        sima, htm, hs, hh, db = [], [], 0, 0, 0
+
+    tele = False
     for tema, elemek in csoportosit(tetelek):
-        fej_s = fej_h = None
-        if fejlec:
-            ikon = ikonok.get(tema, "📰")
-            fej_s = f"{ikon} {tema.upper()} ({len(elemek)})"
-            fej_h = f"<b>{ikon} {html.escape(tema)}</b> ({len(elemek)})"
-        elso = True
+        if tele:
+            break
+        ikon = ikonok.get(tema, "📰")
+        elso = True      # kell-e témafejléc az aktuális üzenetben
+        folyt = False    # a téma már átcsúszott egy új üzenetbe
         for o in elemek:
-            jel = "🔴 " if o.get("surgos") else ""
-            s = f"• {jel}{o['cim']} ({o['forras']})"
-            cim_h = html.escape(o["cim"])
-            if o.get("link"):
-                cim_h = f'<a href="{html.escape(o["link"], quote=True)}">{cim_h}</a>'
-            jelzo = f"{kiirt + 1}." if CFG.get("fordito_gomb") else "•"  # gombbal a hírek számozva, hogy a gomb egyértelmű legyen
-            h = f"{jelzo} {jel}{cim_h} <i>{html.escape(o['forras'])}</i>"
-            fl = fordito_link(o["cim"], o.get("link"), o.get("forras", ""))
-            h_hossz = 0
-            if fl:
-                fl_h = html.escape(fl, quote=True)
-                h += f'\n   ↳ <a href="{fl_h}">🇭🇺 Fordítás magyarra</a>'
-                h_hossz = len(fl_h)  # a link címe nem számít bele a Telegram karakterkorlátjába
-            extra_s = (len(fej_s) + 2 if fej_s and elso else 0) + (2 if sima else 0)
-            extra_h = (len(fej_h) + 2 if fej_h and elso else 0) + (2 if htm else 0)
-            if hs + extra_s + len(s) + 1 > max_sima or hh + extra_h + len(h) - h_hossz + 1 > max_html:
+            while True:
+                fej_s = fej_h = None
+                if fejlec and elso:
+                    pot = " (folyt.)" if folyt else ""
+                    fej_s = f"{ikon} {tema.upper()} ({len(elemek)}){pot}"
+                    fej_h = f"<b>{ikon} {html.escape(tema)}</b> ({len(elemek)}){html.escape(pot)}"
+                jel = "🔴 " if o.get("surgos") else ""
+                s = f"• {jel}{o['cim']} ({o['forras']})"
+                cim_h = html.escape(o["cim"])
+                if o.get("link"):
+                    cim_h = f'<a href="{html.escape(o["link"], quote=True)}">{cim_h}</a>'
+                jelzo = f"{db + 1}." if CFG.get("fordito_gomb") else "•"
+                h = f"{jelzo} {jel}{cim_h} <i>{html.escape(o['forras'])}</i>"
+                fl = fordito_link(o["cim"], o.get("link"), o.get("forras", ""))
+                h_hossz = 0
+                if fl:
+                    fl_h = html.escape(fl, quote=True)
+                    h += f'\n   ↳ <a href="{fl_h}">🇭🇺 Fordítás magyarra</a>'
+                    h_hossz = len(fl_h)
+                extra_s = (len(fej_s) + 2 if fej_s else 0) + (2 if sima else 0)
+                extra_h = (len(fej_h) + 2 if fej_h else 0) + (2 if htm else 0)
+                nem_fer = hs + extra_s + len(s) + 1 > max_sima or hh + extra_h + len(h) - h_hossz + 1 > max_html
+                if nem_fer and sima:
+                    # az aktuális üzenet megtelt: lezárjuk, és új üzenetben folytatjuk
+                    lezar()
+                    if len(reszek) >= max_reszek:
+                        tele = True
+                        break
+                    elso, folyt = True, True
+                    continue
                 break
-            if elso and fej_s:
+            if tele:
+                break
+            if fej_s:
                 sima.append(("\n" if sima else "") + fej_s)
                 htm.append(("\n" if htm else "") + fej_h)
                 hs += len(sima[-1]) + 1
@@ -629,12 +656,19 @@ def szekcios_uzenet(tetelek, fejlec=True, max_sima=3300, max_html=3600):
             htm.append(h)
             hs += len(s) + 1
             hh += len(h) - h_hossz + 1
+            db += 1
             kiirt += 1
-    if kiirt < len(tetelek):
+    lezar()
+    if kiirt < len(tetelek) and reszek:
         maradt = f"\n… és még {len(tetelek) - kiirt} hír (lásd a hírlistát)"
-        sima.append(maradt)
-        htm.append(html.escape(maradt))
-    return "\n".join(sima), "\n".join(htm)
+        reszek[-1] = (reszek[-1][0] + maradt, reszek[-1][1] + html.escape(maradt))
+    return reszek
+
+
+def szekcios_uzenet(tetelek, fejlec=True, max_sima=3300, max_html=3600):
+    """Régi, együzenetes változat (az első részt adja vissza)."""
+    r = szekcios_reszek(tetelek, fejlec, max_sima, max_html, max_reszek=1)
+    return r[0] if r else ("", "")
 
 
 def ntfy_kuld(cim, uzenet, link=None, surgos=False, html_uzenet=None):
@@ -1025,8 +1059,10 @@ def egy_kor(kuldes=True):
         return {"ido": x[1], "forras": x[2], "temak": x[3], "cim": x[4], "link": x[5], "surgos": x[0]}
 
     def szekcios(cim, tetelek, fejlec=True, link=None, surgos=False):
-        sima, htm = szekcios_uzenet(tetelek, fejlec)
-        ertesit(cim, sima, link or next((o["link"] for o in tetelek if o.get("link")), None), surgos, htm)
+        reszek = szekcios_reszek(tetelek, fejlec)
+        lnk = link or next((o["link"] for o in tetelek if o.get("link")), None)
+        for i, (sima, htm) in enumerate(reszek, 1):
+            ertesit(cim if len(reszek) == 1 else f"{cim} [{i}/{len(reszek)}]", sima, lnk, surgos, htm)
 
     def biztonsagos(fv, *args):
         try:
@@ -1069,16 +1105,18 @@ def egy_kor(kuldes=True):
                         ar = arfolyamok_szoveg()
                     except Exception as e:
                         print(f"[!] árfolyamok nem érhetők el ({e.__class__.__name__})", file=sys.stderr)
-                    sima, htm = szekcios_uzenet(osszefoglalo) if osszefoglalo else ("", "")
-                    if not osszefoglalo:
-                        sima = "Éjszaka nem volt fontos hír."
-                        htm = html.escape(sima)
+                    reszek = szekcios_reszek(osszefoglalo) if osszefoglalo else []
+                    if not reszek:
+                        reszek = [("Éjszaka nem volt fontos hír.", html.escape("Éjszaka nem volt fontos hír."))]
                     if ar:
+                        sima, htm = reszek[-1]
                         sima += "\n\n📊 ÁRFOLYAMOK (legutóbbi záró)\n" + ar
                         htm += "\n\n<b>📊 Árfolyamok</b> (legutóbbi záró)\n" + html.escape(ar)
-                    ertesit(f"☀️ Reggeli összefoglaló ({len(osszefoglalo)} hír)" if osszefoglalo
-                            else "☀️ Reggeli összefoglaló", sima,
-                            osszefoglalo[0]["link"] if osszefoglalo else None, False, htm)
+                        reszek[-1] = (sima, htm)
+                    alap = f"☀️ Reggeli összefoglaló ({len(osszefoglalo)} hír)" if osszefoglalo else "☀️ Reggeli összefoglaló"
+                    for i, (sima, htm) in enumerate(reszek, 1):
+                        ertesit(alap if len(reszek) == 1 else f"{alap} [{i}/{len(reszek)}]", sima,
+                                osszefoglalo[0]["link"] if osszefoglalo else None, False, htm)
                 biztonsagos(reggeli_kuld)
             elif len(osszefoglalo) == 1:
                 o = osszefoglalo[0]
