@@ -1,5 +1,107 @@
 [
  {
+  "ido": 1795506599,
+  "forras": "Bloomberg",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "A Franklin Templeton arra biztatja a befektetőket, hogy ne csak az MI-kereskedelmet vegyék figyelembe",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/franklin-templeton-urges-investors-to-look-beyond-the-ai-trade",
+  "surgos": false,
+  "eredeti": "Franklin Templeton Urges Investors to Look Beyond the AI Trade"
+ },
+ {
+  "ido": 1795506222,
+  "forras": "Trump (magyarul)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Trump a halálbüntetés miatt ment neki a demokrata kormányzónak, gyorsítana a kivégzéseken - Forbes Magyarország",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wQk5mLXNLRTdfWjNZd1N6bjR5Sm41d0stN1NuaVZnZjlyNF9NVEZFV05sU0pVeEVIVE1yNmhFZlMwcWxEcWN0VHZ1b2NEc0JVekdBeFBEeU5Ca2xjOV8xOW9nc0poRTktZEZoTU9nSk1XdTVYTFdVaXlR?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795506213,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Rappler. . A Külügyminisztériumot sötétben tartották Trumpnak az Egyesült Államok és a Fülöp-szigetek közötti kereskedelmi megállapodásról szóló bejelentésével kapcsolatban? VIDEÓ: Imee Marcos szenátor november 24-én, kedden pontosítást kért Donald Trump amerikai elnök közelmúltbeli kijelentésével kapcsolatban, miszerint a Fülöp-szigetek beleegyezett... – Facebook",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX1RXQ1FxbUgwb183Rk5OTzdLeWxEQmhWbFNQT0pzRktJWmJoUWxtU1ZWaTd6eFdOa01BYUZyQ2VlZS1mamduTlZvdjE0bDRpeHY3aGQ3SEF1ZEFBbk5QRV9XOEZYdUhOQUxmWTdSSGROV3VYOVhUdmhheU1ObjVMeEdDWVhQM3ZIcGJySmxVdlVqQ2dmRjdmSnRqVjN6T0N6RnlSbUpfcXNSamVrMlpPdmVGLXhGSzVINTUzZGZJVVAwQldyNmRZb3FRSFlWMUl2S3Jyb3RFUVF3LXgw?oc=5",
+  "surgos": false,
+  "eredeti": "Rappler. . Was the DFA kept in the dark on Trump's US-PH trade deal announcement? WATCH: Senator Imee Marcos on Tuesday, November 24, sought clarification on US President Donald Trump’s recent pronouncement that the Philippines had agreed to s - Facebook"
+ },
+ {
+  "ido": 1795506110,
+  "forras": "Cointelegraph",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "A Bitcoin ETF-ek továbbra is veszteségesek, miközben a BlackRock IBIT-részvényei közel 5%-ot emelkedtek",
+  "link": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "surgos": false,
+  "eredeti": "Bitcoin ETFs keep bleeding as BlackRock’s IBIT shares gain nearly 5%"
+ },
+ {
+  "ido": 1795506060,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Felrobbant a tajvani tőzsde az Nvidia vezérének visszatérése után",
+  "link": "https://www.portfolio.hu/befektetes/20261124/felrobbant-a-tajvani-tozsde-az-nvidia-vezerenek-visszaterese-utan-878632",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795506060,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Az Egyesült Államok közölte Tajvannal, hogy politikája változatlan marad a Hszi–Trump-tárgyalásokat követően – Taiwan News",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85S2lnbnpVekJMWXgzVHduT3RJelRpVG96MDhCaS1MX0RHd2pDSm9PN21jR1BudlItWGFvZEVaLUlaM1EtTXdGdEM4eDd1ck9nMWR2bnNHWFc?oc=5",
+  "surgos": false,
+  "eredeti": "US tells Taiwan its policy remains unchanged after Xi-Trump talks - Taiwan News"
+ },
+ {
+  "ido": 1795506040,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Palantir: A 147,8%-os szabály hangsúlyozza a szuverén MI növekedési lendületét (minősítés-emelés) – Seeking Alpha",
+  "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOWEJtSDlJQmo3T2dnRWEyQ2xGXzUxZy1FR0kxUWpTLU0ybFYtUElYVjZ2eEhGMlIzTWdBLWZEc1pHNHNwa0xEa1I2UEsyajZZWEVNOG1IWEZ6M0lfdGhpRE44ZHZSRmN0LTRJeFVxd1BJVzU1WUNRMDNtOURmeE1kWkZETzFFMFd2M3REQzRkUHhLTVhuWDlVODgxWnBkc2RqSW9MMUVCenMxdFFQVGUwanUwYVNQUnNhWVdvWG8wblZFaENaOVV2ajVxU0VvR1RBR1V6Z1h6TGdWOXpLUzBBbnU2ZEs2d3IwVVNNbG9UV1FwRS1YTW9YUjNpeUdfY2NqdU5MRTVxQWZPdG5XWHVETWtSTEhybDdV?oc=5",
+  "surgos": false,
+  "eredeti": "Palantir: Rule Of 147.8% Underscores Sovereign AI Growth Flywheel (Rating Upgrade) - Seeking Alpha"
+ },
+ {
+  "ido": 1795505986,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump elősegíti Jensen Huang visszahelyezését az Nvidia vezérigazgatói posztjára – Israel Hayom",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPak94YXlUUXVVdVVPRldXQnhpV2NSMEJLRWhKNHhlNloxdDd3cll3RWMwMjU2LUpraEc0SjB4aUxBcGVBbUJxUy1vNW1uNnlEVVFuSE9SQXBSd2xwV1dNN1ZSdWtMRmxUWjZOWGJGQmpxa25veGRXZGh0V0NuNFpMbTZKQUx0WGNFUHc?oc=5",
+  "surgos": false,
+  "eredeti": "Trump engineers Jensen Huang's reinstatement as Nvidia CEO - Israel Hayom"
+ },
+ {
+  "ido": 1795505220,
+  "forras": "Trump (magyarul)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Trump felgyorsítaná a kivégzéseket, nekiment annak a kormányzónak, aki 548 halálraítéltet mentene meg - Pénzcentrum",
+  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaEhTaC15UG01ZDhSS0ZHeTlfTk85TVljT3dvVWNKLXNsUjVmNzR6bGZJMGlqekhxaW05T0hqSm54TFBFUFFtd2M1QlhFQnFEa3ktZjNVOVNrT3FMSTl5NW5HMFZxNWJDNVF6MGhBUTlxbzNESFpEMW5nZHZ1MlVjOFRONExHQlJLcXFTY1ZSMGJtekRiLW9GV2VoRkJ6NFpHeEtxUTJON2N1WVJBU1E4VUwtYUZzS2t1bW55eTlzcUcxSENXVVNiNmY4VEpkYmlUNWs0aVF4dS1KOGlQVlFUWU1SQQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795505220,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -10,6 +112,18 @@
   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT2R0R0ozM0ZqQWIxUHhzYTRjeTRvUnM1YUFyb3gxU1lubHN0V0luY3QzSWx2WTVkYTJGakFmamdmQWR0VHJKUnM5WjYtMFVZakZiQ3RPazhKdkhsRWZMOF9wSXVBV3R5SkZzXy1IVlJQeHhxN29YTDJVVTN2VDhuQ2NwbEFQM25LemdlaXU4M2pENjdnYTRma1ZBLU9NR3lHVjgzUXZENlZBR3gtQlZqQUNPNmZnejVERkdjVGhZX2VFWktxd2lXY0lFN1VwaUxZRmdB?oc=5",
   "surgos": false,
   "eredeti": "Congressional Republicans on Monday harshly criticized Nvidia’s decision to reinstate Jensen Huang as chief executive and President Trump’s personal intervention on his behalf. - Facebook"
+ },
+ {
+  "ido": 1795505215,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Emelkedtek a tőzsdék, miután Huang visszatért az Nvidia élére – REFORM.news",
+  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KVks4ZXhiR05mdHpYV3prSU9VWFkzRGlYNUhydDlVZWxFeG1vRFc2WmtiLWR2LS1GVHpvUDNjYlBYb1N1WWRrclpFUHEyWFNPTFc3ZE50bkdfUzRkQ1B0V3Rsb1BjY0R2WmtqT1pMdHVBT1lMdXJZUlJXTC3SAYIBQVVfeXFMT0pTZ0lnSW4yRTRZeWQyWW1ERmpRV1ZYZmdoUXVMbUJCVGxZR05zd0pDaUZtdmtxVkZEcU9uZnhYVEVTZ291Z09SMFpKT2h2UHAxN2VId1lZRUJUa185ODdGelRld3pMbmRxUkVRcHRVNnpxdmhvNWVVYWVuMVFTNV9FUQ?oc=5",
+  "surgos": false,
+  "eredeti": "Stock Markets Rise After Huang Returns to Nvidia - REFORM.news"
  },
  {
   "ido": 1795504560,
@@ -56,6 +170,18 @@
   "eredeti": "Compass Plans to Move Main Listing to New York in Blow to London"
  },
  {
+  "ido": 1795504260,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Trump",
+   "Nagy cégek"
+  ],
+  "cim": "Trump legalább 12 millió dollár értékű Nvidia-részvénnyel rendelkezett, miközben Jensen Huang visszatérését sürgette – jelentés – i24NEWS",
+  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSjEwNWY4ZXl2Y2NnMmxfeGV6QXd0VzZxRjBmY3BJdDBXV0pSbmhycnp2MGhnN1FocGNueFk3YUp0cDRkVEdNcGt1TDRlcFdrTnM2THJublJlb25hZnM2dm8tTkVBTlEydFB2eXdjU2NjeVVKd0FrSC05YXhwZjBtZGV4dzk3bGR5bUxqTWt1RGNoTU1ycFZpaEVTWWRjNlNDQWlrTUJ1VHlMMGxnWWllTFBPNTkySU94T0NjYXpzSHpLOERkdmFJUjQ3ZGpUWlVTM2FWTXJVdmFMR2poQnJsZVVIRWRHUXZm?oc=5",
+  "surgos": false,
+  "eredeti": "Trump held at least $12 million in Nvidia stock while pressing for Jensen Huang's return - report - i24NEWS"
+ },
+ {
   "ido": 1795504105,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -90,6 +216,29 @@
   "eredeti": "Spain’s Housing Crisis Fuels Anger Ahead of Election"
  },
  {
+  "ido": 1795503662,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "„Putyin Oroszországa és Trump Egyesült Államai közötti közelség nem elegendő egy stratégiai szövetség kiépítéséhez” – Le Monde.fr",
+  "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNaTd0OU84VkcwTmROMlU2ZHdLYmYwQlM2TjhjLXc3eFhWWk0yc1NlcVJmY2dQU1RpVklPc2hrMHRxaXV3X0xoel9mc3Y0OUt6UTFLMm9LT0J2alF5R0FGbEZFNFpZYTF3OFZ6d3BKQy1HWVdFNTNTLW0zVkRCQWxIakJNQUc3N0hNbzhBdmstVEM4RUd4ajZFTG45cjRlbFJpeE5RaTBuUXFJdlY1U1JvdjBWZVN6cFpqTjVfVk5URE5nWm83RjA3YW5nVUp3ZExISzJVNmNJaU5fRjdqVDY3NFNqNVZjVnBhLUVPdDBrUE4wSTFtcWZvY1RxdUVGbnU4R181bWN3?oc=5",
+  "surgos": false,
+  "eredeti": "'The closeness between Putin's Russia and Trump's United States is not enough to build a strategic alliance' - Le Monde.fr"
+ },
+ {
+  "ido": 1795503660,
+  "forras": "Negyedéves jelentések (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "DELL: A Dell részvényeinek árfolyama 20%-kal emelkedik Huang visszatérésével, miközben a kereskedők figyelme a pénzügyi beszámolóra irányul – TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVlhnXzVSSmpVR1BhcE45V3d1RmxadF9tNzVFWFJfRXBucVJ1MEx0Z0tNbnN6YWxyUGpxSlpackc3NW9tMkpzdkk3ckh6N2JTNzN6bVpXOW9WNGVDc2hqcGtHUUNDdDM5dS1JM0JxekdGZ0YyM2ZZYXBZQ0I1UmdzMlRmalRKanNIZE1xUXR6N3ZGTUk1WkZDM1UtckZhSkpzSzZOQS1BUFdQbnRMU1NUMWhFSXIxaURWdUxLVlBtaG0zS0RsTjI2OUlqWlNwWndhQV90N0NpYXc0M0Nv?oc=5",
+  "surgos": false,
+  "eredeti": "DELL: Dell Stock Pumps 20% on Huang Return as Traders Shift Focus to Earnings Report - TradingView"
+ },
+ {
   "ido": 1795503528,
   "forras": "Bloomberg",
   "temak": [
@@ -112,6 +261,17 @@
   "eredeti": "NQ: Nasdaq Futures Pause After 6.5% Surge, Nvidia Comeback Ignites Global Rally - TradingView"
  },
  {
+  "ido": 1795503083,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az Nvidia részvényárfolyama 31,5%-kal emelkedett, miután Jensen Huang visszatért a vezérigazgatói posztra – Coinpedia",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnBEN2k4VXJZS19nWkxqUnFabFNkQnZkMUo3a2dVY0ZCTVlHZXprNHcwN1hRYnVCOVlqb0ZsaTdUMGtINFktTFpxWEFwbFJ5amJfcUZaVUYybkk2cjVJbVJJQjVkMW1DRXp4Wndsc1kxTXNvOV81WnJQSXo3OTVxME5TTDN1WXFrMXQ4WWFNM2hZbzFWcDRMQ0VoM3BqcUtzd2tXeE9WSdIBrAFBVV95cUxOdjJpZ05fX3UxM3NCU3Z0dTd0ZzZuOUloVjh1T21QTmpWWFpkSnRxRHZkblJFN0J0dXFpYkIzRUFCckVkajhsZHktdXNCNkd5cWNvRFhhOEZSd2xXQ1pjd2t5WHJQTVR4bzNzSTVLY2lKYnZWU3kxSHlTeEhveEhzYVVJNHR0aHA4Nng2aFlUU0N2ZUZnSzZLWF9PaURZS3ZFOWpqZmRsemNnMnQw?oc=5",
+  "surgos": true,
+  "eredeti": "Nvidia Stock Price Surges 31.5% After Jensen Huang Returns as CEO - Coinpedia"
+ },
+ {
   "ido": 1795502979,
   "forras": "Magyar cégek (Google News)",
   "temak": [
@@ -132,6 +292,17 @@
   "link": "https://www.bloomberg.com/news/videos/2026-11-24/copper-rally-fades-as-demand-worries-deepen-video",
   "surgos": false,
   "eredeti": "Copper Rally Fades as Demand Worries Deepen"
+ },
+ {
+  "ido": 1795502781,
+  "forras": "Investing.com",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "A NVIDIA ügyvezető alelnöke és jogtanácsosa, Teter 4,54 millió dollár értékben adott el részvényeket",
+  "link": "https://www.investing.com/news/insider-trading-news/nvidia-evp-general-counsel-teter-sells-454m-in-stock-93CH-5047249",
+  "surgos": false,
+  "eredeti": "NVIDIA EVP, general counsel Teter sells $4.54M in stock"
  },
  {
   "ido": 1795502640,
@@ -568,6 +739,18 @@
   "eredeti": "What Can Congressional Democrats Accomplish While Trump Has a Veto? - Verdict | Legal Analysis and Commentary from Justia"
  },
  {
+  "ido": 1795496580,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Trump hálaadás napi kegyelmet ad a Freedom és Feather nevű pulykáknak a Fehér Házban – AP News",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR1JmVGVGUE9ZaW9JMnNkLTZtbm9oSFhJZl9wY0RDM0VwUVhrNWNrWmhFZzNGVW9XazlVcFFoTkdGZjAxLXpYN1VSb1lhU01OSzc0czhMbXI4RDhJZW9JdXAtNGZXNW8yUU16M3N6VnBDWGIyUGFTcXFBZDh0RW1Qc0w3eEMtX3RzOE1DcWU5SjZWUXhxb1FDeTAxTQ?oc=5",
+  "surgos": false,
+  "eredeti": "Trump to offer Thanksgiving pardons for turkeys Freedom and Feather at the White House - AP News"
+ },
+ {
   "ido": 1795496475,
   "forras": "CNN",
   "temak": [
@@ -727,189 +910,5 @@
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcm16eGltaFhHdnNpMi1kZi1vVERncG1Qc0pGa2Voa3B5WV82YnhTSTh1WXc3b3Q5VjFudjBpd2lFZExCT2Y4TkZZN0xIXzhlZ2d4dE9wbWpNRXNpcHhoRXRCaUJnWG9mdjJTa242VU9zQThKZVlGZEdUZUJPbi1lVVY4Q1psOXNxaW1jQkxhMNIBlAFBVV95cUxQOXhoLWhSci1qSU5XTHpYclFNTUd5V1NENzRzRksyS185Vmd3VDU4VmxtLUl1MFVtSktfRnpCUzE2RTFnMnd5TFIweHpKSjNITzVMMm9IUWlGMG9FMjl5enFYblFyb25wWHFFVjdCd1h6SFByVjlYQVphMDI4MlA3dE9jamR3N2ZBWlRDUURLOTFCMHRs?oc=5",
   "surgos": true,
   "eredeti": "Trump owned at least $12 million in Nvidia stock at the end of last year - ABC News - Breaking News, Latest News and Videos"
- },
- {
-  "ido": 1795494988,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Morning Bid: Huang visszatért, és vele együtt a rally is",
-  "link": "https://www.investing.com/news/economy-news/morning-bid-huang-is-back-so-is-the-rally-5047075",
-  "surgos": false,
-  "eredeti": "Morning Bid: Huang is back, so is the rally"
- },
- {
-  "ido": 1795494790,
-  "forras": "Bloomberg",
-  "temak": [
-   "Forex",
-   "Jegybank/kamat"
-  ],
-  "cim": "A Goldman szerint a nyert stabilitás felülmúlja a kamatemeléseket a lehűlő inflációban",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/goldman-says-won-stability-beats-rate-hikes-in-cooling-inflation",
-  "surgos": true,
-  "eredeti": "Goldman Says Won Stability Beats Rate Hikes in Cooling Inflation"
- },
- {
-  "ido": 1795494660,
-  "forras": "Investing.com",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "A Visa technológiai elnöke 1,62 millió dollár értékben adott el részvényeket",
-  "link": "https://www.investing.com/news/insider-trading-news/visa-president-of-technology-sells-162-million-in-stock-93CH-5047063",
-  "surgos": false,
-  "eredeti": "Visa president of technology sells $1.62 million in stock"
- },
- {
-  "ido": 1795494604,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Az ausztrál részvények emelkedtek a kereskedés zárásakor; az S&P/ASX 200 1,82%-kal nőtt",
-  "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-182-5047056",
-  "surgos": false,
-  "eredeti": "Australia stocks higher at close of trade; S&P/ASX 200 up 1.82%"
- },
- {
-  "ido": 1795494256,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "A SpaceX és a Tesla öt igazgatót bíz meg az egyesülési tárgyalásokkal – számol be az FT",
-  "link": "https://www.investing.com/news/stock-market-news/spacex-and-tesla-entrusts-five-directors-for-merger-talks-ft-reports-5047055",
-  "surgos": false,
-  "eredeti": "SpaceX and Tesla entrusts five directors for merger talks, FT reports"
- },
- {
-  "ido": 1795494022,
-  "forras": "Investing.com",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Szingapúr folytatja a vizsgálatot az Nvidiahoz kapcsolódó chipgyártó, a Megaspeed ügyében",
-  "link": "https://www.investing.com/news/stock-market-news/singapore-to-continue-probe-of-nvidialinked-chip-firm-megaspeed-93CH-5047053",
-  "surgos": false,
-  "eredeti": "Singapore to continue probe of Nvidia-linked chip firm Megaspeed"
- },
- {
-  "ido": 1795493880,
-  "forras": "Magyar cégek (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Kilőtt az amerikai tőzsde - Privátbankár.hu",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaWF4SmZTWVZld2hxV1lJZ1VTWjRzRS02T19jQXdHMmVPbEZwRVFXTTVTaUVWVHRQLXVKMWgtTmJsUFFCT2V4cTVyNWpqM1lOZmdjeENkTHdGbXlJS2NiR1hxZ1IzZjhnanZfY081QWFudUY5VTlCNFU0MXhXWTFIN000ZzNDSUJQV3EzXzk3MGM5VVZwX2p3MlAwZUJaRzN4c25xTmE4Ym8?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795493612,
-  "forras": "Investing.com",
-  "temak": [
-   "Trump",
-   "Tőzsde"
-  ],
-  "cim": "Trump’s Nvidia holdings may have gained up to $15 mln in Monday rally: FT",
-  "link": "https://www.investing.com/news/stock-market-news/trumps-nvidia-holdings-may-have-gained-up-to-15-mln-in-monday-rally-ft-5047041",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795493585,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "A Fehér Ház közlése szerint Trump szerdán találkozik Mark Rutte NATO-főtitkárral – Merced Sun-Star",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWVIbGVyM3VMQnZDVWljTi1SaEFORGxFTnFGSnlCZUVVR2RyNzZfRWdTVnRIc3lnQ0ZkQkVJN3lKdXd4ZG1Ualdpd3pHMmVxT1RnaENEOW90WHF5cnk4cjdkZF9IQjJoMkZkLTVxbUtaOGFDNmV4T25WN2REekFwYg?oc=5",
-  "surgos": false,
-  "eredeti": "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says - Merced Sun-Star"
- },
- {
-  "ido": 1795493506,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "🔥 Az Nvidia részvényei valós időben emelkednek... Író: Marie - X",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkX1F3SVBNNHZZVThyRVNsd01YSmgzbThHakNWV2ptbHRyNWo2Q3V5WFh5YzlleEtyVGJ6Y1hfWkF6bnRqWU1sTHJzS05teWpzR0R5cnpaMzAtVFlUU3hjbzAxNWQtcU9kYXUzaw?oc=5",
-  "surgos": false,
-  "eredeti": "🔥 Nvidia stock going up in real-time... Writer: Marie - X"
- },
- {
-  "ido": 1795493172,
-  "forras": "Bloomberg",
-  "temak": [
-   "Tőzsde",
-   "Jegybank/kamat"
-  ],
-  "cim": "Az ausztrál kötvények június óta a leghosszabb rallyra készülnek az RBA Cut fogadásokon",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/australia-bonds-set-for-longest-rally-since-june-on-rba-cut-bets",
-  "surgos": false,
-  "eredeti": "Australia Bonds Set for Longest Rally Since June on RBA Cut Bets"
- },
- {
-  "ido": 1795492860,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Az Nvidia Jensen Huang Restatement Sparks AI Rallye, Lifting Palantir (NASDAQ: PLTR) részvényárfolyam 10,6% - Foreign Policy Journal",
-  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYm1WMzUzem43c2NqblB3SWVYWnJuRkVqV0FZWVNCZUYxSktLeEFGLXJpaFB0NnlOQzZkd2tkWk5CbEVEaExlVkxnRGRXVG9NT3h2VWg5QWh1XzcwQkxkWmlBY0l5TUFxcjcwaHo0VWgxc0pvM0tyRE53Z1JnM2lqdlp4Z3N5bkh3N1B0M1RwbVpSc1oyLVhCeTVxRjV1V2luV0YyVlYwaEotNU9FbUFwWW00VGJjS0NlYzlONlpQUzJTYzdOWERWc285V3RrOUdJTGhESFlsQ2lQakF3VGc?oc=5",
-  "surgos": false,
-  "eredeti": "Nvidia's Jensen Huang Reinstatement Sparks AI Rally, Lifting Palantir (NASDAQ: PLTR) Stock Price 10.6% - Foreign Policy Journal"
- },
- {
-  "ido": 1795492800,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A SpaceX Stock (SPCX) 4,4%-ot emelkedett a Tech Stocks Rallye során (november 23.) – Gotrade",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXg5clRjWE5PZU5jUVdCU0FiZmRaUVhyUGU1YnN6eHdXR2ZoSHhPMjVoX1l2dm9BM2tPN3UwWkZGM29TWHNoUzJONTNoa29KOHpfb19FTzI3RUIzbnRlM1pYQ3c0aXJPaElWYmQ1S01kbzJuZU9KcEdyeUdVZW9HcQ?oc=5",
-  "surgos": false,
-  "eredeti": "SpaceX Stock (SPCX) Rises 4.4% as Tech Stocks Rally (Nov 23) - Gotrade"
- },
- {
-  "ido": 1795492607,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "TD Cowen downgrades Zscaler stock rating on acquisition news",
-  "link": "https://www.investing.com/news/analyst-ratings/td-cowen-downgrades-zscaler-stock-rating-on-acquisition-news-93CH-5047024",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795492444,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump Floridában találkozik Rutte NATO-főnökkel a Putyinnal és Xivel folytatott csúcstalálkozó után - Forth.News",
-  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pb0dZSk1Zc21QVWlOcHNzWjVpdkdXYUtfQzNwOEFiTEMxdVZWdF9sUzk3bHo4ZEhSVU03dDNkdWZTcFh4bmU3cWtUdzZuUmZoLXRzLW1RWlR2TnNmUnctS3Rn?oc=5",
-  "surgos": false,
-  "eredeti": "Trump to Meet NATO Chief Rutte in Florida After Summit with Putin and Xi - Forth.News"
- },
- {
-  "ido": 1795492129,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Donald Trump amerikai elnök a NATO ankarai csúcstalálkozóján vesz részt – The Lufkin Daily News",
-  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTDZCQmhkVWRGV1dQQlNVS1NLNXc4b1gzaFdtbEVtNi1iNFYyQ0hrbVlqWGNWVTB0Uy1lc1hXQmFjdVVvblNOSmliYXRfb2FfMHZ4elVmcFZUeWZtN1NieHBVV09SWkFqUmp6N0xQVGk4R3dmSlZiR2VCYWlXZ0tJS3EzSnlhUHZ3RklyNWVWQm1VME5PbTdHaTJUZlVHM3lJX25oV0s2WFdBOXlkSmprQXFfd2U2VlRBbndFcnpGTERZd0xmMi1FOEIyRTF6UWNXdXZON3NZTEVaRlFXdHh2TC1iRDNsVEhzVlBkVlVIOA?oc=5",
-  "surgos": false,
-  "eredeti": "U.S. President Donald Trump attends the NATO summit in Ankara - The Lufkin Daily News"
  }
 ]
