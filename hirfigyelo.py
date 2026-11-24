@@ -77,6 +77,7 @@ ALAP = {
     "ntfy_aktiv": True,
     "telegram_bot_token": "",
     "telegram_chat_id": "",
+    "telegram_api_url": "",  # üresen a közvetlen Telegram-API; vagy a saját Cloudflare Worker címe
     # Telegram: NYILVÁNOS csatornák neve @ nélkül, például ["valamicsatorna", "masikcsatorna"].
     # Privát csoportot és csoportbeszélgetést nem tud olvasni.
     "telegram_csatornak": [],
@@ -194,6 +195,7 @@ NAPI = set()
 NTFY_AKTIV = False
 TG_TOKEN = ""
 TG_CHAT = ""
+TG_API = "https://api.telegram.org"
 TG_HIBAK = 0  # egymás utáni, teljesen elbukott Telegram-küldések ebben a futásban
 NTFY_TOPIC = ""
 NTFY_SERVER = os.environ.get("NTFY_SERVER", "https://ntfy.sh")
@@ -231,13 +233,15 @@ def beallitasok_betolt():
 
 
 def inicializal(cfg):
-    global CFG, FEEDEK, TEMA_RE, SURGOS_RE, KIZART_RE, SULYOS_RE, NAPI, NTFY_TOPIC, NTFY_AKTIV, TG_TOKEN, TG_CHAT
+    global CFG, FEEDEK, TEMA_RE, SURGOS_RE, KIZART_RE, SULYOS_RE, NAPI, NTFY_TOPIC, NTFY_AKTIV, TG_TOKEN, TG_CHAT, TG_API
     CFG = cfg
     NTFY_TOPIC = os.environ.get("NTFY_TOPIC") or cfg.get("ntfy_topic", "")
     NTFY_AKTIV = bool(cfg.get("ntfy_aktiv", True)) and bool(NTFY_TOPIC) and not NTFY_TOPIC.startswith("CSERELD")
     # Telegram-értesítés: a bot tokenjét és a chat azonosítót inkább környezeti változóban (GitHub secret) add meg
     TG_TOKEN = (os.environ.get("TELEGRAM_BOT_TOKEN") or cfg.get("telegram_bot_token", "")).strip()
     TG_CHAT = str(os.environ.get("TELEGRAM_CHAT_ID") or cfg.get("telegram_chat_id", "")).strip()
+    # Ha a Telegram korlátozza a GitHub szervereit (429), egy saját közvetítőn (pl. Cloudflare Worker) át is küldhetünk
+    TG_API = (os.environ.get("TELEGRAM_API_URL") or cfg.get("telegram_api_url", "") or "https://api.telegram.org").strip().rstrip("/")
     FEEDEK = {}
     for nev, f in cfg["forrasok"].items():
         if isinstance(f, str):
@@ -509,7 +513,7 @@ def telegram_kuld(cim, uzenet, link=None, surgos=False):
     kiserlet = 0
     while kiserlet < 8 and (kiserlet == 0 or time.time() < hatarido):
         # saját User-Agent nélkül (alap Python); a 3. próbától csak IPv4-en
-        req = urllib.request.Request(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage", data=adat,
+        req = urllib.request.Request(f"{TG_API}/bot{TG_TOKEN}/sendMessage", data=adat,
                                      headers={"Content-Type": "application/json"})
         kiserlet += 1
         try:
@@ -542,7 +546,7 @@ def telegram_kuld(cim, uzenet, link=None, surgos=False):
 
 def telegram_diagnozis():
     """Megmutatja, hogy innen (pl. GitHub szerver) elérhető-e a Telegram, és melyik úton."""
-    print("Telegram diagnózis")
+    print("Telegram diagnózis" + ("" if "api.telegram.org" in TG_API else " (közvetítőn át)"))
     try:
         cimek = sorted({(("IPv6" if a[0] == socket.AF_INET6 else "IPv4"), a[4][0])
                         for a in socket.getaddrinfo("api.telegram.org", 443, type=socket.SOCK_STREAM)})
@@ -555,7 +559,7 @@ def telegram_diagnozis():
     for nev, ctx in (("alap", None), ("csak IPv4", CsakIPv4)):
         t0 = time.time()
         try:
-            req = urllib.request.Request(f"https://api.telegram.org/bot{TG_TOKEN}/getMe")
+            req = urllib.request.Request(f"{TG_API}/bot{TG_TOKEN}/getMe")
             if ctx:
                 with ctx():
                     r = urllib.request.urlopen(req, timeout=15).read()
@@ -594,7 +598,7 @@ def telegram_chat_id_kiir():
     """Segéd: kiírja azokat a chat azonosítókat, akik már írtak a botnak."""
     if not TG_TOKEN:
         sys.exit("Előbb add meg a bot tokenjét: TELEGRAM_BOT_TOKEN környezeti változó vagy telegram_bot_token a beállításokban.")
-    adat = json.loads(letolt(f"https://api.telegram.org/bot{TG_TOKEN}/getUpdates").decode("utf-8"))
+    adat = json.loads(letolt(f"{TG_API}/bot{TG_TOKEN}/getUpdates").decode("utf-8"))
     van = {}
     for u in adat.get("result", []):
         m = u.get("message") or u.get("channel_post") or u.get("my_chat_member") or {}
@@ -855,7 +859,8 @@ def main():
         return
     if a.test:
         print(f"Csatornák: ntfy={'BE' if NTFY_AKTIV else 'KI (nincs/alap ntfy_topic)'}, "
-              f"Telegram={'BE' if (TG_TOKEN and TG_CHAT) else 'KI'} "
+              f"Telegram={'BE' if (TG_TOKEN and TG_CHAT) else 'KI'}"
+              f"{' (közvetítőn át)' if 'api.telegram.org' not in TG_API else ''} "
               f"(token {'van' if TG_TOKEN else 'HIÁNYZIK'}, chat_id {'van' if TG_CHAT else 'HIÁNYZIK'})")
         ertesit("Teszt a hírfigyelőtől", "Ha ezt látod, működik az értesítés.")
         print("Tesztértesítés elküldve.")
