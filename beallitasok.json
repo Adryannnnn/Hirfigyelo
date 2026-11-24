@@ -370,7 +370,14 @@
     "szárnyal*",
     "rekord*",
     "támadás*",
-    "háború*"
+    "háború*",
+    "to speak",
+    "will speak",
+    "to address",
+    "address the nation",
+    "press conference",
+    "beszéd*",
+    "sajtótájékoztató*"
   ],
   "surgos_kuszob": 2,
   "kizart": [
@@ -483,6 +490,16 @@
       "gnews": "MOL OR OTP OR Richter OR \"Magyar Telekom\" gyorsjelentés OR eredmény OR osztalék OR árfolyam",
       "nyelv": "hu-HU",
       "orszag": "HU"
+    },
+    "Trump – beszéd (Google News)": {
+      "aktiv": true,
+      "gnews": "Trump (speech OR address OR remarks OR \"press conference\" OR \"to speak\" OR \"will speak\" OR \"address the nation\")"
+    },
+    "Trump – beszéd (magyarul)": {
+      "aktiv": true,
+      "gnews": "Trump beszéd OR sajtótájékoztató OR nyilatkozat",
+      "nyelv": "hu-HU",
+      "orszag": "HU"
     }
   },
   "osszefoglalo_ora": 3,
@@ -546,9 +563,11 @@
   "fordito_gomb": false,
   "naptar_aktiv": true,
   "naptar_ora": 7,
-  "naptar_perc": 30,
+  "naptar_perc": 0,
   "naptar_penznemek": [
     "EUR",
     "USD"
-  ]
+  ],
+  "trump_beszed_aktiv": true,
+  "trump_emlekezteto_perc": 20
 }
