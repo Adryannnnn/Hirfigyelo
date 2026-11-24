@@ -1,5 +1,62 @@
 [
  {
+  "ido": 1795478292,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Mamdani keményen bírálja a mesterséges intelligenciára támaszkodó tőzsdét Jensen Huang visszatérése után – Al Jazeera",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXlxcWVuWXR3Ukt1NmIwLUJzdF9pRkhyTTRPZ293SU1WYVFBZWhGYTJRSWRPRDVLSUJQS2dKQ0l2R1VZT2g3N3MyZHBCYXZKZFY4cTJyTVNFTUFyc09oZ1g2SmlqRE9OdHQzMTFYZ2hBdDQxYXJGdkYzX1hpMklZSmlpN2p6SkJUbXVNTEszckd5UEdDSjBXMW4yYWhmUDlSWVpvbWctZGVHNWc2T2tfRGVVaU5meXMw0gG-AUFVX3lxTE5NLVRzWkV2cUpIRzNoZ0h2aWhCWEQ3ZnE5ZmNHdlhpVklQLURiM05kWnZDOHE0RVhnTjcwOHdZZjVsTGpDRktZaDRHUzVLY1pTQ1JFY2NlRkk1X3poc1o2aVlnZ2tlWmtDbVNzQW1sT1ZKLVFJckp0V0xVUEFGbWliSUVxY2txajhadWVTemhjUTYxVXM3UWFwNzdxaEJ4OXdaZjZzMDZySVdfTGdmeXVPdG4ybldPLUYyWFgxc1E?oc=5",
+  "surgos": false,
+  "eredeti": "Mamdani blasts AI-reliant stock market after Jensen Huang’s return - Al Jazeera"
+ },
+ {
+  "ido": 1795477520,
+  "forras": "Bloomberg",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az ázsiai chiprészvények várhatóan emelkedni fognak, mivel Huang visszatérése újra fellendíti az MI-kereskedelmet",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
+  "surgos": false,
+  "eredeti": "Asian Chip Stocks Set to Jump as Huang Comeback Refires AI Trade"
+ },
+ {
+  "ido": 1795477430,
+  "forras": "CNN",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "A Trump-féle nyomásgyakorlási kampány belső világa, amelynek célja Jensen Huang visszahelyezése az Nvidia élére – CNN",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOF9nbUJya185NnpoX1Z0M3dFdUpmZ3ZmUGJCUUxPLWZucXAxT0JmZ0pkNHRwMktUalotcUw2MTRhblE0YkJ5eGtUVkc1TVl1d2t0TXhuQVJ2TjV0QjFQaS15Ty02VjhEc0o0dVhIc2FDakxZcXlkUmw0aVZaWVM1TThNVTAxdEJxY3J6Q19PdkU3WmwxeTgycTFTR0VuNlJleXlZU2FCX2UzS1dIbktSR2hGRE4zSG9vemxmMU9QdnY4LU0?oc=5",
+  "surgos": false,
+  "eredeti": "Inside the Trump pressure campaign to reinstall Jensen Huang at Nvidia - CNN"
+ },
+ {
+  "ido": 1795477414,
+  "forras": "Cointelegraph",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "A CFTC munkatársai szerint a tőzsdék beszámíthatják a Bitcoint a működési tartalékokba",
+  "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "surgos": false,
+  "eredeti": "CFTC staff say exchanges can count Bitcoin toward operating reserves"
+ },
+ {
+  "ido": 1795477381,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – döntések",
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "A Trump-adminisztráció szankciókat vezetett be egy olyan céggel szemben, amely kapcsolatban áll „Alice Huanggal”, az állítólagos kém szeretőjével, mégpedig azon a napon, amikor Jensen Huang visszatért – news.sbs.co.kr",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UaGRqMWdyTmRyRlBuNWhoZHdVNDJfRHZNT2JlQlJDSk4tVDhLUE5xZ3JmTGZQOXZIRHAySzJ1VlpoNnY4RW9SX0IwdHBqcDF0YkdHYWJsem0yd19yMXdmMXBUVGJxcmhiY1FLdk13?oc=5",
+  "surgos": true,
+  "eredeti": "Trump Administration Sanctions Company Linked to \"Alice Huang,\" Alleged Spy Mistress, on Same Day Jensen Huang Returns - news.sbs.co.kr"
+ },
+ {
   "ido": 1795477202,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -20,6 +77,41 @@
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORl9PSzFPd29sNXZaWm84S2ptUEZSUlZVc2RRMzlFc05EaS1hbmNTQTZBbEw3dC0xNU1TVEwxSlZ3Z0xSRk4tS09DVzJJaTFSUUQ5S1J0UzIzd0JVOC1lYnA4elZuYmZzelRyLVgzUlB2b0N3Tm81bFBBMk5rcUtFVHBTbzRBQlBJeU1rRlFjeGxvSVBCNEdDaFJzZ0d0NE9MclEycW05aTVBS0VVWDZrTkgtWWNWQ19laFpTdEtjSHZUYmZCNEE?oc=5",
   "surgos": true,
   "eredeti": "Micron: Sell As This May Be The Long-Awaited Cyclical Downturn (Rating Downgrade) - Seeking Alpha"
+ },
+ {
+  "ido": 1795477099,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump újraindíthatja a légicsapásokat Irán ellen – FOX 7 Austin",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15anRrOFNHMFZMTTc1OFFmUG1YUnloV3I1NUc3bW9QbFE3R2twMGVnQ1pfcWk2Ylo3OFNFaTl1bzJ6ZE1XbUFENkItZlZOUE0yalMtek84NEd1ek1sQTVBOWozSdIBaEFVX3lxTE04aDBpYVZxclpqczlpbHdaaWhIaTE1MlRqanp1Yi1JbVl6ZHVGd0NXMXIzWGR1Ri1LSHRwUENLM29iTXd5VXlvX2I4MVZXeVhsZXFXaUxUV0FSQnF4VjlLMFdUd0wyUDc5?oc=5",
+  "surgos": false,
+  "eredeti": "Trump may restart airstrikes on Iran - FOX 7 Austin"
+ },
+ {
+  "ido": 1795477009,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az elemzők hidegvérre intenek, miután Huang visszatérése nyomán az Nvidia részvényeinek árfolyama az egekbe szökött – The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDVWQ0lqUTZTU2ZHX1owdVE4WEJCX2FwY2ROY1h6ZjNKejZqSk1ITFdVOHktY0pRZzJ0dkdQdG41MHJrTXBLU2phc0dJMmplZE5DRWlKeDIyTjRjWGZUblZWbjBLX3JBcmwtSUlhaU80ajJqUjlHZHV4UFMxMG1KQkpWb1JySlY5TVh0Yk5JNDl4ZGR6YTZkUEdheWg4WkdSTUY0cVEwSTlhT09md3pZbUFjenJJaTVQbGtMNDJkWWNzM2pzaXhUNlBWM0lDR3FiWUE?oc=5",
+  "surgos": false,
+  "eredeti": "Analyst urges cool heads after Huang’s return sends Nvidia shares soaring - The Globe and Mail"
+ },
+ {
+  "ido": 1795476979,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Videó: Jensen Huang visszatér, Trump leállítja az iowai lőszerrobbantást, Ukrajna eltalál egy orosz hajót – livetube.tv",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkg1bWdsdWdwQl90SGktTjJWZlhwZFJxN2syWXJ3RVl0dFNITjNVYUhnTF9YX21kbGxkOFBCTTRFNFJMb0daczNkX2JDVm9KTU9ibTJxTzJ3SWlTblNpZ1NOUHJieU10UGJ3U0laV1JnRklPNVpVczRmbGw3Qk9WYmtYd3JfaEVURU9HQlhsaGdDZGUzS044OEcwaUJPc0FzWUM0c3BfaDYzbU8wdkpTOGtZbw?oc=5",
+  "surgos": false,
+  "eredeti": "Video: Jensen Huang returns, Trump halts Iowa munition blast, Ukraine hits Russian ship - livetube.tv"
  },
  {
   "ido": 1795476900,
@@ -295,6 +387,17 @@
   "eredeti": "Statement: Congress Must Investigate Trump and Nvidia; Our National Security is Not for Sale - Democracy Defenders Action"
  },
  {
+  "ido": 1795474473,
+  "forras": "Investing.com",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "Az olajárak stabilak a kínálati többlettel kapcsolatos aggályok miatti jelentős veszteségek után",
+  "link": "https://www.investing.com/news/commodities-news/oil-prices-steady-after-logging-deep-losses-on-supply-glut-fears-5046712",
+  "surgos": false,
+  "eredeti": "Oil prices steady after logging deep losses on supply glut fears"
+ },
+ {
   "ido": 1795474263,
   "forras": "Nagy cégek 2 (Google News)",
   "temak": [
@@ -377,6 +480,17 @@
   "eredeti": "Trump gets another shot in his quest to overturn hush money conviction - CNN"
  },
  {
+  "ido": 1795473761,
+  "forras": "Investing.com",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "A Fed képviselője, Williams szerint az infláció még mindig túl magas, és további kamatemelésekre utal",
+  "link": "https://www.investing.com/news/economy-news/fed-has-work-to-do-to-lower-inflation-williams-says-5046374",
+  "surgos": true,
+  "eredeti": "Fed’s Williams says inflation still too high, signals more rate hikes possible"
+ },
+ {
   "ido": 1795473660,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -435,6 +549,17 @@
  },
  {
   "ido": 1795472700,
+  "forras": "Wall Street Journal",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Trump intézte el Huang visszahelyezését az Nvidia vezérigazgatói posztjára | Hírek november 23-án – WSJ",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmdBNktQMVFfeXdBb0o1SmdqRkd4TkE0ZjJMWmtod0IxYUUtcVNYQkNMWnNmb2lrN1hyaFJzZzRaQ0lSbG9HVF9NYjFwUmo0UVFDV0MyNWk3Zk1zV19OaEhFcl93ak5sYWpzaVpobUJ2QXV0Rm91SE9PeTJLckJyYlhyYW1TdzJ3Q2p1elF4Yy1VT2s?oc=5",
+  "surgos": false,
+  "eredeti": "Trump Engineered Huang’s Reinstatement as Nvidia CEO | What’s News for Nov. 23 - WSJ"
+ },
+ {
+  "ido": 1795472700,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
    "Tőzsde"
@@ -478,6 +603,17 @@
   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWWF4cnRlSE1lT185ajBiXzRoTUx5dktyRWxpelRfU3ltMTZJWFA4ZGVOaWRDWHgxTEpRNW9sREd3N21MUjR2blFkbFZGU3NlMmhuN1hWM2hqUDlJMGVreFBicDNsQkZLcmR1ZTFTWHpjRE5kMlJXOEwzOFRLdTlVNlRNQTRINkhZWkUtWlJBeVlSakJhQktDVGltbGZPYm0wa1RsTmVIbEkwUk16WktRU25DTzlVN09jdXI2UzdCcERWd2pzMjZYQXg1cFJoSXM?oc=5",
   "surgos": false,
   "eredeti": "Only Six Nasdaq-100 Stocks Fell As Nvidia Raises Big Questions - Forbes"
+ },
+ {
+  "ido": 1795472580,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A Wall Street felívelt az Nvidia vezérigazgatója, Huang visszatérésével – Semafor",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNEg5OE1td0pvUmpFekk0NjVXREpzaTdEcTJvSFBaR3NyV2lsN242clFpOXNmR2VxVkpzanpodk5IQ29IN093Vl9VOGl6UUJDMXZzbmk4ekk3Nlh6ZV83X1I5aTdfV3Q3VFBmRDhOckpfWUNaQjVNY1JDMmlJSURKdDdqQmN3WlFDOFg3Y0x2bm9ENURP?oc=5",
+  "surgos": false,
+  "eredeti": "Wall Street rallies on Nvidia CEO Huang’s return - Semafor"
  },
  {
   "ido": 1795472452,
@@ -779,140 +915,5 @@
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRERVNmtoOGdTRC1ZcmMtMXE4OS12ckkyNl9zQU5ITUJKTWV5Tkp0RU05TGJOWGJpUjZIc1F5cW5VdUJyMXhDNVZuUmNHMEk0SjRpbnB4WERBT05zd3BqQVhoM3poOFk2bVVrcC1Ebl85VHpUXzZxRlhYNF9wTUQtcVpJb29LVFFBcm11ZHNTdThaR2wtS2F0VlNDdnNUbGFrVlRj?oc=5",
   "surgos": false,
   "eredeti": "US stock indices rebound as Nvidia reinstates Jensen Huang - FXStreet"
- },
- {
-  "ido": 1795471020,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Dow Jones-futurák: A technológiai részvények és az Nvidia visszapattantak Jensen Huang visszatérésével; Elon Musk vezette SpaceX és Tesla emelkedés – Investor's Business Daily",
-  "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1IzaXRYZ1Zmel9FV1BGMUVhdlVxcHhJZTR1aVZNSEFjMXUyUDdZMlhKME5qRHRYdjRmWlE2Rm1WR2s2N0RzcWpVQUdaNVREQlBzTWxCWHRha2FqZUZMYk5GcklEcE84MmlXNUwyb3pQSGVoSlB5QVNEbUFXMWZyVkVZNGRCbF8wYVM5cUZBbDBYcTNNTi1OLUEzQ0VIN3VYak02Nk14Qmx0M3J6aF85YWlQZHpEWU5uUkV1MTQ2d3o1R01nMWdwQWktQTA?oc=5",
-  "surgos": false,
-  "eredeti": "Dow Jones Futures: Tech Stocks, Nvidia Snap Back On Jensen Huang Return; Elon Musk-Led SpaceX, Tesla Rally - Investor's Business Daily"
- },
- {
-  "ido": 1795470900,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Huang profitál az Nvidia részvényeinek árfolyam-emelkedéséből, miután visszatért a vezérigazgatói posztra – The Hill",
-  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iNFV2cVNVWHlkeHljRzBDYklMMVRYQkJqd2ljZ2pBTElOWDlkZ2NmR1EwQXpwdWltRVQyR3Y2RDVhZHA5MVBTTmNyUzg2cnRqNEhjZ0plXzJfZE1QQVNpWVVPU0VpMHRYTTY2SFZpQWx4Q3lsWW5QNzFB?oc=5",
-  "surgos": true,
-  "eredeti": "Huang profits from Nvidia’s stock surge after he returns as CEO - The Hill"
- },
- {
-  "ido": 1795470900,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Az Nvidia részvényei elleni fogadásokkal hétfőn 11,3 milliárd dollárt vesztettek. A vad ingadozások még csak most kezdődnek. – Barron's",
-  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HX1JJUGdfTEQxWnd0Nmw0U2l0T1BCVTljd3N5NWs1Slc1Wlc1b2tPemFfWXVpNHg4XzA1S050OThlZktCVzJscXlVZGRFSV85cmI5SnNpZEtlSHRLcE53Ymx2NDRsai1Pd09vcU1aR25Wd0hFNXVN?oc=5",
-  "surgos": false,
-  "eredeti": "Bets Against Nvidia Stock Lost $11.3 Billion on Monday. The Wild Swings Are Just Starting. - Barron's"
- },
- {
-  "ido": 1795470897,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Tőzsde ma, november 23.: Az Advanced Micro Devices az AI-chipek fellendülésének köszönhetően emelkedik, miután az Nvidia visszahelyezte Jensen Huangot vezérigazgatói posztjára – The Motley Fool",
-  "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeWlXazZSREdHVFpCWDBzdG1YTHQwU2JmZXc5Y0dqamhsaTV0YWo5UzFqbUk2aVM0Q0p6TWtxb3kzdUQtdVVySWg0V3lNRm1SSlNuMmx3V09SVGhvZUh6bS1hNmFHR05ENGdHSjRDR1o1SmxnTXJMYmQ0ZWdTRmhBbk0xTjBENHdoRUQ3RG1waTZNYkNodEFMdHZrQjRkRmJUUkxPWkxLR3dkUXdyaTNGcmwxdlp5SlFtRmxpMENLRTBoWDV3aE45cktrVU94Rnk2cXdlXzg1d3hQZ2g3NWgxbmxjc2trcEtvN1o1S3VHNThuS2dnTmZSVU15aUF2ZWFaaTdwU0ZKOWsyTnc?oc=5",
-  "surgos": false,
-  "eredeti": "Stock Market Today, Nov. 23: Advanced Micro Devices Climbs on AI-Chip Rebound After Nvidia Reinstates Jensen Huang as CEO - The Motley Fool"
- },
- {
-  "ido": 1795470813,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Mamdani rámutat az MI-függő gazdaság káros hatásaira az Nvidia részvényeivel kapcsolatos káosz közepette – La Voce di New York",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYkFfc19JOFhkbkMtTmVSdmgzRlhzZG4zanRIcUZ1UGlvTDVVLVA3alJJM1NPNDk5RDhJWEJkS1ZNTG01YnVrcVl1bGd4cmRFUGlwamFRbk5VTk0zVGl0S1J0bklKN2dBcjhaYk1iUk90ZHJhNllVbXJ6QzE1VkZwY3d4SUpRSTNZMU44dHJGNUV4c1FzRFdjSFd4Y21NQkRRRU5WY1UyV25iQUpKTUpFQVVvdTF4NzdPN0ZLTUJ6UQ?oc=5",
-  "surgos": false,
-  "eredeti": "Mamdani Spotlights Harms of AI-Reliant Economy Amid Nvidia Stock Chaos - La Voce di New York"
- },
- {
-  "ido": 1795470782,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Miért emelkedett ma a Meta részvényeinek árfolyama? A részvények 6,55%-kal, 597,60 dollárra emelkedtek, mivel az AI-kereskedelem fellendült az Nvidia vezérigazgatójával kapcsolatos hírekre – Around Prague",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVTBFUEFmLTVrdl81WU5IYmFDak8yNG5QZkx0OWFRRnI5UUFpTXA2YmhGZUNaVlZkMXlCblNuaEZWN2VMUmFydk0wVk16MW5rOEJxRjBTS242OUdGMXZaTmZuUzN6R1g0Vmk3RlFvWDRIRjdwbzRDMTNfcUFtMXlDSXRRU2podnZRQTVwOEFkTDh0b0pYdDFIOFRqYTdhX2JlcFNxZ1ZMWjd5c3V3WEJXWDdR?oc=5",
-  "surgos": false,
-  "eredeti": "Why Is Meta Stock Up Today? Shares Jump 6.55% to $597.60 as AI Trade Rebounds on Nvidia CEO News - Around Prague"
- },
- {
-  "ido": 1795470744,
-  "forras": "Investing.com",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Az AMD akár 337 millió részvényt jegyez be az OpenAI-hoz és a Meta-opciós utalványokhoz kapcsolódó viszonteladásra",
-  "link": "https://www.investing.com/news/stock-market-news/amd-registers-up-to-337-million-shares-for-resale-tied-to-openai-meta-warrants-5046636",
-  "surgos": false,
-  "eredeti": "AMD registers up to 337 million shares for resale tied to OpenAI, Meta warrants"
- },
- {
-  "ido": 1795470660,
-  "forras": "MarketWatch",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Az amerikai részvények több mint egy éve nem éltek át ilyen jó napot, mivel Jensen Huang visszatérése felélesztette az MI iránti lelkesedést",
-  "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
-  "surgos": false,
-  "eredeti": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm"
- },
- {
-  "ido": 1795470545,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Az Agilent (A) negyedik negyedéves árbevétele meghaladja a várakozásokat, és megalapozza a 2027-es növekedést – GuruFocus",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOajRMYlJlU0NURVZZMENWaEhnTHl3OGw0SGV5NDhkR2NNd0VGS0VPY1ZZa3NUWW1CR2h1VlRXdE9BRDdwZW5WNXFxS2Z0TFJXUmNqdHp1T0ZxbUZkbE03RGNieWFHSlA0eDJGTnhyY25QQWliQVFfbVBTRFF1UEJIeS1fcGxIcXBiUmthaUJKZHhDcEJyMmVDX1VZbHhjaWhlVmxEaA?oc=5",
-  "surgos": true,
-  "eredeti": "Agilent (A) Q4 Revenue Beats Estimates, Sets Stage for 2027 Grow - GuruFocus"
- },
- {
-  "ido": 1795470520,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Eredménybeszélgetés átirata: A Semtech felülmúlta a 2027-es harmadik negyedévre vonatkozó becsléseket, a részvények ingadoznak",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-semtech-tops-q3-2027-estimates-shares-swing-93CH-5046624",
-  "surgos": false,
-  "eredeti": "Earnings call transcript: Semtech tops Q3 2027 estimates, shares swing"
- },
- {
-  "ido": 1795470500,
-  "forras": "Investing.com",
-  "temak": [
-   "Világgazdaság"
-  ],
-  "cim": "Az arany ára erőteljesen visszapattant a múlt heti zuhanásból, mivel az AI-kereskedelem újraéledt",
-  "link": "https://www.investing.com/news/commodities-news/gold-rebounds-from-14mth-low-as-tech-selloff-lifts-safehaven-demand-5044271",
-  "surgos": false,
-  "eredeti": "Gold prices rebound strongly from last week’s rout as AI trade revs back to life"
- },
- {
-  "ido": 1795470378,
-  "forras": "Reuters",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Az Egyesült Államok feketelistára helyezte az Nvidia-botránnyal összefüggésbe hozott Megaspeed chipgyártó céget – Reuters",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3ZUR1ZCZXpLTkNjVFA5cm1ueHd6VjlHUzZSZWUtNE40NndKNFNWQVJqV3k4WHA5SU5BQTBvWmw5dlN3S1RZZHQ5WG5LRGhWMDFxUk83RjdGV0dqWUtjU3c4RlVkdkFBVlhfbXdiVm1WWW44dEtpUXY0Yjk0ZndBN2w3MURmNkVJLUlvM3ZpSmRfV3RTeUJYNHQtS29HaUFwejF2SlVtR2lpY0NqX3BYMg?oc=5",
-  "surgos": false,
-  "eredeti": "US blacklists Megaspeed chip firm linked to Nvidia scandal - Reuters"
  }
 ]
