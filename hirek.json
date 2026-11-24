@@ -1,5 +1,50 @@
 [
  {
+  "ido": 1795498181,
+  "forras": "CNN",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Trump az elnökségét teszi kockára, hogy visszaállítsa az Nvidia Jensen Huangját – CNN",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ0Nzb0llTVkwRGpLdlhfbXpGanNwZUdiOW5xNlE0TkZSVnlEZlhiU2I2d284eTJ1R1g4LTM1aWhBZkUyWDZCbHlJMXpBaG9KT0s0NFhGYTRQUmhWMkk1RFR2SXpSZHJpRTJEb3JDMFl0MXhsSGtVd3V6QTNINWRPeGJHVDFRbWIyd1g0UUk1SDNubU82d1phamJ3bUZ4SWM?oc=5",
+  "surgos": false,
+  "eredeti": "Trump Puts Presidency on the Line to Reinstate Nvidia’s Jensen Huang - CNN"
+ },
+ {
+  "ido": 1795497176,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az Nvidia részvényeinek árfolyam-emelkedése – A 31%-os ugrás 11 milliárd dolláros veszteséget okoz a shortolóknak – The Korea Daily",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxQ2ZndlpoN0lRSHc3SkxMWkdZUFNsVUhGdEFRQUZUVldfZzJUNTg5OXhUTFJXYkVEWmQ1UWp3V3ZPZXI4QkUxeVlTemdOQ3lEU1J5ODFPd0FZUTNlZzlOTUFadXJGVkVjWmhCNnFxMzU?oc=5",
+  "surgos": true,
+  "eredeti": "Nvidia stock surge — 31% Jump Triggers $11 Billion Short Seller Loss - The Korea Daily"
+ },
+ {
+  "ido": 1795497127,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Cathie Wood Nvidia-befektetése lemarad a Jensen Huang visszatérése nyomán bekövetkező 32%-os emelkedésről – South China Morning Post",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNnMtSVV6Y1dPa0hHZTV6RHBfWERnbWswbnVNTWd5Y2pKU2FkdzBkRjdNUW4zZHVRbmU4RkhNaDZCbF9YcHI4UEJGTV9OTkl4OFJxYlk3cGpSUElxellwTlhaM0RKVXR5SXJ4b0cyQXg1SzR3SDg5dVZtQ0o3TXVuZncwVTFjUnBiUzJEOTY3UlcwWThFVWh0NXNCY3haUEQwaWQ1ZjI5aWpIRHhIaTBweTJQTDdybjcwMFRDQk9B?oc=5",
+  "surgos": false,
+  "eredeti": "Cathie Wood’s Nvidia bet misses 32% rally on Jensen Huang’s return - South China Morning Post"
+ },
+ {
+  "ido": 1795497035,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Trump",
+   "Tőzsde"
+  ],
+  "cim": "Trump Nvidia-részvénye akár 15 millió dollárt is hozhatott – NVIDIA (NASDAQ:NVDA) – Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ1Z5aktmdmo4MFJrODBtRzhJSUE0aktJdkV4WThVVzkyeWdGMXNXOUVsTHV6QU1wZG93Z2dvNGxCeFFkTXhXb2JtUmdsU1pZOVhIRFZndlJPc0g0bDBVbUkzSmIyU3I5cF9DZnJ1QUFqbmpFR2ctQVlqaUppYWZfa3dtcGRhMHNSa1BYcVNDUURaSHBUc0cxbnpPdXVQQzF1M0h0T3lUY01DVm8xS0xGZzZ1MGdMM3dmX2F3ZUwydWo0TzJIdktxRkpZVHVseXFr?oc=5",
+  "surgos": false,
+  "eredeti": "Trump's Nvidia Stake May Have Gained Up to $15 Million - NVIDIA (NASDAQ:NVDA) - Benzinga"
+ },
+ {
   "ido": 1795496850,
   "forras": "Cointelegraph",
   "temak": [
@@ -10,6 +55,41 @@
   "link": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "surgos": false,
   "eredeti": ""
+ },
+ {
+  "ido": 1795496779,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump Nixon-Kína pillanata: Van egy bevándorlással kapcsolatos lépés, amit csak ő tehet meg – Fox News",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNGtmR21HYTZ0VktST1FybHQ4bGEzel9Vb2lJR1BtRzV6VVljTmhqOTlyMzJ3NXR4VmJKclpiR28xRUxFbEtSMnRmaXVQaE96NHVDUElqWnBnZkRFT1l4TDF1R2NhYWFUQjhxd0thV1NHSXZCWEx6MzczRzl5ck55aGN4bjBKSjkwdFZ3aWl2ak94UWUwVHNHNEtn0gGfAUFVX3lxTE9ZUXJWWTlIanQ5MmI1Y3U0TkJ5aE5YQi1VUkNlNm1saDJXVW03Rm9nSWUyUm9hR0UzRmZPNTUtUHpVN1NpUE5HYlRlUERnRHVsQzBhYVBoc2p1TW1YNUtaNmVocWlsQlJIbVl5RWFGVGFUal91alVydHVqOEwyN1diTWZoVUltS2RrUHZpdnFEd3kxSjUwTm0yTUxpSDVjUQ?oc=5",
+  "surgos": false,
+  "eredeti": "Trump's Nixon-to-China moment: There's an immigration move only he can make - Fox News"
+ },
+ {
+  "ido": 1795496592,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Mit érhetnek el a kongresszusi demokraták, amíg Trumpnak vétójoga van? - Verdict | Jogi elemzés és kommentár a Justiától",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlBsSVpScUs5XzdObFBTT3NvWVF2cTlydkxuZHMxLTRDT1ZUWURKNHdxQzlXTzB2cDVuY2N5Ylh6VnNMR3FqcHdoOE9lM1I0ZEVWNWdjSzZMQ2prZVRtUk1BeVpXeERWTUV0dXZiLXZaQjhKRkJWVWlzQnVmMTM4cWRmVXRMR0JDamtzWXVjRktMYmRiTVA4UjZneUNRa1JPTjBCYkxhQQ?oc=5",
+  "surgos": true,
+  "eredeti": "What Can Congressional Democrats Accomplish While Trump Has a Veto? - Verdict | Legal Analysis and Commentary from Justia"
+ },
+ {
+  "ido": 1795496475,
+  "forras": "CNN",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Az Igazságügyi Minisztériumtól az Nvidiáig: Trump elnöksége a büntetlenség új korszakába lép – CNN",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRl9MbEFQZGVGWDJwVk9iMHFMQmQwRThLeHJaMUxLWWhYTVFaUGFWZzZzSkw4XzNxY2xPd2czejRwcVRHdUJFUm1tckxaZ3Z0QzFvc2d2NFBpZi1MbnY0LU1janlNSzZYM3M4eU42a3JCUThuVENNNFphdGNqNk5hT2Zn?oc=5",
+  "surgos": false,
+  "eredeti": "From DOJ to Nvidia, Trump’s presidency enters new age of impunity - CNN"
  },
  {
   "ido": 1795496460,
@@ -24,6 +104,29 @@
   "eredeti": ""
  },
  {
+  "ido": 1795496443,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Elnöki lakosztály? Trump szállása miatt vírusként terjedt a hír a sencseni szállodáról – South China Morning Post",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGZ4V3ZEM0FPV3RpMFUtQjBzVzdfcURpRFN4QWNoUjJlOVFIYXFmVTNzLWhFVDhraWNObUJLLXFGejdUblJaenc0dWR6OFlyeHA4S3BXV1dKUjVNTk5lc0FBd0ZEa2FwNWVmX0xuUzF2N01aa2tHWEIzOHhyWHZQa2ZiYXRhWktUYnBhUk5nQ25MWkRncFlRVC1xSWNiQU93czU0RUw4YkFmdm1GY3VSaWpQZE9HQk1wM2tzR9IBvAFBVV95cUxPOUVjT2lmaHM2SE5GejhNeHFCSUtIaFppRDE2RjhKV0YxM2tmWXF0WDlSZEsyZkhKY1lUaURrOS1zbndTamM0MmczRmdKSUtaZU4ydGRwZDhOdzlZSmZQMmVPV2JyY2stdk9lbFIxanJEeUxaZTd4TS1yRW1XeUtWN2pzblI1cTNBN2lXLVFkelJzNTFzbnBKejZ4T2Q1X20tVFRZS2pka3pYd2VBaEkxZWJZV0NkNWRKSmpacg?oc=5",
+  "surgos": false,
+  "eredeti": "Presidential suite? Trump’s stay turns Shenzhen hotel into viral sensation - South China Morning Post"
+ },
+ {
+  "ido": 1795496429,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Az ázsiai részvények emelkedtek, mivel Huang visszatérése fellendítette az MI-kereskedést",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-24/the-asia-trade-11-24-2026-video",
+  "surgos": false,
+  "eredeti": "Asia Stocks Jump as Huang’s Return Lifts AI Trade"
+ },
+ {
   "ido": 1795495854,
   "forras": "Bloomberg",
   "temak": [
@@ -33,6 +136,17 @@
   "link": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-china-to-deepen-yuan-ties-with-focus-on-corporates",
   "surgos": false,
   "eredeti": "Singapore, China to Deepen Yuan Ties With Focus on Corporates"
+ },
+ {
+  "ido": 1795495630,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "A Berkshire Hathaway befektetéseinek negyedét az Apple-ben tartja – The Mac Observer",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUJzRVR5WjRjU0IxLU51WGprazl2Z25Ca0c1aEM3U3pXUVNaNnMza21YR2hxSVlvYUp6TDZkOWxQTm1acVRHX2RWajZYei1PZ3BQdzh5cE0xVnpRWFg5N2VjSHdHRjdyZFhEN1VOZE5lODZSR0ZKZ2lneGVITWxmaE5lZmEtMy1wSWk1OTBPbDF3d2R1bEFwNkY5VVI?oc=5",
+  "surgos": false,
+  "eredeti": "Berkshire Hathaway Keeps a Quarter of Its Investments in Apple - The Mac Observer"
  },
  {
   "ido": 1795495453,
@@ -530,6 +644,17 @@
   "eredeti": "What Trump, Putin, and Xi Should Have Discussed at the Shenzhen Summit - The National Interest"
  },
  {
+  "ido": 1795485755,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "ASML 2026. november 2020,000 vételi opció (ASML261127C02020000) részvényárfolyama, hírek, jegyzés és előzmények – Yahoo Finance Egyesült Királyság",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kay1LREFGZ1I2YVVMbkcyWDdWZ2dtYVk5QVRwNXdGT2V4U0dsSzlYUE1xRkY0b3plWDdtbEo1dG40MTVCQWU1N1Z4VjNoaU85SEV6Ykt1TVprazEweVVTT2k3ZnFsQQ?oc=5",
+  "surgos": false,
+  "eredeti": "ASML Nov 2026 2020.000 call (ASML261127C02020000) stock price, news, quote and history - Yahoo Finance UK"
+ },
+ {
   "ido": 1795485600,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -795,133 +920,5 @@
   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlBaRXpJYnRZbmdnNVFSNjM4VkUyc2NFa1J3Nk9HN0FEeDJWRF83dDlNTDQwUlFHbTcxd3BSUlNvNFE3TU1nNEN2MEdWRUdkNGYtOGNXcnBPOUhJSzNmckc4TkVPT3VrNkFEbVZYQmFxNVBzeHRnMkpJNjBDa29weWhlX2NMRk1wWGNIdER6SGxaczlGa1JpTWV3MjJfVFp3bXpxeDFCN05JenFJa0pwejZrVG1jWVRzZ0FVVF90cVhlZkJFeFliX3pSVHZVYnV4cnc?oc=5",
   "surgos": false,
   "eredeti": "Jensen Huang Returns as Nvidia CEO Sends Asian Chip Stocks Higher - NVIDIA (NASDAQ:NVDA) - Benzinga"
- },
- {
-  "ido": 1795483330,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Trump elítéli Newsom döntését, miszerint több száz halálos ítéletet módosít Kaliforniában - ABC7 Los Angeles",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaXNER1VhTFVyWldrdV9OaEJTVFNGOG1IbVAxVFRYQUVJYlBrczJFSHVteldCUXNXdkxRODdKU0VoTnIxS210VGxEN2E2bm1vNjJsVkRJVm9RbTJQS3VoY2VJTXZTd1hvRC1WMVNIeUpYQnk5T0NORDgwS0Qya0tOZkdKYlRMYndGX213Um5YT3FXZkZjbkRJTS1XZDVodw?oc=5",
-  "surgos": false,
-  "eredeti": "Trump slams Newsom's decision to commute hundreds of death sentences in California - ABC7 Los Angeles"
- },
- {
-  "ido": 1795483301,
-  "forras": "BBC World",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Hogyan reagál az Nvidia Jensen Huang vezérigazgatói posztra való visszatérésére?",
-  "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
-  "surgos": false,
-  "eredeti": "How Nvidia is reacting to Jensen Huang's return as CEO"
- },
- {
-  "ido": 1795483281,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A Surgepay nyeresége 0,42 dollárral meghaladta az előrejelzéseket, de a bevétele elmaradt az előrejelzésektől",
-  "link": "https://www.investing.com/news/earnings/surgepays-earnings-beat-by-042-revenue-fell-short-of-estimates-5046875",
-  "surgos": true,
-  "eredeti": "Surgepays earnings beat by $0.42, revenue fell short of estimates"
- },
- {
-  "ido": 1795483276,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A Tuya ADR-nyeresége meghaladta a várakozásokat, a bevétele pedig felülmúlta a becsléseket",
-  "link": "https://www.investing.com/news/earnings/tuya-adr-earnings-beat-revenue-topped-estimates-5046874",
-  "surgos": true,
-  "eredeti": "Tuya ADR earnings beat, revenue topped estimates"
- },
- {
-  "ido": 1795483200,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Trump",
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Trump NVIDIA-befektetéseit a hatalmas tőzsdei emelkedés – KGW – után vonják a górcső alá",
-  "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSnZSeXhaVks0NUVCM2FIQVRhTmlFU1N3R3hRcVpQWV90c3ZUNWpGSmkzb3FPVGZPMjlTcUdZTVVIaVotTllELU9KS3RTX2VhcUk3YmROdmIxTF9yUUhqejRXdkhzUmw4MExtaWR6VU81ZjN1am51cElDVXBTSjlYYlotY3RvelRSdjB3YjNySXNUSUZGcm5KQmJ5N0Frb2QwR0ljZDB5TG1NTVVYZXB3dTJTSXZDZlI5UnhDTFBHd3V2ZzItbHhNZ2FkVFNkdlRCR1oxS3RORQ?oc=5",
-  "surgos": false,
-  "eredeti": "Trump's NVIDIA investments draw scrutiny after massive stock rally - KGW"
- },
- {
-  "ido": 1795483140,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Az NVIDIA részvényei több mint 30%-kal emelkedtek a vezérigazgató visszaállítása után – KGW",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbXVnTEI2V3lrNHRjbTQteHAyQW81ZWZNcV8yNWcxQzRjSy1hMjctM1FGNkllZlZnbmQ3TWRYaGdIdU5COEFWdFNUeDFkb2xRWTJhU3JHcmgyVTFGWXRlOUtkTERaSTg4Wktud3Uwc3VpMXFhMDJJTWdzVHA5U3Q4WDNmelI0cFN0Rk1mUjAwMEo3YVh4VnVwV2JNT1Zsd1RRbDZKY09NWjh4OGc5eV9BVU9NWk40S1hhVDQwWVM1aHJnemV5U1lHdTN4cw?oc=5",
-  "surgos": true,
-  "eredeti": "NVIDIA stock surges more than 30% after CEO reinstatement - KGW"
- },
- {
-  "ido": 1795483027,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Az S&P 500 4,62%-ot emelkedett, mivel a Nvidia 31%-os ugrása Huang visszatérésével felhajtotta a chiprészvényeket – Quantisnow",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObncwekJ1WlFDRGRwbTFTMTBkaEk5VzBXb0c3SHB0SnZDZ3ByUmhMMExXNUpXemMwYVJqRzlRb09NbFRXWk9OX0lfQmZyMlFBVjNkOEVCSWowdnpKcGZxZkNfanJvandSUDhMRGNJN1hUc25LeXlicGVOYWpfSU16UGJPX1V5bFdmLV9hTUVaVWtlZTRS?oc=5",
-  "surgos": true,
-  "eredeti": "S&P 500 jumps 4.62% as Nvidia's 31% surge on Huang's return lifts chips - Quantisnow"
- },
- {
-  "ido": 1795483027,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Jim Cramer a tőzsdén maradás fontosságáról - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZzhseXlWMEo2UHdLMUtxTjkwZjE5NWt3R3hzSzd3Q2g1VGdRcEdGelRJekhaVFFuNWlxZFN1NDRRZl94cFhIY092S1hqX2taVnFLQ0xZMzhKS0hYSWcwUzFiNFdtSTBqTmNJMUh5MEdmOEx1UGg1Ymw2d3ZURGR4anNFaTYxYnl5Yno2SUhfQS1JSDNhbG96S3RLTnBsaF8wVkExXzl1aC1ycV9uYjlzeHlCcWZHaTA?oc=5",
-  "surgos": false,
-  "eredeti": "Jim Cramer on the importance of staying in the stock market - CNBC"
- },
- {
-  "ido": 1795482960,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Trump elítéli Newsom azon döntését, hogy megváltoztatta a kaliforniai halálbüntetéseket – KSBW",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT0dTRXpSZ1hxUk9IbzdVMmpsSlEwa25MNU5MYmtkQ2k3ajFPY2VEODh0MWJ1SjdwSWpGb21PWnUxblE2emY1LW5hNUxZSXhDbk9tYmVobjZ4ZTdwdV9KQlUxMF9aNnpsclJnamc1bi1ldWp3M2tVd1BGbmhaWV9IbmstVGN1enNoN1VYQjZ3?oc=5",
-  "surgos": false,
-  "eredeti": "Trump condemns Newsom's decision to commute California death sentences - KSBW"
- },
- {
-  "ido": 1795482805,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Mit nyert Trump a Putyin hízelgésével töltött évtizedből? – National Review",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzR6NnZZYmc5TS1OZHVZT2tjem5aeHIzRkVyUUhfUEF6clJtUVhtcHd5TTZUYkhHWFlvVzFnal9Xa0w4NTZmQjh5WEtnMXVvcTFIVWk4aFJPS3hhUFd6UGgxXzMzWWt2VzIwb21CMlhDYUFsLWpyaXB4RFBzZkx1OUJxYVRWTzJh?oc=5",
-  "surgos": false,
-  "eredeti": "What Has Trump Gained from a Decade of Flattering Putin? - National Review"
- },
- {
-  "ido": 1795482688,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "ASML261127P01562500 Interaktív részvénydiagram | ASML 2026. nov. 1562.500 put Stock - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVSm1WX3l6UE95Nzl5ak1QX1lyVHNYaUVCS0huaFdQdlNiWkg5Rzhhd0VJNENqSVNUeDZOUGRPdDFRUWVVdGg0VkoxNUZldnZvbUpMR2pycG92b2pMLTV0VQ?oc=5",
-  "surgos": false,
-  "eredeti": "ASML261127P01562500 Interactive Stock Chart | ASML Nov 2026 1562.500 put Stock - Yahoo Finance"
  }
 ]
