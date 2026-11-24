@@ -3,6 +3,8 @@ name: hirfigyelo
 on:
   schedule:
     - cron: "*/15 * * * *"
+    # sűrűbb ébresztés reggel (UTC 5-6 óra = 7:00 körül Budapesten), hogy a naptár legkésőbb 7:30-ra odaérjen
+    - cron: "*/5 5-6 * * *"
   workflow_dispatch:
     inputs:
       teszt:
