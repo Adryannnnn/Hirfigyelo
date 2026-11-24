@@ -1,5 +1,73 @@
 [
  {
+  "ido": 1795520340,
+  "forras": "MarketWatch",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "A lakossági befektetők „epikus” vásárlása kifizetődő volt az Nvidia 31%-os részvényeinek emelkedése után – mondja a stratéga",
+  "link": "https://www.marketwatch.com/story/the-epic-buying-of-retail-investors-paid-off-after-nvidias-31-stock-surge-says-strategist-c8f9a502?mod=mw_rss_topstories",
+  "surgos": false,
+  "eredeti": "The ‘epic’ buying of retail investors paid off after Nvidia’s 31% stock surge, says strategist"
+ },
+ {
+  "ido": 1795520161,
+  "forras": "Negyedéves jelentések (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A Medtronic vegyes negyedéves eredményeket közöl, fenntartja az éves előrejelzést - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTdJMTVmekw4SkV5cXlGbzZkblkzRXZ0Z1lQTEtlVXp1elFnRFJlT25Na1B5a295SHhXV1F5cE50dkdxS3NjWkVFc3VwdXFJSXh3XzNmWGZwUnBWaWVfV3phVGFCNEF0ZUNnbmFIcWNWWVZoR2tSWE1yZWt4U3hEWHBoeTdlMjM4WXJnbjk1TnR2NEQ4bFpUbnhyaTJLR2ROQmJhY0xxbG4tQU1lcVVTdU5XeFF2N00wRy1qWElvRkZNS2NHWnRkNXcxcGtwWkZNSlV3?oc=5",
+  "surgos": false,
+  "eredeti": "Medtronic posts mixed quarterly results, maintains annual forecast - Reuters"
+ },
+ {
+  "ido": 1795520107,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A Nasdaq Futures zuhan, az Nvidia által működtetett rally elhalványul - Barchart.com",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNWE2cE9KZkxXcDVOdUVXLXlzRi1MMUl1TFpaTy1GR1d6NUJqcmlOWFljcUdndDEtanU5NUNHZFhjT2swM05sQ00wTi1EVHd0aEtvOEdhZXhGeFQ4bURIcFU0aUdyVHJDSzY5TzctRTF5OXJ2aTg4VVJqZWxXZHk5c1VmWXBlbDRaX1FiMVhLbTB5M2pRLWxXRGxn?oc=5",
+  "surgos": true,
+  "eredeti": "Nasdaq Futures Plunge as Nvidia-Fueled Rally Fades - Barchart.com"
+ },
+ {
+  "ido": 1795519916,
+  "forras": "CoinDesk",
+  "temak": [
+   "Kripto",
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "A Bitcoin visszaadja a hétfői Nvidia-vezérelt nyereséget, a felszámolások megháromszorozódnak",
+  "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
+  "surgos": false,
+  "eredeti": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple"
+ },
+ {
+  "ido": 1795519795,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Az amerikai határidős tőzsdék fellendülése, mivel a Nasdaq vezet a piac felépülésében - cwibc.co.id",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaUkZHSUIzYTU5Tk9FRzNLeEoxWHNrNUUySkNEREUxckF4MEZiaXNSTmNRbGJOWGswWjI5MmpRTVZKZW1GUm5nQzlETWRSSVAzNFpjcktxdlU5elZ2dWtVRDh0TTI?oc=5",
+  "surgos": false,
+  "eredeti": "US Stock Futures Rebound as Nasdaq Leads Market Recovery - cwibc.co.id"
+ },
+ {
+  "ido": 1795519772,
+  "forras": "Magyar cégek (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Tőzsde napközben November 24. – A BUX pirosban, a Telekom és Richter zöldben áll - Tőzsdefórum",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd1lUUndwSmtzY09Lb0tBQ2lEZlZ2YUlsengyZWZ4cjdhbnE2U1p2VHBSMTNUZUt1UUUyRFJxaVRfOGhKSXNldUxXbXd5S2VmTS1QckM5N3VicjdBbUlTMWJaMy1PREZBMmlEbGR0YllGQTVWZHlEdFNTcmxKMkM5NVdSTzUwczdkcDJKUUJzZDFTLWxmVm1WOGVtc1BKWHVTQkJVTnFiNm1henNSbXR2Nll3?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795519623,
   "forras": "Negyedéves jelentések (Google News)",
   "temak": [
@@ -66,6 +134,17 @@
   "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-s-drop-to-usd55-000-left-a-record-11-6-million-btc-underwater",
   "surgos": false,
   "eredeti": "Bitcoin’s drop to $55,000 left a record 11.6 million BTC underwater"
+ },
+ {
+  "ido": 1795518470,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az AI részvények mélyítik a piac előtti veszteségeket az amerikai kereskedésben; Micron Down 7%, Nvidia Off 5% - bloomingbit",
+  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMbTQyeFUtcElPdi1ZOElmbGJrVVBTUlBJdGVXQWhBd3RvWW5MdlZ2cmxGbnNGb3JXdDNvT05UTGRRUFNtaGtvYWdPdWVZOUR3Q2VXcQ?oc=5",
+  "surgos": false,
+  "eredeti": "AI Stocks Deepen Premarket Losses in US Trading; Micron Down 7%, Nvidia Off 5% - bloomingbit"
  },
  {
   "ido": 1795518300,
@@ -411,6 +490,17 @@
   "eredeti": "Trump Teases Massive Boeing-China Deal - Boeing (NYSE:BA) - Benzinga"
  },
  {
+  "ido": 1795516231,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Az Anthropic 83 dolláros tőzsdei ár alá süllyed, ahogy a debütáló rally kibontakozik",
+  "link": "https://www.investing.com/news/economy-news/anthropic-breaks-below-83-ipo-price-as-debut-rally-unravels-5047654",
+  "surgos": false,
+  "eredeti": "Anthropic breaks below $83 IPO price as debut rally unravels"
+ },
+ {
   "ido": 1795516154,
   "forras": "CoinDesk",
   "temak": [
@@ -420,6 +510,17 @@
   "link": "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute",
   "surgos": false,
   "eredeti": "South Korea regulator backs bank-controlled stablecoins after months of dispute"
+ },
+ {
+  "ido": 1795516139,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Palantir: Miért frissítek erős vásárlásra az eladás után – Alfát keresek",
+  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMW9ObTlJbkpuVDZXd3ZWVVZZbEUzZTI1VHIwYVJvVnl3THJ5YVNlMHgwV1ZWYnRXRVVONjFwZkZKNzktSFgwRkxKREpBN3UtOUcwb09Kemg4eENndmlHeFZTMDdGR2xQX3E2Nk04eS1wUGZwRTdqRlZveF9uT1ZuSGJEVWc2aU0zV0E1MnNnQ3pzVUdFYjZJZjBWZFp1b3c?oc=5",
+  "surgos": false,
+  "eredeti": "Palantir: Why I'm Upgrading To Strong Buy After The Selloff - Seeking Alpha"
  },
  {
   "ido": 1795516020,
@@ -432,6 +533,17 @@
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM19nRmoxcndIOU9iekt0Tkk1V0w2YXZWV09zZ1FxNHd5MU01WDZCN0tEVWgxeFg3UWNSMTgtQ2VBUHVQcVJxMEtCQzdpSnJkVS1nVXVaLVBEam1pZUUxRWg2MDB4RDBmSHFfSXR5ZzNFZ2NfU24tSUNEZmpyS08wTVRZRlF5eVp5Y3Q5blNfczZQOVE?oc=5",
   "surgos": false,
   "eredeti": "Trump ‘gained $15m from Huang’s return’ amid calls for Nvidia stock trade probe - The Independent"
+ },
+ {
+  "ido": 1795515892,
+  "forras": "Investing.com",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az Nvidia részvénybesorolása megismételte a BofA Buy by BofA-nál az irányítási lépésekről",
+  "link": "https://www.investing.com/news/analyst-ratings/nvidia-stock-rating-reiterated-at-buy-by-bofa-on-governance-steps-93CH-5047674",
+  "surgos": false,
+  "eredeti": "Nvidia stock rating reiterated at Buy by BofA on governance steps"
  },
  {
   "ido": 1795515861,
@@ -605,6 +717,18 @@
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZW9qZTIxYmlYVE45VmpfQXIzbGxyNXB5UVIzalZWT3ZlSktKLVNHU296TlFmbkM1Q1Q5dE91Q1huVnBaNVA2azRxUzVBaEJZVHlmRW4zVXVFaHc1VXNHdWt0M2F4RVZyS0ozNXMwYVBkUkUxT2pKQ2hSeHJjdndMVHFGZ3VTWnhab2tXU3BIdUNTUGtGWWJaUmZkaERnd18zNEJXR0tkZGZSNWZJa1RWMjZPSDV4MnJ4bjhKR2xtMmY4VXJwcGfSAcsBQVVfeXFMUHEtZzRjWV96cVlfNTJaWlZ2YUZrcENSSVlvdmViUnMzSTdQUVA3VmZkTUxHNUNmQWVXYkxSdEo4c2JpbnVrTElkelZXcTFzSUM4djZtQV81alJUSUJuQm9LTUpDTkd5WXFZOEUzVnRpNXk4WUJGcVFfY1FqMWhzRVZBTzJBVmJqYXNQMl9TaXhmeEFzalpUWVREZlFSNkNaUzQ5dFUzWEJTSGJQZFBIelNHNlZMOGZaQk9CVDFXd0tNSUhkWnZrY0ZoREU?oc=5",
   "surgos": false,
   "eredeti": "JPMorgan Chase (JPM) Stock Looks Undervalued On Current Profitability - Simply Wall St"
+ },
+ {
+  "ido": 1795514918,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Kripto",
+   "Tőzsde"
+  ],
+  "cim": "A Bitcoin (BTC) ára 60 000 dollár alá süllyed, mivel az Nvidia (NVDA) által vezetett rally veszít – CoinDesk",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGQ2cVJSaWR2bG9CS2lhQjNwSDZPU3lrVjFneVFLMDBadVFjT1llYlVQc053ODVNOGJkeFFhclplZGZodVBnSEo5MzJ1WUhGWl9JbWJVOTNhXzlnTWlnd3BENk5hSl95bjUtNWltbGJhUXJ3Y25JaDU3cWp5VEhOdE1lUk5RclRtQkxWZ2lRTWZua3VFT0VTOU1DVXFwM3lGVVFqN0hWMTQweXc2bWFYdm84WVBJQmRoWXFRaQ?oc=5",
+  "surgos": false,
+  "eredeti": "Bitcoin (BTC) price drops below $60,000 as Nvidia (NVDA)-led rally loses steam - CoinDesk"
  },
  {
   "ido": 1795514918,
@@ -800,128 +924,5 @@
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNUxMc2toVk5TZmp1NnE2T2x3WjkxRmwzaUp5T2xFNWYwTHpxUy0yNDlveURnT2dLSXh3TEdPem9MVVhuanNVV0dxQkdMZ3FndGdPcm1aUFlYMlpXcmFjaGZua09sQklHRUJDZFRqUUZhMXo2WnBQa2FRZDVBb2RPRFdOdFJDeWN1Ulh2MHN2YzU1SXlmbnE5X0o5dDZfZ1cxLTVwUVhYU0lzUi12Rm4tbHNJZE9vQQ?oc=5",
   "surgos": false,
   "eredeti": "Jensen Huang's Return Lifts Wall Street Beyond Micron: Dell, Intel and What's Next - Around Prague"
- },
- {
-  "ido": 1795513087,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "A piac \"nagyon akarta\" Jensen Huang hozamát, mivel az NVIDIA részvényei 31 százalékkal emelkedtek - News24",
-  "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORFYySW92YzlmTmJyb0RlVWFwRzYtWUxRWHhzMDFILWVkdkk5d3pmMEpsWldVNXlTS05SQUtlb1pMN2NDVE9hNFQ5SzBMTUhpVTlobjRQYlRQSldhQVNGTV85S0pJRHBTSzVCdjlBX0kwOHhVbmJFeXlNXzlheUYwQ3hnS2NKRXljdkQ5cy1kcGZxbUoxUFhCUVltVWt6WmROZ2dReVozcmtwbWhpclBfR3llODlvQkttc1lNUjZNVkdEVUFkVzBFaXNhdUF5R0JUaTJWZER4NC0zR241Unk5R2dWTDd4c184elRFeGhldXhHeV9B0gH6AUFVX3lxTE5vY1E3aTRpanNaMjdKZmJxYXF4MS1LaEIyanA1Vi1HUU9GQWk0M1ZlS3pSc3VUYnMzdk1SWUlSQlVSaVduaDdYa2d6VG5PWFZqQ1EtVzZxRVlBVWIwbTU1OGxRVS0yRlB0NTVYdkctdmdxc1pMSVBMYVBFcXhDN3MzSmNDS2lYaTlmZFlGeFlaNDZ2M0JzRTU1WVRuN3FQWWRaZU5YZnFYTlUwWlVmTnZLdWszdHJtYVVTM3pJT0ZHWEdkQWRUbHFxWDY0RHpwUjJCYTJUdDdPaWo2bTFGWXo1cy1UcE9YMV83Rm55WXY1Y01VUjZCWkthRkE?oc=5",
-  "surgos": false,
-  "eredeti": "Market ‘really wanted’ Jensen Huang’s return as NVIDIA shares surged 31 per cent - News24"
- },
- {
-  "ido": 1795513057,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "A Walmart ügyvezető alelnöke, Daniel Bartlett 2,4 millió dollár értékű WMT-részvénytől vált meg. Investing.com – Investing.com India",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSllId2d0bUFPR0M0T0ZGX1hRbU0zOEV6X2dQcTlsM255d2w3MW5vTXlCd19tOF9BT25qMG9CS3lKSTVueENzbGs1Z1dUMy1WczRKQ29ibDRqcFI0NFZxU2hRYzhkYUI4elJkUlVqSGFudWRkRHVtMG9nSDdMcjh6YzRSVEpJVFQ1RGdPSEJKUDNMYmNlQmxRRTA4akpCM2cxZjhleHRBTGhIRm5EbTZJNHI4dE1QYUxXRDlZazRLd1N1RzA?oc=5",
-  "surgos": false,
-  "eredeti": "Walmart EVP Daniel Bartlett disposes of $2.4 million in WMT shares By Investing.com - Investing.com India"
- },
- {
-  "ido": 1795513032,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A Balfour Beatty emeli az adatközpontokra vonatkozó megrendelésekkel kapcsolatos előrejelzését – AskTraders.com",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSy1JY0dQenhKYURoUVhtRGs2bGxLTmxnUkdMUEZSZWxVa0p6VlpiZkJIVHdCRXdVNTllYTVSWEtUV2dLUGNvNE1kWGVKNk5HOGpLUlB5ZFQ1azNMVEZjODl3ck1FNW1ITkxteC1ZLXNoeDlMT0w3aWNjWWdGU2M2R2N0cXdrYXpzbFBmaXRzUWZDcms?oc=5",
-  "surgos": false,
-  "eredeti": "Balfour Beatty Raises Guidance on Data Centre Orders - AskTraders.com"
- },
- {
-  "ido": 1795513020,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Forex"
-  ],
-  "cim": "Hullámvasúton a forint",
-  "link": "https://www.portfolio.hu/deviza/20261124/hullamvasuton-a-forint-878594",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795512966,
-  "forras": "Trump (magyarul)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trump elrendelte a kivégzések felgyorsítását - ACNews",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13UXdrNmFhU1JYWFJlZDFBTE1BbVZYMDVVQjBWWDB1MHgxdHoxeURQbXNBaC1WTG9ONXFIRDNmbmFpUmRqX2JKelF1Sm9Zd3UxWFJMdFNfczZXcHJ5MWRXN3RvajEtVUFTTjBoYXVvaHI?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795512907,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Eredményhívási átirat: A Molten Ventures erőteljes NAV-növekedést ért el 2026 első félévében",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-molten-ventures-posts-strong-h1-2026-nav-growth-93CH-5047526",
-  "surgos": false,
-  "eredeti": "Earnings call transcript: Molten Ventures posts strong H1 2026 NAV growth"
- },
- {
-  "ido": 1795512650,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A Mizuho javítja a Shoals Technologies részvényeinek minősítését az egyesülési kilátások alapján",
-  "link": "https://www.investing.com/news/analyst-ratings/mizuho-upgrades-shoals-technologies-stock-rating-on-merger-outlook-93CH-5047514",
-  "surgos": false,
-  "eredeti": "Mizuho upgrades Shoals Technologies stock rating on merger outlook"
- },
- {
-  "ido": 1795512648,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A Mizuho megemeli az Array Technologies részvényárfolyam-célját az egyesülési kilátások miatt",
-  "link": "https://www.investing.com/news/analyst-ratings/mizuho-raises-array-technologies-stock-price-target-on-merger-outlook-93CH-5047513",
-  "surgos": false,
-  "eredeti": "Mizuho raises Array Technologies stock price target on merger outlook"
- },
- {
-  "ido": 1795512616,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Vegyesen alakultak az amerikai határidős ügyletek az Nvidia által vezetett hétfői chiprallit követően – ZM, HPE, AMD, BABA a középpontban – Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeW9WRWNYclExdnVtQjJ5UHo1bV92aUJxdGFraUx4ZzNSRkVzWW9aeklqaTlzV29wRExmNVgyYm1Fb3k5bzNHd0thdE1lSHNtTS1HbV9jLVVXaUpqMWJmNnFzaFFTZjNOVEdHdW4zZVcya3RsekdVamxsTXpvS0dJbU9YeUZIZTVVOXJRYWs5THB5NVZyZTh6Z25icw?oc=5",
-  "surgos": false,
-  "eredeti": "US Futures Mixed After Monday’s Nvidia-Led Chip Rally — ZM, HPE, AMD, BABA In Focus - Yahoo Finance"
- },
- {
-  "ido": 1795512612,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Tényleg tisztában van az Intel-részvények kockázatával? – Trefis",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTkzUV9sb0IxdEdIcWRQVUV2OTcxaEU0M1EwZnR3VHQtN1RyMkhkdV9zV0Y0dWdwSmFjMWNKUmtySVB1aGNXalJ5REYxakk1MmNKeVQzXzYxWFl4SU9XUlFUeHllNklaVnhsRUo1alh3VTJrS3JSVGRMTllEUzc0bElrcHg2cm1CQmxuMjlFSWNwTzZ0WFdkSWRZMkpUb3o2Q1pBaHA5RQ?oc=5",
-  "surgos": false,
-  "eredeti": "Do You Really Understand Intel Stock’s Risk? - Trefis"
- },
- {
-  "ido": 1795512607,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Úgy tűnik, Trump új módszert talált, hogy nyomást gyakoroljon Ukrajnára, és segítsen „barátjának”, Putyinnak – HuffPost UK",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU3dkSnlCWXhkQzIwaFpqU1V5N0lobEVDb0l0dHNUaWRQRVFLNHBSWVh3MkI5Zm13Y0cwa01FU2JXVDFidm1DQUgyLVZLWGdWQ2o0R3NCNHUyTlo5ZG9wSmNNQU1jSVJYQUNvVmJ0QWUtWW5acWNhLUFKYmdTX0VuVHR0QmpiNy1SVVdISWtOVW9mT3paTGI5M0xybm1zc1IyRUtwOUtabkFrYXpaNE03blFEdHNkY3BRaEE?oc=5",
-  "surgos": false,
-  "eredeti": "Trump Appears To Have Found A New Way To Squeeze Ukraine And Help His 'Friend', Putin - HuffPost UK"
  }
 ]
