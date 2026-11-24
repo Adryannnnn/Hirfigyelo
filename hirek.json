@@ -1,5 +1,119 @@
 [
  {
+  "ido": 1795512345,
+  "forras": "Wall Street Journal",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Az Anthropic IPO-ja győzelem a kockázati tőke számára. Sikere átformálhatja az iparágat. – WSJ",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSTFtNllCZ185aGplLW0zamNtUkJpdzBTaGJjeWcwYkctQWNQOEFVOGdtTFk1WFVCTlNZdnNvOU9pOV8yZU81Y1IzNE9nWm9FVDBJWV9CMHBfUFVpcmlwU1poVUZmUzhiLTZnTTJxTC1sRHRsOFFFeG5maHBFRHFoNHZSUlREaEpGSWFHQ1AxMWp5Ti1TNTZDdzBrZ3JyQlVaRTZWLXhaX1EwRmFXRXBuQ2VOS0RnMENrcUJPR04ydFQ?oc=5",
+  "surgos": false,
+  "eredeti": "Anthropic’s IPO Is a Win for Venture. Its Success Could Reshape the Industry. - WSJ"
+ },
+ {
+  "ido": 1795512345,
+  "forras": "Cointelegraph",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "A Bitcoin újra 60 ezer dollár alá esett, miközben az arany az 1980-as évek óta a legrosszabb 60 napos veszteségét könyvelte el",
+  "link": "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "surgos": false,
+  "eredeti": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s"
+ },
+ {
+  "ido": 1795512060,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Tisza-kormány: beindult a törvénygyár, megszavazták a vagyonadót, az szja-csökkentést és más adóváltozásokat",
+  "link": "https://www.portfolio.hu/gazdasag/20261124/tisza-kormany-beindult-a-torvenygyar-megszavaztak-a-vagyonadot-az-szja-csokkentest-es-mas-adovaltozasokat-878590",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795512060,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Döntött a parlament, januártól megszűnik a kötelező kamarai hozzájárulás",
+  "link": "https://www.portfolio.hu/gazdasag/20261124/dontott-a-parlament-januartol-megszunik-a-kotelezo-kamarai-hozzajarulas-878688",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795511967,
+  "forras": "Magyar cégek (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Tőzsdenyitás November 24. – A BUX mellett a Telekom és a Richter indult erősen, az OTP visszafogta a reggeli rajtot - Tőzsdefórum",
+  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORm1QNDJqa2hwQzFGM2JqcEFCN3BWZVVkRTNZLUNxRExhSHZWaDJ5eUJoZVNMQzYyS2haQTdKQ0xrcUVxczRtaVRPQjU0UFFSaUxodWJ3OFk2M0hweDMtZEdsUXNha0tBWUI4S2Q0d2U2YWJsRTdpbnB3RnpMZGxWWmhuUUtzbTdOSV9nRE15SzhjOVNxN3ZqOVFMQVVlU3dCNVRvX2RPMThfVnZIeFhwQ1BpMHhiaUtOV3VoaDJib2dGa3JvWWo3SE5ROUhNdjdyTXdBamhtRmlGS2RCT3FHNQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795511722,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Jensen Huang visszatérése fellendíti az AI-részvényeket, a Micron 19%-ot emelkedik, de a negatív kockázatok fenyegetnek – TradingKey",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd28zemZiYU15YURYdS1qd1d6bmlwSXg3ZEstNHZ4YU5uS2JXSF9YN3hUZXVhY3huUURBT3BuZEVkT2VoSEF0MVdiMWNUSnJoNzRwOXJ3ei1YYVFFR04yRnk3RTRfQUVlTE92V0xoSEpvM1ZZQ1Ric29nM0kxQ2hHa2FrMWJsenBkUVhWUG5PLW5ueEVXQVgyT19HejVwZ2o3RW8zRGp2YUtDMlRVR25qRw?oc=5",
+  "surgos": false,
+  "eredeti": "Jensen Huang’s Return Sparks AI Stocks as Micron Surges 19%, but Downside Risks Loom - TradingKey"
+ },
+ {
+  "ido": 1795511717,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "A Trump-adminisztráció két afrikai szigetországot vitt az ENSZ légiközlekedési szerve elé, mert megakadályozták Tajvan elnökének repülőútját, Kína pedig visszavágott – Business Insider Africa",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeUwtUTVmazF1am9iQnZIUGpjVzhvRmlBUTRLcm1HWTNOaUhLZVFmSjdBUEx3bU9KcUNCREJhT05TVnVRVE5WcXN1R2drZW13czBWT2FtYTdURlIycUpNOUpwV2c1LU15TFJuTlJGNjFwbmZ4X0xHQkwxbFA1OWt6N2hkbENnVVg0bFJGVTlyZW96TUJmOHAzZUViOUNKcThrNUNnTDlLZzRmSXlxYWdZUEg5dUs5QUtrdGVPZUdjdERuUXZNWVNCQjUyUEZaRzJj?oc=5",
+  "surgos": false,
+  "eredeti": "Trump administration takes two African island nations to UN aviation body over blocked Taiwan president’s flight as China hits back - Business Insider Africa"
+ },
+ {
+  "ido": 1795511525,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "A Nvidia részvényei több mint 3%-ot estek a tőzsdei nyitás előtti kereskedésben Huang visszatérése utáni emelkedést követően – CNBC",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52aUdsdjBXTkFjSkg1UVpmamJ6cXNsRWxPSGRGZXNMOFNuRWFHZEdudVdnQ2pRS0xKbFJvRUJmYldqSEl6UzFseHJWZzdENkNrbEdXd05yWEpyU3NOQjM3TVNjZUcyYVlKZ0RGTFlPVWF2T2hvX0tUVdIBfkFVX3lxTE9jTGJUVzdZamlIUjdnZlVNYkVhaDJ4MzY5MmpTZUpGMl9GRjZDSTNGR2FGenRsN0djalZxbjlrWUNCUXFOME9HdHdVTzdPTE9KT28wei1iTXl3bUxLSTZKRm1VWGhXVlhFQUpRMTV4ak9tUUtGdXZ6b29YNWhCQQ?oc=5",
+  "surgos": false,
+  "eredeti": "Nvidia shares fall over 3% in premarket after Huang comeback rally - CNBC"
+ },
+ {
+  "ido": 1795511502,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Trump aláírta az életkor egyértelműségéről szóló törvényt, amely egyértelműbbé teszi a társadalombiztosítási nyugdíjra vonatkozó feltételeket – Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQcEVBMTZXRmUtcXIxUDVocDY5d3gzRzQzMDhPN2pJM29hLWEtbWZWeGJSSzBlTll0cHF5TEEwdHFBWl9VX284bTI3Y3FpSmliV3B5SWxqbExFb2FSYTNtWW00ejdMOGhsUTlpTTN2Ni0tM1ZZbFk0SFBwUGdaM2d5SlA3MEY0VldHM0RLMDFzS1pxRjFTcTBFckYzcHNiMEJCNnJWU2ZlTzk3ZThFSks0eWtqbU1EOGdZWmQtZ1NZcmU5c2I1dm5ybER0OFJNWmxFMkVETDFfMm50U1NqOVRnY01rMXlnSzNHOVNESDhuZzJDcWRENzVkemI2Um9HOVBTOEJtWThrSUJDdHpRRllQV3ZENTlQRmcwSE9pYg?oc=5",
+  "surgos": false,
+  "eredeti": "Trump Signs Claiming Age Clarity Act, Bringing Clearer Language to Social Security Retirement Terms to He - Benzinga"
+ },
+ {
+  "ido": 1795511475,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "A tőzsdei határidős ügyletek visszafogottak az Nvidia által vezetett Wall Street-i rali után (SPX:) – Seeking Alpha",
+  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc0xiVDh6bm5TMWkzY0hEckxoU0F5Q3RWaXNFcFpXbG5hYjY1M3IwWmdBY0dxUDk1Y3hGZ09ZTlZJRXBKZmtTSTlLYVFZLXQ2NF95OTZCQmsyb0N2QUNhSHhFR0R2MWkzZmRIa25RQkVjXy1OeWhNVXVRclN3cGw5S2NnQVN0Z0hjZlRaeGJLRTBTdVoyalpxSzktT3pEdWV2Z3c?oc=5",
+  "surgos": false,
+  "eredeti": "Stock futures muted after Nvidia-led Wall Street rally (SPX:) - Seeking Alpha"
+ },
+ {
   "ido": 1795511280,
   "forras": "Portfolio.hu",
   "temak": [
@@ -9,6 +123,17 @@
   "link": "https://www.portfolio.hu/gazdasag/20261124/eldolt-negyszeresere-emelik-a-minimalnyugdijat-878686",
   "surgos": false,
   "eredeti": ""
+ },
+ {
+  "ido": 1795511219,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Alphabet kontra Meta: Melyik részvényt érdemesebb megvenni? – Trefis",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb3RxakNEejI1NUwtVDNCenVSQjV5X2VqUU5PdU1PVzJnVmxIdVl1RUdQOXFwSTJrbXlrclNfNmhsRnFOOG5DSnFOaWJHcmxlU0NfbVo2QUN6YjI5Q3Bjb2RQdk1QNGRnWF90bHVnanlvZWptT2RmVkN0SW5JX2xpQWJvd3hIVkRKX0FtU3BFalZXQ0NnaXFsUWVEbkFvNmZqa0hnSjZsc0dXYmd3?oc=5",
+  "surgos": false,
+  "eredeti": "Alphabet Vs Meta: Which Stock Is The Better Buy? - Trefis"
  },
  {
   "ido": 1795511028,
@@ -303,6 +428,17 @@
   "eredeti": "Is Nvidia's Rally Overlooking Risks Around Jensen Huang's Return?"
  },
  {
+  "ido": 1795507783,
+  "forras": "Investing.com",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "A DB egyre inkább a Fed keményvonalas hangnemét érzékeli, mivel a tisztviselők további kamatemeléseket jeleznek előre",
+  "link": "https://www.investing.com/news/economy-news/db-flags-increasingly-hawkish-fed-tone-as-officials-signal-further-rate-hikes-5047396",
+  "surgos": false,
+  "eredeti": "DB flags increasingly hawkish Fed tone as officials signal further rate hikes"
+ },
+ {
   "ido": 1795507736,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -312,6 +448,30 @@
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWURaeDRwRS1lZkdFb0F0OFZKb3c4cG1lTjJPeVoxT0hSRjY5dC1COHc3RXh6angybDBnZi1BNDF2ZkVxbDZ0V0xNX3VXZnpQTk0tdnpBRWlqM0JwS00xSzVmTzBROWgtUmhHcnBESjc4QTZuOW00UjRMdzV2Nll5Nlg1dGxyUi1sUjFZVTJpcF9jeXpWT3BTR2c1MjlhV2VycG5YSEtqaWFvaHhTR1dVQU1CS01sZjdHSmVmUXRHUnNtMkJiYV9GUnZB?oc=5",
   "surgos": true,
   "eredeti": "Nvidia shares surge over Jensen Huang reinstatement 11 days after resignation - South China Morning Post"
+ },
+ {
+  "ido": 1795507647,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Kushner megpróbálta kordában tartani Trumpot Zelenszkij ügyében, miközben Putyin olajügyletet vetett fel a béketárgyalásokon – Kyiv Post",
+  "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIUmlLa211TUY1eGdYTkFoRWowdDRSSkJKLXRhOUlpaGVXRmJiR2lpS09TdzZXWlVGTWtIaHdQWmtEc2tOdnBJTlRPQQ?oc=5",
+  "surgos": false,
+  "eredeti": "Kushner Tried to Rein In Trump Over Zelensky as Putin Floated Oil Deal in Peace Talks - Kyiv Post"
+ },
+ {
+  "ido": 1795507603,
+  "forras": "Investing.com",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "A Needham megerősíti az Nvidia részvényeinek minősítését a vezérigazgató visszahelyezését követően",
+  "link": "https://www.investing.com/news/analyst-ratings/needham-reiterates-nvidia-stock-rating-after-ceo-reinstatement-93CH-5047390",
+  "surgos": false,
+  "eredeti": "Needham reiterates Nvidia stock rating after CEO reinstatement"
  },
  {
   "ido": 1795507440,
@@ -756,165 +916,5 @@
   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT2lYRWpnQkFkREJQUzN1U21udTRiRnBiZnh4a2tmRVlYaEVQay1EeDJZQTZldURGbkdKU2J5aW4tTnRYaTV2ZkZudU1UUGhabFdLekdWVUdIc0p3a2RaV2xxcmlocGxLUk5UMnNXMS1MeldtYjVjZmRFemtrTDJ3V9IBhgFBVV95cUxPcVZXTTdzeHdycTRQblVKajRGNDFuU2tIUjA2cEtmOEc5UFZwcDlNTlhNRHVSQVRvQ2RrOTRqQnFKUDJhTGFGdUlmbUg0djh4VEpBVDVCLUJZNDBfOERzNVZsb3h5TU92blR5LUxyQUNfRG9yYmREdXZMSkh4b2p6TEpWdmpxUQ?oc=5",
   "surgos": false,
   "eredeti": "Donald Trump’s Nvidia Stock Holdings - Coinpedia"
- },
- {
-  "ido": 1795502640,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "[Oszlop] Köszönjük, Amerika, hogy megvívtad a jó harcot Trump ellen – 한겨레",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQUt1X2tGOE9QdXVOVjlFLUlFZFJjLWZLeTFDb3hsbkszMExpQmxwOWtGcnk2ZkFTWVNvaENja3pnOWZVNU5zOGttTG9wZFhqaTc0Uzd3Y2pIZ1Z3LXByckpHYWdFRnpuMnpJZU9UMVBCOXduTVhOby1kU3hzMkpxRA?oc=5",
-  "surgos": false,
-  "eredeti": "[Column] Thank you for fighting the good fight against Trump, America - 한겨레"
- },
- {
-  "ido": 1795502521,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "AMD-részvényekkel rendelkezik? Nézze meg az eladatlan chipek halmát – Trefis",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaEEzTUFadDRsLTBrbTB0VzRwWXdyY2gzSEg2OTY5RWx2NDdRQ2s0WXQ5Mm5vaVBScGhLYVMzVU1iQWdRdk5pSzR2MFl0Tmh4dDJYZ0tKUXJYbU5tVDJscW5ZSFR6cGlOUGxGR0VNSmg1Y2JTZTBWS3F6ZUJoS255VnE0REVQUS1fYVRsU1NGQzFObXpPNlp3V0FwWXR2VHBKaGR6REpxaw?oc=5",
-  "surgos": false,
-  "eredeti": "Own AMD Stock? Watch Its Pile Of Unsold Chips - Trefis"
- },
- {
-  "ido": 1795501964,
-  "forras": "Trump (magyarul)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Már ebben is benne van Donald Trump keze, de bárki is meglepődött ezen? - Liner.hu",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTmN1UVRZX0x5T3ZnRWdBYnlDLVU1M1Q0Skc3TmthQVRCVjRBNDdwa25aWVFXWm44VVN2MVVDNW1tUlQwZkYwcVRlZVFSQmpfbFlPM05nUG1NM0RuTmNCYldEdGgybzVrTlVIdzYzSU1HYThpLXFGcU83V29XTXNGS1p1OA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795501916,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Pete Rose posztumusz kegyelmet kapott Trumptól – Pókerhírek – Card Player",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbVU4QzRHMmtBZC1uelV1TDBXRjZUWGE1SDJCQ3QwdF9ubThYakE4N01TWHpPajJZQktNS1U3T1g3eHpzWUdHT244SjFyOEc1S1VldGw1dVRLaS0wcktzUGRFVVdHVWs2cDZiRjA0MWhpVTNFcGdmQnlGM2liRGdCRmw4QWFOemhhZFRpM3dpdVBtRjNnQzg3cHdEUjlTRTZHVzRLUFZTcDJ3RWdBLTIxX0ZYUQ?oc=5",
-  "surgos": false,
-  "eredeti": "Pete Rose Receives Posthumous Pardon From Trump - Poker News - Card Player"
- },
- {
-  "ido": 1795501758,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Az Nvidia részvényei 31,5%-kal emelkedtek Jensen Huang visszatérésével: Vajon a visszatérése fellendítheti az MI-kereskedelmet? – Gulf Business",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ19xeDh0WnR0S00yc09wR1RuQjRFNXUtZGFyd25OMHhHZWRVMkQ2QUVmXzd0LXJrQk9rbDNJcXhOUkFmRHlKSElNdHZoSmRJa0dtTzdFc1dYYXRRZVBkNWtmb0RlVm9UTlhjWVJMSThmS3ZjMy11LWlhZzVRcm9OYk11V2R6UDFzSmN4bnNTZ0VsdWtSRVhrT0YtU2puZS1TMWFuSXFTbjVlT0NlR3lWOW55WVNzcWZlY0gwdHhhWlYxQQ?oc=5",
-  "surgos": true,
-  "eredeti": "Nvidia shares surge 31.5% as Jensen Huang returns: Can his comeback revive the AI trade? - Gulf Business"
- },
- {
-  "ido": 1795501735,
-  "forras": "Reuters",
-  "temak": [
-   "Világgazdaság"
-  ],
-  "cim": "KOMMENTÁR: A Közel-Kelet kőolajexportja csökkenő tendenciát mutat az Iránnal kapcsolatos hamis patthelyzet közepette – Reuters",
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzZpMHFTclFHbWV5MGFQbmJCOHhtaS02NUQyVmFmU09tZHVJRXZCeHRNWTFNQ0hVenFvQ1JnS2p0aHd0LVFjRE5KTi0tQkVZdElhcko2YXRmWnpkbGtkc0lJX0JjVGtXSE1TbWwyVklTcHVrSWNaTExxT1hYV3JEdG92Ny03TEFNWEJ0Q1hIY2lReVVlZHhkRS0zUUlkZkFiTHhiV0UwVF9RMVdxS2RlS1pseXBJQ3ZwaDBqak5zd29Hd3NGYW5nNUVfZERkR0pI?oc=5",
-  "surgos": false,
-  "eredeti": "COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate - Reuters"
- },
- {
-  "ido": 1795501680,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Nagy napra ébredtek a legnagyobb svájci bank részvényesei",
-  "link": "https://www.portfolio.hu/bank/20261124/nagy-napra-ebredtek-a-legnagyobb-svajci-bank-reszvenyesei-878610",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795501604,
-  "forras": "Bloomberg",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "A feltörekvő piacok részvényei emelkednek, mivel Huang visszatérése újraéleszti az AI-kereskedést",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/emerging-market-stocks-rally-as-huang-s-return-revives-ai-trade",
-  "surgos": false,
-  "eredeti": "Emerging Market Stocks Rally as Huang’s Return Revives AI Trade"
- },
- {
-  "ido": 1795501504,
-  "forras": "Trump (magyarul)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Felgyorsíttatná a halálbüntetések végrehajtását Donald Trump - Hírstart",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlpvYWdQZHFUWVMtei0za3NFMjV2QmVlODk0SGNPQ1VhWjF3SEhQLUduVlN2VkVVQW5GMnRjQWxiVV9Bb1FSUExTOTQ2U3RibUhYeDNPeG9JV2pVeXFhc0R2ODdQU3dvWTdqaVh4V2Q3NEdRY0tmbFp0LU1KMGprNUY4cWtjMWNBd2YtSzlhZW9UaE5XanZSWWhwZ2Q?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795501500,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Újabb amerikai szankciók Irán ellen: lecsapnak a kereskedelmet életben tartó árnyékbankrendszerre",
-  "link": "https://www.portfolio.hu/bank/20261124/ujabb-amerikai-szankciok-iran-ellen-lecsapnak-a-kereskedelmet-eletben-tarto-arnyekbankrendszerre-878606",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795501376,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump kemény hangvétele Kínával szemben mindig is csak színjáték volt – Dailypress.net",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczJsc2dxeDBjaU9Db0taNUJrd0Y0UHVyZDVaYW8zSVJnUWtyX0NMYlY0SGtaaTF1WFN0VnBPWHVfRUN5UlgwNkJvc0VJNWY1MENyY3FuNklUN08wZW9rMTBRd1c2V0FtS0xHMGE0UEpzR0s0bHNlVHhsMHVUVjNpOUN6Y19Xd3hCOHJoMjBlcG8tcU5CT3RuR3N0TEdVcUY0NVV1MG9QRWNWdVk?oc=5",
-  "surgos": false,
-  "eredeti": "Trump’s tough-on-China talk was always just an act - Dailypress.net"
- },
- {
-  "ido": 1795501192,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Az Egyesült Államok volt vezető diplomácája bírálja Trump NATO-val kapcsolatos megjegyzéseit – Yeni Şafak angol nyelvű kiadása",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUW1IOEswdnFVUHp3WGdxY0xrZnNGSmF0MTlONDhBbzY1NjhDbFdkYkk3QU9sVUdoWV8xczBwMFpDbjVZMjQ4U1FKLUhtTG44d1BGZ3pqaldnWXBJNFRwWUdKZ0E4QkxMWFVxcUNfVlFkS3pZTV9vcldTQ3doSEpZSFpaNWJMQm0tTGNFaVdvMFM4Zw?oc=5",
-  "surgos": false,
-  "eredeti": "US former top diplomat blasts Trump's NATO remarks - Yeni Safak English"
- },
- {
-  "ido": 1795501138,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Az amerikai részvényindex-határidős ügyletek emelkednek a Nvidia által vezetett Wall Street-i rali után – Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHJSc1lQSFFnSU90UmhzTDNkRHo0NG1PUXF4eW1IejA5dXg2UkEwWGpCNmxNUVFKRVZYNzNZWi1waHljeEluVW56bWg4b25uTDN3dXA2WUtXcXRtVEVBdm1oUzNhQVBfVnZGMExxYWh2bS1vOWxtU3g0R2d4eGtPMjZ0N2hhd084R1pFUHdDVTluc1Z3aGlWX0RndG1OX0s1cUZCNm9WbG9RckllWDNKSlRxSmI?oc=5",
-  "surgos": false,
-  "eredeti": "U.S. stock futures tick higher after Nvidia-led Wall Street rally - Investing.com"
- },
- {
-  "ido": 1795500900,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Forex"
-  ],
-  "cim": "Tisza-kormány: most dönt a parlament, hogyan fizet adót a magyar 2027-ben",
-  "link": "https://www.portfolio.hu/gazdasag/20261124/tisza-kormany-most-dont-a-parlament-hogyan-fizet-adot-a-magyar-2027-ben-878590",
-  "surgos": false,
-  "eredeti": ""
  }
 ]
