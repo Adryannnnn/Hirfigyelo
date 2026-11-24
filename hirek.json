@@ -35,6 +35,17 @@
   "eredeti": "Nvidia's Jensen Huang Reinstatement Sparks AI Rally, Lifting Palantir (NASDAQ: PLTR) Stock Price 10.6% - Foreign Policy Journal"
  },
  {
+  "ido": 1795492800,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A SpaceX Stock (SPCX) 4,4%-ot emelkedett a Tech Stocks Rallye során (november 23.) – Gotrade",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRXg5clRjWE5PZU5jUVdCU0FiZmRaUVhyUGU1YnN6eHdXR2ZoSHhPMjVoX1l2dm9BM2tPN3UwWkZGM29TWHNoUzJONTNoa29KOHpfb19FTzI3RUIzbnRlM1pYQ3c0aXJPaElWYmQ1S01kbzJuZU9KcEdyeUdVZW9HcQ?oc=5",
+  "surgos": false,
+  "eredeti": "SpaceX Stock (SPCX) Rises 4.4% as Tech Stocks Rally (Nov 23) - Gotrade"
+ },
+ {
   "ido": 1795492444,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -45,6 +56,18 @@
   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pb0dZSk1Zc21QVWlOcHNzWjVpdkdXYUtfQzNwOEFiTEMxdVZWdF9sUzk3bHo4ZEhSVU03dDNkdWZTcFh4bmU3cWtUdzZuUmZoLXRzLW1RWlR2TnNmUnctS3Rn?oc=5",
   "surgos": false,
   "eredeti": "Trump to Meet NATO Chief Rutte in Florida After Summit with Putin and Xi - Forth.News"
+ },
+ {
+  "ido": 1795492129,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Donald Trump amerikai elnök a NATO ankarai csúcstalálkozóján vesz részt – The Lufkin Daily News",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTDZCQmhkVWRGV1dQQlNVS1NLNXc4b1gzaFdtbEVtNi1iNFYyQ0hrbVlqWGNWVTB0Uy1lc1hXQmFjdVVvblNOSmliYXRfb2FfMHZ4elVmcFZUeWZtN1NieHBVV09SWkFqUmp6N0xQVGk4R3dmSlZiR2VCYWlXZ0tJS3EzSnlhUHZ3RklyNWVWQm1VME5PbTdHaTJUZlVHM3lJX25oV0s2WFdBOXlkSmprQXFfd2U2VlRBbndFcnpGTERZd0xmMi1FOEIyRTF6UWNXdXZON3NZTEVaRlFXdHh2TC1iRDNsVEhzVlBkVlVIOA?oc=5",
+  "surgos": false,
+  "eredeti": "U.S. President Donald Trump attends the NATO summit in Ankara - The Lufkin Daily News"
  },
  {
   "ido": 1795492080,
@@ -330,6 +353,17 @@
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd0tDRGtQLURJazAyZVlaYlBwYUlRNVBTbGdWbUxsZlIyckR6MkhJTkZqVjk4OC1VRGdROHl3elVIeXhnaUtkdWlScXc5VE94d2VmNTBlSk14MlQ3MUVRaE4xY1l0N1FzYkNDSFRlWWRCTTNBZjc0bjBfNFNVcHg5dlFMQmk1dFQwY3YzWnJGN01HMVJDRlJrazVEM2NKT1lFbHA3cVhrVzM4cUk?oc=5",
   "surgos": false,
   "eredeti": "JPMorgan Maintains Tesla Stock 'Hold' Rating with $430 Price Target for 2026 - KuCoin"
+ },
+ {
+  "ido": 1795486320,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az Nvidia Stock Rebound visszahelyezi a mesterséges intelligencia infrastruktúra részvényeit a radarra – Yahoo! Pénzügy Kanada",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU2VIekU0OEt2NzV5X0tlSlp5ZWh1WmhLVGQwTVlKYlZtczNHTDRVSEVKZ2ZRbElSVThJNXF4LUdGQWNBVXAwU3hHZHlzVXBrSVE0NklzU2c0YnFfc281MWVwaXIyUUYtYnBIQ25LcTIxZERFckZkdDR4YVBuQ0laaS1Eaw?oc=5",
+  "surgos": false,
+  "eredeti": "Nvidia Stock Rebound Puts AI Infrastructure Stocks Back On The Radar - Yahoo! Finance Canada"
  },
  {
   "ido": 1795486260,
@@ -886,40 +920,5 @@
   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVDJvLXVFdlZEMjJKXzVQRUd1OUxici1kY1Z2X1lueldOdUx0eUlvOXNHdnZWeVJQR2tMN21CN3hsVUNKa2JwWE1Odl9KZ2hLWXloWERRWjlkU09WM012eXRYVDhmdTRjVUJVUDd5NktMRDctM1BpVDh2UTBBZHowZFhDUXZHeVRPejJSYjFnOEFXVlU4b3BoWmVSSDhFSkhsZWQtMTkzRzdMUGlUSGJzQUp1RGFMV0pxa1otSmFRRzBFcXFseWhzS2Y3bi1iQmVEdllzblByUDVpN2xUekhudGxGajMxeHNvczJJc0lBNWJnbjZWQkZveldXekpmbGZFU0JUSlFR?oc=5",
   "surgos": true,
   "eredeti": "US MARKET CLOSE | Nvidia Surges 31% as Jensen Huang Returns as CEO, Dow Rockets Nearly 1,450 Points, Nasdaq Jumps 6.5% - TradingView"
- },
- {
-  "ido": 1795480263,
-  "forras": "Investing.com",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "A Palantir technológiai igazgatója, Shyam Sankar 47,9 millió dollár értékben adott el PLTR-részvényeket",
-  "link": "https://www.investing.com/news/insider-trading-news/palantir-cto-shyam-sankar-sells-479m-in-pltr-shares-93CH-5046824",
-  "surgos": false,
-  "eredeti": "Palantir CTO Shyam Sankar sells $47.9M in PLTR shares"
- },
- {
-  "ido": 1795480221,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Az ázsiai részvények emelkednek, mivel Huang visszatérése az Nvidia élére újraéleszti az MI-kereskedést",
-  "link": "https://www.investing.com/news/economy-news/asian-stocks-rally-as-huangs-nvidia-return-revives-ai-trade-5046823",
-  "surgos": false,
-  "eredeti": "Asian stocks rally as Huang’s Nvidia return revives AI trade"
- },
- {
-  "ido": 1795480200,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "„Irán eltökélt szándéka, hogy kényszerítse Trumpot” – Modern Ghana",
-  "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lSWx5d0NTZEJNdEt3VXRYQXNPbjFsYzAtN0RKS0FmeE9QalM0VS14aTNQeF9SMnliZWFWbFF2MWxvMFI3d2lQdmdQQWhvdk5xdjhQVFhTQzZnNkpXVVhjbNIBXEFVX3lxTE8zcUM2ZTFsUWRFR2tJS2N2a3c5ZkJTaFJpQmZueDNicTRGWVd2UWVrWkFyZFdrRkt6TldJWGxBUnE2Y1hqMENrTEloNXp5aTd1Z0o5d3BlcXZQZDFl?oc=5",
-  "surgos": false,
-  "eredeti": "“Iran is determined to force Trump's hand” - Modern Ghana"
  }
 ]
