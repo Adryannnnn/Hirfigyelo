@@ -1,5 +1,27 @@
 [
  {
+  "ido": 1795489113,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az OpenAI megosztja a belső MI-pontszámokat, és közös korlátokat sürget – The Rundown AI",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yVEJJOENtbU4weE85N3lZbVhENDhDeHpzemZnQmNhNnJXUnNoM2tUSEFvNGlrQmRPemVWQTU3Z2RJZ3h0eE9MelowVndiLWcxM0FsVDR2WnQtTW1kVkl6NTVfZnJPVF9iZ0hVd0RWSWZuWkhaWUhPbnZ3?oc=5",
+  "surgos": false,
+  "eredeti": "OpenAI shares internal AI scores and calls for common limits - The Rundown AI"
+ },
+ {
+  "ido": 1795488635,
+  "forras": "CNN",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Warren: „Érdekes” – Trump azonnal a bennfentes kereskedelemre gondolt, amikor az Nvidia-ra gyakorolt nyomásról kérdezték – CNN",
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTTQ4UDFZQlkyT29WM2JVZ0tROWZ3WkFjSUptTjJxSDJiMFY3WlVSNUYxQnAzZjlScUI1OE42R0pabmpqZmhaNWxpUGkwQkdkeFhQSElsRzctbERyOUcweUVNYWg3aHJSQ3phMi0zYmtQR0E5eXJBaDFZTXJyZGZuVEhxY1JrOTBhakFRS0xybnAyU0FQdDd4cnJQblJhUVZ2N3VpZS1TZjRJX1pmaG5MQU1MYW9zRGVyWmFFNUhnMm84T1oyMnVXbXpTM2JTSlZzeDA1YktmN3R0VGl3WGZ2NE8wWXAzNkNKUnNwMThtMEtETXEtZm1kQQ?oc=5",
+  "surgos": false,
+  "eredeti": "Warren: ‘Interesting’ Trump immediately thought of insider trading when asked about pressuring Nvidia - CNN"
+ },
+ {
   "ido": 1795488000,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -9,6 +31,17 @@
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2IxYUd4RUpyMlphZEc2NEs2akF4N01LV195aWNBd0F5TEtTWlFHeW9Tb3Raa1UtYUFMeWVlWjRaZXBzUWVUTFo1b0ZWemRNWEZRY2VUTUlTMUpxb3E1YWhINkJFV2pIU2UyN3RPRm90LWVsT19GRHNWZUlqWWJOeHFRcExyRTlFMjFyYTF2WmRkSGFSMnlrYmd3YnJYVjg?oc=5",
   "surgos": false,
   "eredeti": "Asian stocks roar back as Jensen Huang's Nvidia return reignites the AI trade - Business Insider"
+ },
+ {
+  "ido": 1795486380,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A Nasdaq, a Dow és az S&P 500 határidős ügyletei emelkednek, mivel Jensen Huang visszatérése az Nvidia-hoz 3 billió dolláros piaci ralihoz vezet: SOXS, IBRX, HPE, TSM a középpontban – Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSTRMM0dfQUlWZ3pRMFhtNUJsV1k0RE9UV1dTQ2RhWUZ3SUtIOUhtbGQxa1VidG05ZEszdXRJTFZHTTFXTExSMW1uV05KVEdzb0NBcWtnVDBVa2dQbDdYc0NQaTJlWWxfbVdmQV9JUHZFbmRHcTB3elRkWUt0aUxCOFZVX3hIYnBfTHlqOU5IMGx1T3c?oc=5",
+  "surgos": false,
+  "eredeti": "Nasdaq, Dow, S&P 500 Futures Gain As Jensen Huang’s Return To Nvidia Sparks $3T Market Rally: SOXS, IBRX, HPE, TSM In Focus - Yahoo Finance"
  },
  {
   "ido": 1795486364,
@@ -101,6 +134,17 @@
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0JhaFZlekw3M2ZPQVdNVHJNejUzOGVEc1J3VkNRSnRxcFhvaS1LS2k0LUVUd2hWNEJ5RUhlZk1DWnl3NktMUGc4QkhfSEpsanNQUEFaalBubFZQaUp0NGpqM0NPZHptaGEyWWpVY1FPMnA1cW4zajlTYy1CUU9SaGVlQV81LXVXcG9zRW9PTkFReUV2Umc?oc=5",
   "surgos": false,
   "eredeti": "Trump expects China to buy another 250 Boeing aircraft - 联合早报"
+ },
+ {
+  "ido": 1795484442,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A makaói szerencsejáték-ágazat kilátásai: A CLSA 2027-ig tartó gyenge teljesítményt lát, és csökkenti az előrejelzéseit",
+  "link": "https://www.investing.com/news/stock-market-news/macau-gaming-outlook-clsa-sees-prolonged-weakness-in-2027-cuts-forecasts-5046892",
+  "surgos": false,
+  "eredeti": "Macau gaming outlook: CLSA sees prolonged weakness in 2027, cuts forecasts"
  },
  {
   "ido": 1795484400,
@@ -218,6 +262,18 @@
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaXNER1VhTFVyWldrdV9OaEJTVFNGOG1IbVAxVFRYQUVJYlBrczJFSHVteldCUXNXdkxRODdKU0VoTnIxS210VGxEN2E2bm1vNjJsVkRJVm9RbTJQS3VoY2VJTXZTd1hvRC1WMVNIeUpYQnk5T0NORDgwS0Qya0tOZkdKYlRMYndGX213Um5YT3FXZkZjbkRJTS1XZDVodw?oc=5",
   "surgos": false,
   "eredeti": "Trump slams Newsom's decision to commute hundreds of death sentences in California - ABC7 Los Angeles"
+ },
+ {
+  "ido": 1795483301,
+  "forras": "BBC World",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Hogyan reagál az Nvidia Jensen Huang vezérigazgatói posztra való visszatérésére?",
+  "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+  "surgos": false,
+  "eredeti": "How Nvidia is reacting to Jensen Huang's return as CEO"
  },
  {
   "ido": 1795483281,
@@ -866,63 +922,5 @@
   "link": "https://www.investing.com/news/stock-market-news/explainerwhat-are-the-various-us-federal-and-state-probes-faced-by-nvidia-and-jensen-huang-5046777",
   "surgos": false,
   "eredeti": "Explainer-What are the various US federal and state probes faced by Nvidia and Jensen Huang?"
- },
- {
-  "ido": 1795477686,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Trump",
-   "Nagy cégek"
-  ],
-  "cim": "Trump NVIDIA-tőzsdei nyeresége napi 20,1 milliárd nyert – Chosun Ilbo",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDQ3TXVFeXdMdFVPN2ljbXpBcjE2UVp1UjVsbDhtZFhyZ3JmWTNDQ0YwZUdxbkZqaFR2QUhhRXl3dkN6RS0zRjgwa2R3REUzUWhVUFZqdTVvb04xQnRTM3BnUWNSRzY3aFZ1Y05RQWQ4dG5oR04wamJpTS1OcGVsVmwxX0w?oc=5",
-  "surgos": false,
-  "eredeti": "Trump's NVIDIA Stock Profit Tops 20.1 Billion Won Daily - 조선일보"
- },
- {
-  "ido": 1795477520,
-  "forras": "Bloomberg",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Az ázsiai chiprészvények várhatóan emelkedni fognak, mivel Huang visszatérése újra fellendíti az MI-kereskedelmet",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
-  "surgos": false,
-  "eredeti": "Asian Chip Stocks Set to Jump as Huang Comeback Refires AI Trade"
- },
- {
-  "ido": 1795477430,
-  "forras": "CNN",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "A Trump-féle nyomásgyakorlási kampány belső világa, amelynek célja Jensen Huang visszahelyezése az Nvidia élére – CNN",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOF9nbUJya185NnpoX1Z0M3dFdUpmZ3ZmUGJCUUxPLWZucXAxT0JmZ0pkNHRwMktUalotcUw2MTRhblE0YkJ5eGtUVkc1TVl1d2t0TXhuQVJ2TjV0QjFQaS15Ty02VjhEc0o0dVhIc2FDakxZcXlkUmw0aVZaWVM1TThNVTAxdEJxY3J6Q19PdkU3WmwxeTgycTFTR0VuNlJleXlZU2FCX2UzS1dIbktSR2hGRE4zSG9vemxmMU9QdnY4LU0?oc=5",
-  "surgos": false,
-  "eredeti": "Inside the Trump pressure campaign to reinstall Jensen Huang at Nvidia - CNN"
- },
- {
-  "ido": 1795477414,
-  "forras": "Cointelegraph",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "A CFTC munkatársai szerint a tőzsdék beszámíthatják a Bitcoint a működési tartalékokba",
-  "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "surgos": false,
-  "eredeti": "CFTC staff say exchanges can count Bitcoin toward operating reserves"
- },
- {
-  "ido": 1795477381,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "A Trump-adminisztráció szankciókat vezetett be egy olyan céggel szemben, amely kapcsolatban áll „Alice Huanggal”, az állítólagos kém szeretőjével, mégpedig azon a napon, amikor Jensen Huang visszatért – news.sbs.co.kr",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UaGRqMWdyTmRyRlBuNWhoZHdVNDJfRHZNT2JlQlJDSk4tVDhLUE5xZ3JmTGZQOXZIRHAySzJ1VlpoNnY4RW9SX0IwdHBqcDF0YkdHYWJsem0yd19yMXdmMXBUVGJxcmhiY1FLdk13?oc=5",
-  "surgos": true,
-  "eredeti": "Trump Administration Sanctions Company Linked to \"Alice Huang,\" Alleged Spy Mistress, on Same Day Jensen Huang Returns - news.sbs.co.kr"
  }
 ]
