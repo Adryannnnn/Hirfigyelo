@@ -1,5 +1,44 @@
 [
  {
+  "ido": 1795509242,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "A Tesla részvényei a 2010-es tőzsdei bevezetésük óta mindössze a harmadik veszteséges évük felé tartanak. Íme, mi történt a másik két év után. – The Motley Fool",
+  "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONFdCeFJnZmtaem14SXFsNVFrZHNJSHM4dGFzWXhWelF1NC1pQ0xqVXNiUHRpMks3RW5ieERDVy1sVnFfRFNSeWhXQXpHUERzYVRzQ2V6UWtEZVJQd2hqQjd4X1JnWEp0MDJnLTNYRkxrNTZRM1NwZmJQbTZzY05QWEZwN3ZfRTZLTnlhOEVjTFBod05LaS1xbU1SVzZsTUduTUFaZlh3Qy14MGZzbks4MEl6aXRYd2tHd3JCcGI4SlV1X2NPR3hiaDBlcFRTeTF2ZnQ0WFctTDJYaTVaQTZKT25xLUZJR19v?oc=5",
+  "surgos": false,
+  "eredeti": "Tesla Stock Is on Track for Only Its 3rd Losing Year Since Its 2010 IPO. Here's What Happened After the Other 2. - The Motley Fool"
+ },
+ {
+  "ido": 1795509135,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "A Micron részvényeinek ára kevesebb, mint 10-szerese a nyereségnek: jó üzlet vagy csúcs? – Trefis",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZlV0S2QtTi1YVVhiREczV0ZNczJieGwxZDJOb205cjdaY1VEaTExU2dFazBjNFRLQ2dXNzVMSlMwQmZCakh5M0hoV1RIYUtrSVpHc0NOelpzbWd1LS1Pb09lQnVycnBXZDZtcVExZWlXMThEeHVDM0cySGlfUFl5T3RibzJQZ1RJaWdjMHJhS0ZrTDJSTkdlTmc1b3o1UkYyT1VOSTZ3Qzc?oc=5",
+  "surgos": false,
+  "eredeti": "Micron Under 10 Times Earnings: Bargain Or Peak? - Trefis"
+ },
+ {
+  "ido": 1795508322,
+  "forras": "Bloomberg Politika",
+  "temak": [
+   "Trump – háború",
+   "Trump – döntések",
+   "Trump",
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Jensen Huang: A bumeráng, az Nvidia vezére, akit Trump támogat",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-24/daybreak-europe-11-24-2026-video",
+  "surgos": false,
+  "eredeti": "Jensen Huang: The Boomerang Nvidia Boss Backed By Trump"
+ },
+ {
   "ido": 1795508280,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -58,6 +97,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795507788,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A Nvidia részvényárfolyamának emelkedése figyelmen kívül hagyja a Jensen Huang visszatérésével kapcsolatos kockázatokat?",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-24/insight-with-haslinda-amin-11-24-2026-video",
+  "surgos": false,
+  "eredeti": "Is Nvidia's Rally Overlooking Risks Around Jensen Huang's Return?"
+ },
+ {
   "ido": 1795507736,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -91,6 +141,17 @@
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFhjYjRnNHpZbXhNOEtMcTZCOUhRSXFUS1NvanJkWDU0c0ZmNnpkSTJKSVM4WnZYMXRKVTZqdjB4bWNMRUpuZGdGbzlUSEp5ZFVkb0owejNaSTM4NkdJUUhkYTZ4UDBLd01VZkNDTUlGcndBNzNpVWZFUEhZM05hTm9Xd1Z1NlFUYi04dWlsa2tXTkpVU2pFS0FXdw?oc=5",
   "surgos": false,
   "eredeti": "Tesla And SpaceX Reportedly Name 5 Directors To Lead Merger Discussions — Investor Says Talks Are Moving At ‘Warp Speed’ - Yahoo Finance"
+ },
+ {
+  "ido": 1795507200,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Legfontosabb tények: Az NVIDIA részvényei 31,5%-ot emelkedtek a vezérigazgató visszatérésével; kínai értékesítés, vizsgálatok – TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTHQ1d1ZsRERnNEpZOXNpcTlaY2tYRW14bDE2TFFucjJBTGxCWEozQ056eGtBQ0hBVWo2VE9FemtPbmRpa1NxRWFqNTRfb0pMU1dkVmlDeE4xNzlyTGw5VGRpNlhaVUlZQ0E4NkFCX0J6X25COUcyWHdpREwtYW1nS3pxVFZJYUtBN0NzemROZWxaOTRuSGZudkFmd0UyQ19ONVFpUmJpSWRrdEJUWlQ1UGowRm90ZFpuZkRHdnFBcnNFMkNjbS1GSw?oc=5",
+  "surgos": false,
+  "eredeti": "Key facts: NVIDIA Shares Surge 31.5% on CEO Return; China Sales, Probes - TradingView"
  },
  {
   "ido": 1795506900,
@@ -220,6 +281,17 @@
   "eredeti": "Trump engineers Jensen Huang's reinstatement as Nvidia CEO - Israel Hayom"
  },
  {
+  "ido": 1795505422,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Az európai STOXX 600 visszafogottan teljesített az MI által vezérelt emelkedés után",
+  "link": "https://www.investing.com/news/stock-market-news/europes-stoxx-600-subdued-after-aidriven-rally-5047331",
+  "surgos": false,
+  "eredeti": "Europe’s STOXX 600 subdued after AI-driven rally"
+ },
+ {
   "ido": 1795505220,
   "forras": "Trump (magyarul)",
   "temak": [
@@ -332,6 +404,17 @@
   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNU2t4M0pQbWRrdUhYU3paOS1DRkJIM2lZZndQbEF2Sm42MklHS3lQZFJjZHpxdTVZZmlzXzEtVjZ2NENtcWY5WC1vMnRlYlNLT295U05DcUgzeUlIX1dBeTdhbnpiamtUTjVlanl5YjNCcFQtd2RxSkY4clM3Umc2SHp2cGxtNnEwOE1MOUZHZmxWdVl4aHlycHZDNHViNndWckZZV0xRRk1fTHJUVm9hWlJ4UWNqZFVKT0JlLU10NWpSLVo0N00xSDJLTV9JbGpGVXlOSTI2SXNqT3k2d0VpUW5DbG56R1ZZZGRjcEVtZDVKN3NudFdodkFpdjhBTlJWbzJncEkxWQ?oc=5",
   "surgos": true,
   "eredeti": "Nasdaq Records Best Session Since April 2025 Amid Surge In Nvidia Shares: Greed Index Remains In ‘Extreme - Benzinga"
+ },
+ {
+  "ido": 1795504046,
+  "forras": "Magyar cégek (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A BUX vezeti az idei részvénypiaci teljesítményt, miközben az amerikai indexek tovább emelkedhetnek - Traders Union",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRUdZVGg1OTVZcW5DM1RHdTFjZmIxWEVsMTF1WEtGMlVHRG16d0k4cTMxeko4LXlmdVZoU1dPSDhRcm8teDQxQU1wWDdrLXZzNUJfYXAxc0VXSnMzM2hwelctUWR5bFAxVk9waDRzSWxxbFpBdmdicXUyT1QyQTRGOTJNZmMtYUlWbThIU1N2Yw?oc=5",
+  "surgos": false,
+  "eredeti": ""
  },
  {
   "ido": 1795503939,
@@ -568,6 +651,18 @@
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczJsc2dxeDBjaU9Db0taNUJrd0Y0UHVyZDVaYW8zSVJnUWtyX0NMYlY0SGtaaTF1WFN0VnBPWHVfRUN5UlgwNkJvc0VJNWY1MENyY3FuNklUN08wZW9rMTBRd1c2V0FtS0xHMGE0UEpzR0s0bHNlVHhsMHVUVjNpOUN6Y19Xd3hCOHJoMjBlcG8tcU5CT3RuR3N0TEdVcUY0NVV1MG9QRWNWdVk?oc=5",
   "surgos": false,
   "eredeti": "Trump’s tough-on-China talk was always just an act - Dailypress.net"
+ },
+ {
+  "ido": 1795501192,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Az Egyesült Államok volt vezető diplomácája bírálja Trump NATO-val kapcsolatos megjegyzéseit – Yeni Şafak angol nyelvű kiadása",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUW1IOEswdnFVUHp3WGdxY0xrZnNGSmF0MTlONDhBbzY1NjhDbFdkYkk3QU9sVUdoWV8xczBwMFpDbjVZMjQ4U1FKLUhtTG44d1BGZ3pqaldnWXBJNFRwWUdKZ0E4QkxMWFVxcUNfVlFkS3pZTV9vcldTQ3doSEpZSFpaNWJMQm0tTGNFaVdvMFM4Zw?oc=5",
+  "surgos": false,
+  "eredeti": "US former top diplomat blasts Trump's NATO remarks - Yeni Safak English"
  },
  {
   "ido": 1795501138,
@@ -817,97 +912,5 @@
   "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-hovers-around-60k-amid-little-relief-from-rate-regulatory-jitters-5047126",
   "surgos": false,
   "eredeti": "Bitcoin hovers around $60k amid little relief from rate, regulatory jitters"
- },
- {
-  "ido": 1795497176,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Az Nvidia részvényeinek árfolyam-emelkedése – A 31%-os ugrás 11 milliárd dolláros veszteséget okoz a shortolóknak – The Korea Daily",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxQ2ZndlpoN0lRSHc3SkxMWkdZUFNsVUhGdEFRQUZUVldfZzJUNTg5OXhUTFJXYkVEWmQ1UWp3V3ZPZXI4QkUxeVlTemdOQ3lEU1J5ODFPd0FZUTNlZzlOTUFadXJGVkVjWmhCNnFxMzU?oc=5",
-  "surgos": true,
-  "eredeti": "Nvidia stock surge — 31% Jump Triggers $11 Billion Short Seller Loss - The Korea Daily"
- },
- {
-  "ido": 1795497143,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Európa nyereségrobbanása kihívást jelent a Wall Street számára, de lehet, hogy rövid életűnek bizonyul",
-  "link": "https://www.investing.com/news/stock-market-news/europes-earnings-boom-challengeswall-street-but-may-prove-fleeting-5047123",
-  "surgos": false,
-  "eredeti": "Europe’s earnings boom challenges Wall Street, but may prove fleeting"
- },
- {
-  "ido": 1795497127,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Cathie Wood Nvidia-befektetése lemarad a Jensen Huang visszatérése nyomán bekövetkező 32%-os emelkedésről – South China Morning Post",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNnMtSVV6Y1dPa0hHZTV6RHBfWERnbWswbnVNTWd5Y2pKU2FkdzBkRjdNUW4zZHVRbmU4RkhNaDZCbF9YcHI4UEJGTV9OTkl4OFJxYlk3cGpSUElxellwTlhaM0RKVXR5SXJ4b0cyQXg1SzR3SDg5dVZtQ0o3TXVuZncwVTFjUnBiUzJEOTY3UlcwWThFVWh0NXNCY3haUEQwaWQ1ZjI5aWpIRHhIaTBweTJQTDdybjcwMFRDQk9B?oc=5",
-  "surgos": false,
-  "eredeti": "Cathie Wood’s Nvidia bet misses 32% rally on Jensen Huang’s return - South China Morning Post"
- },
- {
-  "ido": 1795497035,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Trump",
-   "Tőzsde"
-  ],
-  "cim": "Trump Nvidia-részvénye akár 15 millió dollárt is hozhatott – NVIDIA (NASDAQ:NVDA) – Benzinga",
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ1Z5aktmdmo4MFJrODBtRzhJSUE0aktJdkV4WThVVzkyeWdGMXNXOUVsTHV6QU1wZG93Z2dvNGxCeFFkTXhXb2JtUmdsU1pZOVhIRFZndlJPc0g0bDBVbUkzSmIyU3I5cF9DZnJ1QUFqbmpFR2ctQVlqaUppYWZfa3dtcGRhMHNSa1BYcVNDUURaSHBUc0cxbnpPdXVQQzF1M0h0T3lUY01DVm8xS0xGZzZ1MGdMM3dmX2F3ZUwydWo0TzJIdktxRkpZVHVseXFr?oc=5",
-  "surgos": false,
-  "eredeti": "Trump's Nvidia Stake May Have Gained Up to $15 Million - NVIDIA (NASDAQ:NVDA) - Benzinga"
- },
- {
-  "ido": 1795497022,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Az amerikai piacok erőteljesen emelkednek, mivel az Nvidia árfolyama megugrott Huang visszatérésével; a Nasdaq 6,5%-ot erősödött – Telangana Today",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQThSb0xJRWJZX21uS2F5dDBIU3pKd0pOY2lPREtTNExhMmYtZUROMmNrX1poaFlZZjVWQTZXa3FqWWNlOEVVc1NzS3pRcTdNRVh0NklraDlBWUNJMnZjNHhMTGdJeXg1M0pFM1BLZDBRRDhYakJhOTRGSkhQdzV6dHdMZzhKZ2pwTzBMZGN1b1l4RFFKYWtPczdaT0lJZ3Z0QkdzLVVOUHM5YWxO?oc=5",
-  "surgos": true,
-  "eredeti": "US markets rebound sharply as Nvidia soars on Huang’s return; Nasdaq rallies 6.5 pc - Telangana Today"
- },
- {
-  "ido": 1795496850,
-  "forras": "Cointelegraph",
-  "temak": [
-   "Kripto",
-   "Tőzsde"
-  ],
-  "cim": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
-  "link": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795496792,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Xi‑Putin‑Trump summit was heavy on symbolism, light on substance – and not exactly a Yalta II - Asociación Almendrón",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTi1XY2FWdG8zM1AzeWdQWGlfek1EdHFUeThERW9MbVA5VjdlWldQV3dPS3JrTGZiU2Fwdms1SHllb01xOWNpaXhwWnNyVkk0S0xJaGRiTjBZU3dRdWNyRDlqVjlJUmUxYXFKOWhwUi1Xem01ZS1oR2U0d2YxeWRRQlBpMG5YeEZjTHlSQzB0S09oNU9CcFdvMjhFWlNxcFNjMjRfa1VTdlpkNkRHRjZVSW1CNlYzWllaQUctVWFWYld1WEk?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795496779,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump Nixon-Kína pillanata: Van egy bevándorlással kapcsolatos lépés, amit csak ő tehet meg – Fox News",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNGtmR21HYTZ0VktST1FybHQ4bGEzel9Vb2lJR1BtRzV6VVljTmhqOTlyMzJ3NXR4VmJKclpiR28xRUxFbEtSMnRmaXVQaE96NHVDUElqWnBnZkRFT1l4TDF1R2NhYWFUQjhxd0thV1NHSXZCWEx6MzczRzl5ck55aGN4bjBKSjkwdFZ3aWl2ak94UWUwVHNHNEtn0gGfAUFVX3lxTE9ZUXJWWTlIanQ5MmI1Y3U0TkJ5aE5YQi1VUkNlNm1saDJXVW03Rm9nSWUyUm9hR0UzRmZPNTUtUHpVN1NpUE5HYlRlUERnRHVsQzBhYVBoc2p1TW1YNUtaNmVocWlsQlJIbVl5RWFGVGFUal91alVydHVqOEwyN1diTWZoVUltS2RrUHZpdnFEd3kxSjUwTm0yTUxpSDVjUQ?oc=5",
-  "surgos": false,
-  "eredeti": "Trump's Nixon-to-China moment: There's an immigration move only he can make - Fox News"
  }
 ]
