@@ -1,5 +1,50 @@
 [
  {
+  "ido": 1795551453,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Netflix Acquires Radford Studio Lot for $380 Million - Yahoo Finance UK",
+  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFk3S1VLWDNlaE1Ea3B3cnRMRGZoWTF0eGEyUlNMVmhBaFVfWENqaENxZGk1N2NqLVVXRHFXX2ZPdXJtRkZ2ajA2VjFtNm9Rc0xHM2xfb3JQelozenQxeUNGUUw2STZQbnVlVllYVjdYTFFKdGFPRmptcnJiYUd2TDJaLVhsRXQ4UzIySA?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795551174,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Wall Street Cuts Nvidia Price Targets By 25% Despite Latest Reversal - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOTg3UF9ubG1YemJkS3FaSXJXcUFDU1NOa0licFRaaEMzbTZYN09BOUNhV2lvSHhHcG1GRzZzampTMmFFRHFPWEQ3VTFSc3dVUlNWbk9BTGJEaHZWcHZKeXRpSVF6Ni1JRTVLc3lqeGg0R1hpRkpUY0o2cUs1YlpLREJKRlRmTHBXVjBBeEdhQ01zSzhfX2JiMnNR?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795551154,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "This Analyst Just Downgraded Micron Stock. Here's Why. - Barchart.com",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX0ZTNkdkQjV6ZTRHWkJodzIxQUFJUWxtR3JJd25HSk9CVTlJOEJDdHhwMjBIMU9pWTRsSTNGenZCYndFZ0JWcmNFME9DSERVd1ZpYTg4UWdmeXpNRm9OcG9rN3dJYW1NSzlwby1BVkVfYmNnRElpalpsM25hX2Q0end4bU0xMHo0QWZpbm54WU5OU2o1QVVjWldPcUo?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795551036,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Turkeys named Freedom and Feathers receive Trump pardon before Thanksgiving - USA Today",
+  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZTh0YmlUd29iQ2VlWmtuWTZCNk1NUzFSVjhfVkJnSVRmMzFpbGxNUklrT1J3M0ZwUGJ0RHlxSnFfakFYU3l5SVhYQll1aXJFazNNa2Npak5nemo5Z1BZRHc0Qm1nbE5xc2JIOW9fd3NIWGVrZkZmWXlJcm5ncDl0ODVkbVJab3I1c2IxaDBLV2VLN2N2c0NPRlVmTkJDNG9OU2Q0VVY2TFJ5WW5KYkNYc0JmUDZVTm5LY08tYXJEWlhGUVQwQWdjUEZn?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795550906,
   "forras": "Blue chip (Google News)",
   "temak": [
@@ -47,6 +92,29 @@
   "eredeti": ""
  },
  {
+  "ido": 1795550529,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Curtis presses the Trump administration on Russia - Deseret News",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbmlCLXN1aFFKM2hUYlZaS1pBdHRJWFh1MDVOVm1uV1VQbElxcXB3QWFnYlpfenBHQ1ZZM3hlZUtJZHJIS1dEdTVTbERJaVIxaGdhSXFxUmdzNExOT2VkaFlhcHd5WnNxQUNEOVJpRGt0S2NpU0NCdGUyd3I0WWtqOWhDTGFCVEZwekYyTkFQSXhZbDQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795550478,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Applied Materials, AMD, Intel, KLA Corporation, and Lam Research shares plummet, what you need to know - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYVN0NGJVQVQwVlZSWHlIVGFxNk5zRFRmNnZBdEluM0xSLWVEVlgzSXJXS3FfcFQwQkN4aGJpamJ3QVdGZWlKMkFDZGVydXozMXhvZ3VjWlZKalNsMkZHbW55T2F4cUEzSnhVU081MzhkZTlhQjAzNnZVeXljZ0Z0d01mRGlkSTZNOEJMRXpiZTNFWEF2bFlONFFYWEhTVDZsUG42b01kS2dOMkkzVUwyLXpxUXVvWTNpLTh3ck45c1VIU00tMUZhM0NlZHhzbVlPQ3FReGo5WjNwUlBqX1djaFlVSTBfbUhWQXZ0OWxOdw?oc=5",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
   "ido": 1795550474,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -55,6 +123,17 @@
   "cim": "Nasdaq, S&P 500 fall following Monday's Nvidia-led rally - marketscreener.com",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR1ZWRXpzbmMzU3VIRU9nRjFaUHV5dGg3QWhVbmtsd29Ga2xmd0luU3ZWb0xfX1FFVlFtU1hsdE5oRFdpNGk2dFg4aV9LX1JVeW0tM0R2RldDWHFpTjVTXzRMeVJuZS1RSjVuM3Z2R1dIeE5od2QwUERZaDYzMFFNRURHQlVVZjNYM1AzNHZ4Nml5S2xvejVyZXFGeHNneF8tUzU3YXlqVW9zdDVQ?oc=5",
   "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795550458,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Microchip Technology, Monolithic Power Systems, MACOM, Micron, and onsemi shares plummet, what you need to know - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRlltMzhmc0FWdWYxZllickZlTTNOMWdrXzJGWlN0UE9QRG92QUdCMUlGUnV0TmNndVNtMEF1SXltdi1OSzg0bHZpbnZmZzRsSndLWkNaS3NnVWkzbXdFTzl3TjBXbTUzdERnMUlBZjl2SmEyQ0JBQzlfZjZuNzVFRkFLZWVfT05tSklJTldFTVl1RVVjRDZ6Q2UyZEh0a2VHQXY1c3V5WXJfYUxfejVtQlRsSTJlVnZmQVZ4ekJKaVc1N2t2X0UtYkRkUmpKNUg4NjgtczR2RTZTSTNDLXotLVg4N0l5U3VXYWdpN3BraU1PbUt1UFYxRVBLOA?oc=5",
+  "surgos": true,
   "eredeti": ""
  },
  {
@@ -269,6 +348,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795549198,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Trump, first lady host the White House Thanksgiving Turkey Pardon - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWw4MGN2eE9RTGp1NmtfRUsyOE1Hd0RkUjFjYWZfNEtkRHZSTUZuUnpncWJYSlNDTURFeGZqRUZqeC0yVEZENVlhamNBMHJNVG9lOXlpSngxUjBNX05WT3MtcmVLOFl6QmVUSTAzaXgxZ3VtcXVhaXMtYVloNHp4QVF4TEl1WnUwZXR2MkdRUHJPZGhJemJKdTNGWW5DT3ljaFIydmpRUQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795548900,
   "forras": "Blue chip (Google News)",
   "temak": [
@@ -373,6 +463,28 @@
   "eredeti": ""
  },
  {
+  "ido": 1795548291,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "S&P upgrades E.W. Scripps to ‘B-’ on cost cuts and debt reduction progress",
+  "link": "https://www.investing.com/news/stock-market-news/sp-upgrades-ew-scripps-to-b-on-cost-cuts-and-debt-reduction-progress-5048953",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795548239,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSkJ4QjVnY0hlOGgzel9TX214MFk1Y3ZBZVVkU0dnM3g4TWlwMGNUMGh1OGdCVEdtSFBtaG5fLURpVkE2d3hSY3VvN08tdzd6NUtLaENaa2NhV1ZrbnFuelNQZ2dLeVU5dDVfVm44OHVqX3ZYX3o3RXBWVzNoSk9sWU5pN2JRVDJCVURTN0dSUnhUOVY0VFB4RlBLeGVQMTdPRm45MXp5dzFFclA5OWVpbTVBZw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795548000,
   "forras": "Portfolio.hu",
   "temak": [
@@ -385,6 +497,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795547828,
+  "forras": "Trump – beszéd (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Trump Delivers Address at the Justice Department - Rev",
+  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXhWVDIwRUk2VmZIOGRmVWJ4ZmNGckJqSl9SaWRSTWczSjFiLV94M2FlbEg3dUFRMUdNRlBIOThBOVF5V3FfMWhTUENLWTVJa01oeGQ0RUFtNlphRjFtQ0FkQmxHcTEzYkM0bE5Nck9Td0JESjA4WnA3QzRsZUh3Vnh6OHFMSW8?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795547695,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -393,6 +516,29 @@
   ],
   "cim": "Republican China hawks challenge Trump over Huang's Nvidia return - ABC News & Headlines – Australian Broadcasting Corporation",
   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeG9Eanlqc0NFNlBNRGlrOVNrODFmcnVJZnJ3em1naVgtQzhuckJud3NiQjUxa1I4Mjh1VHY4OGpsZndCeVFvQ0hWTnM5enZWaDFhNnNwVkU4a2xpR0g2NjU5SkNQNGNwN1cwWmlFU1RoN0ZONjBudjAtakVodmhabDBDMTVPQjFvQ3RMSFRjY0ZBUTdBeG1sNUIzUWZVaW5US1ZF?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795547671,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Eli Lilly earns Moody’s upgrade to Aa2 as obesity drug demand fuels earnings",
+  "link": "https://www.investing.com/news/stock-market-news/eli-lilly-earns-moodys-upgrade-to-aa2-as-obesity-drug-demand-fuels-earnings-5048935",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795547322,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Trump, first lady host the White House Thanksgiving Turkey Pardon - WPTA | 21Alive | Fort Wayne, IN",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcjFfUVN3T2VtbURMNlJBZWxHUExJcVAyTFJOZVRueEY2VWdSbVlBdVlpNHUwUnlLd25BNDRSdk1rMUZPeEs0QWNTd0JEQkdOX0VLeWNmZW1FcWhaUVlrdG9xU2wtR1otN0l2OEk0ck15ZjAtOXRvTTlPZ1hhRjNhTVVlVENrWl93S290cXUyODZDZzdNQ3NqakY5YkZqT0Z0RHhPNVVYTmVWS0Ry?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -673,6 +819,17 @@
   "temak": [
    "Trump"
   ],
+  "cim": "Trump, first lady host the White House Thanksgiving Turkey Pardon - KOLO | 8 News Now",
+  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNDNXR2JRbFVTVHQ2TG5hSVM5OFh1MXpRcWtnRDlTOTZ3MnV5RERXcTBiR0ppOHp6RTJoNGZsenNYZHc0bTlCN3lNWENSMUl6VldwZzhKbmNxU2NVMzFNV21fVVF1RDFyZGwzSUFDZWROTGcwdEFyVk1na25lYmRfYm9EZ0JYWnloV2dHTzNtbl9pVWtXeFB5R19hdTktNEQ4dmR0Nzl6VmtyVENqN3RWcHNRR1Bja2c?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795545900,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
   "cim": "Trump, first lady host the White House Thanksgiving Turkey Pardon - WDAM-TV",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3dUSUNSd2NObExzRXJxTUg2UE1ETXEyVndJdWN6Qm55MHRrc2xpcHZZbzdtQjRoSGhWaGc2OUNVOW5JUUNGa00wdFRaMHBJcll6VERwZzRmX0ctWGlFdGdUcHNNb3JlVnhiQUVzVlBSaWl3MEhUTmRRODlwWTZMNURwdlpzVlFUQ3FaaFlfbXJyMG5OMkhXeDIzLVhPbDF0?oc=5",
   "surgos": false,
@@ -741,164 +898,6 @@
   ],
   "cim": "Trump, first lady host the White House Thanksgiving Turkey Pardon - KTTC | Rochester, MN",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWHpubU43MU1iM3RXSTVweG8tc3NnNkVjSmNzMzNLUHVheEdZY2dKMWJGRE9Qb0FfenhmZk5QLUQtYm5MRmhYWm5sYnk1VV9saGVWblY5Tm5TdnJwWTBwRVU4QWtTZDZ4dlJsVUh0MmJROE5raXZESnJCU1NXVEZ0Q2FpYVJqUlJYbHludXAtYVdObGlFb09sUzJVQ3Q5UmdR?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795545900,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trump, first lady host the White House Thanksgiving Turkey Pardon - WEEK | 25 News Now",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQemgyZWl0UFpDVXVnUWpTQlhyMU1VSjNyenpQLVdmUkxDRHNEVkdBWWIwS2JaRE5VTTdKSzJUTVJ5T2V6bEJlNzVQZWZZWHVwT3FzQzJGXzdiaWptbVlVNWc2RUZaWDhHQWYxaHZhTHV6cEdtQ0ZVT1NSWHhGeUFUT2hxeHAxWGpvZW1uS2I2Z2tid1NMS1JybzRBbnRYdTI2Rm5vY1dPNA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795545900,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "WATCH LIVE: President Trump, First Lady host White House Turkey Pardon - WFMZ.com",
-  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOamt2di1CT0I2b3pjQVhsNXBycUdxTjFpY2lKOVhlNjNDMmZ4S2xMeW5jZ3B3RkIwWWQ3cXRrTnFsSkt4bkJjVXZqeExMaGppX1ZZeUFhSzBTekRaYnBUTEZTZ3REUjBmN3EwZW9yZFp6ZmVFUmZfVURHUEdBaGd5bjJYbG40X1hOd0I4MWZJUmV0ZFZTV0JyTmVWT2NBR1FEV0lHaThJYUJWRGNOUkhGQllVV3BVYTJRU0ZqSWl3Z0dCOEwzeUNCX1gteEkxdmg0?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795545672,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "What Happens to the S&P 500 & Nasdaq If Nvidia Stock Falls Another 30%? - CryptoRank",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYVN2aGZDMkVXNy1PaUFDU1NLMGdXRnktNGNJeHdiQWdLbUFCYWstbXZNc0k5UW5ONnJnR1NGaFZpaDI1VkdyTzhUU0o5MW5ESTc3MWh4Y3Q5MUJNOGdZZGlfMzg5YlJkcTRzb3JiVWp2VmNaU01oTEY4ekpFQWd1N2JFRzFSNnNBTlJCUVhob2xWZVlYcktHYTdrMUZOYlF4bjE4LWVzTGxUREVXVzhFTVNSMA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795545665,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Dear Market, Micron's 2029 Won't Be As Bad As You Expect (NASDAQ:MU) - Seeking Alpha",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcklyZS1ScjhEaXVCQU91bXN1SGZ3WUJoZzVOT2VxQjR2WXFjV0h5V2dWOW9ZUUhnSm1xQXB5QUI1a3hxVkp3dFVMaklDWERyNGZSSTJyM0xOeFlHdTRpZ1hQT09Va2VBNjZNV0RGUGFJWmlGRm96WXdzcEFUQk1PdG9mQ0F4WU80UWNOYUoxaVRCQm9OS1ROaQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795545547,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "WATCH LIVE: President Trump and First Lady host annual Thanksgiving turkey pardon - Fox Business",
-  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xWDM0ZXB4SnV5N25hcXFFNnF6SUZxdE1VazFQaEl5V1FsQUczS3E4N2pYejBFNHF3MWM1ZGxTU013MnI4dVpfWEN5SFBNUXhCZUtpeU9TT3hldGM?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795545421,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Cipher Digital Stock Plunges Over 11% as Nvidia Sell-Off Hits AI Infrastructure Plays - Benzinga",
-  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeGFrUWlPaUhmdkIwQjZadVJVQW9Hd250WTdTWlhLUTR6aU8xOFFfRm5JNkVpeXhPNUkyRDFaNndUTFZfVDRKN2tLRDVHcHpxdjh0SU5oQ1c2T0ROTWtWeTNEVGh2clRiTEJIanlWb2FwZjlLSl9aQlZwTXpJTGhOR2NudHpEd2lBTnA4dUhDSkJSeEM0Qnlsa0VScDlITlNGSXBrRGRXY21jTno5bktFMnBNM2VkbWJWaS1uQXJodGhVQmpvQUc3a3dzS29zWFNmVlVZ?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795545236,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "AptarGroup (ATR) Q3 2026 Earnings Report - Results, Call & Slides - TipRanks",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RVW85MXVjbXVkcU1sVTRFazRzcGI4aFhKZ2VhZEJlZXV1eVRGR3cyNnlERTJEYkl6VWVxTEI2cUtHZE5BTUdmTzVDNHFmelJVRE1jczJVcVhZM1dpNlg1Z3k4aDg2RzVNdURZ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795545207,
-  "forras": "Reuters",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpVNVoyQi1td29TalNHby02a0tSU1ZBMng2Y1BTemxZWkExU2VPLXdTeUpURUtrd1BremtnTG53eDhzeXlwMndrRWdNa1dDTVE5VExXLVpBY251X205UVhSU28xeDc2bjBfMFBiYU5ubGN6NU5YdTJlX1J5amtqaVNEX0VKb1dzaWhqaGNNazZXTkVpOWVBOVFQZXBlX0U1dGx3d1ZBdFptaXZJQmNuc2pFUTRncG9oRndTZTU2WUFIdDhqLUE?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795545180,
-  "forras": "MarketWatch",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Micron’s stock falls as an analyst warns about a future supply glut",
-  "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795545066,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trump signs bill to end penny production for good: What to know - The Hill",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlhvNEljYTB5X3p6dFhsWTZOVzhoM1pteUxxOVh5c2M2OWhxRjlDSUNGakhvUjlOOHpBYTJqRUNSazVERzZJT1dMR0VhX2NWdmV3bGhEVFZBUi0yV0tYRklHSzVsMC1aaHBJU2RJTXRUUWVSSmNiSTVyeWlMbFJmc2p1dlRsTkZNRWxpci1yN3UzbWlnaDNXUFM4eFE1VDUtOWFj0gGjAUFVX3lxTE9CWG80SWNhMHlfenp0WGxZNk5XOGgzWm15THE5WHlzYzY5aHFGOUNJQ0ZqSG9SOU44ekFhMmpFQ1JrNURHNklPV0xHRWFfY1Z2ZXdsaERUVkFSLTJXS1hGSUdLNWwwLVpocElTZElNdFRRZVJKY2JJNXJ5aUxsUmZzanV2VGxORk1FbGlyLXI3dTNtaWdoM1dQUzh4UTVUNS05YWM?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795545001,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "The Last Time Netflix Was This Cheap, the Stock Jumped 600%. Is It a Buy Now? - The Motley Fool",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONldhZWlzSXprUmo2SnVQSEFlRHpSVWpsOG5US3JESzFDVDRaMHlSUVFUcHFHenFlbVVBX0Eyd0ktai00c1ZHXzhsTXpaNzYwczdoVE84QzhTQ3cxbVB2OENPa3c1a2lMSXNVM2E4eC1RZFpfVXZlbWNrTUFfa0w0aHkxUUJDUmFDQ1BrbkJJenk2WWpreXExRWJwTDNmTktiS0EwNjY4NzRGejNmSndVV0ZwSEQ3NzA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795544857,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump Warns Iran as Israel Splits Over War Threat | Jerusalem Dateline, November - cbn.com",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQk5HRmhNTUIwUzJFNWw4MDJQRTVvSEY2OWg0NE1TdU5nLWJlaVhUam9fUExPcXVlTUFTRWlpOENHOTgtVDNJVkpMTVM2THlVZnlrVXJNcjhmTXBrNkRBS3B5aUM5ZVJWdl9kMTVpak9OcGM1TFROdmE3UHlIWW96Mnd3aUJZdklaaFVXYXpQNnFpVGpxZ3RuVGRJaFBqb3NSMHNLVg?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795544790,
-  "forras": "Bloomberg Politika",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trump Awards Rudy Giuliani With Presidential Medal of Freedom",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/trump-awards-rudy-giuliani-with-presidential-medal-of-freedom",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795544748,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "JP Morgan Chase & (JPM): JPMorgan notes tied to Nasdaq-100 futures index, maturing 2032 - Quantisnow",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTGdGUmhPeVNWanZlblVGM2VPbHN5VFRTNlJyblhNcmNGTngzTFRrUy1EUWg2bkxSYkxickFjOVJLdEpQTUVoeU1hNDl6V2pyYUVWYjN0eEViUnFxeEstTlM4ei01cUEwWkhxWGNEM09sUlNuRl9ZNWRQTlk1ODVleVJGS0hYbnd2TlBR?oc=5",
   "surgos": false,
   "eredeti": ""
  }
