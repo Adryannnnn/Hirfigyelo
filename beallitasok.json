@@ -543,5 +543,12 @@
     "Broadcom": "AVGO",
     "Bitcoin": "BTC-USD"
   },
-  "fordito_gomb": false
+  "fordito_gomb": false,
+  "naptar_aktiv": true,
+  "naptar_ora": 7,
+  "naptar_perc": 30,
+  "naptar_penznemek": [
+    "EUR",
+    "USD"
+  ]
 }
