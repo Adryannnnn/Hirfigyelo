@@ -1,5 +1,51 @@
 [
  {
+  "ido": 1795478880,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Trump elítéli Newsom halálraítéltekkel kapcsolatos döntését, a kormányzó pedig megvédi azt – ABC10",
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS2RUaGg0U19hcFpJVW8wejN5M19lZUFXc016QU1ndkhNWl9hbTRiX1pPa2FYMmtpbEl5ZUFrNUtpaDhBSDJIRVJvdW5yWWdrMDUwa21ic3hwYWlWNnBVeW1sc0NxekNmUnk4UnpnZThDSnlCVi1acndrQXVNbTQ5WENlUWZfb1daZ2NlSjJoR0VWV1hUNTFXbjRiLVBaU09CQkhhMXljUVdyc09NTTFDSWxUSEYwWDFMeFpIbDYtUGFQY1UyNVhEUW5HdW9nMTVLZ1l2cHdvSDNtdV9RU2d2bmN0blNDeUhWT0lDUmxB?oc=5",
+  "surgos": false,
+  "eredeti": "Trump condemns Newsom’s death row move as governor defends decision - ABC10"
+ },
+ {
+  "ido": 1795478820,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Jensen Huang visszatérése 31%-kal megugratta az Nvidia árfolyamát. Ezt jelenti egy nyugdíjas számára, akinek december 31-ig pénzt kell kivennie egy olyan IRA-számláról, amelyen a részvények vannak – 24/7 Wall St.",
+  "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPU2dlSVFKWWtPSlc0MEVTOHNZV0otLWVfc3drU3JPR2QyT0ZfZjRiTDF5OXZOdjQ3RC1CRmNmWWFWZlZVU016bWZ4Q3c2MU9RR2Z0ZkZnaE44MDNiVzdhSmozLUNFbW9GN3VkMWozSGpCZUs2V2NEVmF5UHZQbUZXS0VMell0VzM5NHU4ajh5SWJlUThFM2Y5a0F6UmVBMTRQY0x3MFNTUlpFd1drb3dvb0RjM04zYlhyeTd5VXlpUUdaYm5CcXB3djhkY1VBMVpJWnloRy02bXo3amRWNVA2dkE3UjdGU0dVNlI0X3hob2pHZERRZ2E3TzRYclBKZDRHS2ROVGJlaDhEeHdIMklkSVFESQ?oc=5",
+  "surgos": false,
+  "eredeti": "Jensen Huang's Return Sent Nvidia Soaring 31%. Here's What It Means for a Retiree Who Has to Pull Money Out of an IRA Holding the Stock by Dec. 31 - 24/7 Wall St."
+ },
+ {
+  "ido": 1795478514,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Trump bejelentette a „halálbüntetés megerősítéséről” szóló törvényjavaslatot – NBC News",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGxLalc2VVVGbVVVZ1A0U1U3R0JxdHVCaFhPamMzUXQ1M2NoeWF5V280RE5Nc3lRZFBNSEJHTEk2UDNaVElPMm5oaV9QNnlOZXRIN0o5X29Ndmpvdm5YM1JrTHZwdHp2RFlmVmRwWVBJOGZCTi1uRlg4MnRrUFd3UmtqdUpaWkdEVVc3ZjBGWWpoNWpDMjhmUzVOdWVYbzQ2eU1kXw?oc=5",
+  "surgos": false,
+  "eredeti": "Trump announces bill to ‘strengthen the death penalty’ - NBC News"
+ },
+ {
+  "ido": 1795478340,
+  "forras": "CNN",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Trump elhalasztja a veszélyes anyagok felrobbantását az iowai hadseregnél – CNN",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVBuczlvbi1TeUk5ei1FMDRIQlVKRkozLUtQZmV3Rlk1R3NGTEpOQXI1YXVDNzJ5a0FRUUx3eWc3SkxfcC1NVUo4czNFbXBXeGx6WmVqSG91SkNnd2hpNzZmVkNUSURBUmJsYUxKVVVYeDlkOWFRVnFiTFZ4VGUtWUloU2tXakxfV3BENXBNazRaM2t0RHd3OVdR?oc=5",
+  "surgos": false,
+  "eredeti": "Trump delays Iowa Army hazardous material detonation - CNN"
+ },
+ {
   "ido": 1795478292,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -9,6 +55,17 @@
   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLXlxcWVuWXR3Ukt1NmIwLUJzdF9pRkhyTTRPZ293SU1WYVFBZWhGYTJRSWRPRDVLSUJQS2dKQ0l2R1VZT2g3N3MyZHBCYXZKZFY4cTJyTVNFTUFyc09oZ1g2SmlqRE9OdHQzMTFYZ2hBdDQxYXJGdkYzX1hpMklZSmlpN2p6SkJUbXVNTEszckd5UEdDSjBXMW4yYWhmUDlSWVpvbWctZGVHNWc2T2tfRGVVaU5meXMw0gG-AUFVX3lxTE5NLVRzWkV2cUpIRzNoZ0h2aWhCWEQ3ZnE5ZmNHdlhpVklQLURiM05kWnZDOHE0RVhnTjcwOHdZZjVsTGpDRktZaDRHUzVLY1pTQ1JFY2NlRkk1X3poc1o2aVlnZ2tlWmtDbVNzQW1sT1ZKLVFJckp0V0xVUEFGbWliSUVxY2txajhadWVTemhjUTYxVXM3UWFwNzdxaEJ4OXdaZjZzMDZySVdfTGdmeXVPdG4ybldPLUYyWFgxc1E?oc=5",
   "surgos": false,
   "eredeti": "Mamdani blasts AI-reliant stock market after Jensen Huang’s return - Al Jazeera"
+ },
+ {
+  "ido": 1795478163,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az Nvidia részvényeinek árfolyama 31,48%-kal emelkedett november 23-án, amikor Huang visszatért a vezérigazgatói posztra – Nation Thailand",
+  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XNUo1aDZsdndjV1RfWGFkUVlVTnhxSE1XS3NZX19pZXpkY2YwdHNQRnMzNlh4ZWhOXzRGMDQ2UXhXWHpiVFZlbENJR2IySWZXc3B6bE16Y2R3T3hHa1ZN?oc=5",
+  "surgos": false,
+  "eredeti": "Nvidia shares rise 31.48% on 23 Nov as Huang returns as CEO - Nation Thailand"
  },
  {
   "ido": 1795477520,
@@ -526,6 +583,18 @@
   "eredeti": "Visa chief risk officer Fabara sells $589,680 in company stock"
  },
  {
+  "ido": 1795473307,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Jensen Huang visszatérése az Nvidia vezérigazgatói posztjára örömöt keltett a tőzsdén – Bloomberg.com",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMzZzcXlmTXRnVF84M25jSGxnZ0RHZk0zZmJuWkRjZi05M0Z4R2hPTlpNc18wNW1hRVY3X1hJN0c1bGR4VU1sMlBSRDQzdUtqR0k5ZDZuWERyM0ZTYTlXRWQ2T2FFcG1pb1dZX2VGdUR5ZHNFQ04ydU1CTjJKWTBqbjhlclNLMlVKMjZFdURHYXZUS1NDQkxld2JhSjlyOVN6ZXAtSmtfcFdVRl9DRE5ubm5PNWlWRUJDNU5NV2x5NA?oc=5",
+  "surgos": false,
+  "eredeti": "Jensen Huang’s Return as CEO of Nvidia Spurs Stock Market Jubilation - Bloomberg.com"
+ },
+ {
   "ido": 1795472790,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -625,6 +694,17 @@
   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10VUxDWjhFZm1SWHFEUWVXM3Fuc2ZCWEpENm5tdlpLb3dydTRsVml4Y2hDVlM0amVxQ0RGRWlIUWhLTnpGbWRRSFFtMzBZdjFxbjcwWDlB?oc=5",
   "surgos": false,
   "eredeti": "Nvidia stock rebounds after CEO scandal - Fox News"
+ },
+ {
+  "ido": 1795472398,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Tőzsde ma, november 23.: A piacok visszapattantak a korrekcióról az MI-re adott megkönnyebbülési rally hatására – The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOR200NGFfd1ZpTVhLQUVJV1QtR0l3S1dRek53TDdkZnFLOFVTZXdaUEkwVFpVN2RCSWt2NGJCWVJISG4tNFRtWm5fbzRqWWQ5bTJwMk9FcjQtczZ2SmpEanMwZUJVTTh0NUNFb0pYV1dkY2JUcjNRd09QSVBLajdUQzNDeWJuSUhvUlgtYUdyNW9PRnVIVGx5NjdQTjh3OElzZ2tPaGoyejkycnhkME5VX1ZaOEdCQy16bTI1M0cyV09vS2xLM1VUSFljQlo1OURfbERabEtWTkE0eFl0TWcxMzdtUDRuM0J6QjBxTzRBWi1TQmM?oc=5",
+  "surgos": false,
+  "eredeti": "Stock Market Today, Nov. 23: Markets Rebound From Correction on AI Relief Rally - The Globe and Mail"
  },
  {
   "ido": 1795472345,
@@ -739,6 +819,18 @@
   "eredeti": "Jensen Huang Is Back and Nvidia Soared 31%. A 67-Year-Old's 3,000 Shares Are Worth Nearly $500,000 and Pay Him $3,000 a Year. Here's the Income That Stake Could Buy Now - 24/7 Wall St."
  },
  {
+  "ido": 1795472010,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "A Trump–Hszi–Putyin-csúcstalálkozó reményt ad a békére – Orange County Register",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZldUY2t0eTNsWDJOWnhjMThFQi15WERkNHJIS25vQVczWHl0ekNnLTB6UXBTV0xSWnplbFZuclJXbm1jd0tFNU9zVlFvUzNYaFVvalhzOGdKV1cyNFF6MnM0aFlSSTVNejhtNFA2RE5ZNnJsX0FnUGxDX3REZGZnQzlTd2NwWE9nbWc?oc=5",
+  "surgos": false,
+  "eredeti": "Trump-Xi-Putin summit offers hope for peace - Orange County Register"
+ },
+ {
   "ido": 1795471998,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -820,100 +912,5 @@
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDRzcHljeGtBWUE3T2VtT3Z4eTdWaTllanRQVEpkNlNVMUlZOXN1cVZETWpRQzNGcWlZaV80YWMtVzNCOHljTDRQbWpsbWFib3dCcEJhSXdkYjZUZXJTSkpXUFdJdUxGZEM0M3IwR1Y5VElCLXVlYktjWFM2R2VXdUFxNHY4NkoyU1FuTUxMSWdqMWtmTHlDbURJRWZIQlM0cUN5clpIY1dud9IBrwFBVV95cUxQWHJ1UVczWm83M1VydjFFOG04azBNMHRDaHJqNVg5QnhWRk9MVUNob2xlMm9tUmpLS29ydGxIYjZzYko2UXI3aUZNM1E0czk2RHE0aS1pMTVfc2c0Z1EyRDF6cUE3cFRZTnlNbkJ6bnRhWnU2aldSTkdRczNaS1VRRVA4NzlBZk9VRUFWZEFrcnNHRnlJMVJlOFQ5RHB2a2JPV3hCQzFRZWFCdUNnVmtJ?oc=5",
   "surgos": false,
   "eredeti": "Trump orders military to hold off on Iowa lead explosives detonation for now - ABC News - Breaking News, Latest News and Videos"
- },
- {
-  "ido": 1795471319,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Az amerikai Kongresszust aggodalommal tölti el Trump döntése, hogy visszahelyezi Jensen Huangot az Nvidia vezérigazgatói posztjára – Cryptopolitan",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUQwTHVIMVJQdjhESWROcnhkeW9WLU9XTFJNY2t5WXYxVVhtTFk1aDdxZWpySnFxZ1Q4S3c4UmF6YmloVzEzR1VvY01RdGxmVExQSktuYVdYUGZSelRiNnRmcU8wRHcySzlVRGZZUHJlNTRxRmFZUkpWYVA3cng4bQ?oc=5",
-  "surgos": false,
-  "eredeti": "US Congress alarmed by Trump decision to bring back Jensen Huang as Nvidia CEO - Cryptopolitan"
- },
- {
-  "ido": 1795471202,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "Tőzsde ma, november 23.: A Micron 19%-ot emelkedik, mivel az Nvidia vezérigazgatójának leváltása csillapítja az AI-kiadásokkal kapcsolatos aggályokat – The Motley Fool",
-  "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMXVxc0VLV0ZaMlpMaV9FeV9NdlpaS3RvY3djYjNDTktRZXBhM3ROd2hZWjE2OTJTMmR1REdGRUhpY2dqTXhRdXhGeDRIb21LNG11Ni1wSnZxY1NwbzBOQldieFprbWppUVpvemItb2ktOU5fZEdRVGk0dldSb2JVSkJQX19YM1hjUXVZNXBmcms5R2FOU09Eb0Z1T25EdXB1QzFESllWYVFjNE82Q1NmWGtyQTR4R0VtQmFodzRTWWVPQkRqdFNEU3FDdFFrcW04dXF5Q09HSENzbUE1bzB3LS1n?oc=5",
-  "surgos": true,
-  "eredeti": "Stock Market Today, Nov. 23: Micron Surges 19% as Nvidia CEO Change Calms AI Spending Fears - The Motley Fool"
- },
- {
-  "ido": 1795471200,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Tőzsde"
-  ],
-  "cim": "Trump szerint a tőzsdék zuhantak, Irán pedig agresszívabbá vált, miután a demokraták győztek a félidős választásokon – Florida’s Voice",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmlsTERaSGVSSVE4T01sN0RKbEhqbzZGX2Z0UmxJa1gtQjg0U0xQUUp6dE1ySk5rNWpIaDlTSThVQWdXSFFlRkNLR2RBckV3ZzhkeExIWGlHQy02eFVtMUhyTG9OT0oyVWJZR0NLSmNHMlFvU0RVb2RZQzBoVHpHM293SlpuNkJ0SUJaNEV0cG1NaWgzRFV2UjZFWGhKWV9LMG1oLVV0SUNPRWFNTXBZ?oc=5",
-  "surgos": false,
-  "eredeti": "Trump says stock markets fell, Iran grew more aggressive after Democratic midterm wins - Florida’s Voice"
- },
- {
-  "ido": 1795471200,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Észrevétel: A történelmi Xi–Trump–Putyin-csúcstalálkozó nyugtalanító igazságot tár fel a nagyhatalmi diplomáciáról – CNA",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGdKVVlwakFKb3J1cVNYRWMwV2ppeE1IUHNyREZybXZjN0lrSlNNbDc5aGpvbUwxVm11VldWbDBUNEMxNGdJVUgtMjBwcEQwc2c5Z2Z0ekN5YjJGb1JrdUdGaUdvMEFUSFhVTlpla2hYRXhRM1pybDJoRVJINTlrc3ZNUnJRdFJObkhNbldRZ0k0T1ZjRTgwb2h1QU4zUmowVkJiby1PMUVOV2tkcFEw?oc=5",
-  "surgos": false,
-  "eredeti": "Commentary: Historic Xi-Trump-Putin summit reveals an unsettling truth about great power diplomacy - CNA"
- },
- {
-  "ido": 1795471164,
-  "forras": "CNN",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "„A szex jól eladható”: Trump bagatellizálja Jensen állítólagos viszonyait a visszahelyezése után | CNN Politics – CNN",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGJ5UHVBQWUyRUFMbkxhUlpmcnV5VHNmZ0JjYzNTdmRjc0V2TFdxTVBuODR3d3JoaDB6QXpXODJPc1FIM1V1NktCOFl5Z0ZzU01FYVY5cFNKYVpMZTViWk1VNU5tNFJuR1VXaWJDcVpraEloTURNS2R4aFJoQmFFUEwxd1lRZF95Zms2bU5DcmI1T3FZ?oc=5",
-  "surgos": false,
-  "eredeti": "‘Sex sells’: Trump downplays Jensen’s alleged affairs after reinstatement | CNN Politics - CNN"
- },
- {
-  "ido": 1795471142,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Nagy cégek"
-  ],
-  "cim": "A technológiai részvények zuhanása közepette a Berkshire Hathaway biztonságos befektetésnek számít? – The Motley Fool",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRV92QnRiM0JHYTdTaEJaTnNuNXBLZk9HYmJlLUt4S3JuTmlEY3gyR0ladUdaSzFFT2lzQUh3eWdMdHRHWFpyR0QxSmtnZWdCdklGUzhYLVVXdkgyU1pJQmhDX3VuUDdLT3VPV19YejZOa0JtYTJhTl8wVjI1Ykt5Z0RKT010Ul9uYWZtS3prbDZyTXBaeVZvbk9weTNwWnB4dHkyTC12eGNOOU52TVE?oc=5",
-  "surgos": true,
-  "eredeti": "As Tech Stocks Crash, Is Berkshire Hathaway a Safe-Haven Investment? - The Motley Fool"
- },
- {
-  "ido": 1795471074,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Trump aláírta a Common Cents törvényt, amely szabályokat állapít meg az egocentim-utáni korszakra – American Banker",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSFpIWFdMc0xqRlYxR2JENXQtZEhoUFY5Z3FJLTZaNllXcDVTOHBsc0k2VkRSaE5pTW9rRFRUMEcxa1VPYzBGM09Tc1QwbjBfcUNEMThlRmRvZGNUTnZMdmF4VlJ2TVkxRGZTeExEbkFYR0xSRlF1MXgtdE5QWFhHR0Y2WmlPVVViU2dMQUdBZ0lHSGJrZnFYTElZX0dVZw?oc=5",
-  "surgos": false,
-  "eredeti": "Trump signs Common Cents Act, setting rules for post-penny era - American Banker"
- },
- {
-  "ido": 1795471043,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Az amerikai részvényindexek emelkednek, miután a Nvidia visszahelyezte Jensen Huangot – FXStreet",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRERVNmtoOGdTRC1ZcmMtMXE4OS12ckkyNl9zQU5ITUJKTWV5Tkp0RU05TGJOWGJpUjZIc1F5cW5VdUJyMXhDNVZuUmNHMEk0SjRpbnB4WERBT05zd3BqQVhoM3poOFk2bVVrcC1Ebl85VHpUXzZxRlhYNF9wTUQtcVpJb29LVFFBcm11ZHNTdThaR2wtS2F0VlNDdnNUbGFrVlRj?oc=5",
-  "surgos": false,
-  "eredeti": "US stock indices rebound as Nvidia reinstates Jensen Huang - FXStreet"
  }
 ]
