@@ -1,5 +1,52 @@
 [
  {
+  "ido": 1795508280,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Trump",
+   "Nagy cégek"
+  ],
+  "cim": "Trump akár 15 millió dollárt is kereshetett az Nvidia-részvényeken Huang visszatérése után – The Guardian",
+  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRUF3TVZCQlVITFBZeEFsTjRHODhTQ3p5cXBUT0FQRUhNaUg0NmxqTEh1MThHY3RLTXREZmtVZ01TVzM5SUptSnNNZlNJOVNnNXJsOGVHUmZMNkRvT09GaERueHk4NjR0bDJYUUY5Y2hZODA0QzJXQmV6dU9sSW1nbXBZNkFIcDlsdThzWFI5RWY4LXhSN2pTdFdTLVpweV9aeGJuOA?oc=5",
+  "surgos": false,
+  "eredeti": "Trump made up to $15m on Nvidia stock after Huang’s return - The Guardian"
+ },
+ {
+  "ido": 1795508231,
+  "forras": "Bloomberg",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Sutcliffe: Úgy tűnik, az Egyesült Államok készen áll arra, hogy újra kapcsolatba lépjen Iránnal",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-24/sutcliffe-us-appears-set-to-reengage-with-iran-video",
+  "surgos": false,
+  "eredeti": "Sutcliffe: US Appears Set to Reengage With Iran"
+ },
+ {
+  "ido": 1795508222,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump Floridában találkozik Rutte NATO-főtitkárral az Ukrajna és Oroszország közötti háborúval kapcsolatos folyamatos feszültségek közepette – The Jerusalem Post",
+  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nWUNaUHl2Z3g0M0d6WWUxR0NQTE5Ibm1jZkR3c2RzQ1NhVGhxREZMV0E0dmp1cVhIR0wzT0FhWEVGSnlDb0txUGk2NWcyNmRra2hRY3g1N2F2UFBPdUdj?oc=5",
+  "surgos": false,
+  "eredeti": "Trump to meet NATO chief Rutte in Florida amid ongoing tensions over Ukraine-Russia war - The Jerusalem Post"
+ },
+ {
+  "ido": 1795508100,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Felpattant a Magyar Telekom",
+  "link": "https://www.portfolio.hu/uzlet/20261124/felpattant-a-magyar-telekom-878656",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795507815,
   "forras": "Magyar cégek (Google News)",
   "temak": [
@@ -32,6 +79,42 @@
   "link": "https://www.portfolio.hu/deviza/20261124/kurali-zoltan-az-mnb-szeptemberben-lezarta-a-kamatcsokkentesi-ciklust-878644",
   "surgos": false,
   "eredeti": ""
+ },
+ {
+  "ido": 1795507214,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "A Tesla és a SpaceX állítólag 5 igazgatót nevezett ki az egyesülési tárgyalások vezetésére – Egy befektető szerint a tárgyalások „fénysebességgel” haladnak – Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFhjYjRnNHpZbXhNOEtMcTZCOUhRSXFUS1NvanJkWDU0c0ZmNnpkSTJKSVM4WnZYMXRKVTZqdjB4bWNMRUpuZGdGbzlUSEp5ZFVkb0owejNaSTM4NkdJUUhkYTZ4UDBLd01VZkNDTUlGcndBNzNpVWZFUEhZM05hTm9Xd1Z1NlFUYi04dWlsa2tXTkpVU2pFS0FXdw?oc=5",
+  "surgos": false,
+  "eredeti": "Tesla And SpaceX Reportedly Name 5 Directors To Lead Merger Discussions — Investor Says Talks Are Moving At ‘Warp Speed’ - Yahoo Finance"
+ },
+ {
+  "ido": 1795506900,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Jensen Huang visszatérése nyomán az Nvidia részvényeinek árfolyama egyetlen nap alatt 31%-kal emelkedett; Cathie Wood korán eladott 710 000 részvényt, így több mint 10 millió dollártól esett el – BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRUzRoY09HazJVRHdmbDk1MTdiSV81X0NMcm5YVC1wT1ljZl9tMjBiZU4xUC1Bc0ttSmY5QnZfeXRqbjM3V2JrWG8tRkFVa1RCS242YUNweFU1RmlOWFgtU0FCZllkZ1JUdzNEd2YyNmxIV05JOWc?oc=5",
+  "surgos": false,
+  "eredeti": "Jensen Huang's Return Sends Nvidia Soaring 31% in a Day; Cathie Wood Cleared 710,000 Shares Early, Missing Out on More Than $10 Million - BigGo Finance"
+ },
+ {
+  "ido": 1795506900,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Kripto",
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Arthur Hayes figyelmeztet: az Nvidia-részvények árfolyam-emelkedése kedvezőtlen a kriptovaluták számára; szerinte a részvények eladására van szükség a Fed kamatcsökkentéséhez – BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVTzdXcHFzRGlYMW4wUHVqMDZ6QkRwSGp3RkUwMFdqU2pHOXdQdGFKampnd3FORkN0aG9EZ3BIa1J1Q1dBcXZiQU9VemliVmR6UW13YkxINUtNZ2hMck1lZC1pNFI5X3EzOFZKZW5CeXdLb1RxYUE?oc=5",
+  "surgos": true,
+  "eredeti": "Nvidia Stock Surge Is a Headwind for Crypto, Arthur Hayes Warns; Says Stock Selloff Needed for Fed Easing - BigGo Finance"
  },
  {
   "ido": 1795506599,
@@ -170,6 +253,17 @@
   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KVks4ZXhiR05mdHpYV3prSU9VWFkzRGlYNUhydDlVZWxFeG1vRFc2WmtiLWR2LS1GVHpvUDNjYlBYb1N1WWRrclpFUHEyWFNPTFc3ZE50bkdfUzRkQ1B0V3Rsb1BjY0R2WmtqT1pMdHVBT1lMdXJZUlJXTC3SAYIBQVVfeXFMT0pTZ0lnSW4yRTRZeWQyWW1ERmpRV1ZYZmdoUXVMbUJCVGxZR05zd0pDaUZtdmtxVkZEcU9uZnhYVEVTZ291Z09SMFpKT2h2UHAxN2VId1lZRUJUa185ODdGelRld3pMbmRxUkVRcHRVNnpxdmhvNWVVYWVuMVFTNV9FUQ?oc=5",
   "surgos": false,
   "eredeti": "Stock Markets Rise After Huang Returns to Nvidia - REFORM.news"
+ },
+ {
+  "ido": 1795504660,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "A Walmart felülvizsgálta az egész évre vonatkozó előrejelzését, miután a harmadik negyedéves árbevétele 5,2%-kal nőtt – Oui Speak Fashion (OSF)",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aYWhvc1diUXNNalM3RDBLeW42cXBmMVREYkJaTEdCX2ZiZ2tSb3dkTUhlcGhlQVluZE5US1FMTWNCUWN6MWVRUU9fZFR5OTdkNVdCTXl0UDN1bjFtZGFmTFhNSQ?oc=5",
+  "surgos": false,
+  "eredeti": "Walmart Raises Full-Year Outlook as Third-Quarter Revenue Rises 5.2% - Oui Speak Fashion (OSF)"
  },
  {
   "ido": 1795504560,
@@ -405,6 +499,17 @@
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ19xeDh0WnR0S00yc09wR1RuQjRFNXUtZGFyd25OMHhHZWRVMkQ2QUVmXzd0LXJrQk9rbDNJcXhOUkFmRHlKSElNdHZoSmRJa0dtTzdFc1dYYXRRZVBkNWtmb0RlVm9UTlhjWVJMSThmS3ZjMy11LWlhZzVRcm9OYk11V2R6UDFzSmN4bnNTZ0VsdWtSRVhrT0YtU2puZS1TMWFuSXFTbjVlT0NlR3lWOW55WVNzcWZlY0gwdHhhWlYxQQ?oc=5",
   "surgos": true,
   "eredeti": "Nvidia shares surge 31.5% as Jensen Huang returns: Can his comeback revive the AI trade? - Gulf Business"
+ },
+ {
+  "ido": 1795501735,
+  "forras": "Reuters",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "KOMMENTÁR: A Közel-Kelet kőolajexportja csökkenő tendenciát mutat az Iránnal kapcsolatos hamis patthelyzet közepette – Reuters",
+  "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzZpMHFTclFHbWV5MGFQbmJCOHhtaS02NUQyVmFmU09tZHVJRXZCeHRNWTFNQ0hVenFvQ1JnS2p0aHd0LVFjRE5KTi0tQkVZdElhcko2YXRmWnpkbGtkc0lJX0JjVGtXSE1TbWwyVklTcHVrSWNaTExxT1hYV3JEdG92Ny03TEFNWEJ0Q1hIY2lReVVlZHhkRS0zUUlkZkFiTHhiV0UwVF9RMVdxS2RlS1pseXBJQ3ZwaDBqak5zd29Hd3NGYW5nNUVfZERkR0pI?oc=5",
+  "surgos": false,
+  "eredeti": "COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate - Reuters"
  },
  {
   "ido": 1795501680,
@@ -804,110 +909,5 @@
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNGtmR21HYTZ0VktST1FybHQ4bGEzel9Vb2lJR1BtRzV6VVljTmhqOTlyMzJ3NXR4VmJKclpiR28xRUxFbEtSMnRmaXVQaE96NHVDUElqWnBnZkRFT1l4TDF1R2NhYWFUQjhxd0thV1NHSXZCWEx6MzczRzl5ck55aGN4bjBKSjkwdFZ3aWl2ak94UWUwVHNHNEtn0gGfAUFVX3lxTE9ZUXJWWTlIanQ5MmI1Y3U0TkJ5aE5YQi1VUkNlNm1saDJXVW03Rm9nSWUyUm9hR0UzRmZPNTUtUHpVN1NpUE5HYlRlUERnRHVsQzBhYVBoc2p1TW1YNUtaNmVocWlsQlJIbVl5RWFGVGFUal91alVydHVqOEwyN1diTWZoVUltS2RrUHZpdnFEd3kxSjUwTm0yTUxpSDVjUQ?oc=5",
   "surgos": false,
   "eredeti": "Trump's Nixon-to-China moment: There's an immigration move only he can make - Fox News"
- },
- {
-  "ido": 1795496592,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Mit érhetnek el a kongresszusi demokraták, amíg Trumpnak vétójoga van? - Verdict | Jogi elemzés és kommentár a Justiától",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlBsSVpScUs5XzdObFBTT3NvWVF2cTlydkxuZHMxLTRDT1ZUWURKNHdxQzlXTzB2cDVuY2N5Ylh6VnNMR3FqcHdoOE9lM1I0ZEVWNWdjSzZMQ2prZVRtUk1BeVpXeERWTUV0dXZiLXZaQjhKRkJWVWlzQnVmMTM4cWRmVXRMR0JDamtzWXVjRktMYmRiTVA4UjZneUNRa1JPTjBCYkxhQQ?oc=5",
-  "surgos": true,
-  "eredeti": "What Can Congressional Democrats Accomplish While Trump Has a Veto? - Verdict | Legal Analysis and Commentary from Justia"
- },
- {
-  "ido": 1795496580,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – döntések",
-   "Trump"
-  ],
-  "cim": "Trump hálaadás napi kegyelmet ad a Freedom és Feather nevű pulykáknak a Fehér Házban – AP News",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR1JmVGVGUE9ZaW9JMnNkLTZtbm9oSFhJZl9wY0RDM0VwUVhrNWNrWmhFZzNGVW9XazlVcFFoTkdGZjAxLXpYN1VSb1lhU01OSzc0czhMbXI4RDhJZW9JdXAtNGZXNW8yUU16M3N6VnBDWGIyUGFTcXFBZDh0RW1Qc0w3eEMtX3RzOE1DcWU5SjZWUXhxb1FDeTAxTQ?oc=5",
-  "surgos": false,
-  "eredeti": "Trump to offer Thanksgiving pardons for turkeys Freedom and Feather at the White House - AP News"
- },
- {
-  "ido": 1795496475,
-  "forras": "CNN",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Az Igazságügyi Minisztériumtól az Nvidiáig: Trump elnöksége a büntetlenség új korszakába lép – CNN",
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRl9MbEFQZGVGWDJwVk9iMHFMQmQwRThLeHJaMUxLWWhYTVFaUGFWZzZzSkw4XzNxY2xPd2czejRwcVRHdUJFUm1tckxaZ3Z0QzFvc2d2NFBpZi1MbnY0LU1janlNSzZYM3M4eU42a3JCUThuVENNNFphdGNqNk5hT2Zn?oc=5",
-  "surgos": false,
-  "eredeti": "From DOJ to Nvidia, Trump’s presidency enters new age of impunity - CNN"
- },
- {
-  "ido": 1795496460,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Elmaradt a világ felosztása",
-  "link": "https://www.portfolio.hu/global/20261124/elmaradt-a-vilag-felosztasa-878428",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795496443,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Elnöki lakosztály? Trump miatt vírusként terjed a hír a sencseni szállodáról – South China Morning Post",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOUVjT2lmaHM2SE5GejhNeHFCSUtIaFppRDE2RjhKV0YxM2tmWXF0WDlSZEsyZkhKY1lUaURrOS1zbndTamM0MmczRmdKSUtaZU4ydGRwZDhOdzlZSmZQMmVPV2JyY2stdk9lbFIxanJEeUxaZTd4TS1yRW1XeUtWN2pzblI1cTNBN2lXLVFkelJzNTFzbnBKejZ4T2Q1X20tVFRZS2pka3pYd2VBaEkxZWJZV0NkNWRKSmpactIBvAFBVV95cUxPOUVjT2lmaHM2SE5GejhNeHFCSUtIaFppRDE2RjhKV0YxM2tmWXF0WDlSZEsyZkhKY1lUaURrOS1zbndTamM0MmczRmdKSUtaZU4ydGRwZDhOdzlZSmZQMmVPV2JyY2stdk9lbFIxanJEeUxaZTd4TS1yRW1XeUtWN2pzblI1cTNBN2lXLVFkelJzNTFzbnBKejZ4T2Q1X20tVFRZS2pka3pYd2VBaEkxZWJZV0NkNWRKSmpacg?oc=5",
-  "surgos": false,
-  "eredeti": "Presidential suite? Trump turns Shenzhen hotel into viral sensation - South China Morning Post"
- },
- {
-  "ido": 1795496443,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Elnöki lakosztály? Trump szállása miatt vírusként terjedt a hír a sencseni szállodáról – South China Morning Post",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOGZ4V3ZEM0FPV3RpMFUtQjBzVzdfcURpRFN4QWNoUjJlOVFIYXFmVTNzLWhFVDhraWNObUJLLXFGejdUblJaenc0dWR6OFlyeHA4S3BXV1dKUjVNTk5lc0FBd0ZEa2FwNWVmX0xuUzF2N01aa2tHWEIzOHhyWHZQa2ZiYXRhWktUYnBhUk5nQ25MWkRncFlRVC1xSWNiQU93czU0RUw4YkFmdm1GY3VSaWpQZE9HQk1wM2tzR9IBvAFBVV95cUxPOUVjT2lmaHM2SE5GejhNeHFCSUtIaFppRDE2RjhKV0YxM2tmWXF0WDlSZEsyZkhKY1lUaURrOS1zbndTamM0MmczRmdKSUtaZU4ydGRwZDhOdzlZSmZQMmVPV2JyY2stdk9lbFIxanJEeUxaZTd4TS1yRW1XeUtWN2pzblI1cTNBN2lXLVFkelJzNTFzbnBKejZ4T2Q1X20tVFRZS2pka3pYd2VBaEkxZWJZV0NkNWRKSmpacg?oc=5",
-  "surgos": false,
-  "eredeti": "Presidential suite? Trump’s stay turns Shenzhen hotel into viral sensation - South China Morning Post"
- },
- {
-  "ido": 1795496429,
-  "forras": "Bloomberg",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Az ázsiai részvények emelkedtek, mivel Huang visszatérése fellendítette az MI-kereskedést",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-24/the-asia-trade-11-24-2026-video",
-  "surgos": false,
-  "eredeti": "Asia Stocks Jump as Huang’s Return Lifts AI Trade"
- },
- {
-  "ido": 1795496400,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Európa számára nem az jelenti a legnagyobb fenyegetést, hogy Trump és Putyin átrajzolják a térképet. A saját, megtanult tehetetlenségünk az | Natalie Tocci – The Guardian",
-  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWFNGSWtjVDRwSlNkQ2wwWFlkSzUxQjk5am9uYkNsRGNPZzh5LXdROG9yTEFxOHdBNW5vM2pxbjVUVGVId0Y3QjFpOXJMNVM3VkM0aXRpcjVKelllcERVM0RQeTY3NHRveTVZMkNaclFvdWpMWEREVC1KLU5ZOE92R1Z1aVZPZ0Z5MWZnNmNrSEdmRjFhU2Q4S3hiTkhURFNaTVhPMHczRFlXbTlFanFBeGdKRHFUR1V5Z0NwVDd6bDdLYVZmMUJDcDZZOUcxWkhtTVlXZ1p3OGlGUVpGTV9V?oc=5",
-  "surgos": false,
-  "eredeti": "Europe’s big threat is not Trump and Putin redrawing the map. It’s our own learned helplessness | Natalie Tocci - The Guardian"
- },
- {
-  "ido": 1795496220,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trumpnak négy oka volt arra, hogy „meggyőzze” az Nvidiát Jensen Huang újbóli felvételéről. Ezért fontos ez globálisan – The Conversation",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSExKQlhycmtSUmdvNWYtNUhGVlZWTzBscjNNTGZ6Z2lBN1BtUWdQREhCdFZLSHE3MXlZcUt6V3Y2cFZOX1VwcVRWY1lkMHZ6b0FrYVlNZ19lOEMwejM5aGVRWFd1aDQtTTlWUVdfREUwenZRbUQyYUZ5V1BjaXZLdklVcFktdVBaeUV6NXBzRFZObDlpMzNVV1kzeHZ0YTJJYUc5djJ0X0dPSXN0VGt2RFZwVS1JQ0hIR3FldVRSM3BtckJ0?oc=5",
-  "surgos": false,
-  "eredeti": "Trump had 4 reasons to ‘convince’ Nvidia to rehire Jensen Huang. Here’s why it matters globally - The Conversation"
  }
 ]
