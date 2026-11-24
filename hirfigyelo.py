@@ -557,6 +557,19 @@ def eredeti_formaz(szoveg_):
     return szoveg_
 
 
+def fordito_link(cim, link, forras=""):
+    """Google Fordító-link magyarra. Közvetlen cikklinknél a teljes oldalt fordítja,
+    Google News átirányító linknél (ott az oldalfordítás nem megbízható) a címet.
+    Kikapcsolás: \"fordito_gomb\": false. A magyar címhez nem ad linket."""
+    if CFG.get("fordito_gomb") or not CFG.get("fordito_link", True) or not cim or MAGYAR_RE.search(cim):
+        return None  # ha a Telegram-gomb be van kapcsolva, a link felesleges
+    if "portfolio" in (forras or "").lower() or "magyar" in (forras or "").lower():
+        return None  # magyar nyelvű forrás
+    if link and "news.google.com" not in link:
+        return "https://translate.google.com/translate?sl=auto&tl=hu&u=" + urllib.parse.quote(link, safe="")
+    return "https://translate.google.com/?sl=auto&tl=hu&op=translate&text=" + urllib.parse.quote(cim[:500])
+
+
 def ido_szoveg(ts):
     """Mai hírnél csak óra:perc, régebbinél hónap.nap. óra:perc."""
     d = datetime.fromtimestamp(ts)
@@ -590,15 +603,21 @@ def szekcios_uzenet(tetelek, fejlec=True, max_sima=3300, max_html=3600):
         elso = True
         for o in elemek:
             jel = "🔴 " if o.get("surgos") else ""
-            ido = ido_szoveg(o["ido"])
-            s = f"• {jel}{ido} · {o['cim']} ({o['forras']})"
+            s = f"• {jel}{o['cim']} ({o['forras']})"
             cim_h = html.escape(o["cim"])
             if o.get("link"):
                 cim_h = f'<a href="{html.escape(o["link"], quote=True)}">{cim_h}</a>'
-            h = f"• {jel}<code>{ido}</code> {cim_h} <i>{html.escape(o['forras'])}</i>"
+            jelzo = f"{kiirt + 1}." if CFG.get("fordito_gomb") else "•"  # gombbal a hírek számozva, hogy a gomb egyértelmű legyen
+            h = f"{jelzo} {jel}{cim_h} <i>{html.escape(o['forras'])}</i>"
+            fl = fordito_link(o["cim"], o.get("link"), o.get("forras", ""))
+            h_hossz = 0
+            if fl:
+                fl_h = html.escape(fl, quote=True)
+                h += f'\n   ↳ <a href="{fl_h}">🇭🇺 Fordítás magyarra</a>'
+                h_hossz = len(fl_h)  # a link címe nem számít bele a Telegram karakterkorlátjába
             extra_s = (len(fej_s) + 2 if fej_s and elso else 0) + (2 if sima else 0)
             extra_h = (len(fej_h) + 2 if fej_h and elso else 0) + (2 if htm else 0)
-            if hs + extra_s + len(s) + 1 > max_sima or hh + extra_h + len(h) + 1 > max_html:
+            if hs + extra_s + len(s) + 1 > max_sima or hh + extra_h + len(h) - h_hossz + 1 > max_html:
                 break
             if elso and fej_s:
                 sima.append(("\n" if sima else "") + fej_s)
@@ -609,7 +628,7 @@ def szekcios_uzenet(tetelek, fejlec=True, max_sima=3300, max_html=3600):
             sima.append(s)
             htm.append(h)
             hs += len(s) + 1
-            hh += len(h) + 1
+            hh += len(h) - h_hossz + 1
             kiirt += 1
     if kiirt < len(tetelek):
         maradt = f"\n… és még {len(tetelek) - kiirt} hír (lásd a hírlistát)"
@@ -642,6 +661,27 @@ class CsakIPv4:
         socket.getaddrinfo = self.eredeti
 
 
+def fordito_gombok(uzenet, html_uzenet=None):
+    """Telegram-gombok az üzenet alá: egy gomb hírenként (1, 2, 3 ...), megnyomásra a bot (Cloudflare Worker)
+    felugró ablakban, csak a gombot megnyomónak mutatja a hír magyar fordítását. A csatornában senki más
+    üzenete nem változik. Kikapcsolás: "fordito_gomb": false."""
+    if not CFG.get("fordito_gomb"):
+        return None
+    if html_uzenet:
+        n = sum(1 for l in html_uzenet.split("\n") if re.match(r"\d+\. ", l))
+        if n == 0:
+            return None
+        n = min(n, 24)
+        gombok = [{"text": f"🇭🇺 {i}", "callback_data": f"t:{i}"} for i in range(1, n + 1)]
+        if n == 1:
+            gombok[0]["text"] = "🇭🇺 Fordítás magyarra"
+        return [gombok[i:i + 5] for i in range(0, len(gombok), 5)]
+    elso = (uzenet or "").split("\n")[0]
+    if not elso or MAGYAR_RE.search(elso):
+        return None
+    return [[{"text": "🇭🇺 Fordítás magyarra", "callback_data": "t:1"}]]
+
+
 def telegram_kuld(cim, uzenet, link=None, surgos=False, html_uzenet=None):
     global TG_HIBAK, TG_SZUNET_IG
     if time.time() < TG_SZUNET_IG:
@@ -652,8 +692,14 @@ def telegram_kuld(cim, uzenet, link=None, surgos=False, html_uzenet=None):
     szov = f"<b>{html.escape(cim)}</b>\n\n" + (html_uzenet if html_uzenet else html.escape(uzenet[:3500]))
     if link and not html_uzenet:
         szov += f'\n\n<a href="{html.escape(link, quote=True)}">Megnyitás</a>'
-    adat = json.dumps({"chat_id": TG_CHAT, "text": szov, "parse_mode": "HTML",
-                       "disable_web_page_preview": True}).encode("utf-8")
+        fl = fordito_link(uzenet.split("\n")[0], link)
+        if fl:
+            szov += f' · <a href="{html.escape(fl, quote=True)}">🇭🇺 Fordítás magyarra</a>'
+    kuldes = {"chat_id": TG_CHAT, "text": szov, "parse_mode": "HTML", "disable_web_page_preview": True}
+    gombok = fordito_gombok(uzenet, html_uzenet)
+    if gombok:
+        kuldes["reply_markup"] = {"inline_keyboard": gombok}
+    adat = json.dumps(kuldes).encode("utf-8")
     utolso = None
     hatarido = time.time() + 45  # egy üzenetre legfeljebb ennyi ideig próbálkozunk
     kiserlet = 0
