@@ -840,6 +840,89 @@ def ertesit(cim, uzenet, link=None, surgos=False, html_uzenet=None):
         raise hibak[0]
 
 
+FF_NAPTAR_URL = "https://nfs.faireconomy.media/ff_calendar_thisweek.json"
+MFX_NAPTAR_URL = "https://www.myfxbook.com/forex-economic-calendar"
+ZEN_ZSEBEL = {"EUR": "🇪🇺", "USD": "🇺🇸"}
+
+
+def ff_naptar(penznemek, ma):
+    """Forex Factory heti JSON-csatornája: a mai, piros mappás (High) események a megadott pénznemekre.
+    Visszaad: [(idő, pénznem, cím, előrejelzés, előző)]."""
+    from zoneinfo import ZoneInfo
+    bud = ZoneInfo("Europe/Budapest")
+    adat = json.loads(letolt(FF_NAPTAR_URL, timeout=25).decode("utf-8"))
+    ki = []
+    for e in adat:
+        if e.get("impact") != "High" or e.get("country") not in penznemek:
+            continue
+        try:
+            d = datetime.fromisoformat(e["date"]).astimezone(bud)
+        except Exception:
+            continue
+        if d.strftime("%Y-%m-%d") != ma:
+            continue
+        ki.append((d, e["country"], str(e.get("title", "")).strip(), e.get("forecast") or "", e.get("previous") or ""))
+    ki.sort(key=lambda x: x[0])
+    return [(d.strftime("%H:%M"), c, t, f, p) for d, c, t, f, p in ki]
+
+
+def mfx_naptar(penznemek):
+    """Myfxbook gazdasági naptár: NINCS hivatalos nyilvános csatornája, ezért a weboldalt olvassa (legjobb
+    igyekezettel). Ha az oldal szerkezete változik vagy blokkol, kivételt dob, és az üzenet ezt jelzi.
+    Visszaad: [(idő, pénznem, cím, előrejelzés, előző)] (a Myfxbook oldala szerinti idővel)."""
+    oldal = letolt(MFX_NAPTAR_URL, timeout=25).decode("utf-8", "replace")
+    sorok = re.findall(r"<tr[^>]*economicCalendarRow[^>]*>(.*?)</tr>", oldal, re.S | re.I)
+    if not sorok:
+        raise RuntimeError("a Myfxbook oldal szerkezete nem felismerhető (vagy blokkolt)")
+    ki = []
+    for sor in sorok:
+        cellak = [html.unescape(re.sub(r"<[^>]+>", " ", c)).strip() for c in re.findall(r"<td[^>]*>(.*?)</td>", sor, re.S | re.I)]
+        cellak = [re.sub(r"\s+", " ", c) for c in cellak if c.strip()]
+        szoveg_ = " | ".join(cellak)
+        penz = next((p for p in penznemek if re.search(rf"\b{p}\b", szoveg_)), None)
+        if not penz or not re.search(r"high", sor, re.I):
+            continue
+        ido = next((m.group(0) for c in cellak if (m := re.search(r"\d{1,2}:\d{2}", c))), "")
+        cim = max((c for c in cellak if c != penz and not re.fullmatch(r"[\d:/ .\-]+|High|Medium|Low", c)), key=len, default="")
+        if cim:
+            ki.append((ido, penz, cim, "", ""))
+    return ki
+
+
+def naptar_sorok(lista):
+    sima, htm = [], []
+    for ido, penz, cim, elo, elozo in lista:
+        extra = " – ".join(x for x in (f"várható: {elo}" if elo else "", f"előző: {elozo}" if elozo else "") if x)
+        s = f"🔴 {ido} {ZEN_ZSEBEL.get(penz, '')} {penz} – {cim}" + (f" ({extra})" if extra else "")
+        sima.append(s)
+        htm.append(html.escape(s))
+    return sima, htm
+
+
+def naptar_kuldes(ma, teszt=False):
+    """Reggeli naptár-üzenet: Forex Factory + Myfxbook piros mappás EUR/USD események. True, ha elment."""
+    penznemek = CFG.get("naptar_penznemek") or ["EUR", "USD"]
+    reszek, hibak = [], []
+    db = 0
+    for nev, fn in (("Forex Factory", lambda: ff_naptar(penznemek, ma)), ("Myfxbook", lambda: mfx_naptar(penznemek))):
+        try:
+            lista = fn()
+            sima, htm = naptar_sorok(lista) if lista else (["Ma nincs piros mappás EUR/USD esemény."],) * 2
+            if lista:
+                db += len(lista)
+            reszek.append((f"{nev} ({len(lista)})", sima, htm))
+        except Exception as e:
+            hibak.append(nev)
+            print(f"[!] {nev} naptár nem érhető el ({e.__class__.__name__}: {e})", file=sys.stderr)
+            reszek.append((nev, [f"Nem sikerült lekérni ({e.__class__.__name__})."], [html.escape(f"Nem sikerült lekérni ({e.__class__.__name__}).")]))
+    if len(hibak) == 2:
+        return False
+    sima = "\n\n".join(f"{c}\n" + "\n".join(s) for c, s, _ in reszek)
+    htm = "\n\n".join(f"<b>{html.escape(c)}</b>\n" + "\n".join(h) for c, _, h in reszek)
+    ertesit(f"📅 Piros mappás hírek – {'/'.join(penznemek)} ({db})" + (" [TESZT]" if teszt else ""), sima, None, False, htm)
+    return True
+
+
 def telegram_chat_id_kiir():
     """Segéd: kiírja azokat a chat azonosítókat, akik már írtak a botnak."""
     if not TG_TOKEN:
@@ -1031,6 +1114,18 @@ def egy_kor(kuldes=True):
         napi_kuld, napi_fuggo = napi_fuggo[:15], []
         utolso_nap = ma
 
+    # reggeli naptár (Forex Factory + Myfxbook piros mappás EUR/USD): naponta egyszer, a megadott időponttól
+    utolso_naptar = kall.get("utolso_naptar", "")
+    naptar_probak = kall.get("naptar_probak", {})
+    naptar_most = False
+    if (CFG.get("naptar_aktiv", True) and not elso_futas and ma != utolso_naptar
+            and (ora, most_dt.minute) >= (int(CFG.get("naptar_ora", 7)), int(CFG.get("naptar_perc", 30)))
+            and ora < int(CFG.get("naptar_ora", 7)) + 5
+            and naptar_probak.get(ma, 0) < 4):
+        naptar_most = True
+        utolso_naptar = ma
+        naptar_probak = {ma: naptar_probak.get(ma, 0) + 1}
+
     # --- ÁLLAPOT MENTÉSE AZ ÉRTESÍTÉS ELŐTT: így semmi sem mehet ki kétszer, még hiba/időtúllépés esetén sem ---
     if kuldes and not elso_futas:
         for x in surgosak:
@@ -1044,6 +1139,7 @@ def egy_kor(kuldes=True):
         KULDOTT_FAJL.write_text(json.dumps({"kuldott": mult[-500:], "fuggo": fuggo, "utolso_osszefoglalo": utolso,
                                             "napi_fuggo": napi_fuggo, "utolso_napi": utolso_nap,
                                             "utolso_reggeli": utolso_reggeli, "utolso_surgos": utolso_surgos,
+                                            "utolso_naptar": utolso_naptar, "naptar_probak": naptar_probak,
                                             "tg_szunet_ig": TG_SZUNET_IG},
                                            ensure_ascii=False), encoding="utf-8")
     ALLAPOT_FAJL.write_text(json.dumps(lattott[-10000:]))
@@ -1134,6 +1230,23 @@ def egy_kor(kuldes=True):
             print(f"{'!!' if x[0] else '  '} [{'/'.join(x[3])}] {x[2]}: {x[4]}  {x[5]}")
             kiment += 1
 
+    if kuldes and naptar_most:
+        try:
+            ok = naptar_kuldes(ma)
+        except Exception as e:
+            print(f"[!] naptár értesítés nem ment ki ({e.__class__.__name__}: {e})", file=sys.stderr)
+            ok = False
+        if ok:
+            kiment += 1
+        else:
+            # semelyik forrás nem válaszolt: a következő futás újra próbálja (legfeljebb 4-szer aznap)
+            try:
+                allapot = json_betolt(KULDOTT_FAJL, {})
+                allapot["utolso_naptar"] = ""
+                KULDOTT_FAJL.write_text(json.dumps(allapot, ensure_ascii=False), encoding="utf-8")
+            except Exception as e:
+                print(f"[!] naptár állapot visszaállítása nem sikerült: {e}", file=sys.stderr)
+
     if kuldes and TG_SZUNET_IG != tg_szunet_regi:
         # a Telegram korlátozott: a szünet időpontját elmentjük, hogy a következő futások ne terheljék tovább
         try:
@@ -1154,6 +1267,7 @@ def main():
     ap.add_argument("--szaraz", action="store_true", help="csak kiírja a híreket, nem küld értesítést")
     ap.add_argument("--kozlemeny", metavar="SZOVEG", help="a megadott közleményt kiküldi a felhasználóknak (a híreket nem ellenőrzi)")
     ap.add_argument("--teszt-cimzett", action="store_true", help="a közlemény/teszt csak a teszt-címzettnek megy")
+    ap.add_argument("--naptar", action="store_true", help="a mai piros mappás EUR/USD naptárat azonnal elküldi (a --teszt-cimzett-tel csak a teszt-címzettnek)")
     ap.add_argument("--telegram-id", action="store_true", help="kiírja a Telegram chat azonosítódat (a botnak írt üzenetből)")
     ap.add_argument("--telegram-diag", action="store_true", help="Telegram-elérés diagnosztika")
     ap.add_argument("--beallitasok-letrehoz", action="store_true", help="kiírja az alap beallitasok.json fájlt")
@@ -1179,6 +1293,13 @@ def main():
             teszt_cimzettre_valt()
         ertesit("📢 Közlemény" + (" (előnézet)" if a.teszt_cimzett else ""), szov)
         print("Közlemény elküldve" + (" (csak a teszt-címzettnek)." if a.teszt_cimzett else " a felhasználóknak."))
+        return
+    if a.naptar:
+        if a.teszt_cimzett:
+            teszt_cimzettre_valt()
+        if not naptar_kuldes(datetime.now().strftime("%Y-%m-%d"), teszt=a.teszt_cimzett):
+            sys.exit("Egyik naptár-forrás sem érhető el.")
+        print("Naptár elküldve.")
         return
     if a.test:
         teszt_cimzettre_valt()  # a teszt sosem megy a felhasználóknak
