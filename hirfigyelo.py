@@ -46,7 +46,7 @@ ALAP = {
     "_megjegyzes": "Szerkeszthető beállítások. Témát/szót/forrást törölhetsz vagy hozzáadhatsz. "
                    "Egy téma vagy forrás kikapcsolása: 'aktiv': false. Szó végi * = bármilyen ragozás.",
     "ntfy_topic": "CSERELD-LE-egyedi-nev-123",
-    "percek": 10,
+    "percek": 15,
     "max_ertesites": 8,
     "max_kor_ora": 24,
     "max_hir_a_listaban": 80,
@@ -59,7 +59,18 @@ ALAP = {
     "eredeti_stilus": "dolt",
     # Nem sürgős hírekből legfeljebb ennyi óránként megy egyetlen összefoglaló (0 = azonnal, külön-külön).
     # Sürgős hír továbbra is azonnal jön. Ha nincs új hír, semmi sem megy.
-    "osszefoglalo_ora": 2,
+    "osszefoglalo_ora": 3,
+    # Csendes órák: ebben az idősávban nem megy ki értesítés, a hírek összegyűlnek, és reggel egyben érkeznek.
+    "csendes_tol": 22,
+    "csendes_ig": 7,
+    # Reggeli összefoglaló (az éjszakai fontos hírek + árfolyamok), a megadott órától az első futáskor
+    "reggeli_ora": 7,
+    "reggeli_arfolyamok": {
+        "Nvidia": "NVDA", "Apple": "AAPL", "Microsoft": "MSFT", "Alphabet": "GOOGL", "Amazon": "AMZN",
+        "Meta": "META", "Tesla": "TSLA", "Broadcom": "AVGO", "Bitcoin": "BTC-USD",
+    },
+    # Két sürgős értesítés között legalább ennyi perc teljen el; ami közben jön, az a következő összefoglalóba kerül
+    "surgos_szunet_perc": 0,
     # Az a téma, amin "napi_osszefoglalo": true van (alapból a háborús), naponta legfeljebb EGY összefoglalót küld,
     # ennyi órától (helyi idő) kezdve. Kivétel: ha a cím a "sulyos_szavak" valamelyikét tartalmazza,
     # az azonnal, sürgősként megy ki.
@@ -148,13 +159,23 @@ ALAP = {
         },
     },
     # Ezekre a szavakra (a címben) hangos, sürgős értesítés jön.
-    "surgos": [
-        "breaking", "just in", "urgent", "plunge", "surge", "soar", "tumble", "crash", "record high",
-        "all-time high", "emergency", "halts", "default", "collapse", "hack", "rate cut", "rate hike",
-        "tariff", "sanction", "ban", "approves", "war", "attack", "strike", "invasion", "missile",
-        "nuclear", "ceasefire", "executive order", "veto",
-        "zuhan*", "szárnyal*", "rekord*", "háború*", "támadás*", "azonnali",
+    # Sürgős = erős szó (2 pont) VAGY legalább két különböző közepes szó (1-1 pont); a küszöb a surgos_kuszob.
+    "surgos_eros": [
+        "breaking", "just in", "urgent", "azonnali", "crash", "crashed", "plunge", "plunged", "plummet",
+        "plummeted", "collapse", "collapsed", "halts trading", "trading halted", "circuit breaker", "default",
+        "emergency", "bankruptcy", "files for bankruptcy", "profit warning", "stock split",
+        "cuts interest rates", "raises interest rates", "rate decision", "executive order", "ceasefire",
+        "invasion", "zuhan*", "csőd*", "összeomlás*", "hadüzenet*",
     ],
+    "surgos": [
+        "surge", "surged", "surging", "soar", "soared", "soaring", "tumble", "tumbled", "tumbling",
+        "record high", "all-time high", "rate cut", "rate hike", "tariff", "sanction", "ban", "approves",
+        "hack", "hacked", "downgrade", "layoffs", "recall", "veto", "pardon", "beats estimates",
+        "beat estimates", "misses estimates", "missed estimates", "raises guidance", "cuts guidance",
+        "earnings beat", "earnings miss", "attack", "strike", "missile", "nuclear", "war",
+        "szárnyal*", "rekord*", "támadás*", "háború*",
+    ],
+    "surgos_kuszob": 2,
     # Ezeket tartalmazó híreket kihagyja.
     "kizart": ["horoscope", "celebrity", "recipe", "sweepstakes", "sponsored", "giveaway",
                "price prediction", "top 5 coins"],
@@ -191,11 +212,14 @@ TEMA_RE = {}
 SURGOS_RE = None
 KIZART_RE = None
 SULYOS_RE = None
+EROS_RE = None
+SURGOS_KUSZOB = 2
 NAPI = set()
 NTFY_AKTIV = False
 TG_TOKEN = ""
 TG_CHAT = ""
 TG_API = "https://api.telegram.org"
+TG_SZUNET_IG = 0.0  # ennyi időpontig (epoch) nem próbálkozunk a Telegrammal (korlátozás után)
 TG_HIBAK = 0  # egymás utáni, teljesen elbukott Telegram-küldések ebben a futásban
 NTFY_TOPIC = ""
 NTFY_SERVER = os.environ.get("NTFY_SERVER", "https://ntfy.sh")
@@ -233,7 +257,7 @@ def beallitasok_betolt():
 
 
 def inicializal(cfg):
-    global CFG, FEEDEK, TEMA_RE, SURGOS_RE, KIZART_RE, SULYOS_RE, NAPI, NTFY_TOPIC, NTFY_AKTIV, TG_TOKEN, TG_CHAT, TG_API
+    global CFG, FEEDEK, TEMA_RE, SURGOS_RE, KIZART_RE, SULYOS_RE, EROS_RE, SURGOS_KUSZOB, NAPI, NTFY_TOPIC, NTFY_AKTIV, TG_TOKEN, TG_CHAT, TG_API
     CFG = cfg
     NTFY_TOPIC = os.environ.get("NTFY_TOPIC") or cfg.get("ntfy_topic", "")
     NTFY_AKTIV = bool(cfg.get("ntfy_aktiv", True)) and bool(NTFY_TOPIC) and not NTFY_TOPIC.startswith("CSERELD")
@@ -264,6 +288,8 @@ def inicializal(cfg):
         es = kulcs_regex(t["es_szavak"]) if t.get("es_szavak") else None
         TEMA_RE[nev] = (kulcs_regex(t.get("szavak", [])), es)
     SURGOS_RE = kulcs_regex(cfg.get("surgos", []))
+    EROS_RE = kulcs_regex(cfg.get("surgos_eros", []))
+    SURGOS_KUSZOB = int(cfg.get("surgos_kuszob", 2))
     SULYOS_RE = kulcs_regex(cfg.get("sulyos_szavak", []))
     NAPI = {nev for nev, t in cfg["temak"].items() if t.get("aktiv", True) and t.get("napi_osszefoglalo")}
     KIZART_RE = kulcs_regex(cfg.get("kizart", []))
@@ -272,6 +298,51 @@ def inicializal(cfg):
 def letolt(url, timeout=20):
     with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=timeout) as r:
         return r.read()
+
+
+def _szam(x, tizedes=2):
+    return f"{x:,.{tizedes}f}".replace(",", " ").replace(".", ",")
+
+
+def _egy_arfolyam(par):
+    nev, jel = par
+    try:
+        adat = json.loads(letolt("https://query1.finance.yahoo.com/v8/finance/chart/"
+                                 f"{urllib.parse.quote(jel)}?interval=1d&range=7d", timeout=10).decode("utf-8"))
+        r = adat["chart"]["result"][0]
+        ar = float(r["meta"]["regularMarketPrice"])
+        zarasok = [float(c) for c in r["indicators"]["quote"][0]["close"] if c is not None]
+        elozo = None
+        if len(zarasok) >= 2:
+            # ha az utolsó nap értéke az aktuális ár, az előző nap záró az összehasonlítás alapja
+            elozo = zarasok[-2] if abs(zarasok[-1] - ar) / ar < 0.005 else zarasok[-1]
+        return nev, jel, ar, ((ar / elozo - 1) * 100 if elozo else None)
+    except Exception:
+        pass
+    if jel == "BTC-USD":  # tartalék forrás a bitcoinhoz
+        try:
+            d = json.loads(letolt("https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd"
+                                  "&include_24hr_change=true", timeout=10).decode("utf-8"))["bitcoin"]
+            return nev, jel, float(d["usd"]), d.get("usd_24h_change")
+        except Exception:
+            pass
+    return nev, jel, None, None
+
+
+def arfolyamok_szoveg():
+    """Rövid árfolyamlista a reggeli üzenethez; ha nem érhető el, üres szöveget ad."""
+    lista = CFG.get("reggeli_arfolyamok") or {}
+    if not lista:
+        return ""
+    with ThreadPoolExecutor(max_workers=5) as ex:
+        eredmeny = list(ex.map(_egy_arfolyam, lista.items()))
+    sorok = []
+    for nev, jel, ar, valt in eredmeny:
+        if ar is None:
+            continue
+        iv = "" if valt is None else f" {'▲' if valt >= 0 else '▼'}{_szam(abs(valt), 1)}%"
+        sorok.append(f"{nev} {_szam(ar, 0 if ar >= 10000 else 2)} USD{iv}")
+    return ("Árfolyamok (legutóbbi záró):\n" + "\n".join(sorok)) if sorok else ""
 
 
 def szoveg(elem, *nevek):
@@ -343,6 +414,12 @@ def telegram_elemek(oldal, csatorna):
     return ki
 
 
+def surgos_pont(cim):
+    """Sürgősségi pont: egy erős szó 2 pont, minden további különböző közepes szó 1 pont. Küszöb: surgos_kuszob."""
+    pont = 2 if EROS_RE.search(cim) else 0
+    return pont + len({m.group(0).lower().rstrip("s") for m in SURGOS_RE.finditer(cim)})
+
+
 def elemzes(cim, leiras):
     """Visszaad: (témák listája, sürgős-e). Üres lista = nem érdekes."""
     t = cim + " " + leiras
@@ -352,7 +429,7 @@ def elemzes(cim, leiras):
     if any(n in NAPI for n in temak):
         # napi összefoglalós téma: csak a tényleg súlyos hír (pl. megállapodás) sürgős
         return temak, bool(SULYOS_RE.search(cim))
-    return temak, bool(temak) and bool(SURGOS_RE.search(cim))
+    return temak, bool(temak) and surgos_pont(cim) >= SURGOS_KUSZOB
 
 
 def cim_kulcs(cim):
@@ -500,7 +577,9 @@ class CsakIPv4:
 
 
 def telegram_kuld(cim, uzenet, link=None, surgos=False):
-    global TG_HIBAK
+    global TG_HIBAK, TG_SZUNET_IG
+    if time.time() < TG_SZUNET_IG:
+        raise RuntimeError(f"Telegram szünetel még ~{int((TG_SZUNET_IG - time.time()) / 60) + 1} percig (korábbi korlátozás miatt)")
     if TG_HIBAK >= 2:
         raise RuntimeError("Telegram ebben a futásban kihagyva (ismételt időtúllépés)")
     szov = f"<b>{html.escape(cim)}</b>\n\n{html.escape(uzenet[:3500])}"
@@ -537,6 +616,7 @@ def telegram_kuld(cim, uzenet, link=None, surgos=False):
                 if var > 20:
                     # hosszú tiltás: a további próbálkozás csak növeli, ezért ebben a futásban feladjuk
                     TG_HIBAK = 2
+                    TG_SZUNET_IG = time.time() + 1800  # fél órát pihentetjük a Telegramot, hogy a korlát lejárhasson
                     raise RuntimeError(f"HTTP 429: a Telegram {var} mp várakozást kér, most nem próbálkozom tovább") from None
                 time.sleep(min(var + 1, 20))
                 continue
@@ -545,6 +625,8 @@ def telegram_kuld(cim, uzenet, link=None, surgos=False):
             utolso = e
             time.sleep(2)
     TG_HIBAK += 1
+    if TG_HIBAK >= 2:
+        TG_SZUNET_IG = time.time() + 1800
     raise utolso
 
 
@@ -650,6 +732,7 @@ def hirlista_ment(uj_tetelek, eredeti=None):
 
 
 def egy_kor(kuldes=True):
+    global TG_SZUNET_IG
     t0 = time.time()
     lattott = json_betolt(ALLAPOT_FAJL, None)
     elso_futas = lattott is None
@@ -692,9 +775,13 @@ def egy_kor(kuldes=True):
     kall = json_betolt(KULDOTT_FAJL, {})
     if not isinstance(kall, dict):
         kall = {}
+    TG_SZUNET_IG = float(kall.get("tg_szunet_ig", 0))
+    tg_szunet_regi = TG_SZUNET_IG
     mult = [x for x in kall.get("kuldott", []) if most - x.get("ido", 0) < 48 * 3600]
     fuggo = [x for x in kall.get("fuggo", []) if most - x.get("ido", 0) < max_kor]
     utolso = float(kall.get("utolso_osszefoglalo", 0))
+    utolso_reggeli = kall.get("utolso_reggeli", "")
+    utolso_surgos = float(kall.get("utolso_surgos", 0))
     napi_fuggo = [x for x in kall.get("napi_fuggo", []) if most - x.get("ido", 0) < max(max_kor, 36 * 3600)]
     utolso_nap = kall.get("utolso_napi", "")
     ismert = [x["t"] for x in mult] + [x["t"] for x in fuggo] + [x["t"] for x in napi_fuggo]
@@ -747,19 +834,39 @@ def egy_kor(kuldes=True):
     for x in (x[0] for x in szurt if not x[0][0]):
         (napi_fuggo if any(n in NAPI for n in x[3]) else fuggo).append(rekord(x))
 
-    # összefoglaló: csak ha van függő hír, és telt el elég idő az előző óta
-    kozte = float(CFG.get("osszefoglalo_ora", 2)) * 3600
-    osszefoglalo = []
-    if fuggo and (most - utolso >= kozte):
+    # --- idő: csendes órák, reggeli összefoglaló ---
+    most_dt = datetime.now()
+    ma = most_dt.strftime("%Y-%m-%d")
+    ora = most_dt.hour
+    tol, ig = int(CFG.get("csendes_tol", 22)), int(CFG.get("csendes_ig", 7))
+    csendes = (ora >= tol or ora < ig) if tol > ig else (tol <= ora < ig)
+    reggeli_ora = int(CFG.get("reggeli_ora", 7))
+
+    # a sürgős hír sem megy ki azonnal, ha csendes óra van, vagy nemrég már ment egy: összefoglalóba kerül
+    szunet = float(CFG.get("surgos_szunet_perc", 0)) * 60
+    if surgosak and (csendes or most - utolso_surgos < szunet):
+        fuggo.extend(rekord(x) for x in surgosak)
+        surgosak = []
+    if surgosak:
+        utolso_surgos = most
+
+    osszefoglalo, reggeli = [], False
+    kozte = float(CFG.get("osszefoglalo_ora", 3)) * 3600
+    if not csendes and reggeli_ora <= ora < reggeli_ora + 5 and ma != utolso_reggeli and not elso_futas:
+        # reggeli összefoglaló: minden összegyűlt hír, a sürgősek elöl
+        reggeli = True
+        utolso_reggeli = ma
+        fuggo.sort(key=lambda x: (not x.get("surgos"), -x["ido"]))
+        osszefoglalo, fuggo = fuggo[:15], fuggo[15:]
+        utolso = most
+    elif not csendes and fuggo and (most - utolso >= kozte):
         fuggo.sort(key=lambda x: x["ido"], reverse=True)
         osszefoglalo, fuggo = fuggo[:maxe], fuggo[maxe:]
         utolso = most
 
     # napi összefoglaló (pl. háború): naponta egyszer, a megadott órától, ha van mit küldeni
     napi_kuld = []
-    most_dt = datetime.now()
-    ma = most_dt.strftime("%Y-%m-%d")
-    if napi_fuggo and ma != utolso_nap and most_dt.hour >= int(CFG.get("napi_ora", 18)):
+    if not csendes and napi_fuggo and ma != utolso_nap and ora >= int(CFG.get("napi_ora", 18)):
         napi_fuggo.sort(key=lambda x: x["ido"], reverse=True)
         napi_kuld, napi_fuggo = napi_fuggo[:15], []
         utolso_nap = ma
@@ -775,7 +882,9 @@ def egy_kor(kuldes=True):
         fuggo, utolso = [], most
     if kuldes:
         KULDOTT_FAJL.write_text(json.dumps({"kuldott": mult[-500:], "fuggo": fuggo, "utolso_osszefoglalo": utolso,
-                                            "napi_fuggo": napi_fuggo, "utolso_napi": utolso_nap},
+                                            "napi_fuggo": napi_fuggo, "utolso_napi": utolso_nap,
+                                            "utolso_reggeli": utolso_reggeli, "utolso_surgos": utolso_surgos,
+                                            "tg_szunet_ig": TG_SZUNET_IG},
                                            ensure_ascii=False), encoding="utf-8")
     ALLAPOT_FAJL.write_text(json.dumps(lattott[-10000:]))
     hirlista_ment(lista_uj, eredeti)
@@ -818,7 +927,18 @@ def egy_kor(kuldes=True):
                                 "\n".join(f"• {y[4]} ({y[2]})" for y in cs[:10]), cs[0][5], True)
             kiment += len(surgosak)
             # nem sürgős hírek: egyetlen összefoglaló
-            if len(osszefoglalo) == 1:
+            if reggeli:
+                sorok = "\n".join(f"• {'🔴 ' if o.get('surgos') else ''}{o['cim']}" for o in osszefoglalo) \
+                    or "Éjszaka nem volt fontos hír."
+                ar = ""
+                try:
+                    ar = arfolyamok_szoveg()
+                except Exception as e:
+                    print(f"[!] árfolyamok nem érhetők el ({e.__class__.__name__})", file=sys.stderr)
+                biztonsagos(ertesit, f"☀️ Reggeli összefoglaló ({len(osszefoglalo)} hír)" if osszefoglalo
+                            else "☀️ Reggeli összefoglaló", sorok + (f"\n\n{ar}" if ar else ""),
+                            osszefoglalo[0]["link"] if osszefoglalo else None)
+            elif len(osszefoglalo) == 1:
                 o = osszefoglalo[0]
                 biztonsagos(kuld_egyet, (o["surgos"], o["ido"], o["forras"], o["temak"], o["cim"], o["link"]))
             elif osszefoglalo:
@@ -834,6 +954,15 @@ def egy_kor(kuldes=True):
         for x in surgosak + [(o["surgos"], o["ido"], o["forras"], o["temak"], o["cim"], o["link"]) for o in osszefoglalo + napi_kuld]:
             print(f"{'!!' if x[0] else '  '} [{'/'.join(x[3])}] {x[2]}: {x[4]}  {x[5]}")
             kiment += 1
+
+    if kuldes and TG_SZUNET_IG != tg_szunet_regi:
+        # a Telegram korlátozott: a szünet időpontját elmentjük, hogy a következő futások ne terheljék tovább
+        try:
+            allapot = json_betolt(KULDOTT_FAJL, {})
+            allapot["tg_szunet_ig"] = TG_SZUNET_IG
+            KULDOTT_FAJL.write_text(json.dumps(allapot, ensure_ascii=False), encoding="utf-8")
+        except Exception as e:
+            print(f"[!] szünet mentése nem sikerült: {e}", file=sys.stderr)
 
     print(f"Kész: {kiment} értesítés, {len(fuggo)} vár összefoglalóra, {len(napi_fuggo)} vár a napi összefoglalóra" + (" (első futás, alapállapot mentve)" if elso_futas else ""))
     return kiment
