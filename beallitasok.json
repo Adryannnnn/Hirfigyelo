@@ -1,7 +1,7 @@
 {
   "_megjegyzes": "Szerkeszthető beállítások. Témát/szót/forrást törölhetsz vagy hozzáadhatsz. Egy téma vagy forrás kikapcsolása: 'aktiv': false. Szó végi * = bármilyen ragozás.",
   "ntfy_topic": "CSERELD-LE-egyedi-nev-123",
-  "ntfy_aktiv": true,
+  "ntfy_aktiv": false,
   "telegram_bot_token": "",
   "telegram_chat_id": "",
   "telegram_api_url": "",
