@@ -1,5 +1,63 @@
 [
  {
+  "ido": 1795501758,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Az Nvidia részvényei 31,5%-kal emelkedtek Jensen Huang visszatérésével: Vajon a visszatérése fellendítheti az MI-kereskedelmet? – Gulf Business",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ19xeDh0WnR0S00yc09wR1RuQjRFNXUtZGFyd25OMHhHZWRVMkQ2QUVmXzd0LXJrQk9rbDNJcXhOUkFmRHlKSElNdHZoSmRJa0dtTzdFc1dYYXRRZVBkNWtmb0RlVm9UTlhjWVJMSThmS3ZjMy11LWlhZzVRcm9OYk11V2R6UDFzSmN4bnNTZ0VsdWtSRVhrT0YtU2puZS1TMWFuSXFTbjVlT0NlR3lWOW55WVNzcWZlY0gwdHhhWlYxQQ?oc=5",
+  "surgos": true,
+  "eredeti": "Nvidia shares surge 31.5% as Jensen Huang returns: Can his comeback revive the AI trade? - Gulf Business"
+ },
+ {
+  "ido": 1795501500,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Trump – döntések",
+   "Trump"
+  ],
+  "cim": "Újabb amerikai szankciók Irán ellen: lecsapnak a kereskedelmet életben tartó árnyékbankrendszerre",
+  "link": "https://www.portfolio.hu/bank/20261124/ujabb-amerikai-szankciok-iran-ellen-lecsapnak-a-kereskedelmet-eletben-tarto-arnyekbankrendszerre-878606",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795501376,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump kemény hangvétele Kínával szemben mindig is csak színjáték volt – Dailypress.net",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczJsc2dxeDBjaU9Db0taNUJrd0Y0UHVyZDVaYW8zSVJnUWtyX0NMYlY0SGtaaTF1WFN0VnBPWHVfRUN5UlgwNkJvc0VJNWY1MENyY3FuNklUN08wZW9rMTBRd1c2V0FtS0xHMGE0UEpzR0s0bHNlVHhsMHVUVjNpOUN6Y19Xd3hCOHJoMjBlcG8tcU5CT3RuR3N0TEdVcUY0NVV1MG9QRWNWdVk?oc=5",
+  "surgos": false,
+  "eredeti": "Trump’s tough-on-China talk was always just an act - Dailypress.net"
+ },
+ {
+  "ido": 1795501138,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Az amerikai részvényindex-határidős ügyletek emelkednek a Nvidia által vezetett Wall Street-i rali után – Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHJSc1lQSFFnSU90UmhzTDNkRHo0NG1PUXF4eW1IejA5dXg2UkEwWGpCNmxNUVFKRVZYNzNZWi1waHljeEluVW56bWg4b25uTDN3dXA2WUtXcXRtVEVBdm1oUzNhQVBfVnZGMExxYWh2bS1vOWxtU3g0R2d4eGtPMjZ0N2hhd084R1pFUHdDVTluc1Z3aGlWX0RndG1OX0s1cUZCNm9WbG9RckllWDNKSlRxSmI?oc=5",
+  "surgos": false,
+  "eredeti": "U.S. stock futures tick higher after Nvidia-led Wall Street rally - Investing.com"
+ },
+ {
+  "ido": 1795500900,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Tisza-kormány: elfogadhatatlan az EU-s költségvetés, beindul a törvénygyár",
+  "link": "https://www.portfolio.hu/gazdasag/20261124/tisza-kormany-elfogadhatatlan-az-eu-s-koltsegvetes-beindul-a-torvenygyar-878590",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795500785,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -10,6 +68,29 @@
   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWRVaERLelpjR051Y256ME92VnBpdUhTUTV6S05QLThLejVCWDRPOG95OHBMQ2djMFpaNGg3anFjMUVoQWN6NkIwRlJDZXAxRmp0RU1LQ1JlMXFVN2JJdU92bWdJa1Nla2dTMEFlV085WXRXNDBJb2RXX3dVWGdpaTlNaUR6eW1adFk2alBHN1gzODMxdXlCZ0VuOFI1YkVSQ1E?oc=5",
   "surgos": false,
   "eredeti": "Trump’s tough-on-China talk always just an act - Iron Mountain Daily News"
+ },
+ {
+  "ido": 1795500775,
+  "forras": "Bloomberg",
+  "temak": [
+   "Nagy cégek"
+  ],
+  "cim": "Kína figyelmeztet, hogy Huang visszatérése nem vet véget az Egyesült Államokból eredő „rosszindulatú” kockázatoknak",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/china-warns-huang-comeback-doesn-t-end-malicious-risks-from-us",
+  "surgos": false,
+  "eredeti": "China Warns Huang Comeback Doesn’t End ‘Malicious’ Risks From US"
+ },
+ {
+  "ido": 1795500767,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump megvédi Huang Nvidia-hoz való visszatérését, és azt állítja, hogy Kína felvehette volna őt – Business Standard",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeVM4THozbVdyX0ZLT05GeHhiamxVRVNJVlcwTV94VEw5UW55dVdINkFnOXRqUEF6eU9lcm9UVjhLQWJ6aWVSYWFVSUt6NFNtTDJjc0RCcXY3UGRtcFF0bTlBZHJDYzlRbkJ5VjFzd3k2T2dtbEJ5TWRSQ3JjcWdlS2RIM1hMRUh5V3NzZGxMVXR1ZEp2dVJYNzMyRXFlTExwUUdfVG00Y2ExMzJLUmtpbENDeGFNOGRCZUREOG1zcXJ5ektjRUotVDR1V3VZd2hoQkHSAdcBQVVfeXFMTkFWZTVqLVRSQWVBOERCX0lrRnVsczdRVE5NV0JqRmRvSkN1STQwNkoxU09rT0owZzh3cmRobi1tTDZJbnhGX1B4THBlSVk4b19ZRTB4d1ZhSXVfazBjdUstc3ZPUHFoSzJ4ckJLdHh3NmxjbEd2RVVfTkd1Qmg1Tm90SnFncG9aekRmMTVyYU02YnFnaS1vZ0QzLU83UEJ3ZlBlLVpxaWtTTVJMblBxZGlDbTB2LXhsVTdyWDdqZXR6dU1XUlAzU2l0NWZlODBHVHM4N0ZaSzQ?oc=5",
+  "surgos": false,
+  "eredeti": "Trump defends Huang's Nvidia comeback, claims China could have hired him - Business Standard"
  },
  {
   "ido": 1795500108,
@@ -100,6 +181,18 @@
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ0Nzb0llTVkwRGpLdlhfbXpGanNwZUdiOW5xNlE0TkZSVnlEZlhiU2I2d284eTJ1R1g4LTM1aWhBZkUyWDZCbHlJMXpBaG9KT0s0NFhGYTRQUmhWMkk1RFR2SXpSZHJpRTJEb3JDMFl0MXhsSGtVd3V6QTNINWRPeGJHVDFRbWIyd1g0UUk1SDNubU82d1phamJ3bUZ4SWM?oc=5",
   "surgos": false,
   "eredeti": "Trump Puts Presidency on the Line to Reinstate Nvidia’s Jensen Huang - CNN"
+ },
+ {
+  "ido": 1795498029,
+  "forras": "Nagy cégek 2 (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Az Nvidia-rali ismét reflektorfénybe helyezi az Oracle és a Palantir részvényeit – Simply Wall St",
+  "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPWEoxdmc5c3V1RlF0NDQtWlhpbDh3WTJzaV9GUUNfZWNfOUF2WXQ5bWlrd2FMRmE3R1kzSXNBam1wb2xqb3NYRjJMUDNzMzdzNGNCemw1WFNnLWlPLWxRMnhmSFBlbTZyQ04xaVktSFhIUkNQVjZqdXBmSlRUcEdOZmQxM1Z1RHJKRHo1dzdwZ3VsM1EweEpvOElBSVg5ekViaV94SVZfeVEtVkYzZWtLQVJRYmkxcTQ4X2x6cmNtTHZfWVdLWm9xTTNJZUdXOWF2c3p3V3NMbTZxZGJSckF3emRfUmtHRURzNThUNXVB0gHzAUFVX3lxTFBwZkVSUnhxajhtREFMaDVSbXRSYW9VVG1yNE5XNnc0NTdIY3otcktHQjB0anNjdzMzUkZIYzdwNUFnU1RMc3FjZlNBRWpqNm9LSWJWQmVudm9ZTEJTZ0FuTzYwZWhWcnZxd0J2eUpaakRnZDhkRVZDaURMS3MxVk5LbnpPMFVydlZPZUEyaHVWTlNlTUtudXdjVm40WlY2RWhFX2g4dFlKcEl4ZzRDMmVKRVNNeGRMdUJTWjlldFVOaVpCTnNQTURjUzJTYkVYeVJCbXFwdWE3WGR5cDRDUzJnRFhhcnh5aG16bWkzZWR2bGVnRQ?oc=5",
+  "surgos": false,
+  "eredeti": "Nvidia Rally Puts Oracle And Palantir Stock Back In Focus - Simply Wall St"
  },
  {
   "ido": 1795497900,
@@ -653,6 +746,18 @@
   "eredeti": "Japanese Bonds Rally Across Curve as Domestic Stocks Surge"
  },
  {
+  "ido": 1795489598,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump úgy gondolja, hogy Kína további 250 Boeing repülőgépet fog vásárolni, Világhírek – AsiaOne.com",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaEpaSjdrTkk5QlNyVjJMNERLNk1UZVdNWms4X3ZScWxRUFVJaHNlbDFiNHJQZWxtN0Npb0Z1ek5DeWRKTmNCRTJmWmZHTnB4VEJ0VEd6S2hHaXBocTExNXN5dl84QzVlTDhjNWlaOTB4b1BsNUhiQTg1bmJGSWRDa0N5VjdGc0puX3FuVUtUdw?oc=5",
+  "surgos": false,
+  "eredeti": "Trump thinks China will buy another 250 Boeing airplanes, World News - AsiaOne.com"
+ },
+ {
   "ido": 1795489500,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -811,106 +916,5 @@
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaTZWb1Z0d2NORHFvYWhfZ3JHYUV3UmJKNlczdTIzcTVqUTRXSFFKOUV3Rjk1d1llQ1JYbk9YTnFWbzUybGNUeExoZ3c4UUhXSlBRbTA4eEJIVzV3Q0pkcjZJMFM3cS11NWpGUThfWTJBN181VXkxRDNma3hqeEtEeEhHc09TY1dmQXdBOHZ3NXItaGV0UkJROHl2WGRCNFFaQm55UFJOWHJSbkVydkk4ZXFsSG96aGprc3Y4bQ?oc=5",
   "surgos": false,
   "eredeti": "Nasdaq Index and S&P500: Nvidia Leads US Stocks Higher on Huang’s Return - FXEmpire"
- },
- {
-  "ido": 1795487123,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Órákkal azután, hogy Jensen Huang visszatért az Nvidia-hoz, Trump felvette a szingapúri Megaspeedet a feketelistára: jelentés – The Indian Express",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY0tpR1o0U0tmTDVXTkdiS0pvdk91dWdEUjdiUWhvWHg3MTJHZW5XVGh0TVpBLWt0bEYzcGs4ZHlrZEhka1VGaWhTZnd5TXkySEVnSEtLem91UmxjNU0yZGxqV0sxbG1HcE54YVBTUF9tSHJuWDRNVkY3bm9zMEUyUDZNYUpubHRBZmRTSng2MFd3ZG1fdHowakVVc25BLWU5ZzBseWtoSndma1huU2V0ZGNyWUpLU21LTU00N3dwU1dwUWFFTHg1bdIBzwFBVV95cUxNZlRHeGJ5M3RmXy1CdVZJd2NsTm9HUUtuY0oyeUwxMVY2YVExVU9veTVfX20wZzdwRUpUekNWMjVDYmdqY3hpajBveWV2cXlsQkZQY3NZbXdSTkxyVGFDaUQxLWoyX3RscVp5dEMtQkVycTRFeUZhajVRLWdsS0loa1pYNGlZc0FYT3NCZXpQQVZ4LUFjNFRjMW9mbWJQV19ORW9zZlhrYnhiVXUzYXo2b0dXVDZlMWwxa2ZtbTBUMWRLbDhiOHQ2UkhNZlFQeWc?oc=5",
-  "surgos": false,
-  "eredeti": "Hours after Jensen Huang returns to Nvidia, Trump blacklists Singapore’s Megaspeed: Report - The Indian Express"
- },
- {
-  "ido": 1795487050,
-  "forras": "Investing.com",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Miért emelkedik ma a TSMC részvénye?",
-  "link": "https://www.investing.com/news/stock-market-news/why-is-tsmc-stock-surging-today-93CH-5046933",
-  "surgos": false,
-  "eredeti": "Why is TSMC stock surging today?"
- },
- {
-  "ido": 1795486926,
-  "forras": "Bloomberg",
-  "temak": [
-   "Jegybank/kamat"
-  ],
-  "cim": "A tokiói használt lakások árai 2013 óta először estek",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/central-tokyo-used-condo-prices-fall-for-first-time-since-2013",
-  "surgos": false,
-  "eredeti": "Tokyo Core Used-Condo Prices Fall for First Time Since 2013"
- },
- {
-  "ido": 1795486800,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Az Nvidia részvényeinek követése a Jensen Huang vitán keresztül – Modern Ghána",
-  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2WDNxTUk1eFRJV2FRMEN6ZEJxamNWQ1ZtaU94TWpsQlNjMzVLMUhjVGF1ajAtTUp2T0Fib2ZoTXF0RXpNQUJFSVJxOW1Hd0dldHVEZU5ZbHpNd24zMWhN0gFcQVVfeXFMTkppYzhOemt6Zk1JTjJFaUd5LVRWUkQyUW1MUHRsMGZwVVMzWkl1eXo4TGFUNjdEdWNtb1pVUXVSR0xmQjQ1b2Vsdm9pRFpyZk5scmZxUnUtQkx4bmY?oc=5",
-  "surgos": false,
-  "eredeti": "Tracking Nvidia’s stock through the Jensen Huang controversy - Modern Ghana"
- },
- {
-  "ido": 1795486380,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A Nasdaq, a Dow és az S&P 500 határidős ügyletei emelkednek, mivel Jensen Huang visszatérése az Nvidia-hoz 3 billió dolláros piaci ralihoz vezet: SOXS, IBRX, HPE, TSM a középpontban – Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSTRMM0dfQUlWZ3pRMFhtNUJsV1k0RE9UV1dTQ2RhWUZ3SUtIOUhtbGQxa1VidG05ZEszdXRJTFZHTTFXTExSMW1uV05KVEdzb0NBcWtnVDBVa2dQbDdYc0NQaTJlWWxfbVdmQV9JUHZFbmRHcTB3elRkWUt0aUxCOFZVX3hIYnBfTHlqOU5IMGx1T3c?oc=5",
-  "surgos": false,
-  "eredeti": "Nasdaq, Dow, S&P 500 Futures Gain As Jensen Huang’s Return To Nvidia Sparks $3T Market Rally: SOXS, IBRX, HPE, TSM In Focus - Yahoo Finance"
- },
- {
-  "ido": 1795486364,
-  "forras": "Nagy cégek 2 (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "A JPMorgan fenntartja a Tesla-részvények „tartás” minősítését, és 430 dolláros célárfolyamot határoz meg 2026-ra – KuCoin",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd0tDRGtQLURJazAyZVlaYlBwYUlRNVBTbGdWbUxsZlIyckR6MkhJTkZqVjk4OC1VRGdROHl3elVIeXhnaUtkdWlScXc5VE94d2VmNTBlSk14MlQ3MUVRaE4xY1l0N1FzYkNDSFRlWWRCTTNBZjc0bjBfNFNVcHg5dlFMQmk1dFQwY3YzWnJGN01HMVJDRlJrazVEM2NKT1lFbHA3cVhrVzM4cUk?oc=5",
-  "surgos": false,
-  "eredeti": "JPMorgan Maintains Tesla Stock 'Hold' Rating with $430 Price Target for 2026 - KuCoin"
- },
- {
-  "ido": 1795486320,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Az Nvidia Stock Rebound visszahelyezi a mesterséges intelligencia infrastruktúra részvényeit a radarra – Yahoo! Pénzügy Kanada",
-  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU2VIekU0OEt2NzV5X0tlSlp5ZWh1WmhLVGQwTVlKYlZtczNHTDRVSEVKZ2ZRbElSVThJNXF4LUdGQWNBVXAwU3hHZHlzVXBrSVE0NklzU2c0YnFfc281MWVwaXIyUUYtYnBIQ25LcTIxZERFckZkdDR4YVBuQ0laaS1Eaw?oc=5",
-  "surgos": false,
-  "eredeti": "Nvidia Stock Rebound Puts AI Infrastructure Stocks Back On The Radar - Yahoo! Finance Canada"
- },
- {
-  "ido": 1795486260,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "„Kína felajánlhatott volna Jensen Huangnak egy vezető szerepet”: Trump szerint Hszi nagyra értékeli az Nvidia vezérigazgatóját – The Week",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeU12c2pRRnhvMi1SQXJHTXNHd3d6RVVQbnVoOTFEenczcHh0ejFfQWVVdjJMMGRBa2NIQVNxNGhCZFlPcUJEZDJRYVh1Q0RZTzNZMU5LTWdYVmpfOUhFYzNsQWs1ZzhtUW04bTZxemVjd054Z0NEdkViMk1uZzhDU0p2bUx3SThTMkRVR0hvMHdvQUwwZ0NUdFgxNTlvRXItVlBVLWFmQm5sNXgycmR3Szd3eXRWeXPSAbwBQVVfeXFMT0QydG9ITG93SEhxekh5UVVpNVIyWFJmcTRlYTN4VzVjMkZMOTNBZ05LQlFWVGh0X19FWE5OT3R2YmpwcWhtc2Jzc0lPTER1bmNNUk5vblNsUVdpQ3c1NVVZc25Yc0VXOEh5WmhDTG5QbWNCZ3Rib09EYWFRdXJ6OF9Fa2MtQldDVERZNHBKNjl3dUQwSmhfMnotTHU3TFVRS3RmSDhqNkR0U2k5ajhVTE84Q3J5T3pYM1QwdlQ?oc=5",
-  "surgos": false,
-  "eredeti": "'China could have offered Jensen Huang a top role’: Trump says Xi holds Nvidia CEO in high regard - The Week"
- },
- {
-  "ido": 1795486123,
-  "forras": "CNN",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump alábecsüli a Natl biztonsági kockázatait: „Ki nem áll kapcsolatban” Kínával? - CNN",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU2xnTDB2WWVBQlRfZHdVNVF5aWZxbHpNU3M2REs5YUN4OFFiOXdmTFNqRDFhOXF0R0l5RWRpQ0JLV1JpdzhSQnc0a3psWm95WnQ2SzM2OVBjNGVZSVhrWnlSaGp4YVpscU9ycU9CYWdzMkNrODFreVVkbVEwWEpLQjBPRkhRWWwzc2d2WjRpNVFCXzNJcmZIMkEwY1JvbE5SOFQzYw?oc=5",
-  "surgos": false,
-  "eredeti": "Trump Downplays Natl Security Risks: “Who Isn’t in Contact” With China? - CNN"
  }
 ]
