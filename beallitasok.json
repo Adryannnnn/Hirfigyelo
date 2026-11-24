@@ -210,7 +210,7 @@
         "aranyár*"
       ]
     },
-    "Nagy cégek": {
+    "Blue chip": {
       "aktiv": true,
       "szavak": [
         "nvidia",
@@ -469,11 +469,11 @@
       "aktiv": false,
       "url": "https://finance.yahoo.com/news/rssindex"
     },
-    "Nagy cégek (Google News)": {
+    "Blue chip (Google News)": {
       "aktiv": true,
       "gnews": "(Nvidia OR Apple OR Microsoft OR Alphabet OR Amazon OR Meta OR Tesla OR Broadcom OR TSMC OR AMD) (earnings OR results OR guidance OR shares OR stock)"
     },
-    "Nagy cégek 2 (Google News)": {
+    "Blue chip 2 (Google News)": {
       "aktiv": true,
       "gnews": "(Netflix OR Oracle OR Palantir OR OpenAI OR JPMorgan OR Berkshire OR Walmart OR Boeing OR Intel OR Micron OR ASML) (earnings OR results OR guidance OR shares OR stock)"
     },
@@ -547,7 +547,7 @@
     "Tőzsde": "📈",
     "Jegybank/kamat": "🏦",
     "Világgazdaság": "🌍",
-    "Nagy cégek": "🏢"
+    "Blue chip": "🏢"
   },
   "reggeli_arfolyamok": {
     "Nvidia": "NVDA",
