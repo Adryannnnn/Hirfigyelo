@@ -1,5 +1,16 @@
 [
  {
+  "ido": 1795525980,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Világhódító úton Magyar Péter új adója – Európa-szerte célkeresztbe kerültek a gazdagok",
+  "link": "https://www.portfolio.hu/gazdasag/20261124/vilaghodito-uton-magyar-peter-uj-adoja-europa-szerte-celkeresztbe-kerultek-a-gazdagok-878772",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795525920,
   "forras": "Portfolio.hu",
   "temak": [
@@ -8,6 +19,17 @@
   ],
   "cim": "Tovább esik az Anthropic, a kibocsátási ár közelében az árfolyam",
   "link": "https://www.portfolio.hu/befektetes/20261124/tovabb-esik-az-anthropic-a-kibocsatasi-ar-kozeleben-az-arfolyam-878766",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795525904,
+  "forras": "Cointelegraph",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
+  "link": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "surgos": false,
   "eredeti": ""
  },
@@ -129,6 +151,17 @@
   ],
   "cim": "Microsoft Stock Jumps In Nvidia-Fueled Tech Surge; Is Microsoft A Buy Now? - Investor's Business Daily",
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95X2cyMVRMWWtEejVGWE1zWXZGYk5CYkE0WFhHM2JRNFVybmFINmozWXZBWHhwbUNfSWg5WVlzYUNnQWktWTIzbGFwNUw4MDR5WEo2WFFmSThCaHA3WDQxVTdzNWZSNFRTa3BZRTJLR1ktMGZJOVE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795525207,
+  "forras": "Bloomberg",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "Behind Binance Hack, a Reckoning Over Who Controls Crypto",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/behind-binance-hack-a-reckoning-over-who-controls-crypto",
   "surgos": false,
   "eredeti": ""
  },
@@ -879,38 +912,5 @@
   "link": "https://www.investing.com/news/economy-news/wall-st-futures-dip-as-chip-stocks-cool-after-nvidiafueled-rally-5047567",
   "surgos": false,
   "eredeti": "Nasdaq futures drop as AI stocks cool after Nvidia-fueled rally"
- },
- {
-  "ido": 1795520956,
-  "forras": "Nagy cégek (Google News)",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "A Meta Stock visszaesett az előpiacon, mivel a C osztályú részvények szüneteltetése 60 milliárd dolláros mesterségesintelligencia-finanszírozási terv késik – Benzinga",
-  "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNURCWEpIbFQ1TVVkdzRSWGxQUWRPS2pyRmxYdXRvT2FTNDVCMUJ5SG9vaEZ2YXh5cS1EWEEtQnFQdE9Lb2xUdnAzRlZzUU5FOWxfLXpnZFJwSjhOY2x4MHU5endNWHNuQjZjc3l0M24yZFNzSkFUNUtOMFZhdlNHbllNWVhsbXlfZ2VfbUp3Q25iTWtEeWI5cmxDU1FhUG9LQ2tSbHFDbkhxQ3lzbWt4NElsUGtablh6R1g1OG5SUExhWjBET1dUM25xSkhpdUhFTzdodXhn?oc=5",
-  "surgos": false,
-  "eredeti": "Meta Stock Dips Premarket As Class C Share Pause Delays $60 Billion AI Funding Plan - Benzinga"
- },
- {
-  "ido": 1795520820,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Forex"
-  ],
-  "cim": "Esésnek indult a forint",
-  "link": "https://www.portfolio.hu/deviza/20261124/esesnek-indult-a-forint-878594",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795520820,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Jegybank/kamat"
-  ],
-  "cim": "Megszólalt Varga Mihály a magyar euróbevezetésről",
-  "link": "https://www.portfolio.hu/gazdasag/20261124/megszolalt-varga-mihaly-a-magyar-eurobevezetesrol-878740",
-  "surgos": false,
-  "eredeti": ""
  }
 ]
