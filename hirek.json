@@ -1,5 +1,29 @@
 [
  {
+  "ido": 1795495079,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Trump",
+   "Nagy cégek"
+  ],
+  "cim": "Trump tavaly év végén legalább 12 millió dolláros Nvidia részvényt birtokolt - ABC News - Breaking News, Latest News és videók",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcm16eGltaFhHdnNpMi1kZi1vVERncG1Qc0pGa2Voa3B5WV82YnhTSTh1WXc3b3Q5VjFudjBpd2lFZExCT2Y4TkZZN0xIXzhlZ2d4dE9wbWpNRXNpcHhoRXRCaUJnWG9mdjJTa242VU9zQThKZVlGZEdUZUJPbi1lVVY4Q1psOXNxaW1jQkxhMNIBlAFBVV95cUxQOXhoLWhSci1qSU5XTHpYclFNTUd5V1NENzRzRksyS185Vmd3VDU4VmxtLUl1MFVtSktfRnpCUzE2RTFnMnd5TFIweHpKSjNITzVMMm9IUWlGMG9FMjl5enFYblFyb25wWHFFVjdCd1h6SFByVjlYQVphMDI4MlA3dE9jamR3N2ZBWlRDUURLOTFCMHRs?oc=5",
+  "surgos": true,
+  "eredeti": "Trump owned at least $12 million in Nvidia stock at the end of last year - ABC News - Breaking News, Latest News and Videos"
+ },
+ {
+  "ido": 1795494790,
+  "forras": "Bloomberg",
+  "temak": [
+   "Forex",
+   "Jegybank/kamat"
+  ],
+  "cim": "A Goldman szerint a nyert stabilitás felülmúlja a kamatemeléseket a lehűlő inflációban",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/goldman-says-won-stability-beats-rate-hikes-in-cooling-inflation",
+  "surgos": true,
+  "eredeti": "Goldman Says Won Stability Beats Rate Hikes in Cooling Inflation"
+ },
+ {
   "ido": 1795493506,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -322,6 +346,17 @@
   "eredeti": "Why is TSMC stock surging today?"
  },
  {
+  "ido": 1795486926,
+  "forras": "Bloomberg",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "A tokiói használt lakások árai 2013 óta először estek",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/central-tokyo-used-condo-prices-fall-for-first-time-since-2013",
+  "surgos": false,
+  "eredeti": "Tokyo Core Used-Condo Prices Fall for First Time Since 2013"
+ },
+ {
   "ido": 1795486800,
   "forras": "Nagy cégek (Google News)",
   "temak": [
@@ -528,6 +563,17 @@
   "eredeti": "Asian Stocks Surge as Nvidia CEO Return Fuels AI Trade Rally - Global Banking & Finance Review"
  },
  {
+  "ido": 1795484100,
+  "forras": "Nagy cégek (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Az Nvidia örül Jensen Huang második eljövetelének, amikor a Fehér Ház győzelmet arat – a The Guardian",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVpiVk9va3pSQm4tWmVGck9mSWxta2poMFNfVFdFRGtsN2l4c2c0WlFLRG9nRnhXM2dXdlBmQ2toWmtWbFRwb1NLU1AwMG1FMnVNLUhpU2FwUTN4cHRmejRsRkRFdGdFc1hDTHhCWWxDdkRKNVBxb0ZHb1FzQWZCWmJEbWp2X3dV?oc=5",
+  "surgos": false,
+  "eredeti": "Nvidia rejoices at Jensen Huang’s second coming as White House takes victory lap - The Guardian"
+ },
+ {
   "ido": 1795483940,
   "forras": "Nagy cégek 2 (Google News)",
   "temak": [
@@ -573,6 +619,18 @@
   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3BWTDdLMzRVV3FtYkU3RU8xNEs3c1pYR2RHSTBEQi1DT0lmSFFQVC1KcUZCN3JHc083dFdPVndOaGZCNk1KSlplc0hyWXpIcUtLVXNfQnk5TUczX3EyZTBhTThiV2htSnFuVGdQN3JTZ3N6eUdfQklEbGVTdVJWRWZjX3c1aDQ?oc=5",
   "surgos": false,
   "eredeti": "How a Scientist Behind the Mediterranean Diet Got Caught in Trump’s War on Harvard - The New York Times"
+ },
+ {
+  "ido": 1795483740,
+  "forras": "Reuters",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Az ázsiai tőzsdék felpörögnek, mivel Huang visszatérése az Nvidiához újraéleszti a mesterséges intelligencia kereskedelmét – Reuters",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5",
+  "surgos": false,
+  "eredeti": "Asian stocks rally as Huang's return to Nvidia revives the AI trade - Reuters"
  },
  {
   "ido": 1795483634,
@@ -864,61 +922,5 @@
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORUZjSnNPUUJnVGt2MjBiUThmTlR1R3VFVjNlWHdIWUo1eWxfZ1ZFOTVhQUJkMGVtbWZXNWlKaFZ0S1doNUJsWEpjY2lXSHNxaVZKdURmUnFSa1o3Vlg3UnFXSndQaktMcEo3WkdfNi01UjU4UFdpX2hfWk5hcWdpVTJyeU9nUVF3MlhTeHd0MTAzTGQ3SGFlMlFtczFyWU0?oc=5",
   "surgos": false,
   "eredeti": "Micron stock jumps 19% on Huang's return, with no new contracts behind it - Startup Fortune"
- },
- {
-  "ido": 1795480800,
-  "forras": "Reuters",
-  "temak": [
-   "Nagy cégek"
-  ],
-  "cim": "Milyen különböző amerikai szövetségi és állami vizsgálatokkal kell szembenéznie az Nvidiának és Jensen Huangnak? – Reuters",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ090d1dDZTh5bFpYYXBUZHhLaFN4dG9SeVYtZWE3MEZYVHVzdEt5RzZBeXo0dlV6ZFpnUlV0V21JWHQ1cUczMFpScjZlT3RTaW1jOEFFU3BQMU1HRER4cURid2VVWXRaQUxIRHVuU0FDekxyUDdoZlRZQUZPcnRoZkZrSU1qTVFJZjlac093MnBvX3JuZmVHYUFrdkNHRUlyaVRpN2tiR3o2QXhNVzZld25IYzdhSUpS?oc=5",
-  "surgos": false,
-  "eredeti": "What are the various US federal and state probes faced by Nvidia and Jensen Huang? - Reuters"
- },
- {
-  "ido": 1795480723,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Putyin és Hszi nagy meglepetése Trumpnak? Az orosz-kínai kereskedelmi partnerség új fordulatot vett | Nézd – The Times of India",
-  "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSHF4MUNzTkZ2NWRobG5TeERHUENNRlJ3aEF2T09xSlllamIwT0Y4VnluUlJSNGZlcGV3dmJ4STRaY3QxQXRVRnRQMFlsMmEtamt4amJCazk2SVJpV1pVZlp0aGRZRDAtZWdSNk9oMy1RVDhmMmxXdms1a2F5QjVQay1sNElBT2pXc0pJeVIzcm0wX00wQmt3Q1pQbWk1bTZXN1BKNS1hSktvNW5WWGw1dnRDOXAyTU95aXdfSmNYVl9fNlR4a2szVFNXWTNfZDFUNEpibkxkem5DbHJ2OXdoZS1aU1FQQ3FVX0hSS3c3ako4NmxTNUdUbnF4SdIBgAJBVV95cUxQNlFONWtvQ29VekJ1YzdRTnFFTUozcmVPSEduV1BOQUg1V25aTThUV1VoQVl1M0RucHFpV3I3VG5RUE1WdmpzN3JNOWIxUjIyejV5b3ZHdmd2aElqUlUxNC1KN0hWTGdFRHpaZVd6cEx4U2FFT1VJa2hJVHZzTEhHc25Gbm5vMjlPRHB3UDhKUG5YRVRyVmhFSHp0WW5qa0ZJX1Q0Z2hCZ1N2MnpIS2l4MmNhQzhvdUxncFgxX3VNbVZFZ0J2UnlMdnBGRnFfN3FFMl93NHo2VDZHcEthNGphWkVWdkh0UXVwU3EwczRRSFBqWExBMnVqRFZ3ZUgtZmVH?oc=5",
-  "surgos": false,
-  "eredeti": "Putin & Xi's Big Surprise For Trump? Russia-China Trade Partnership Takes A New Turn | Watch - The Times of India"
- },
- {
-  "ido": 1795480586,
-  "forras": "Cointelegraph",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "Az Ethereum Alapítvány megduplázza a protokollbiztonsági csapat létszámát az átalakítás előtt",
-  "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "surgos": false,
-  "eredeti": "Ethereum Foundation doubles protocol security team ahead of overhaul"
- },
- {
-  "ido": 1795480570,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A Dollar Tree a november 24-i eredményjelentést részvényrallyként készíti el - cwibc.co.id",
-  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzVzRqS3g3ZjNkZzViQkhYSTRqYl9tVnZRcFVQSlJJekFGbFBHOVk0SFhyaS1fNEg2ZVEyZmRyTXBadWVQOV84N3pSWUppVkhZeTYtVG1aRFRXeG9XSUNmWU9zWUpzUQ?oc=5",
-  "surgos": false,
-  "eredeti": "Dollar Tree Prepares November 24 Earnings Report as Shares Rally - cwibc.co.id"
- },
- {
-  "ido": 1795480506,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "AZ USA PIAC ZÁRVA | Az Nvidia 31%-ot emelkedett Jensen Huang vezérigazgatói posztjával, a Dow Rockets közel 1450 ponttal, a Nasdaq 6,5%-kal ugrott - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOVDJvLXVFdlZEMjJKXzVQRUd1OUxici1kY1Z2X1lueldOdUx0eUlvOXNHdnZWeVJQR2tMN21CN3hsVUNKa2JwWE1Odl9KZ2hLWXloWERRWjlkU09WM012eXRYVDhmdTRjVUJVUDd5NktMRDctM1BpVDh2UTBBZHowZFhDUXZHeVRPejJSYjFnOEFXVlU4b3BoWmVSSDhFSkhsZWQtMTkzRzdMUGlUSGJzQUp1RGFMV0pxa1otSmFRRzBFcXFseWhzS2Y3bi1iQmVEdllzblByUDVpN2xUekhudGxGajMxeHNvczJJc0lBNWJnbjZWQkZveldXekpmbGZFU0JUSlFR?oc=5",
-  "surgos": true,
-  "eredeti": "US MARKET CLOSE | Nvidia Surges 31% as Jensen Huang Returns as CEO, Dow Rockets Nearly 1,450 Points, Nasdaq Jumps 6.5% - TradingView"
  }
 ]
