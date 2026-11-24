@@ -534,6 +534,10 @@ def telegram_kuld(cim, uzenet, link=None, surgos=False):
                 except Exception:
                     var = 2
                 utolso = RuntimeError(f"HTTP 429: {torzs}")
+                if var > 20:
+                    # hosszú tiltás: a további próbálkozás csak növeli, ezért ebben a futásban feladjuk
+                    TG_HIBAK = 2
+                    raise RuntimeError(f"HTTP 429: a Telegram {var} mp várakozást kér, most nem próbálkozom tovább") from None
                 time.sleep(min(var + 1, 20))
                 continue
             raise RuntimeError(f"HTTP {e.code}: {torzs}") from None  # más 4xx: újrapróbálás nem segít
