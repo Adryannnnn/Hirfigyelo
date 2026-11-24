@@ -1,5 +1,38 @@
 [
  {
+  "ido": 1795561009,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Nasdaq, S&P 500 close lower, giving up some Nvidia-fueled gains - NBC News",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORFdKT2NYVVA3VUg1d2VfS1BBdHNsQjV5WEhUWTFVb1JCWnktLXFIRmRYMHlUWU5tMFFENE9MODkyc3ozSm5MbHJpUHQ1THBRTERna1p2LUNpbzQwakc0U1JjcWcyN1Y4WS1NaV9WejAzQ2ZpamNBSXRfOVo0RHh0eFdkNll5b2hiT1RqNmFMdXdiV05E?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795560888,
+  "forras": "Negyedéves jelentések (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "GoodRx (GDRX) Q3 Revenue Beats Estimates, Highlights Growth in P - GuruFocus",
+  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa2NVeVUxQ3drOVh2ZkhEWTZpUF9rVGU1Q1Rqc0tncmtMT1lFM2xiUkhTMlAwX3RPT1dOZmxSV3RURlRRYWpZdmhPTFdMWVNvcklTcmM3VTdRRU15XzhoUEVna24zN3lVMFlIalV2OTJJaEFoMjE1Rjk3RExHUkVjNGl1bDAtNmtCdVc5WF9nei14WnNpWThXaW1DSjVxbHlERTIxdEp3SWRjaGZHbUNDeF91dExxWWN6Y2dYbWYyQU5SbU95eW5yZjFfYUVaY2x1a3ZETg?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795560331,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Dow Closes Above 50,000 as Nasdaq Drops on Chip Sell-Off - AskTraders.com",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM2ZVNXV2bzBTV0RlYmFDVFJXWHZkXzQ0Y0dpT3dmTmJESV9yMEd6YmdqV2Z4djI5dXp4Uk16TEpVY21pMGNuRXNjSGZaUlJHY1F3WWlLRGhjVzhPSmpSVnpvbmhVb3lnRlB0SjFBUGRYRWphM083SFV6OGpkQ2xrYUs2QkNHVXVDLVc1V050emlYbmpBcGhv?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795559932,
   "forras": "CNN",
   "temak": [
@@ -214,6 +247,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795558158,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/asian-stocks-to-slide-as-ai-trade-doubts-resurface-markets-wrap",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795557960,
   "forras": "Blue chip (Google News)",
   "temak": [
@@ -279,6 +323,18 @@
   ],
   "cim": "Welcome to the Trump-Nvidia-China-AI Hyper-Spectacle - Tech Policy Press",
   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdUxYMHRtcW83WnhXQTdYUktKS1hMM19DcEhxMVoxb0ZrTVZSNzJ5eTN3OFRlSUF2cHRhcWEtR0pGZ2lEY0Npc0pXZEg5SGZadmxwQ09OY0xnaTMtYjh5SjNtOXFDSGN5M3JQeFdLeFJ5T0k3YlN3WUdsQ21JTUIxcktvQ0kxeHJOcUE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795557840,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Mitt Romney Warns Trump’s Nvidia-China Scandal ‘Smells’ of Something ‘Worse’ Than Corruption - Mediaite",
+  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVo2SWZxZ01yOW16M3FrVHlaUlJjdUR3TXhhVEx6T0ZhejZNc3hYajFOaVQ2eU45OHJUWGtiV2dRNUNFUjhuWjNrNV90cTJxdDcxNnJ0YnlwaHduUXd1MXY0ZXZuMHN4dURhRXItS0dRcFpsNm1wQlhLY25QbFF0bjlzODViM2h4VE95SjA4TWdGNVBEQWtOWGZrZ0dheV9wemxOaDJNMGJtbFZFTXlJaFJISGg2T1h4bW53Y2hUeEhUZw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -839,62 +895,6 @@
   ],
   "cim": "Trump just handed Democrats a political gift - CNN",
   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xeGUzR1BsUjdoWVVIZmtiaFJMNzE1bkVkbVlTUmVFMFpmQnNhbXlyWEpmQzNOemZxamxoUHhITlpCckpEYXNNQUNQTDFHRU9nRlI0XzVIYjdpQWtEckkwd0xRc0xveG4yUVhJUVJranhsc1YzcTg0?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795554744,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Trump",
-   "Blue chip"
-  ],
-  "cim": "See all of Trump’s Nvidia stock trades since January - The Washington Post",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFN1NjNabnl6R0dSSEk4dUdzSFNhM0pRS1phcHh1WGNQcjRLbjk5RG5wNlI3TURtRTR3cmZuQVV6TGZhOXJsUldWOTF0WHVhVFlLQy1CaXdFZ1NTbVdXai1FZ2M0WEh4UmRCYnlPWEZMaUh2NlF5cjZUMGc4Uldwc3lnV2ZlZ0hmYURSQWtLd2RWd2RDX0RfVi1vY1liMnVVeGc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795554684,
-  "forras": "Bloomberg Politika",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trump’s Higher Education Crackdown Runs Into New Resistance",
-  "link": "https://www.bloomberg.com/news/newsletters/2026-11-24/trump-s-higher-education-crackdown-runs-into-new-resistance",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795554558,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Democrats Return With Largest House Majority Since 1992, but Trump's Veto Could Block $4.1 Trillion Agenda - Latin Times",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDVycTAwdWFxbkhia05ZLUw5dUQ4WkhuNGU0SVdQdjF6NUNKYkhmVjFMMlIwUzg2U3NEVHhWSnd5QlhHV05PMXhYRzh1NG1HUUZSdTdtYXBlblRCQS1LRkhyM1NXVzRFOW5UdVRqSE9RRlFXYVRUMTlQM3FDN01mSFVTbkZYWm12?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795554557,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Washington Post. . President Trump pardoned two turkeys, Freedom and Feathers, continuing an annual White House Thanksgiving tradition that dates to the presidency of George H.W. Bush. The turkeys will live out their days at Texas A&M University. https:// - Facebook",
-  "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeHQ3cUYtUVFXYURvd0oyMGVwX0NBaXFVa0lRbGV2ZEs5c2JueE9BZ1BEUU5tR3dzZjN1YTQ3ZHl2WDViLTBXQ0dkcVdzQk11d1pEazlfRlRaZ0NLSk5JVWRUcHcxemZjOEFqX0J1SEFlbDZZT3Z0cEloNkc0NkNrSTF6YzNRU1laVEEwVzlrQ0xNOTNVTl9qbzVqQVR4dS1YOHJaZjFBMnBzSk1hVUpVeExMdGx6a0tlMzhvYV9ESWgyR2dpNG5nbnFqcnhlQk9MdUMxdGFrNUxJazY1?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795554500,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Earnings call transcript: NEXGEL posts deep Q3 2026 miss as shares fall",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-nexgel-posts-deep-q3-2026-miss-as-shares-fall-93CH-5049213",
   "surgos": false,
   "eredeti": ""
  }
