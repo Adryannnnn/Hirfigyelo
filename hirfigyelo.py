@@ -512,9 +512,9 @@ def telegram_kuld(cim, uzenet, link=None, surgos=False):
     hatarido = time.time() + 45  # egy üzenetre legfeljebb ennyi ideig próbálkozunk
     kiserlet = 0
     while kiserlet < 8 and (kiserlet == 0 or time.time() < hatarido):
-        # saját User-Agent nélkül (alap Python); a 3. próbától csak IPv4-en
+        # böngészős User-Agent kell: a Cloudflare a gyári Python-azonosítót tiltja (1010-es hiba); a 3. próbától csak IPv4-en
         req = urllib.request.Request(f"{TG_API}/bot{TG_TOKEN}/sendMessage", data=adat,
-                                     headers={"Content-Type": "application/json"})
+                                     headers={"Content-Type": "application/json", **UA})
         kiserlet += 1
         try:
             if kiserlet < 3:
@@ -549,7 +549,7 @@ def telegram_diagnozis():
     print("Telegram diagnózis" + ("" if "api.telegram.org" in TG_API else " (közvetítőn át)"))
     try:
         cimek = sorted({(("IPv6" if a[0] == socket.AF_INET6 else "IPv4"), a[4][0])
-                        for a in socket.getaddrinfo("api.telegram.org", 443, type=socket.SOCK_STREAM)})
+                        for a in socket.getaddrinfo(urllib.parse.urlparse(TG_API).hostname, 443, type=socket.SOCK_STREAM)})
         print("  feloldott címek:", ", ".join(f"{t} {i}" for t, i in cimek))
     except Exception as e:
         print("  névfeloldás hiba:", e)
@@ -559,7 +559,7 @@ def telegram_diagnozis():
     for nev, ctx in (("alap", None), ("csak IPv4", CsakIPv4)):
         t0 = time.time()
         try:
-            req = urllib.request.Request(f"{TG_API}/bot{TG_TOKEN}/getMe")
+            req = urllib.request.Request(f"{TG_API}/bot{TG_TOKEN}/getMe", headers=UA)
             if ctx:
                 with ctx():
                     r = urllib.request.urlopen(req, timeout=15).read()
