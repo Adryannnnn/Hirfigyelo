@@ -199,6 +199,18 @@
   "eredeti": "U.S. stock futures steady after Nvidia-led Wall Street rally - Yahoo Finance"
  },
  {
+  "ido": 1795481120,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde",
+   "Nagy cégek"
+  ],
+  "cim": "Az ázsiai chipgyártó részvények szárnyalnak az Nvidia rally nyomán; Dél-Korea, Tajvan vezet",
+  "link": "https://www.investing.com/news/stock-market-news/asia-chipmaking-stocks-soar-tracking-nvidia-rally-skorea-taiwan-lead-5046844",
+  "surgos": true,
+  "eredeti": "Asia chipmaking stocks soar tracking Nvidia rally; S.Korea, Taiwan lead"
+ },
+ {
   "ido": 1795481086,
   "forras": "Nagy cégek 2 (Google News)",
   "temak": [
@@ -910,16 +922,5 @@
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORVR5dmFqT0pQX3M0UlljUzk4dDNybGhqTHM4RmVfdFl1LWNONHU1UGRmekNmTEpNbVNpb3gwTzVSaUY1NXk0QVo5c0s2Rkc3SDJ3cUw0enZtbnN4eTZzMXBCRW9ZeXl2bmpJT3pOY3NUODZtREhjU3VSU1ZCbmF6ME1MYkEzaHk3eWRNazl0V3ZCai1Sa2tDQTU1Z1NZNWxPaXhwUDNvdGtzNC1kdlgwVDJBN0hYQQ?oc=5",
   "surgos": false,
   "eredeti": "Trump Blasts Newsom and Defends Death Penalty in Justice Department Speech - WSJ"
- },
- {
-  "ido": 1795475880,
-  "forras": "MarketWatch",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Az S&P 500 legújabb tagja egy vírusvideókon is szereplő fagylaltgép-gyártó",
-  "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
-  "surgos": false,
-  "eredeti": "The newest addition to the S&P 500 is a maker of viral ice-cream machines"
  }
 ]
