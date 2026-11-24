@@ -92,6 +92,11 @@ ALAP = {
     # Telegram: NYILVÁNOS csatornák neve @ nélkül, például ["valamicsatorna", "masikcsatorna"].
     # Privát csoportot és csoportbeszélgetést nem tud olvasni.
     "telegram_csatornak": [],
+    # Az összefoglalók témánként csoportosítva jönnek, ezekkel az ikonokkal a fejlécben.
+    "ikonok": {
+        "Trump – háború": "🪖", "Trump – döntések": "🏛️", "Trump": "🇺🇸", "Kripto": "₿", "Forex": "💱",
+        "Tőzsde": "📈", "Jegybank/kamat": "🏦", "Világgazdaság": "🌍", "Nagy cégek": "🏢",
+    },
     "temak": {
         "Trump – háború": {
             "aktiv": True,
@@ -342,7 +347,7 @@ def arfolyamok_szoveg():
             continue
         iv = "" if valt is None else f" {'▲' if valt >= 0 else '▼'}{_szam(abs(valt), 1)}%"
         sorok.append(f"{nev} {_szam(ar, 0 if ar >= 10000 else 2)} USD{iv}")
-    return ("Árfolyamok (legutóbbi záró):\n" + "\n".join(sorok)) if sorok else ""
+    return "\n".join(sorok)  # a fejlécet az üzenetépítő adja hozzá
 
 
 def szoveg(elem, *nevek):
@@ -552,7 +557,68 @@ def eredeti_formaz(szoveg_):
     return szoveg_
 
 
-def ntfy_kuld(cim, uzenet, link=None, surgos=False):
+def ido_szoveg(ts):
+    """Mai hírnél csak óra:perc, régebbinél hónap.nap. óra:perc."""
+    d = datetime.fromtimestamp(ts)
+    return d.strftime("%H:%M") if d.date() == datetime.now().date() else d.strftime("%m.%d. %H:%M")
+
+
+def csoportosit(tetelek):
+    """Hírek (rekord-szótárak) témánként, a beállításokban megadott témasorrendben.
+    Egy hír oda kerül, ahol az első (legfontosabb) témája van. Témán belül: sürgős elöl, majd legfrissebb."""
+    sorrend = list(CFG.get("temak", {}).keys())
+    csop = {}
+    for o in tetelek:
+        csop.setdefault((o.get("temak") or ["Egyéb"])[0], []).append(o)
+    return [(t, sorted(csop[t], key=lambda o: (not o.get("surgos"), -o["ido"])))
+            for t in sorted(csop, key=lambda t: sorrend.index(t) if t in sorrend else len(sorrend))]
+
+
+def szekcios_uzenet(tetelek, fejlec=True, max_sima=3300, max_html=3600):
+    """Átlátható, témák szerint tagolt üzenet. Visszaad: (sima szöveg az ntfy-hez, HTML a Telegramhoz).
+    A Telegram-változatban minden cím kattintható link. Ha nem fér el, a végén jelzi, hány hír maradt ki."""
+    sima, htm = [], []
+    hs = hh = 0
+    kiirt = 0
+    ikonok = CFG.get("ikonok", {})
+    for tema, elemek in csoportosit(tetelek):
+        fej_s = fej_h = None
+        if fejlec:
+            ikon = ikonok.get(tema, "📰")
+            fej_s = f"{ikon} {tema.upper()} ({len(elemek)})"
+            fej_h = f"<b>{ikon} {html.escape(tema)}</b> ({len(elemek)})"
+        elso = True
+        for o in elemek:
+            jel = "🔴 " if o.get("surgos") else ""
+            ido = ido_szoveg(o["ido"])
+            s = f"• {jel}{ido} · {o['cim']} ({o['forras']})"
+            cim_h = html.escape(o["cim"])
+            if o.get("link"):
+                cim_h = f'<a href="{html.escape(o["link"], quote=True)}">{cim_h}</a>'
+            h = f"• {jel}<code>{ido}</code> {cim_h} <i>{html.escape(o['forras'])}</i>"
+            extra_s = (len(fej_s) + 2 if fej_s and elso else 0) + (2 if sima else 0)
+            extra_h = (len(fej_h) + 2 if fej_h and elso else 0) + (2 if htm else 0)
+            if hs + extra_s + len(s) + 1 > max_sima or hh + extra_h + len(h) + 1 > max_html:
+                break
+            if elso and fej_s:
+                sima.append(("\n" if sima else "") + fej_s)
+                htm.append(("\n" if htm else "") + fej_h)
+                hs += len(sima[-1]) + 1
+                hh += len(htm[-1]) + 1
+            elso = False
+            sima.append(s)
+            htm.append(h)
+            hs += len(s) + 1
+            hh += len(h) + 1
+            kiirt += 1
+    if kiirt < len(tetelek):
+        maradt = f"\n… és még {len(tetelek) - kiirt} hír (lásd a hírlistát)"
+        sima.append(maradt)
+        htm.append(html.escape(maradt))
+    return "\n".join(sima), "\n".join(htm)
+
+
+def ntfy_kuld(cim, uzenet, link=None, surgos=False, html_uzenet=None):
     # JSON API-t használunk, így az ékezetes szöveg is hibátlanul megy át
     adat = {"topic": NTFY_TOPIC, "title": cim, "message": uzenet, "priority": 4 if surgos else 3,
             "tags": ["rotating_light" if surgos else "chart_with_upwards_trend"]}
@@ -576,14 +642,15 @@ class CsakIPv4:
         socket.getaddrinfo = self.eredeti
 
 
-def telegram_kuld(cim, uzenet, link=None, surgos=False):
+def telegram_kuld(cim, uzenet, link=None, surgos=False, html_uzenet=None):
     global TG_HIBAK, TG_SZUNET_IG
     if time.time() < TG_SZUNET_IG:
         raise RuntimeError(f"Telegram szünetel még ~{int((TG_SZUNET_IG - time.time()) / 60) + 1} percig (korábbi korlátozás miatt)")
     if TG_HIBAK >= 2:
         raise RuntimeError("Telegram ebben a futásban kihagyva (ismételt időtúllépés)")
-    szov = f"<b>{html.escape(cim)}</b>\n\n{html.escape(uzenet[:3500])}"
-    if link:
+    # szerkezetes üzenetnél a HTML-változatot küldjük (kattintható címek), egyébként a sima szöveget
+    szov = f"<b>{html.escape(cim)}</b>\n\n" + (html_uzenet if html_uzenet else html.escape(uzenet[:3500]))
+    if link and not html_uzenet:
         szov += f'\n\n<a href="{html.escape(link, quote=True)}">Megnyitás</a>'
     adat = json.dumps({"chat_id": TG_CHAT, "text": szov, "parse_mode": "HTML",
                        "disable_web_page_preview": True}).encode("utf-8")
@@ -659,7 +726,7 @@ def telegram_diagnozis():
             print(f"  getMe [{nev}]: HIBA {e.__class__.__name__}: {e} ({time.time() - t0:.1f} mp)")
 
 
-def ertesit(cim, uzenet, link=None, surgos=False):
+def ertesit(cim, uzenet, link=None, surgos=False, html_uzenet=None):
     """Minden bekapcsolt csatornára elküldi. Csak akkor hiba, ha mindegyik csatorna elbukott."""
     csatornak = []
     if NTFY_AKTIV:
@@ -671,7 +738,7 @@ def ertesit(cim, uzenet, link=None, surgos=False):
     hibak = []
     for nev, fv in csatornak:
         try:
-            fv(cim, uzenet, link, surgos)
+            fv(cim, uzenet, link, surgos, html_uzenet)
         except Exception as e:
             hibak.append(e)
             print(f"[!] {nev} értesítés nem ment ki ({e.__class__.__name__}: {str(e).replace(TG_TOKEN, '***') if TG_TOKEN else e})",
@@ -892,7 +959,15 @@ def egy_kor(kuldes=True):
     def kuld_egyet(x):
         surgos, _, nev, temak, cim, link = x
         uzenet = cim + (f"\n\n{eredeti_formaz(eredeti[cim])}" if cim in eredeti else "")
-        ertesit(f"{'🔴 ' if surgos else ''}{' · '.join(temak[:2])} | {nev}", uzenet, link, surgos)
+        ikon = CFG.get("ikonok", {}).get(temak[0], "📰")
+        ertesit(f"{'🔴 ' if surgos else ''}{ikon} {' · '.join(temak[:2])} | {nev}", uzenet, link, surgos)
+
+    def rek(x):  # (sürgős, idő, forrás, témák, cím, link) -> rekord-szótár
+        return {"ido": x[1], "forras": x[2], "temak": x[3], "cim": x[4], "link": x[5], "surgos": x[0]}
+
+    def szekcios(cim, tetelek, fejlec=True, link=None, surgos=False):
+        sima, htm = szekcios_uzenet(tetelek, fejlec)
+        ertesit(cim, sima, link or next((o["link"] for o in tetelek if o.get("link")), None), surgos, htm)
 
     def biztonsagos(fv, *args):
         try:
@@ -923,32 +998,39 @@ def egy_kor(kuldes=True):
                 if len(cs) == 1:
                     biztonsagos(kuld_egyet, cs[0])
                 else:
-                    biztonsagos(ertesit, f"🔴 {cs[0][3][0]} | {len(cs)} hír",
-                                "\n".join(f"• {y[4]} ({y[2]})" for y in cs[:10]), cs[0][5], True)
+                    ikon = CFG.get("ikonok", {}).get(cs[0][3][0], "📰")
+                    biztonsagos(szekcios, f"🔴 {ikon} {cs[0][3][0]} | {len(cs)} hír",
+                                [rek(y) for y in cs[:10]], False, None, True)
             kiment += len(surgosak)
-            # nem sürgős hírek: egyetlen összefoglaló
+            # nem sürgős hírek: egyetlen összefoglaló, témánként csoportosítva
             if reggeli:
-                sorok = "\n".join(f"• {'🔴 ' if o.get('surgos') else ''}{o['cim']}" for o in osszefoglalo) \
-                    or "Éjszaka nem volt fontos hír."
-                ar = ""
-                try:
-                    ar = arfolyamok_szoveg()
-                except Exception as e:
-                    print(f"[!] árfolyamok nem érhetők el ({e.__class__.__name__})", file=sys.stderr)
-                biztonsagos(ertesit, f"☀️ Reggeli összefoglaló ({len(osszefoglalo)} hír)" if osszefoglalo
-                            else "☀️ Reggeli összefoglaló", sorok + (f"\n\n{ar}" if ar else ""),
-                            osszefoglalo[0]["link"] if osszefoglalo else None)
+                def reggeli_kuld():
+                    ar = ""
+                    try:
+                        ar = arfolyamok_szoveg()
+                    except Exception as e:
+                        print(f"[!] árfolyamok nem érhetők el ({e.__class__.__name__})", file=sys.stderr)
+                    sima, htm = szekcios_uzenet(osszefoglalo) if osszefoglalo else ("", "")
+                    if not osszefoglalo:
+                        sima = "Éjszaka nem volt fontos hír."
+                        htm = html.escape(sima)
+                    if ar:
+                        sima += "\n\n📊 ÁRFOLYAMOK (legutóbbi záró)\n" + ar
+                        htm += "\n\n<b>📊 Árfolyamok</b> (legutóbbi záró)\n" + html.escape(ar)
+                    ertesit(f"☀️ Reggeli összefoglaló ({len(osszefoglalo)} hír)" if osszefoglalo
+                            else "☀️ Reggeli összefoglaló", sima,
+                            osszefoglalo[0]["link"] if osszefoglalo else None, False, htm)
+                biztonsagos(reggeli_kuld)
             elif len(osszefoglalo) == 1:
                 o = osszefoglalo[0]
                 biztonsagos(kuld_egyet, (o["surgos"], o["ido"], o["forras"], o["temak"], o["cim"], o["link"]))
             elif osszefoglalo:
-                biztonsagos(ertesit, f"Hírösszefoglaló ({len(osszefoglalo)} hír)",
-                            "\n".join(f"• {o['cim']}" for o in osszefoglalo[:15]))
+                biztonsagos(szekcios, f"📋 Hírösszefoglaló ({len(osszefoglalo)} hír)", osszefoglalo)
             kiment += len(osszefoglalo)
-            # napi összefoglaló (háború)
+            # napi összefoglaló (háború): egy téma, ezért külön témafejléc nélkül
             if napi_kuld:
-                biztonsagos(ertesit, f"Napi összefoglaló – {', '.join(sorted(NAPI))} ({len(napi_kuld)} hír)",
-                            "\n".join(f"• {o['cim']}" for o in napi_kuld), napi_kuld[0]["link"])
+                biztonsagos(szekcios, f"🗓️ Napi összefoglaló – {', '.join(sorted(NAPI))} ({len(napi_kuld)} hír)",
+                            napi_kuld, False)
             kiment += len(napi_kuld)
     else:
         for x in surgosak + [(o["surgos"], o["ido"], o["forras"], o["temak"], o["cim"], o["link"]) for o in osszefoglalo + napi_kuld]:
