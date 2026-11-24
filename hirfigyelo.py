@@ -95,7 +95,7 @@ ALAP = {
     # Az összefoglalók témánként csoportosítva jönnek, ezekkel az ikonokkal a fejlécben.
     "ikonok": {
         "Trump – háború": "🪖", "Trump – döntések": "🏛️", "Trump": "🇺🇸", "Kripto": "₿", "Forex": "💱",
-        "Tőzsde": "📈", "Jegybank/kamat": "🏦", "Világgazdaság": "🌍", "Nagy cégek": "🏢",
+        "Tőzsde": "📈", "Jegybank/kamat": "🏦", "Világgazdaság": "🌍", "Blue chip": "🏢",
     },
     "temak": {
         "Trump – háború": {
@@ -557,6 +557,13 @@ def eredeti_formaz(szoveg_):
     return szoveg_
 
 
+def forras_cimke(nev):
+    """A Google News-lekérdezések neve a témát ismételné ("Blue chip | Blue chip (Google News)"), ezért
+    ott csak "Google News" látszik; a valódi kiadó úgyis a cím végén áll (pl. "- Benzinga")."""
+    nev = str(nev)
+    return "Google News" if nev.endswith("(Google News)") else nev
+
+
 def fordito_link(cim, link, forras=""):
     """Google Fordító-link magyarra. Közvetlen cikklinknél a teljes oldalt fordítja,
     Google News átirányító linknél (ott az oldalfordítás nem megbízható) a címet.
@@ -620,12 +627,12 @@ def szekcios_reszek(tetelek, fejlec=True, max_sima=3300, max_html=3600, max_resz
                     fej_s = f"{ikon} {tema.upper()} ({len(elemek)}){pot}"
                     fej_h = f"<b>{ikon} {html.escape(tema)}</b> ({len(elemek)}){html.escape(pot)}"
                 jel = "🔴 " if o.get("surgos") else ""
-                s = f"• {jel}{o['cim']} ({o['forras']})"
+                s = f"• {jel}{o['cim']} ({forras_cimke(o['forras'])})"
                 cim_h = html.escape(o["cim"])
                 if o.get("link"):
                     cim_h = f'<a href="{html.escape(o["link"], quote=True)}">{cim_h}</a>'
                 jelzo = f"{db + 1}." if CFG.get("fordito_gomb") else "•"
-                h = f"{jelzo} {jel}{cim_h} <i>{html.escape(o['forras'])}</i>"
+                h = f"{jelzo} {jel}{cim_h} <i>{html.escape(forras_cimke(o['forras']))}</i>"
                 fl = fordito_link(o["cim"], o.get("link"), o.get("forras", ""))
                 h_hossz = 0
                 if fl:
@@ -1279,7 +1286,7 @@ def egy_kor(kuldes=True):
         surgos, _, nev, temak, cim, link = x
         uzenet = cim + (f"\n\n{eredeti_formaz(eredeti[cim])}" if cim in eredeti else "")
         ikon = CFG.get("ikonok", {}).get(temak[0], "📰")
-        ertesit(f"{'🔴 ' if surgos else ''}{ikon} {' · '.join(temak[:2])} | {nev}", uzenet, link, surgos)
+        ertesit(f"{'🔴 ' if surgos else ''}{ikon} {' · '.join(temak[:2])} | {forras_cimke(nev)}", uzenet, link, surgos)
 
     def rek(x):  # (sürgős, idő, forrás, témák, cím, link) -> rekord-szótár
         return {"ido": x[1], "forras": x[2], "temak": x[3], "cim": x[4], "link": x[5], "surgos": x[0]}
