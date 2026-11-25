@@ -1,5 +1,30 @@
 [
  {
+  "ido": 1795640927,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Berkshire Hathaway Beating S&P 500 by 3X: Market Expert Credits Greg Abel - Alphabet (NASDAQ:GOOGL), Berk - Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTGFtbWlFemJiRzAwdFdpY3hXLXBlTDYwNUFlZkI4dnd3QWFGRHkzY1dMOW9OQXBzWkxDLUFHOXdGb0ZYYmZuZU4yb1BjTXlpUWNLeXpOSG1hbXlldWFyc1ZrdGpKNEY0RTkzcFpNeUNZcWZzUFpuUVBBSUF1STh3bW94UXFPNFZTVE4tUVVsZkpLdnEyYUFFc3UwbUZERVRCUnZPN0tyZkp1V3FqaWNVQlhoZ2JIU1dWSWoyV1Y5ZkxKVzF6bXEtaWpEMFhEUlh6VjFkTlJWc25BT3RwejJ2anM2MVUtT0xsZE1RV1Q5Nlo5ek1vVzJtYmM3WTRxdWN1ZG9VOC1DaGhram8xcUE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795640520,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde",
+   "Jegybank/kamat",
+   "Világgazdaság",
+   "Blue chip"
+  ],
+  "cim": "Hatalmas esésből kapaszkodtak vissza az amerikai tőzsdék, pluszban zárt a Dow Jones",
+  "link": "https://www.portfolio.hu/uzlet/20261125/hatalmas-esesbol-kapaszkodtak-vissza-az-amerikai-tozsdek-pluszban-zart-a-dow-jones-878904",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795640144,
   "forras": "Bloomberg",
   "temak": [
@@ -75,6 +100,17 @@
   "cim": "Watch Trump Revives US Tariff Regime - Bloomberg",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY3BkcWlCV0JyOVZLa24zcUJJWXpsaktxX29OS1Q2cEU5MEZWcldENVlyX2U0eW9FTDBOMFViUDk1enlKc0FhLUt3S1RTYS1aNEN6eU5qRndib2FHa1Zvd1d5MGlRRkQ5V0NXYVVyRXAyYXlqV3FxQmNCMzV4NWxvYmZCUDZOajFtbWxaeVBjWmF0V2YwV2o2eXlHYl8?oc=5",
   "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795638960,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Today's 11% Plunge at Urban Outfitters (NASDAQ:URBN): What Investors Should Know After a Record Quarter and Weak Anthropologie Sales - kalkine.ca",
+  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN2NhUHJ0aFFPbHgzdWgya2ZiUTVlQU52NTlQS2dYM29fZkhPUFhwazd1bEpEVnBWVTBhWmtxVW12akN6ekpxZnlydlQ2MzNwaWgtRTlhNFdJeXBlclQwUk00QVN1cTZvUzhtZ0h2eEs1aVVpR2M4Q25zc0tyOFUwWXEwUlVQSjU4bkU5QUxYRF9uQ19FOTFkTkFSVXFEZDdtTEgwT2lYdWdwcnhGQ1l2WUtlV00xcENUZWFCZDc0Y2FaSENxazlVLTJCLXIxdXBiZWh3emg5QzJMNVFTcXFKLWw2NkFrQmUwTERzcDdtTnE?oc=5",
+  "surgos": true,
   "eredeti": ""
  },
  {
@@ -362,6 +398,18 @@
   ],
   "cim": "Tech Stock Sell-Off: Here's Why Apple Has Been Immune - The Motley Fool",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZmx0QkdUUWF5dUxZbnBYa1RYYjBXTXdDR0FQOHJwWUszbm50Mk5NTWg1VHJlUVo0YlZ4WEpsRmlQOTZqOGZnelA4NXhBbDRTWUFYN1hLT0FnSmUyWUJFRG1TbXc0dTlBU0U2RnVxV2tDNjdiSUZyUXI2U1NVdVl3Q0tmWFJMWldvNlE1cEdiWVpIcDhldnBHZWFpTQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795636800,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde",
+   "Jegybank/kamat"
+  ],
+  "cim": "Australia’s Beaten-Down Small Caps Look Primed for 2027 Comeback",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/australia-s-beaten-down-small-caps-look-primed-for-2027-comeback",
   "surgos": false,
   "eredeti": ""
  },
@@ -868,51 +916,6 @@
   ],
   "cim": "Huang Hangover! Nvidia Stock Stumbles After CEO’s Return - Yahoo",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDBKbHFXaVNRenFGUEZWWlNqVFBqeGdJOGJsMG8xUTlPVDFMQkFaSjRkS002UEl1V3ZSOUh5aVFYLUZUaWlRWTA0WGtYMWc1cHRFQ0xGZVBCS1J0LXhIdlV3U1YtRlZHbV96NUF3eExxdXRiVUI5bHU2WlJsNWM5QUtsZjFNbGdLMU83ZDd3?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795633823,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "407 S&P 500 stocks post gains in broad rally, Ryan Detrick notes - Traders Union",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZU5uOTRsNkFOaFE0T3ppLXZ3c1RaNU9udzlRSVF1VGpwZ3NsZnM1Rnp6MUlCOXRhdko3UkVJR2diSFZlM3ZTVkFVbXpXdWs5OTdTN3c0Ui1zRnhrSlVfS0QweTMyWjBOYkJrTHp3NW10ZWdRZkI2RDg1aTBnSGJ1YWdJREE3cWpRZmc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795633665,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Micron, Nvidia among market cap stock movers on Wednesday - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTWNyR1M5ZlQzaFlsYTZVOE5idnFCY2ZOUzc5TUcxcHh2YjVxODM1Q25iWFI3cTVwVDhLNnpVd1pnZ21xel9jcTY0ZGJvM1ZHZmVSTVNjZE5Na3N4ekNjS2VfbFQ4M2h5WTZqYndyM3REMUp0bklZYURRUlI3MXBZNGtiZUlDbXJRZHp0WlpsaVRnempDWnR6ZEJpbXJqaUJ2aDY1djBZaTFlUVUyN2RNdEhtSHpDdDdIa2c?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795633650,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Blue chip"
-  ],
-  "cim": "Stocks mixed as Wall Street erases sharp decline: Nvidia down 6% - ABC News - Breaking News, Latest News and Videos",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVNvSWRJR0pwZklwRnJkWkV5Zm02Ni1jck83YWhlUzFFZjBPX2RSeElWSjlUczNNRnJoZHVSZDhlbDlmRGNXY1lwc2VoUkJUejM2RXBvMS1vMTVoSnZHQTQ3YWhOUDlWOVZEbkZndHRiQzZOWFl2b0E5N3VUc2thcE96OXlvTTRyc3N6RWU5cnY2eVN2QXN3UDcyMzQ?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795633396,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Another Congressman Sold Nvidia Stock Right Before Huang’s Resignation, But He’s Been Selling for Years - Benzinga",
-  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQm9yOWVOVWZaUlRWN1gtT0Z0MGRCcGpWamg4UnNvOTZtQ2hrcmh5WmdjeXczNHFwSEJINmFvMnAtZGVVOHFXc29SUzQ3WkQ0ZmNQdi05TmpOR0kta0tyd24wOXhlbGN4QjVOZW4xRVhkSTRKdDRBWVNremNjQUM2RERtamZPR0RXNnFGTmxpdjZXMTA0Z3cxcFNoRzVoWWVpUW5NVEg4V2w1MzBRZG1WQi1McFZiQ3Awam52Z0htUU1WTm5jVGkwZjZRNkRPTDYzU3ZIVFhvYXNlSkpsdjNmOHlrdlROc09SZ3c?oc=5",
   "surgos": false,
   "eredeti": ""
  }
