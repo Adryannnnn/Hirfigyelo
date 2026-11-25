@@ -1,5 +1,38 @@
 [
  {
+  "ido": 1795593107,
+  "forras": "Bloomberg",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "UK Heating Bills Surge 26%, Adding to Inflation Pressure",
+  "link": "https://www.bloomberg.com/news/newsletters/2026-11-25/uk-heating-bills-surge-26-adding-to-inflation-pressure",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795593103,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "US Stock Index Futures Slide as AI Worries Fuel Tech Losses",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795592700,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Közel 140 millió forintot kapott a magyar tisztségviselő, miközben már gyanús kifizetések miatt vizsgálódtak utána",
+  "link": "https://www.portfolio.hu/gazdasag/20261125/kozel-140-millio-forintot-kapott-a-magyar-tisztsegviselo-mikozben-mar-gyanus-kifizetesek-miatt-vizsgalodtak-utana-878926",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795592220,
   "forras": "Portfolio.hu",
   "temak": [
@@ -7,6 +40,17 @@
   ],
   "cim": "Meghúzták a határt a magyar bérlők: 150 ezer forint számukra a plafon az új lakásprogramban",
   "link": "https://www.portfolio.hu/ingatlan/20261125/meghuztak-a-hatart-a-magyar-berlok-150-ezer-forint-szamukra-a-plafon-az-uj-lakasprogramban-878912",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795592139,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Buy, Sell Or Hold Nvidia Stock After A 31.5% Day? - Trefis",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORU94aDVqMGdrWkVsblQ2dFNOYll3MUlfX3JiemNNVEtZSGNHakdVNnNRNUtZRkxzZ25yOTdmeXl4MUMyMTVOYVhyckwtelM2NW5FWkVkNU5tUEt1UVRPM2E2UjJFb0ZKV0toRE5udlYwMW1xYXlXYllNTnIxZWhKN05vdy05QUpYWDNXZ0ZKWk9zUFhRMW1FaGlzWnRlcHl0SFUyMk1EZzlaaG8?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -23,6 +67,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795591710,
+  "forras": "Bloomberg",
+  "temak": [
+   "Forex",
+   "Tőzsde"
+  ],
+  "cim": "AUD/USD: Aussie Set for Biggest Monthly Drop in Four Years as Stocks Fall",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/aud-usd-aussie-set-for-biggest-monthly-drop-in-four-years-as-stocks-fall",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795591680,
   "forras": "Portfolio.hu",
   "temak": [
@@ -31,6 +87,20 @@
   ],
   "cim": "Szigorít a kormány: már félmillió forintos tartozás miatt is bajba kerülhetnek a magyar cégek",
   "link": "https://www.portfolio.hu/gazdasag/20261125/szigorit-a-kormany-mar-felmillio-forintos-tartozas-miatt-is-bajba-kerulhetnek-a-magyar-cegek-878922",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795591620,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde",
+   "Jegybank/kamat",
+   "Világgazdaság",
+   "Blue chip"
+  ],
+  "cim": "Nagyot esett tegnap az Nvidia - Nézzük, mi vár ma a tőzsdékre",
+  "link": "https://www.portfolio.hu/uzlet/20261125/nagyot-esett-tegnap-az-nvidia-nezzuk-mi-var-ma-a-tozsdekre-878904",
   "surgos": false,
   "eredeti": ""
  },
@@ -120,6 +190,18 @@
   ],
   "cim": "Neuberg Diagnostics Is Said to Pick Banks for $200 Million IPO",
   "link": "https://www.bloomberg.com/news/articles/2026-11-25/neuberg-diagnostics-is-said-to-pick-banks-for-200-million-ipo",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795590747,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump administration pauses joint military operations with Ecuador, NYT says By Reuters - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXRmeDFMUDV0S0NkNTJkZm1UOUZIbHZyZEhyd013SDh1cXBGMFVqdWFpaGRjZzhFQnBrc2FUNjlRa1lTU2NaVHRpVEoxSzRhaUtoTlVNcXJCejRkSThiQ3VWeXJROEpQTFJYV0pWeXo4eHpJZk5uUGtzdlFsZmd6aURsRURjbVB5SGRzZ1ZjTHRTZkhpeVo2Q291TmNycEkyN1NrelJ4Y0NuSk84M0Q4MFgyamptMnZMaXhTTWJ1LUdHWFU?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -263,6 +345,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795589868,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump 'Reassures' Nvidia Of Jensen Huang's China Link. But He Has 'Xi' Concerns - NDTV",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbnB0YVp0RXdxUVp5MEtUNS1pZVhFVkoybUVVQjAzVzBMYzdvYlViX21nNWg2SHR6YnowNlRYYUtpTVhTU3c5ekgzU1JFRFZmdFh6SHFrNWNWMTVkU0p6Y0hnWjZQaFBNaXc5ZWZmSFZidmJWWk8zOThiTW9KSkJjaDZ4bDNCRTFWcHBFQzUyS3c5MjRqQXRaTUxUTm9xUEx6ei12VVVPbGpXT1kxTFhkeTBSVHdqV1Bfajd4ctIBvAFBVV95cUxPbnB0YVp0RXdxUVp5MEtUNS1pZVhFVkoybUVVQjAzVzBMYzdvYlViX21nNWg2SHR6YnowNlRYYUtpTVhTU3c5ekgzU1JFRFZmdFh6SHFrNWNWMTVkU0p6Y0hnWjZQaFBNaXc5ZWZmSFZidmJWWk8zOThiTW9KSkJjaDZ4bDNCRTFWcHBFQzUyS3c5MjRqQXRaTUxUTm9xUEx6ei12VVVPbGpXT1kxTFhkeTBSVHdqV1Bfajd4cg?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795589795,
   "forras": "Blue chip 2 (Google News)",
   "temak": [
@@ -365,6 +459,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795588771,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Earnings call transcript: MPC Container Ships posts solid Q3 2026 results",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-mpc-container-ships-posts-solid-q3-2026-results-93CH-5049917",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795588390,
   "forras": "CoinDesk",
   "temak": [
@@ -407,6 +512,18 @@
   "cim": "Where Will Palantir Stock Be at the End of 2030? - The Motley Fool",
   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTRCOG1XMDNCMzRFaGF0Wml3NVlucWEwd2xCRmt6ZG5fNjRRXzJ5SU9ObGlydVREMjRTeTlQYTNCOVpPek1BN1JfMV9uNG1KUWt1elVPbHZaaXRKNEdwRjFkUnZnQU1nMy04Z0p1R3o5ZVRDWG44LTM1LVB0R0cydmRWczNXU0lVWjdZbGxpdUc4RXls?oc=5",
   "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795587931,
+  "forras": "Trump – beszéd (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump reacted to Zelenskyy's remarks about the U.S. intention regarding peace deal by January - Українські Національні Новини (УНН)",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZmhSWmN0V1hqR3FmcmlSUnpGM3B2dG9WSXJ4ZkpiM25DaW9INVhXcUdhS0U2SWtnLURBNXlJQ3pYZWIxckpCamlwa0YzdWR5WlNXSnRBTGRBMmRQMDdmTGw4TVBDVndyYXhnT2tuS0R0NnBnakxwSl9FR3Q5Q1R1REJEUmd6bUN0eGdUY0QzV3FZX3ZrVF9EOGQwZ1hqUDVNbC1nYmFZLTRTeDhPb05sQ0VvWG7SAbMBQVVfeXFMTzFMdWFmd0pSbUw1RXlYdUZZang2cmZ5WkRrelV2dkNiSVZKRk5Ca2lrVzBna2NFSmNzcDBfY3ZzVUx5cXZzLXhBSWQ4cDhhOExVSGg3TlFxYy1iOWlKbFdLd1dOc3ozMFZUOU1KaFRjZkxqdl9VTzE4TzNUNHp1ZHhnWlJYODF2STRZRXY1azk0RlZMbVQyRDZFODJGWlFzRkZ1RVNBbnhjNW5ZTmlkVnEtXzg?oc=5",
+  "surgos": true,
   "eredeti": ""
  },
  {
@@ -674,6 +791,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795585406,
+  "forras": "Trump – beszéd (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "'What The Hell Happened?': Trump's Midterm Frustration Erupts At Thanksgiving Turkey Pardon - The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMXdiWHFMSDRLakQtM1ZQb3lTUXh4YWFBeThhaWRaNWhLdDVPVVB0eW4zQ0gzR1NOZ1dpVmlvdTZiN3JDZW9VbnB2QVdGYXNuSzY3ZXNuSTBERDgxU0lLb18ybjdOOUhrOXJvZlZIeDJIZC10MmdjVXpmVUhFbjNteVRqOF9QWExMblhGUUNQZXAxTlBhLXJEc19xSG1CQWgtOVBqNUZoOExWR0dzQ1NxMi1FRFhEbE1ST0R2cmJmNGxPX1hRVmxnSVNPQjZ1eUtfa2RIVEZLZWlpZktrdlVjTFBWOGFqY0JYcHdQbFQ5X1dpNVJvWnVJb2lWdlBLckI40gGAAkFVX3lxTE8xd2JYcUxINEtqRC0zVlBveVNReHhhYUF5OGFpZFo1aEt0NU9VUHR5bjNDSDNHU05nV2lWaW91NmI3ckNlb1VucHZBV0Zhc25LNjdlc25JMEREODFTSUtvXzJuN045SGs5cm9mVkh4MkhkLXQyZ2NVemZVSEVuM215VGo4X1BYTExuWEZRQ1BlcDFOUGEtckRzX3FIbUJBaC05UGo1Rmg4TFZHR3NDU3EyLUVEWERsTVJPRHZyYmY0bE9fWFFWbGdJU09CNnV5S19rZEhURktlaWlmS2t2VWNMUFY4YWpjQlhwd1BsVDlfV2k1Um9adUlvaVZ2UEtyQjg?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795585351,
   "forras": "Investing.com",
   "temak": [
@@ -784,131 +912,6 @@
   ],
   "cim": "Todd Blanche Refuses To Confirm Nvidia Investigation as Trump Floats Jensen Huang Pardon: 19 outlets compared - NewsCord",
   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWVVSNV80cmNjTXBnaUpnTGkzS0FNZkNrb3lyY3FwZVFicVRGUUdsM2t0SUJRTFZmUHV0MUE3UUFadGpuak45YkpHck1haWpjcUoyUGNyVHRyb01JMGlRMk92RVFnNG5SUUtJN1djVldQcHFtMFZxVnBGZnpIWE9zdEUzVjdQOXg3Wkc4anlJWlJ2U1BBeHdVQVJNX0pZM2Y5SXU3ZkM5WkhVUFdNbERUWmZkdzNlYjN3VmE1bFhUVVE0dkJzUmhfZll3X3l4YkozZUR2N3lMQVc0MlY3aHlnU0FZZFBWVlh0U0E?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795584043,
-  "forras": "Trump – beszéd (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump signals narrowing window for Iran strikes: ‘We have funding through the end of January’ - Ynetnews",
-  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9McGtUQ3Bqb1NQTExDWHY3V3BYTnBhWWVNRmh0Q3hqLVhLRkROVXVnQ3NRZUZOang1a2xubk9rc1dMWUhLSmE4UnZGLXJ1VUdSc3BmQ053?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795584035,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "What Nvidia and Anthropic's stock swings could mean for your portfolio - WKRC",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOenVHZFd1MnJuU3NkRFc0Q1FVemNMdkxYUUxKakozb293eFBQZVVnYklsWktneVJNLW1aMC0wV0pYbTNTYWl5QXZoM0hDNmVsbERjQ001R3oxYmJCZ3J2bVhGbXJvcnRZVDQ1Tk0wZFlwa1oyVTVjVTZ6U01yLXdCUGtONWZNN0NELVlsWFpxbmluenRFbjViemNCMG1nbGliN0tCNGtTWUFlak9rUnZObWNUcHZSUl9WSkFQdFIyZHRJQmxvWGNqWGdLQlRUZGhtSWc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795584004,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "White House to 'Post': Trump's position on military aid to Israel unchanged - The Jerusalem Post",
-  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yM1Z6OGNwMzVrRFlOYlgxdnhlM0wwTkI4VkQ1ZTUwdGhoRllaNGZHMUVfSFZiN2o1TTBTcUxLQ1pGczRJN0xMNnVqaXNFTWVFMmZFMWM2Wm5BanBPMko4?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795584000,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Donald Trump Floats Jensen Huang Pardon, US Stake In Nvidia – But NVDA Loses Momentum - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWWs1TFJmN2cxR3V5d0J1Unc3YktQZnZ5aENYaGsyRnN2RTh6MEREdHhlQTdNWWFSd2RGd3VsNEJtemprM2pVRmhPM0VxQ0E1Qk9YdnpXX1RTTU9PN1JaZkJjYUhDX1pPRW9XakxpOVAzR0hPUVRlN1lWQlhJNDVnSjRUcjFWZGVaQWUwVjlPdUxSNmN1alltZGJtemVObVl0VjZwNXJibGJtbDZhZVlkTEZLRG1UcUZlaXdwV0ItUHF2WU1zb3p2d2NucExIRVpyb181TmNlcDhkeVE?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795583974,
-  "forras": "Investing.com",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "Bitcoin extends losses below $59,000 as ETF outflows weigh",
-  "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-extends-losses-below-59000-as-etf-outflows-weigh-5049793",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795583923,
-  "forras": "CNN",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trump Keeps Digging Himself Deeper Into Nvidia Scandal - CNN",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVF5UEhCbU1RZUJxTC1XN285RW9jaENUOFNPLXVnNDFsT0V0VGo4eWN4Y2Jrdzd4cHZYSG1ibDVhZU02c1IxVXVxTXVEdHBJMVlRNy1mYUlyTGkzX29YTFF5UUpSaHpyZmFmX1FVNmlhdG9seDU3Rk9JWUVIZzFiMExjQ04ydjRBWVVrR19QLTRMdmtSYlRGT0VkZmtuVm8?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795583901,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "S&P 500 index rose after the Stockholm exchange closed on Tuesday - marketscreener.com",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZndNRnFlRk9ZRkRCWWZJY2Y2dWpacU1KNHFnbUJTc3BnZXZvTWdTcmRnM09mUWd6VnZLLWcwSlE0Qkx5TERpMlhaQWd5SENleC1OVl9kcTduQVd1OUxXNExqUDA4RUw4OFNRRnZHQUE3ZzNkY1o1eFpiN3djaTNwYnM1RDdUa0p2aVI0aFhTSVo2MjY3UGUzcHgtWEQ2Wlk2M3o4UGZQYVQ3M3NvdFE0Z2V5VzA4NXhGbWc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795583863,
-  "forras": "Wall Street Journal",
-  "temak": [
-   "Világgazdaság"
-  ],
-  "cim": "EU Inks Trade Deal With Indonesia to Cut Tariffs, Catalyze Investment - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmw2LTRaWkhrekF4b0RUY0J3djVhQzk3V2REZkVTRHFEaWZVUk9scjBpb3lMU0JtNlE5d1NnNk1kbTd3TlUwNWJ1YUs0ZXI3WmZWblNpOWIxWmlFNzhmaTUxclVFYllJcDJjall3YlctdkNpWDBZZXNHNWpMZnlrOHBHcjViN0JpTGhyV1pJLU5peEpuZWttM3UwTDdhdE1BdzhfbnhGZTN1RVlidUpaeQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795583708,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump Told Xi He Does Not Support Taiwan Independence, Says Beijing - news.sbs.co.kr",
-  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1saXVfNEVwRXgxWDFyUFR1UVh1TFVrWHd0WlFrc2VJdkhEMlV1Y0RsV2tjV0MyMnVDaldYWEtIQ1BiUkt3SGJHSVFYeEM2NXVrSUJPb2RtXzlYaU1jelBqUGRIeS10VTM1dExqdjdn?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795583674,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump Says Iran Campaign Funding Secure Until January - JFeed",
-  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4MVAzeU90bDctVTlSR2xKU0xLT1F6VzA4RUcxYlFPOWx5X2VhUm1pa0MxTjhRUk5iaDR5TjJTTm4tSkJiRkRtMW84UFdmLThpY1lkN2p2dlJTNjZ3WWkySHFsZ0s0WWNCU2V4ZWlld29vWVhsUnZB?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795583541,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Peter Thiel's entity buys Palantir stock in three open-market purchases at $142.91 to $144.61 a share, Form 4 shows - MLQ.ai",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbXlHVE5STWgtY3BvRVY5Y2VSYTVXYUVkV0FwY3F3ckpDRG8wNi1QOVYtLU1hTVRqQy1kUkxXLUZoTGNuU1RwQ1ZKc3ZYZWhURjBpdzBVal9HV3NSeXRTN095S0FfQ3I1U0M3YlNGVEtuN1M2RGFRcUJhNXBSS2ZLbnQzM0sxa1JKeU9mSFo5NkJYMTY1bTBVNkEtd011NDUwMHd4RlJ4YUNtNGxqZldxY1VaV1NEWHhwR0p2bnlReDlzSmVGOW1CalBR?oc=5",
   "surgos": false,
   "eredeti": ""
  }
