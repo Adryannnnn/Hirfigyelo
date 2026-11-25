@@ -1,5 +1,29 @@
 [
  {
+  "ido": 1795567081,
+  "forras": "BBC Business",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "US preparing to unveil new tariffs on global trading partners",
+  "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795566748,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Zelensky Eyes Democrat-Controlled Congress for Weapons, Tougher Sanctions if Trump’s Peace Push Fails - Kyiv Post",
+  "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4ycEpPU2V6Q09vWUdRbWJjNGlHc3JDR3BhZnNFN01uU0EyN0dVRUpsdnJNc1NoTHRRYzN3Ym9XWU1vTmlOcW15LVpJaw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795566067,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -77,6 +101,19 @@
   ],
   "cim": "US midterms weaken Trump, strengthen Taiwan’s hand with Congress - Asia Times",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzNON2o3OGNoQ0l6QWMyUW9KS2c5bDBCN2pkX0NJM2p4Wk9LZVkwYkJ3MjRkc3dueVQ3X2pjSEVTck94dkZaYVU1RHVqWWpGMDNkTktkMWJCaWNiTFRCYVZkRk9YTlFwbEpVUFBBcVFRZ0MxVWU3UTFSZ0JjODdIM19GNlJvVVh5UUVIbTZXSF9hNGZERURaRw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795565153,
+  "forras": "Bloomberg Politika",
+  "temak": [
+   "Trump – háború",
+   "Trump",
+   "Blue chip"
+  ],
+  "cim": "Nvidia’s Huang To Face Scrutiny on Capitol Hill",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-25/balance-of-power-late-edition-11-24-2026-video",
   "surgos": false,
   "eredeti": ""
  },
@@ -317,6 +354,17 @@
   ],
   "cim": "Why AMD Stock Fell Today - The Motley Fool",
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0OUdHSkZ5VUtZY3JLenZad1RVcEhydnVoZXNjMWNuMHR5S2ZiMS0yYXdLV1E0eS1RMGF6dTYyUzZSZ2FrbUdCemIwQlV0LXJfbGFxWW42UFM5elI4VGNpQlh2bmU2dmNSSXZiLTlqMEE2N0hleHc?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795561488,
+  "forras": "Wall Street Journal",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Wall Street Pledged $500 Billion for Nvidia. Not a Dollar Has Been Deployed. - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3B6VkpjZGJoaUJSX2xTUlNWekU1cVJBNzRHdWZZTl9Oa3NRazQ3WnprNTJ5TmduWDdMMjFRTnBhS1c3M1hKSUJuRWJTNnFKVjA4c054S0hHUnZINzkxU2FzV3RjLVhQY3NjaXA0dUhIQ2phSWRycmdULTJaTElNZXc0UU1pRmdOUk83YWIzN3hCdGlHbDc4a3VncElSWXVFNW8ySEU2elluRkxm?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -858,53 +906,6 @@
   ],
   "cim": "Public, personal and unprecedented: Trump's extraordinary intervention with Nvidia - France 24",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLTc2QUV2anNYZ3BHcFVGUkRnNzZxR3pEaEk5dlR4dnFhMGVseGxBZVh0SmlZVDBtdi1mdUZtQnNEMndlMmpvZTlOd3NrQjV4M2VrWUVBTFdvVkFmOWE2RTZyNDhDODNSd0M5NVZDQktuMW02THdVQ3RCQnV5V3d1WmpOTmtNVTVqc0hNVko5dVZmY1FjT013TW85ZC1RQ2JYV3pmajZ5cEh5WHpRT0FidHlzQm1QRDhUbzBLeDczb213aG1xSXc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795557900,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Világgazdaság"
-  ],
-  "cim": "Nasdaq Falls 1.48% as Nvidia-Led Rally Pauses; Tariff Jitters and AI Skepticism Resurface - BigGo Finance",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hM0tTY1RSbzNqMTNYa1UzdVpsdHJkUVpxYVEwbml2NzgzaDYxMm9XWFJLREFqV2JYdk0xcUprQnBiLWRzVDJxSnBJOVhLYzE2TUZQM3Q0dGpmemZvNm93bFBBek1YNnBLWHhMLWtTWEtRdzJ2ZUE?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795557900,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Nvidia's Comeback Rally Fizzles in a Single Day; Nasdaq Falls 1.5%, Anthropic Breaks Below IPO Price - BigGo Finance",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96THZhODRJcXlDR0I1eElzcV9jaHRFZnFPNGNZTGl6Z3ljeTJ3QndlclhUTDhJWnVFUS1wSm5DNGM1TjJvX2FHTzNsN2RjVDVudmJNTzk2WTdnTTNOaDg5aTNkVEVXdEJKT1dCaGhvaE9hdGpuX2c?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795557900,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Jegybank/kamat",
-   "Blue chip"
-  ],
-  "cim": "Strategic Price Cuts Amid Inflation... \"Walmart Posts Solid Growth Despite Headwinds\" [Click e-Stock] - 아시아경제",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KYjE3MUR0bzFHbzI5RUplaktIZWY3a2FpT0VzUXA4R2RBbFFja0xNb3NHakduSWppRTB4MlNBdXNJMDRIcnpZbmctVzBOZjZ3UzZkTUgyYVF2LUtWRFRuMUJITkdWQkV6SUEwZVNMVk13VmI2RVY2VlF5cw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795557889,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Welcome to the Trump-Nvidia-China-AI Hyper-Spectacle - Tech Policy Press",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdUxYMHRtcW83WnhXQTdYUktKS1hMM19DcEhxMVoxb0ZrTVZSNzJ5eTN3OFRlSUF2cHRhcWEtR0pGZ2lEY0Npc0pXZEg5SGZadmxwQ09OY0xnaTMtYjh5SjNtOXFDSGN5M3JQeFdLeFJ5T0k3YlN3WUdsQ21JTUIxcktvQ0kxeHJOcUE?oc=5",
   "surgos": false,
   "eredeti": ""
  }
