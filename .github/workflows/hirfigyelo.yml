@@ -5,6 +5,8 @@ on:
     - cron: "*/15 * * * *"
     # sűrűbb ébresztés reggel (UTC 5-6 óra = 7:00 körül Budapesten), hogy a naptár legkésőbb 7:30-ra odaérjen
     - cron: "*/5 5-6 * * *"
+    # sűrűbb ébresztés az amerikai adatközlések idején (actual-értékek gyors elküldéséhez)
+    - cron: "*/5 12-15 * * 1-5"
   workflow_dispatch:
     inputs:
       teszt:
@@ -62,7 +64,7 @@ concurrency:
 jobs:
   figyel:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 16
     env:
       TZ: Europe/Budapest
       NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
@@ -137,7 +139,7 @@ jobs:
 
       - name: Hírek ellenőrzése
         if: github.event.inputs.teszt != 'true' && github.event.inputs.kozlemeny == '' && github.event.inputs.naptar != 'true' && github.event.inputs.heti != 'true' && github.event.inputs.ar != 'true' && github.event.inputs.stat != 'true' && github.event.inputs.ffoldal != 'true' && github.event.inputs.admin != 'true'
-        timeout-minutes: 4
+        timeout-minutes: 12
         run: python3 hirfigyelo.py
 
       # always(): az állapot akkor is mentődik, ha az előző lépés hibával vagy időtúllépéssel állt le,
