@@ -207,7 +207,13 @@
         "vám*",
         "munkanélküliség*",
         "olajár*",
-        "aranyár*"
+        "aranyár*",
+        "wti",
+        "brent",
+        "crude oil",
+        "crude inventories",
+        "oil inventories",
+        "eia"
       ]
     },
     "Blue chip": {
@@ -575,7 +581,7 @@
   ],
   "trump_beszed_aktiv": true,
   "trump_emlekezteto_perc": 20,
-  "naptar_emlekezteto_perc": 20,
+  "naptar_emlekezteto_perc": 30,
   "ff_min_perc": 8,
   "heti_aktiv": true,
   "heti_nap": 6,
