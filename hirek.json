@@ -1,5 +1,51 @@
 [
  {
+  "ido": 1795569945,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Palantir accounting chief sells over $539,000 in shares By Investing.com - Investing.com Canada",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTJsNXFPRXdBU3R4THNuQkg1UG5HQlFhN1BhSmxKVzFUaGRIbzF2U2hXdFZJdHM1OXYzSzRaY20xbmZtenpGZUNESXdsb1c4ZE4wbmtIRWhiTy1zZW83eG5HY2t6bnhEaENzSEpfa3hQb2JwM2JYZWVySnY0UjFNMG13MWh1Q1ZUWndnVVFHaDFDMmU5UjVESkZpSzBrYTk5RzMyRUltLTMtQWlWZl9CRHVmTTM?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795569257,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump",
+   "Tőzsde"
+  ],
+  "cim": "Trump Leaves Door Open to Pardoning Nvidia CEO Jensen Huang: Report - NVIDIA (NASDAQ:NVDA) - Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLVVSMTZMZzZZMjNWTWRYNG5FcHdEOTlTM3ZRU0htbEh1R1BEVG9ESGxTVkxjX2dnVDg2UFB6dUU0blo0Vk42T1NyT0FnRGtIMnozNnktREd3ZkFmTFVwUXdnSm9lT2xpQVNLSk9lOF9qT29lTFVsVG9xTDRqbVQ1aWdrWlhfTllnc0R5MWYzN0VEVEViRW1xUG5DbV92T1JnaHBpZHVRa0Mzek9MODZkWUkxUWdBTFlKckFSTDBvdV9GTDh2dDQ5UXBTZw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795569240,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "WSJ faces backlash over belated critique of Trump’s pro-China policy - Alternet",
+  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zbGJraFA5bkx6TnhBdkVQLVZvc1ZCWmljQkFZR2V0Y3FQOEhUaGJSUzJOLUxpajdydlJUZmVSbV9WdnNtY05WUnRwSmNTd3VoaDVibWpIY2RjLVU5?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795569236,
+  "forras": "CNBC",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+  "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795569060,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -7,6 +53,17 @@
   ],
   "cim": "Trump Tells Board He’ll Pardon Sex-Mad CEO: Author - The Daily Beast",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdG9SYkQ4eTktSThFdU9NYzVXZ1BjTmVkNmhWaFN2QVp6TWNMcWVzUG9UaDV1VjVGdGs4YkpHYnlwRU5RUXpzbG4wRWh1NTRVSjhkSUN6XzcwZjlidGl6bGMwOGZMNWlfQWg2bmszSV9GTmRhUWhFOXJIeHBTX09jYXk0enIybnhPc1RRUTYtb2hUbEhBdURvZm12RTdaOVBwMm1zUXpkLUE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795569000,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Palantir Insiders Sold Shares Worth Over $23M - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGlmNV9qVzlVT2lINGpNTzJNYThzcUxZSG9GcHBiOWV4b1A0ejNMTFN3amFabmFYTVJKS1ZSdE1Mb2E5eW91X3NYLUZyNWVQT0lCdjdvVG16VUtZa2FGd0hLYzMwT2h1WldzblpZTk4tRVFjeWx5LURxY0poeDVPb0ZDT0pPb0V1bG85TEhaNDIxaW5pRFdJalM2SGNRcEpzRXFzTVZSVU9adw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -63,6 +120,17 @@
   ],
   "cim": "Trump administration pauses joint military operations with Ecuador, NYT says - Reuters",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSVpvMXZiV3QtTzBUWGJ2NlhRVUlrZndMTnplZXBmUWFWb3NfckVEWm1aRTlhajROMC1OR2lDdVdIZlJ0MFBuTnJpVTd6Y0NTX3dYQ3g0clBNOFZOUlBMemNTdEdOc01iTXM1emN6YXdBd2d6SHVoUmxmbm5IYXBxTGJNX2ZDQzBZcm53MFdndy1qOVcxbTNTQUJXUXFNdmlZeVNvdEhaeUQxX2Y2WE9HNHFoakVlVnJ6NmVWQVV6OTRTdV9H?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795568457,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Operation Jensen: Trump’s rescue mission might end in pain - SMH.com.au",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNXzc1U3VCNktnUWxMX1YzZy0tUVk3UFRaYVNua1Vmb2VUWHBrSW44cWg1eHBKUVREUS1QQkFudlJuQmg4am9MYXFYRkRTR1IxV19DTXZIQktFMjVhTms1TTMwMjVSR0o3UFZxYVFEd29GcmNaRllEVkZTdk43bHRkdGFGam5ISTV4c3ZxX3Z0MFhJdlVRM0xuNlRzME50NjVGN1JKcEd1RTNaRGFJSW90MDAwWQ?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -219,6 +287,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795566260,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Earnings call transcript: Noah Holdings Q3 2026 profit falls as stock slips",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-noah-holdings-q3-2026-profit-falls-as-stock-slips-93CH-5049485",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795566180,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -256,6 +335,39 @@
   "eredeti": ""
  },
  {
+  "ido": 1795565767,
+  "forras": "Investing.com",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Palantir accounting chief sells over $539,000 in shares",
+  "link": "https://www.investing.com/news/insider-trading-news/palantir-accounting-chief-sells-over-539000-in-shares-93CH-5049476",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795565766,
+  "forras": "Investing.com",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Palantir CEO Alexander Karp sells $37.2 million in class A stock",
+  "link": "https://www.investing.com/news/insider-trading-news/palantir-ceo-alexander-karp-sells-372-million-in-class-a-stock-93CH-5049475",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795565758,
+  "forras": "Investing.com",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Palantir CFO sells $6.25M in stock to cover tax obligations",
+  "link": "https://www.investing.com/news/insider-trading-news/palantir-cfo-sells-625m-in-stock-to-cover-tax-obligations-93CH-5049474",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795565626,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -274,6 +386,31 @@
   ],
   "cim": "What Jensen Huang’s Second Act Means for AI",
   "link": "https://www.bloomberg.com/news/videos/2026-11-25/what-jensen-huang-s-second-act-means-for-ai-video",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795565556,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Trump Administration Prepares New Tariff Offensive Against China and European Union - Sri Lanka Guardian",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPXzRTdEFFeXlxbWhiSDZkTnhkR2N1LUdpSTVnMDBoaGhFNldmaGd4REFFNEFwbG5PVUNyU0dBWkZnRTA5VjNsanNRaDdicE1Odk1yMFpmMVFhX1NvTzExZTViVDNYeFBNdnlBYkZwYmdXYW5jNXJ0eU45aEZwenFfN29PWkh5NGl3d1pVeUVXUDhHczdlblF1azdIMzVqX0tSeFVad1JRZUpST0U?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795565547,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde",
+   "Jegybank/kamat"
+  ],
+  "cim": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
+  "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
   "surgos": false,
   "eredeti": ""
  },
@@ -322,6 +459,17 @@
   ],
   "cim": "Nvidia’s Huang To Face Scrutiny on Capitol Hill",
   "link": "https://www.bloomberg.com/news/videos/2026-11-25/balance-of-power-late-edition-11-24-2026-video",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795565112,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "E-mini Nasdaq-100 futures drop over 2% as chipmakers slide. - CME Group",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb0xaZHYwNFpHSUZxVU5uZEN4SVppLU9KdTRuVXh2dFBIdjAtZ241QWFUQmI5VmtUMXgxM0E2bVZnWnpkLVF3TTQwVWhvaGdxTVUweE9RT3B5X2R2Zjh0d2lkN1pwN1FmNTBDNHZ3enlxcTFRYUxWLXd0aFVkVFF1YmJBMVZOSVBxekJoMFdFLVpOZllYYmdwWEx0OXJNcEdBZngyMGVCTWhBbkZsMUp3?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -520,6 +668,19 @@
   "eredeti": ""
  },
  {
+  "ido": 1795562817,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump",
+   "Blue chip"
+  ],
+  "cim": "Nvidia, China & Trump: How Jensen Huang's Return Could Reshape The US AI Chip Battle - Times Now",
+  "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORWVfMThxek9SWExUcHBteGVSOFFkMTVOaDVSSEUyM0w5TzNQNUFyeWNwQ0pLSHYxdDdrOS1va2VYdEJFVlJlcGVWeExXaEl5NUxzaTMyYkFVaGlQOEVYMGdJX2FTMnFaWlE0X0RjMUUxWDN2UVlJQW5Rcl9iTVdCU3ZNTEtlQm54RWFLZkltdnlSakwzc0tmcExrOFlmTV9PVl9tbUtpbHZMUGR0SmVkSE1jSTNVWE9JZ21BZ1Y2dWVsb21LX3RLb2RxUWtMQjFGOFZfbXBvemtCdTjSAeABQVVfeXFMTVZBWF9rQXVMbDc0VGNJcGdSWGhoQm5qd2lMZTByQm5yTFBHaGRtWVFFbjBoR2Y1cS15bWFmcC1ianVJd1JFU0JNcVpOeVFDT0ZsbFhrZ0dyZ2VPOVR6TXB0S3I4cjl0ajhPeTYwVXdoMTNPb0NtUlgtazZBb2V1a3U3Z1ZIejA5bjhMdHRiZFJnSThDaUxDaTRrR2x4clRxelJ4TndncXI4bmt3QkdJN2lKWUtOY2l6WWt1XzZzS05xdThQZzVzS0ZLNGdDYk1aYW1RM3JYOVktZjlzRy0zcUQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795562765,
   "forras": "Negyedéves jelentések (Google News)",
   "temak": [
@@ -551,6 +712,18 @@
   ],
   "cim": "Judge Jesse M. Furman Permanently Bars Trump Administration From Enforcing ICC Speech Sanctions - NewsCord",
   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQlRXTENocm9qd1ZTTlhxMV9CbXJJMzROcFE5SV9acUVYTXc2bXpKMnRhb2c0VkF6TWp0MEVleXZXWm9TeTF3ckN6VGIxVUJjV3FiSGtlZ2FyeVZwN082WUFUcExyOWdJTFNHOWExSWREM3daT0VDRzdFMlUwS1czUVotN0hNN29qYXdGU2lXRWhXMzdIZzZyRzlaOGJ0RGFSVWwwSmdxNFFyckRzMGJad0RtWUg5MGlNb09fdkVQZVRsVnNjY3hvRF9QNE9KRlFQLUtob3pESXhPeVhMSHRZRmVuaDZiTEZjdnc?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795562306,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Curtis Urges Trump Not to Lift RDIF Sanctions - Wisevoter",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0hMVUtkRFZWNHFvRUVWYkl0OENEdXJJS29VcjVSNUlQdE9QWUVDLWhTeTM5MWpqVjlfc1dMWFRPWHBVVmJsWjRyYWhsaXNaV0xQUXJRR3R0Umt1S2dGN0o3bXNUZ3cwc2ZnMHBhUElxWnlSa3daSlFLZl9samVfSExTbXdlMXZNY0lKZ1dnV3k?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -595,6 +768,17 @@
   ],
   "cim": "Wall Street Pledged $500 Billion for Nvidia. Not a Dollar Has Been Deployed. - WSJ",
   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3B6VkpjZGJoaUJSX2xTUlNWekU1cVJBNzRHdWZZTl9Oa3NRazQ3WnprNTJ5TmduWDdMMjFRTnBhS1c3M1hKSUJuRWJTNnFKVjA4c054S0hHUnZINzkxU2FzV3RjLVhQY3NjaXA0dUhIQ2phSWRycmdULTJaTElNZXc0UU1pRmdOUk83YWIzN3hCdGlHbDc4a3VncElSWXVFNW8ySEU2elluRkxm?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795561425,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Trump Pardons Thanksgiving Turkeys Freedom and Feathers - The Well News",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMG5QZmZCWEczX0trZXN0bFdEbHhQUGJrOU4wMzNlWTl6cXpGQjctT2t3Q0oweEU2VU1vLWtsdVNqTXpRMUtTam5WUzR5WXh5b0VCNVctdTVqZ1RNdFFWZGdTdG54eHdBOGRDMi1hblBtQlJ4QzlHNFZoenFhQnRReExTTkZlX1V4UGhuTGJVSWxKZ2RZNTk4c3c4OXI?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -733,185 +917,6 @@
   "cim": "Exclusive | Trump leaves door open to Jensen Huang pardon — and urges him not to plead 5th to Congress next week - New York Post",
   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdHVzd2h3em1OLWJ2ekNOTzZTMHZTSGVZdXFMcmJtM08ya1h3aWRUeXRBQnhRdGxCMldNZkh1Z0NzaFIxeEdMRmhZZ0hlMFFHUm9zcWM2a21MMEp3WjFQVk5kZVgxWDdldHFBSE0tdXJYT0RFSXpWbWJvMU4yX00wUW1UejRRRGZlT1Uzei1CbXdJeXl5a1A3TWNvN1BlQkpQaXh4WGp3Z0xoUTQ3dnVPdHBHOUZCN0Nza0FCRTF3eVpOUGE5cnFHVHhJUVNvN3AzQ3hz?oc=5",
   "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795560960,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Világgazdaság"
-  ],
-  "cim": "Nasdaq Hit Amid Tariff, AI Spending Fears; What To Do During The Market Rally Attempt - Investor's Business Daily",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcDhGRDZSR2p0NmNJZUdpSEdQXzMwRzhEeFpFZXFfYmhKQTIzTUFZUlhINk4tblBSamwtb3JyNDdNcFVjSWpGZGVDck5qa1NOdlpKajYtTW11Um44M1JEcWs2ZTlrRDF2MjE0NkFaNHQyd1dtenRjbUhnWGstbUlBWGtXOENNVVBzdWlFZjBodW9FX0I2dndSX2lKZ2tlSjlBV0E?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795560888,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "GoodRx (GDRX) Q3 Revenue Beats Estimates, Highlights Growth in P - GuruFocus",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa2NVeVUxQ3drOVh2ZkhEWTZpUF9rVGU1Q1Rqc0tncmtMT1lFM2xiUkhTMlAwX3RPT1dOZmxSV3RURlRRYWpZdmhPTFdMWVNvcklTcmM3VTdRRU15XzhoUEVna24zN3lVMFlIalV2OTJJaEFoMjE1Rjk3RExHUkVjNGl1bDAtNmtCdVc5WF9nei14WnNpWThXaW1DSjVxbHlERTIxdEp3SWRjaGZHbUNDeF91dExxWWN6Y2dYbWYyQU5SbU95eW5yZjFfYUVaY2x1a3ZETg?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795560840,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Turkey flees from Trump ahead of annual presidential pardon - New York Post",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYVJFb3JHMjJ6YUhFblVQdjBzazd2dnVlQ3Y5YWw5T3VFWk1CZXhuX2hiSTZMb2dQX1FkTFEwWlBES29KTlNXWmdUbnRYRGtkU0s5el81TGlTeFdJNVlIV3lZaVg2RWxYeUtFSUF1VS1zUUJOS3hoLU5KUXprWFVoOW5mOE0xUjNSNE8wTDJDUjRkanFKdkpKZA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795560362,
-  "forras": "Investing.com",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Amazon CFO Brian Olsavsky sells $1.6 million in company stock",
-  "link": "https://www.investing.com/news/insider-trading-news/amazon-cfo-brian-olsavsky-sells-16-million-in-company-stock-93CH-5049380",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795560354,
-  "forras": "Investing.com",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Amazon VP Shelley Reynolds sells $597,863 in company stock",
-  "link": "https://www.investing.com/news/insider-trading-news/amazon-vp-shelley-reynolds-sells-597863-in-company-stock-93CH-5049379",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795560331,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Dow Closes Above 50,000 as Nasdaq Drops on Chip Sell-Off - AskTraders.com",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM2ZVNXV2bzBTV0RlYmFDVFJXWHZkXzQ0Y0dpT3dmTmJESV9yMEd6YmdqV2Z4djI5dXp4Uk16TEpVY21pMGNuRXNjSGZaUlJHY1F3WWlLRGhjVzhPSmpSVnpvbmhVb3lnRlB0SjFBUGRYRWphM083SFV6OGpkQ2xrYUs2QkNHVXVDLVc1V050emlYbmpBcGhv?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795560123,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Earnings call transcript: GoodRx beats Q3 2026 revenue forecast, shares rise after hours",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-goodrx-beats-q3-2026-revenue-forecast-shares-rise-after-hours-93CH-5049375",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795560120,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Blue chip"
-  ],
-  "cim": "Dow Jones Reclaims 50000 as Nvidia Shares Lead Tech Selloff - cwibc.co.id",
-  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yTzhyQnlFVGVGSDY3cTduVE5pQmpXMkw4WlNsTjhaMklfWjlaWm1Hc01JWTZYWEZiMl9yWGhqNWd3WS1lVDRXcklkd3JrNDY0WVJlYlBVSjRSc0k?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795559932,
-  "forras": "CNN",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trump’s Intervention at Nvidia Sparks Bipartisan Backlash - CNN",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNelhXSUR1Q0FjdjVoT1ZvZzU5cjQ1V05UeUVGMGpDbF9fWkplY1VtSDR0VENIclZ5dzdqWkczMmROR1dvdE9MeTFIS19fTk1LMlFWRnhBTXBia1ZfUGFLUDhzbkprNjZweXdhZUV6Zl9HMTRNX0F5Q1loLVEyM2lqcG12R081R1dzTGRMVng1WE4zdlk?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795559780,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Blue chip"
-  ],
-  "cim": "'Fast Money' traders react to Nvidia shares retreating from Monday rally - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGh0RGRFenhyekJEdGJwVjF2emIwNl90bzFZeS1UcnR3LXhyUVNRc0N1T3JGX1BtWEVER1hfZUNOWFlOOFFaazBNTXlxZXRTdXMxV1NYSm1FVnRuVmVFUXhWUTd2Rm9DNWYzbVV1SlVtRE1BN0FTN0R2c0lYVkNNZkZ0N2tBQ1lfZUxYc0Y4aG95MV9BUHk0RncwUnMwNVc2elowelBOaUpqb09CalZ0b1F1Zw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795559776,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "INTEL INVESTOR ALERT: Bragar Eagel & Squire, P.C. Announces that a Class Action Lawsuit Has Been Filed Against Intel Corporation and Encourages Investors to Contact the Firm - The Daily Tribune News",
-  "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPN1B4WjhGbkxyN0VWMlk4VnN3S2R6R1NFSGEwQXgwTVlKLWlfSzE1ZnB6aGVMMVI2U0FydTJ1d09QTFpabDlEUW4teDMxa1BTTVhtS19tU1lYeW5PN1hDYWZfM3c3a0ZzZUlJLW5BR083SUh5ejhLTUZnbGR0WGNwWVI5N0Y2YU1zaGJPbjJkck9oLW1iTjQxNmhrck5Fa3dIM24yczRSTTRIMFdsSzFCRU9VTlFNZjNmdXpxZElRT0loSzlWQU1nY0FadFJwdU1HM0hTcFRkTjU5X0htUjJEcXdFbGJWaUNrcE9xWnpESHhtQlB2MUVWemsya2tlb2xZQjdFempYWEVGT1F0M0tRNnBKVTFNQ2R1bm9jYlVKZG1oVG8?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795559700,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Feathers MIA for Thanksgiving pardon; Trump says next year's turkeys will stay in ballroom - WKYC",
-  "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORnZwWEF5NjN5RTcxeTBGWkZVUjNIcjZPLThHQ3I5OHBKOWdEemlzSEFSVm9TaFhaWTJvVmllOGdIVk1qT1R6SGZqbWt1OTVoTm5NcE1xcGpxOEg2Q2RnZ0JkWE9hNXNZd29jMTRXZjVPbXp1eXQ1R3JmNkhMLWFiMHVneEUyUnhmclprZE02UU9UUlZhYXUwNFJKSTl5eExTMG1vZTM5Y29mRnh5eXpIV3RZejRFVGhaekVHalhOY1hTbUtqdVVjdzdpU1d2OEFyTmYyc0NFLS1sblF1ek5raFNxNl9oRTVYTDYwVGtBX1VoLVpaU3M4N21EcHlZZlhkUWpWQVI3bGg4dS1JckFRZnJn?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795559534,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Qfin (NASDAQ:QFIN) Posts Earnings Results, Beats Estimates By $0.05 EPS - MarketBeat",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR3o0YUhEeVJ2TFdUVTJBdkRWNzlqSS1YSHc5S21lMTgyNGtaZllsR1RSVHhPTThQTVFmejBmdzc5a1JralFpX1g2UXFjdnM5eGdaS3VIMk5EQUdoX1p1NFM2X0pwanBsUGFrM1RDWmpNMENicUUyQU9jQmRIOFRtWHJaZVYteGhxS0kxT3BuYWlRMUFHQ3NGNXZsRklpWXlPaDdtUlZjZVFwSUZVUURmUTZRXzMwWmxlWVZlRnhUcnEzNTJZV010WQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795559373,
-  "forras": "Bloomberg",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Icahn’s Fortune Sinks to $1.3b as Debt Pressures Rise",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-24/icahn-s-fortune-sinks-to-1-3b-as-debt-pressures-rise-video",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795559160,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "How much did Trump stand to make from Huang return? - The Hill",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM3pQY1dweW5xNS1ZNEFOdmxWLXVoczFCOGZHcnB2R1JPOU1QcmQ4Q2xSLUlZU01uWDhRMmFQbkFtU1U0RWpPV0FqSE9ROC02c0hROXNCb0FhLXB2X2J0YzhPQTU5RjF6Y1FLcjROTktZM0Njdi05aXUtUFdkUzJ6U3YtdmgxaFduQnUxSFRva9IBlAFBVV95cUxPUzdxNDM5QVpzajhrUGNwdzFRa0h4NEh1VEFqdGxHV1VVSUFfcWtzcG44cGhSajYtSTNUV2lOaDU5VnBELVM5UXhCdmRuZ2dMOWFISGM0V0F1a0o0MDRPYm5ZX2cteEwwSzlXMWxXLW04YWVQckFqTDdEdXlneFZZcThoRFFTblU3ZWp6TkZuY1FpR2J1?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795559100,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Dow Reclaims 50,000, Closes Up 423 Points; Philadelphia Semiconductor Index Plunges Nearly 8%, Dragging Down Nasdaq - BigGo Finance",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KZHFlbFg0OVVxbG1KUkpzclE5R21mU0ViZFY4YWFYMVlGWDFuYUlDVVBfRnZ3SVY2Q2dMWWJJRGlUMEJjeVAzS29BZDVIZW9sTEpkRk5jUEZkeWVsTVNFMklTalRHOEEyNklaUGR1ZllvUG55akE?oc=5",
-  "surgos": true,
   "eredeti": ""
  }
 ]
