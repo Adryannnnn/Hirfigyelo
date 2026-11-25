@@ -1,5 +1,27 @@
 [
  {
+  "ido": 1795639560,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Kicsit korrigált a forint, de jelentős gyengülését így sem tudta teljesen ledolgozni",
+  "link": "https://www.portfolio.hu/deviza/20261125/kicsit-korrigalt-a-forint-de-jelentos-gyenguleset-igy-sem-tudta-teljesen-ledolgozni-878896",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795639440,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Federal court blocks second Trump order on birthright citizenship - News From The States",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSEkzQmQwd0RNcmhfOHRGSUJtZTV6SWxwWXZCOU04b2s5OGVyYTMzTElYYTV0MHY1ZmVIZDlERG5BMHgtUlJkUjM0bmREa0JFdWNxTWg4bW80VlVaNmZHN3B1M1JVN09WTjRTZVBzVENTV2VFRW5wZ1ZLTWlZYng3VGVtcGRXdlJ1U0NxZURSaXlubEI3WWlNSXU4LTJyOWZpTXc3SE03WQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795639423,
   "forras": "CNN",
   "temak": [
@@ -7,6 +29,39 @@
   ],
   "cim": "Trump Upends American Foreign Policy - CNN",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdGpGbHBBaXh6RFd3dnhvWTg5TjJHR29hWU1yNF9IanVkSmpBSzNIdVRzV016WXMwZmJOb2o5MHFqUTJKLVE1aW9mWUdrREtiaGNkYWZCcGhLdHJlS1RESzRQRnV4eGhNbFNsR3UxSWRrUXhmN0RfZmI3R2ZjTEpGOEh5UDNBNHl0YjZxN0xiWnZMMWs?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795639320,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Judge throws Supreme Court in Trump’s face in birthright citizenship rebuke - The Independent",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYWZzbTlrLXA1QVF1RUdZSFRCMi1MNmlxZEZmNGQ4LWI1R2lZNXRTTkl1NGhfdXVCV0doYm9EcnExY05ycFdOYkxUZWFTN1Vtc3p4d1NGMGVEUHhaQVNkYXdPMi1LOXBCV3JGR0RrRlJvY1BoY3JkMTJQQkJJeXFHaVlTM1lCU1IxTmtqZ3hRNWRNUEJOVUI3MDkxYnhTMEpuSVZHU2Z6S2VOdkFKaXBVZlhKcExxcVg4WkdFdHpPQWNFYkU?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795638925,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Judge blocks latest Trump effort to restrict birthright citizenship - ABC News - Breaking News, Latest News and Videos",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSDlJVVFEUEJlRkxUUHVXZnF6dk1pZ2d6cFI3b0cwblNlRVgxTU5mZWJLNkFfX2VZTzdIR285Qzh4cF81TngyN3ZzNm9Udm43T1pEcXdQQXVYYTZ4cTc4dVEtSnBpdWFJYV9HSXFMdFkzRE5rSXdDYWEyOU5NZmFHNThONVVqVU1NaThac3c3NkdlU2EzamZLYWk1ZHdGV3g1V1lYNTl6elRtMGFsbXh0WlBR0gG3AUFVX3lxTFBpUG43YlhZYlBCWm1FRXBNWjlGRDVEMU1QY3R6djBJUjFJNV9WYm00dkhFaXQwbHJTS2JyNnZrNlJkQ3Y5bWFpendpakk4b1d2cW94VUxWeXpGY2lNWlQ0dnd2NS1UdVlCNmludmZsTEhPa05YODlCLWM2SmZpTmkzY0FseUlCcTRsTEV1QTMzdGdTUjBuSGgtdlFtYWR2X19rRnBWSDlVX1NlemtuS09DdXh5NVR0RQ?oc=5",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795638880,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Judge blocks latest Trump effort to restrict birthright citizenship - Good Morning America",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdjBHRFF5cjllWFVRRGN3dnVjRXhEV0RaWjU4by1JNFFmQk1QN2psbmdLV0RUS19haHRUd0RSZ0ZNM1daZ0l1R29fRHE1N1N4c1VpSURFYTVjSUQ3Wko3b1dxY1J4ZHNQMEk1NXlueFJlSDFuRzZhQ0VyUXhmQ2M5U2U2T2VTNk5iVU5fejY5SHpaMXFJNERLRTNkZjd5WXFSZ2tLbGhxbzRrOFhWREZRaXVkbnpnT1htSl83RNIBwgFBVV95cUxPVENlYU4yUXJDTzhUVDdlVTFPc2FaeXd1V09pMl9acnJRWVRpTVBwZGhTeW1WTWt4NE5jSHVkd1JJNjVlRHdZVm1TR01FNEVqd29mNGpRbzF2V0JpR2xISnlyb1gtbzJUWDE5NEpZM2prSTE1SmlaSVg4cXlqRDBXc01JZVZmVHNIX290Wi0xckVZZ3NWWW1tVEpodkl5OUt5WDFzV1BuS21DeWtPZFlzV0ZtZmJjblZFcHZSanBkOEZIZw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -139,6 +194,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795638058,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "BBC Fights Back After ‘Surprise’ Decision in $5B Trump Lawsuit - The Daily Beast",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDBvOTYtenRIVWxhSVlPdEtKTUg3cWhRQ2w2WE9hX1FOemVkektBVnNScno4R1RCU1FwekdmRnRkTXA0U0NleXhZcE1yWHMzbEgwQnR3WWdQcmRQRm5DOGs2eDFXYlMzd2tJQVlBVFJuQ3JQdXFpeHZTYmV5NDRTRnJTM1JaNHFOTHlKekxmZVY4bHM?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795638012,
   "forras": "Blue chip 2 (Google News)",
   "temak": [
@@ -231,6 +297,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795636996,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "US to hike tariffs on China, EU, Brazil and others over subsidized factories - Boston Herald",
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3aVRDZHNIZU4zYko1R3FxN09fMDg5eU1pSXJ2aHhLQ2ZubDVPUjlkLXlvOGJaaHNJQWQ1ZG92bF8wbjJBX0pjTHJla1lHSXRiWWRwbHBWazRRY21jVHNhZkRIZVprbE00dmo0?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795636920,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -251,6 +328,17 @@
   ],
   "cim": "Tech Stock Sell-Off: Here's Why Apple Has Been Immune - The Motley Fool",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZmx0QkdUUWF5dUxZbnBYa1RYYjBXTXdDR0FQOHJwWUszbm50Mk5NTWg1VHJlUVo0YlZ4WEpsRmlQOTZqOGZnelA4NXhBbDRTWUFYN1hLT0FnSmUyWUJFRG1TbXc0dTlBU0U2RnVxV2tDNjdiSUZyUXI2U1NVdVl3Q0tmWFJMWldvNlE1cEdiWVpIcDhldnBHZWFpTQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795636690,
+  "forras": "Reuters",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "How China got access to Nvidia's AI chips despite rules to stop them - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU05FY1hvQmJod19oM3p3aTZQaS1CdktCWEZsSnk0TmVWREE1a0tmVW5kVnBxdG5VNU1TX2FmWnZ1aTc1UEQyblFkSklCZ3NlcU1XQUZQVDUwTXZ6R3BoVjlRb1RPY0pTNGdmUUdNZkw0Zi1oanJOcXFieGlBdzRTN05pa3FsaVhUWVk0UWpzc0hkN2kySGF6bGRpU1Y1a2IyNi1iaUFQZThLNVZON0E?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -302,6 +390,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795635817,
+  "forras": "Wall Street Journal",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "The Frantic White House Push to Get Jensen Huang Back - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pRUxrRllGQzRjbm1mbkxwWi1pcGVDREtMYVFlTWt0c2RaMm4zSFZ0UTFIOHc3eVpiaS1xODducUx5T013ekU4czVXaUVmR2JUblZPNS03Qy1yNW9wNloyaGdWeHVBQUI1VVR5NTdfRUxfNTdvdG1pSA?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795635780,
   "forras": "MarketWatch",
   "temak": [
@@ -321,6 +420,17 @@
   "cim": "3 Glorious AI Stocks to Buy Hand Over Fist If the Stock Market Crashes - The Motley Fool",
   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHJRNzRpNGJpWlJKUE9nQXVXVVNiakZWeElwel96U1BWem0zYXdvTVdteVhwUU9zOGNZdmdINTJNM0YxTEJhZGREQ2o4RDhBSHdRcHZqclRsb2kzTnUxazE3SVhDalNtRVJHMkxkU2JmNHcyZFI4Um53X0ZlN0k3UmUzNC1OeHEyOTFQVFFfS0NSSmdVSmJHbWRsdWF4bHptTGJUSnoyOGVmcW9BWmhZVDlsQQ?oc=5",
   "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795635680,
+  "forras": "Investing.com",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "Fed Beige Book shows slight growth, sticky inflation ahead of Dec meeting",
+  "link": "https://www.investing.com/news/economy-news/fed-beige-book-shows-slight-growth-sticky-inflation-ahead-of-dec-meeting-5051430",
+  "surgos": false,
   "eredeti": ""
  },
  {
@@ -475,6 +585,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795635228,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Wall Street rebounds amid fragile sentiment as Nasdaq recovers from steep morning drop",
+  "link": "https://www.investing.com/news/stock-market-news/wall-street-rebounds-amid-fragile-sentiment-as-nasdaq-recovers-from-steep-morning-drop-93CH-5051426",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795635064,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -485,6 +606,18 @@
   "cim": "Trump launches sweeping new tariffs on China, India and the EU - Channel 4",
   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMElNT25tcks0c1BVblJTUkJVM0lVRDlNa3IwWW9xOEQ0RXhnNWVIX2w1dzdvOGZwVTZlT3pkY3hZYmdqUGFnUXlQa00yV2FXaVNPcXpGY0tiRUI1cnNpRVJOdGZMT1QwRVlLUF9Zei1UdGotWHg1SEYtRzVXaERRVzJoTVM2VzFOUXFNUFFxTXlIQjUwTXc?oc=5",
   "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795635005,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump Defends Putin As ‘Friend,’ Says Ukraine Peace Deal Has ‘Real Good Chance’ While Russia Rejects ‘Quasi-Membership’ of NATO for Kyiv - Yahoo",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ1VLSWVHam1ldndNWHBYaHRZU3FfREZNUnNaUldCYnZqbE53eHpvOFkyX3NKRU9fbHhTU2xyQWdnWUFOSHBRWVRBb0ZBNURHbVY1SmVESHVwdHdyMHh1c2ZacEN1Y0VCbWxOTVpkMlpFMGlwUzdQeE56aklVemFtV24zTi1WV0M3SmM4ZW9qVVdnMXpVbFE?oc=5",
+  "surgos": true,
   "eredeti": ""
  },
  {
@@ -520,6 +653,17 @@
   "cim": "Stocks mount a huge comeback from morning lows. Plus, a closer look at Micron and Starbucks - CNBC",
   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbHRVVFJIR3ZsSWZ0cE5QZHF0dWNoU284SzRNM1dheXVfQXJSVWdMZ2JucGlkRk5VR2V4dVFWV1Q0dGliZVdUZ0xTSDJlc3pRbndHaGhXdUhJMXAxaTNfYVpuTng0ckJUaVVYa2o4TEprU080eHVPbXpCMEV6TmUzNFhFaWVZc2FrcHNjUFJHVWZPS1pBcUk3RVBPTVlVbmZ1cXZweVk2Ull3d3BnSXFvQ2psSXVFMUVuWXhmZER3TFV1R1JHRURtYXA2YzExUVFtQjU4M19TTQ?oc=5",
   "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795634790,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "President Trump Issues Executive Order Protecting the Executive Privileges - Latham & Watkins LLP",
+  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX21Hcm90amFSYjdDY3NrLUVJNm4tQS1PQWtsT091MmdOY2ZuMWZrU0tTVU1KdjN6TjVrcUxhRlZXSGo3T3oybFo0cTFtRl85bFd1TEU2dnloWk15NlBGOEEwSHVoamxQR05haXh2bXBUcnk3V2F5enYtOGRHNVZJS3VrQnRkS2hCdV9JYkdIZFRhaFhHTXhSMFEtZjF6R3JybFpuMmdGSUg?oc=5",
+  "surgos": true,
   "eredeti": ""
  },
  {
@@ -771,156 +915,6 @@
   ],
   "cim": "There's a lot more uncertainties, overhang over Nvidia stock, says Blue Whale Capital's Stephen Yiu - CNBC",
   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmai1zblc2QmZIR0VxcnYwa1ltY2dHeGFxQU8wVEhOLUlDV2xEOWxDQWVhbEhuMkE5U3JmaVozNGpqUUVkWU9MM3VxQXdaY1RzSUp6eElqWUk2U2ZaXzhiTFFlZVU?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795633202,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "David Tepper Sold All of His AMD Stock. His Biggest Position Is Micron. - The Motley Fool",
-  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTGl1bWtTekVZUlZjbHA2eERfTFVwdnRyYldoVlNkUjYtOHBYVlBobEZBTXZIRkRQNGZyT3BaYk1vc0N0YUtzLXhrYTlGTk9lT0o5bEZaeDNaSUxHLVZQcy01REF3VDRDRUpleV9pMTEzbG5qM2JDclZnQjJWMUY5eTBLTTgzbVdlRXFuZ052WTNpU1AzRDFfRm9FWEhySzhzZzhBVFBrT2VTWnhuZVlpUnBR?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795633200,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Democrats need to use their coming congressional majority to hold Trump accountable on Iran - Cleveland.com",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUS1xcHdhajc2eUV3cHZ4R3dvZVNiVjFKR1pEcVllWk5lWnFMYVNLd0NVQmxfSThfV0M2dnNLQjNyQTlGWUdSSVZwcnpVcldZbGVKZDd0dGpnUXpTNXFBNWVTUXhaVUkxcldnNmtPX3FNQ0QyQjBaeWx6elRuZ3NYTm8yMW1EUVgyc3hzb0tnczY5ejBaUVVlNWNFRjJNZWdZOTk2eURpSVd4elphdjJaYVBTMA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795633200,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trump drags federal contractors into his expected battles with Congress - MS NOW",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3lvbmRfdkU0d3Y3WlplUGFHTWhJcGNRWkhQZzdjeEFLeVV3alpfZkM4dnRKSkNfaVVfZzNvOUhYLVNQLVJSZlBQeXlRWWFZanh2djdKVGxRWmpGZm1Sa0lrUnFSbVFUZzhsMEJmQ0RKOGhTZzlRU1hQRWI0SDJRUFlmVFZlcURTWTN2bzcyV1g3QkRaSXpnbzM5OA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795633140,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Nagyon rossz hírt kapott az Nvidia",
-  "link": "https://www.portfolio.hu/befektetes/20261125/nagyon-rossz-hirt-kapott-az-nvidia-879170",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795633020,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Why Trump’s newest tariffs are made to stick - Atlantic Council",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVkpGMkxqSGRGRTJWU3hIQVZHdW1SdTNBUGtFdmZlV1lPR0tGTERCcFBNdjhTWmxFeWs0dzZpakI1dGxQbUZndUthWXZFQno0aVlNU180QXJtSm5OQXNPWUQtUDlGRWZjWndHbnRuX0FiTnlKMkNJRVhtSWpKcFQ3a1h3TzZ1MTdLV2hLdUxYNEZOcXRDTUZhUUtfbmtiTkcxaFZSTjR5dw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795632960,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Rutte believes Trump is putting Putin to the test - Українська правда",
-  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wWjg1WUJ5ZTFQaEdCQW5ibDIyLVJ6R25PYWpXZlE0a21UcE9zdTFaZHR1Z0JaZFFldTM0Y0d3SEdXNlJzcTdnRDZydGVuQ0FoTURRQllsRTNOWXdIUVBqMHFjQWHSAXBBVV95cUxPdUhiMUxBS0VzS2JWU1BRczlSQ01LVGVSOFItQXNfQ0ZObGdjYzNRRVp5RnpzaEROTDNwTU51dDdDMjRHVlpfYXF0N19tN09valB3OWMyWHk3Rm53QWhBWnBkQ21OYm5pb2o1UWMyNUlX?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795632949,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Small Businesses Are Not Thankful For Trump’s Thanksgiving Tariff Surprise - www.inc.com",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3Rvdmp2LVdQU2IxOG5xYXVvcnpqYWJ5X25IZ2hJZmdhdnhBVk9rMW1CZHhtaklhNXZhSWR3dXVOdURzeHJlLVUtQUpfN1ZwdmhhUzRmaVRBbjlBTksydzZpN2QwLWtUUEZMWHZtNUdLd0hQUzlTOTdSNk0yU3dTT2JkZFJHeDc3V1hiWGlKNUJZdkp5RU1BY2dvcTk1aWtFWGhueTY3c3p5QTZGMWtZclNtMnY4eFJB?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795632906,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump targets China and EU with new tariffs - SMH.com.au",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVS1yM2dPUVFQS3Z1NXRxSExTR2ZMOEUyR1E4Q0ZIZ0JEVkJBWmxYdmV1VGlhQ09STjkwUWhTSTg1QVV2RkhTMHk5NnJWY1d6cWxJYUFHY3VZNjhmaG9EVFZWY2dfZXhpV01vZENacXptUGhGSmVNbjJNV2R2MEtaVm8zRjY2ckdBSjlzTlEyQnhYTlNSRzRqYQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795632901,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Why Alphabet Stock Is Down Today - The Motley Fool",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGFXeDBPQXVQOWxaWGJlY2VxMWIxSXJ0U0hTaXNucFktZVBlUENGbXEweUU0VXNSbUFGTEhienE0MmpibTIzeEp1TWFSZjlSb01hZ2pvc2FBQ01OcFE1Smk3MVFQOXhSSEJHeFplTlpOMjBfbzdQS1VtVTh4cWxmTQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795632900,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Boeing Books $2.8B Air Force Tanker Order, Xiamen Airlines' 50-Jet Deal as Shares Edge Higher - BigGo Finance",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OSUc1LVRma3RtM2E4N0RGVDhVN1JMR0ZkQldSWm1SZFpsUkcxMGFqMjhobEhmQUp2SlRZdUpuVUZhQkNORElrLW5PUkVMZ3U0TkZTUEpCUEhXZmNZUS1PQXNrcVVlY2ZKODRHRlZWSmtPellOeGc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795632891,
-  "forras": "Cointelegraph",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
-  "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795632783,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Benjamin Netanyahu, Jared Kushner hold talks on advancing Trump's Gaza peace plan - The Jerusalem Post",
-  "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rMUR0NHMyRGhsWW1UOTRGMFllSTlJV2VtRVRnRDFxWmNPTnlmNkIzdWVJOVZpMml1YVNGTFlKRWNkTlNEVHIxaDFHY1V5cWc4c2ZJQzZUN0s5dWwy?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795632720,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Megszólalt JD Vance: elnöki kegyelem nélkül folytathatja Jensen Huang",
-  "link": "https://www.portfolio.hu/gazdasag/20261125/megszolalt-jd-vance-elnoki-kegyelem-nelkul-folytathatja-jensen-huang-879168",
   "surgos": false,
   "eredeti": ""
  }
