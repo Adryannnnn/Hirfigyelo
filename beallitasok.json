@@ -569,5 +569,126 @@
     "USD"
   ],
   "trump_beszed_aktiv": true,
-  "trump_emlekezteto_perc": 20
+  "trump_emlekezteto_perc": 20,
+  "naptar_emlekezteto_perc": 20,
+  "ff_min_perc": 8,
+  "heti_aktiv": true,
+  "heti_nap": 6,
+  "heti_ora": 18,
+  "ar_figyeles_aktiv": true,
+  "ar_ablak_perc": 60,
+  "ar_nap_szorzo": 2.5,
+  "ar_ujrajelzes_perc": 120,
+  "ar_csendes_alatt": false,
+  "ar_figyeles": {
+    "Arany": {
+      "jel": "GC=F",
+      "szazalek": 1.0
+    },
+    "Ezüst": {
+      "jel": "SI=F",
+      "szazalek": 2.0
+    },
+    "Olaj (WTI)": {
+      "jel": "CL=F",
+      "szazalek": 2.0
+    },
+    "Olaj (Brent)": {
+      "jel": "BZ=F",
+      "szazalek": 2.0
+    },
+    "Bitcoin": {
+      "jel": "BTC-USD",
+      "szazalek": 3.0
+    },
+    "EUR/USD": {
+      "jel": "EURUSD=X",
+      "szazalek": 0.5
+    },
+    "Nvidia": {
+      "jel": "NVDA",
+      "szazalek": 3.0
+    },
+    "Apple": {
+      "jel": "AAPL",
+      "szazalek": 3.0
+    },
+    "Microsoft": {
+      "jel": "MSFT",
+      "szazalek": 3.0
+    },
+    "Alphabet": {
+      "jel": "GOOGL",
+      "szazalek": 3.0
+    },
+    "Amazon": {
+      "jel": "AMZN",
+      "szazalek": 3.0
+    },
+    "Meta": {
+      "jel": "META",
+      "szazalek": 3.0
+    },
+    "Tesla": {
+      "jel": "TSLA",
+      "szazalek": 4.0
+    },
+    "Broadcom": {
+      "jel": "AVGO",
+      "szazalek": 3.0
+    },
+    "MOL": {
+      "jel": "MOL.BD",
+      "szazalek": 3.0
+    },
+    "OTP": {
+      "jel": "OTP.BD",
+      "szazalek": 3.0
+    },
+    "Richter": {
+      "jel": "RICHTER.BD",
+      "szazalek": 3.0
+    },
+    "Magyar Telekom": {
+      "jel": "MTELEKOM.BD",
+      "szazalek": 3.0
+    }
+  },
+  "jelentes_tickerek": {
+    "NVDA": "Nvidia",
+    "AAPL": "Apple",
+    "MSFT": "Microsoft",
+    "GOOGL": "Alphabet",
+    "GOOG": "Alphabet",
+    "AMZN": "Amazon",
+    "META": "Meta",
+    "TSLA": "Tesla",
+    "AVGO": "Broadcom",
+    "TSM": "TSMC",
+    "AMD": "AMD",
+    "INTC": "Intel",
+    "NFLX": "Netflix",
+    "ORCL": "Oracle",
+    "PLTR": "Palantir",
+    "JPM": "JPMorgan",
+    "GS": "Goldman Sachs",
+    "BRK.B": "Berkshire",
+    "WMT": "Walmart",
+    "V": "Visa",
+    "MA": "Mastercard",
+    "BA": "Boeing",
+    "XOM": "Exxon",
+    "LLY": "Eli Lilly",
+    "PFE": "Pfizer",
+    "ASML": "ASML",
+    "MU": "Micron",
+    "ARM": "Arm Holdings"
+  },
+  "jelentesek_kezi": {
+    "_pelda": [
+      "2099-01-01: OTP gyorsjelentés (nyitás előtt)"
+    ]
+  },
+  "figyeles_ora": 6,
+  "_ar_megjegyzes": "ar_figyeles: eszköz → {jel: Yahoo-jel, szazalek: küszöb}. Az ablakban (ar_ablak_perc) elért mozgás ennyi %-nál jelez; a napi mozgás a küszöb ar_nap_szorzo-szorosánál. Törölhetsz/hozzáadhatsz eszközt."
 }
