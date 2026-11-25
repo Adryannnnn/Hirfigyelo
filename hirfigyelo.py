@@ -1367,31 +1367,168 @@ def ar_figyeles():
         return 0
 
 
+FF_OLDAL_URL = "https://www.forexfactory.com/calendar?day={m}{d}.{y}"
+
+
+def ff_oldal_sorok(datum=None):
+    """A Forex Factory naptár weboldala (az adott napra) feldolgozva: [{cur, title, actual, forecast, previous, jel}].
+    Az ingyenes JSON-csatorna nem tartalmazza a tényleges (actual) értéket, az oldal igen."""
+    datum = datum or datetime.now()
+    url = FF_OLDAL_URL.format(m=datum.strftime("%b").lower(), d=datum.day, y=datum.year)
+    req = urllib.request.Request(url, headers={**UA, "Accept": "text/html,application/xhtml+xml",
+                                               "Accept-Language": "en-US,en;q=0.9"})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        szoveg_ = r.read().decode("utf-8", "replace")
+    if any(x in szoveg_[:6000] for x in ("Just a moment", "cf-chl-", "Attention Required")):
+        raise RuntimeError("a Forex Factory védelmi oldalt adott")
+
+    def cella(tr, nev):
+        m = re.search(r'<td\b[^>]*class="[^"]*\bcalendar__' + nev + r'\b[^"]*"[^>]*>(.*?)</td>', tr, re.S | re.I)
+        return m.group(1) if m else ""
+
+    def szoveg_tiszta(h):
+        return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", h))).strip()
+    ki = []
+    for tr in re.findall(r"<tr\b[^>]*calendar__row[^>]*>.*?</tr>", szoveg_, re.S | re.I):
+        cur = szoveg_tiszta(cella(tr, "currency"))
+        if not cur:
+            continue
+        ev = cella(tr, "event")
+        t = re.search(r"calendar__event-title[^>]*>(.*?)</span>", ev, re.S | re.I)
+        cim = szoveg_tiszta(t.group(1) if t else ev)
+        akt = cella(tr, "actual")
+        cl = re.search(r'<span[^>]*class="([^"]*)"', akt)
+        jel = "jobb" if cl and "better" in cl.group(1) else ("rosszabb" if cl and "worse" in cl.group(1) else "")
+        ki.append({"cur": cur, "title": cim, "actual": szoveg_tiszta(akt), "forecast": szoveg_tiszta(cella(tr, "forecast")),
+                   "previous": szoveg_tiszta(cella(tr, "previous")), "jel": jel})
+    return ki
+
+
+def _cim_norm(s):
+    return re.sub(r"[^a-z0-9%]+", " ", str(s).lower()).strip()
+
+
+def ff_sor_keres(sorok, penz, cim):
+    n = _cim_norm(cim)
+    for r in sorok:
+        if r["cur"] == penz and _cim_norm(r["title"]) == n:
+            return r
+    for r in sorok:  # laza egyezés, ha a két forrás kicsit másként írja a nevet
+        if r["cur"] == penz and (n in _cim_norm(r["title"]) or _cim_norm(r["title"]) in n) and _cim_norm(r["title"]):
+            return r
+    return None
+
+
 def ff_oldal_teszt():
-    """Próba: eléri-e a GitHub-futtató a Forex Factory weboldalát, és látszanak-e benne az actual-cellák.
+    """Próba: eléri-e a GitHub-futtató a Forex Factory weboldalát, és ki tudja-e olvasni a mai sorokat actual-értékkel.
     Az eredményt kiírja a naplóba és elküldi a teszt-címzettnek."""
-    most = datetime.now()
-    url = f"https://www.forexfactory.com/calendar?day={most.strftime('%b').lower()}{most.day}.{most.year}"
-    kod, nyers, hiba = None, b"", ""
     try:
-        req = urllib.request.Request(url, headers={**UA, "Accept": "text/html,application/xhtml+xml"})
-        with urllib.request.urlopen(req, timeout=20) as r:
-            kod, nyers = r.status, r.read()
-    except urllib.error.HTTPError as e:
-        kod, nyers = e.code, e.read()
+        sorok = ff_oldal_sorok()
+        hiba = ""
     except Exception as e:
-        hiba = f"{e.__class__.__name__}: {e}"
-    szoveg_ = nyers.decode("utf-8", "replace")
-    db = szoveg_.count("calendar__actual")
-    vedett = any(x in szoveg_ for x in ("Just a moment", "cf-chl", "Attention Required", "challenge-platform"))
-    i = szoveg_.find("calendar__actual")
-    print(f"URL: {url}\nHTTP: {kod} {hiba}\nméret: {len(nyers)} bájt\nactual-cella: {db}\nvédelem (Cloudflare) jelei: {vedett}")
-    print("--- részlet ---")
-    print(szoveg_[max(0, i - 300): i + 900] if i >= 0 else szoveg_[:600])
+        sorok, hiba = [], f"{e.__class__.__name__}: {e}"
+    szolg("Forex Factory oldal (actual)", bool(sorok))
+    akt = [r for r in sorok if r["actual"]]
+    print(f"feldolgozott sorok: {len(sorok)}, ebből actual-lal: {len(akt)} {hiba}")
+    for r in sorok[:12]:
+        print(f"  {r['cur']} | {r['title']} | actual={r['actual']!r} | várt={r['forecast']!r} | előző={r['previous']!r} | {r['jel']}")
+    minta = "\n".join(f"{r['cur']} {r['title']}: {r['actual'] or '–'} (várt {r['forecast'] or '–'}, előző {r['previous'] or '–'})" for r in (akt or sorok)[:5])
     ertesit("Forex Factory oldal – próba",
-            f"HTTP: {kod} {hiba}\nméret: {len(nyers)} bájt\nactual-cella: {db}\nvédelem jelei: {'IGEN' if vedett else 'nem'}\n"
-            + ("→ az oldal elérhető és látszanak az actual-cellák." if kod == 200 and db and not vedett
-               else "→ az oldal innen nem használható megbízhatóan."), None, False)
+            (f"Hiba: {hiba}\n" if hiba else "") + f"feldolgozott sorok: {len(sorok)}, ebből actual-lal: {len(akt)}\n" + minta
+            + ("\n→ működik, az actual-értékek kiolvashatók." if akt else "\n→ innen nem használható (nincs kiolvasható actual)."),
+            None, False)
+
+
+def piros_cache(ma, penznemek):
+    """A mai piros mappás események listája, legfeljebb 30 percenként frissítve a JSON-ból (a szolgáltatás korlátoz)."""
+    c = allapot_kulcs("ff_piros_ma", None)
+    jo = isinstance(c, dict) and c.get("datum") == ma
+    if not (jo and time.time() - c.get("ts", 0) < 1800):
+        try:
+            lista = ff_piros_dt(penznemek, ma)
+            c = {"datum": ma, "ts": time.time(), "lista": [[d.isoformat(), p, t, f, e] for d, p, t, f, e in lista]}
+            allapot_kulcs_ment("ff_piros_ma", c)
+            szolg("Forex Factory naptár", True)
+        except Exception as e:
+            szolg("Forex Factory naptár", False)
+            print(f"[!] piros lista frissítése nem sikerült ({e.__class__.__name__}: {e})", file=sys.stderr)
+            if not jo:
+                return []
+    return [(datetime.fromisoformat(x[0]), x[1], x[2], x[3], x[4]) for x in c["lista"]]
+
+
+def actual_figyeles():
+    """A piros mappás adatközlés után elküldi a tényleges (actual) értéket a várt és az előző mellett.
+    A Forex Factory oldalát olvassa; ha egy közelgő adat még nem jelent meg, a futás legfeljebb actual_varakozas_mp
+    másodpercig (alap 420) vár és 20 másodpercenként ránéz. Beszédekre/ülésekre (nincs számszerű adat) nem vár."""
+    if not CFG.get("actual_aktiv", True):
+        return 0
+    from zoneinfo import ZoneInfo
+    bud = ZoneInfo("Europe/Budapest")
+    most_dt = datetime.now(bud)
+    ma = most_dt.strftime("%Y-%m-%d")
+    if csendes_most(most_dt):
+        return 0
+    piros = piros_cache(ma, CFG.get("naptar_penznemek") or ["EUR", "USD"])
+    if not piros:
+        return 0
+    lattott = dict(allapot_kulcs("trump_beszed", {}) or {})
+    ablak, koltseg = int(CFG.get("actual_ablak_perc", 45)), int(CFG.get("actual_varakozas_mp", 420))
+    max_futas = int(CFG.get("actual_max_futas", 3))
+    fuggo = []
+    for d, penz, cim, elo, elozo in piros:
+        if not (elo or elozo):
+            continue  # beszéd/ülés: nincs számszerű adat, nincs mire várni
+        k = f"{d.strftime('%Y-%m-%d %H:%M')}|P|{cim}#a"
+        mp = (d - most_dt).total_seconds()
+        if k in lattott or mp > koltseg or mp < -ablak * 60 or int(lattott.get(k + "n", 0)) >= max_futas:
+            continue
+        fuggo.append([d, penz, cim, elo, elozo, k])
+    if not fuggo:
+        return 0
+    for e in fuggo:
+        lattott[e[5] + "n"] = int(lattott.get(e[5] + "n", 0)) + 1
+    trump_allapot_ment(lattott)
+    hatar, kiment = time.time() + koltseg, 0
+    while fuggo:
+        most_dt = datetime.now(bud)
+        aktiv = [e for e in fuggo if (e[0] - most_dt).total_seconds() <= 15]
+        talalat = []
+        if aktiv:
+            try:
+                sorok = ff_oldal_sorok()
+                szolg("Forex Factory oldal (actual)", bool(sorok))
+            except Exception as ex:
+                sorok = []
+                szolg("Forex Factory oldal (actual)", False)
+                print(f"[!] Forex Factory oldal nem érhető el ({ex.__class__.__name__}: {ex})", file=sys.stderr)
+            for e in aktiv:
+                r = ff_sor_keres(sorok, e[1], e[2])
+                if r and r["actual"]:
+                    talalat.append((e, r))
+                    fuggo.remove(e)
+        if talalat:
+            sorok_ = []
+            for e, r in talalat:
+                d, penz, cim, elo, elozo, k = e
+                jel = {"jobb": f" – FF szerint kedvező a(z) {penz}-re", "rosszabb": f" – FF szerint kedvezőtlen a(z) {penz}-re"}.get(r["jel"], "")
+                sorok_.append(f"🔴 {d.strftime('%H:%M')} {ZEN_ZSEBEL.get(penz, '')} {penz} – {cim}\n"
+                              f"Tényleges: {r['actual']} | Várt: {r['forecast'] or elo or '–'} | Előző: {r['previous'] or elozo or '–'}{jel}")
+                lattott[k] = "k"
+            trump_allapot_ment(lattott)  # előbb mentünk, így nem megy ki kétszer
+            try:
+                ertesit(f"📊 Megjelent: {talalat[0][0][2]}" + (f" +{len(talalat) - 1}" if len(talalat) > 1 else ""),
+                        "\n\n".join(sorok_), None, True)
+                kiment += 1
+            except Exception as ex:
+                print(f"[!] actual-értesítés nem ment ki ({ex.__class__.__name__}: {ex})", file=sys.stderr)
+                for e, r in talalat:
+                    lattott.pop(e[5], None)
+                trump_allapot_ment(lattott)
+        if not fuggo or time.time() >= hatar:
+            break
+        time.sleep(20)
+    return kiment
 
 
 def ar_teszt():
@@ -1510,7 +1647,7 @@ def bovitmenyek(kuldes, elso_futas, eredmenyek, uj=()):
         except Exception as e:
             print(f"[!] statisztika-gyűjtés hibázott ({e.__class__.__name__}: {e})", file=sys.stderr)
     if kuldes and not elso_futas:
-        for fv in (trump_beszed_ellenorzes, ar_figyeles, heti_ellenorzes):
+        for fv in (trump_beszed_ellenorzes, ar_figyeles, heti_ellenorzes, actual_figyeles):
             try:
                 fv()
             except Exception as e:
