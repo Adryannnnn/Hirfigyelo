@@ -1,5 +1,87 @@
 [
  {
+  "ido": 1795589880,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde",
+   "Jegybank/kamat",
+   "Világgazdaság",
+   "Blue chip"
+  ],
+  "cim": "Nagyot zuhant tegnap az Nvidia - Nézzük, mi vár ma a tőzsdékre",
+  "link": "https://www.portfolio.hu/uzlet/20261125/nagyot-zuhant-tegnap-az-nvidia-nezzuk-mi-var-ma-a-tozsdekre-878904",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795589795,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "Berkshire Hathaway Price, BRK.BC Price, Live Charts, and Marketcap - Coinbase Australia - Coinbase",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTBDN2txUkhUcUxUZnlIRmZmV3hfY2hZd0g0WWRzaHpYYW92NlFjeVMyenBGaTJxcmFoWGFlU1loNDBhaDBGRE9abTZmS2kzOHdmSkxrcmRla2xwS0Z5aHh6emdSaEVPV0V0QXQ3LUVrSHVSLVBQTGQyRVM5U25MUHBQQXpnZjVZVDlvdG43cXIxUTl4MWl3NGFxaXpsZW5KYVV3SkV4Y1o2RHVNNTRfNTVvWjE5QQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795589611,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Amazon Stock: The AI Boom Is Just Getting Started (NASDAQ:AMZN) - Seeking Alpha",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQzRXQkNNUEhDLTVBbUE5TTh4QktNYUNzZXhkX1l2Qi1JUW5CUTRST3NGczR6OEo2cDJORUJORXJuVkdBXzNZY0UxSXVTanNkanlBdUY4blQyVHgwcmdEQXNSQnFaWTlwbXo3bXdXdHJyV0pDSlNxU3o4MGFtUmd3bUNPYloxcGNXdVdOdEl5RHRKN2E3Qks0cjE4cnpsOFJEWTF5SGw1ZXN5cDJDVXNDSHpTRQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795589587,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Dangote Refinery Said to List in Lagos on December 1",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-said-to-list-in-lagos-on-december-1-video",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795589336,
+  "forras": "Bloomberg",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "GPIF Agenda May Signal Portfolio Review Progress, JPMorgan Says",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/gpif-agenda-may-signal-portfolio-review-progress-jpmorgan-says-mwvrj40v",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795589256,
+  "forras": "Trump (magyarul)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Kigúnyolta Donald Trump Zelenszkijt, aki az orosz-ukrán háború januári lezárásól beszélt – \"Mit akar tőlem?\" - Világgazdaság",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZWNjQ2J4c0JWbUZlZ2JTUHZkVG4wam1hbkJYTm54WHJ5Nnc1NHBCTFpJMW40N1FWVDA1anhMekMwY3BqYnliQ2RRNjFnVzFETHNpamFzajhJRjU1S3NpM09qVGlDWWl1LXdPeDBBNUNSQ2VWVWYwVlZjUExjQ1owa09MdG0xZw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795588950,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "‘Disastrous' for ASML: Dutch Lawmakers Revolt Against US Push to Tighten China Chip Curbs - Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdi1yQ1BMQ0FZeTFWcTN3RWtjaG1fWTJScHZidExKTWxqeVFxNGthTHNXa0NxMXNuRlAzU0F4Z2NlUzA2bEdPOTE2NXlRWmtEbEpZQV9aSW9pMklxN1FrSWpOODF1czN5QU5LbVE5RWZiYjY2b1otSHlmbE1OOVZqMmp1X1VfV3B4WnVV?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795588390,
   "forras": "CoinDesk",
   "temak": [
@@ -157,6 +239,18 @@
   "cim": "Prosus Profit Misses Estimates as Food-Delivery Investment Grows - Bloomberg.com",
   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ1RlcC1UWGVodC1IcjhBcVdzQmp6cXlNMDF2RVpWQndXb1BlX3libDVOV0RIakRhcWdTQlN3T2JHYVBaYnVJYmRmUWM0V2RQbVVZUGs4MGVGei02MWNVWTY5eUZXdHQ5d01yRUZSVlRwZUdoYU41RXlNMk9XcUswVkM5TGdqQnp5ajJXN1JXaTcwMU5LTXlfNGtONGRtMGVSalgxWWFRQnc1dkEyX3AyMnpOaWR1Zw?oc=5",
   "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795585740,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump laughs at Zelenskyy's remarks about peace deal by January: \"He wants me to do what?\" - Українська правда",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fdkZnU3pTblJfbUdJVDk2aFNRNkM0QTFKY2tJR2QwWnQxYzdFUFZYVk9sRXB3RXhBRFdmZmNpRTBJVDhtbFE0YzZBclNoWlJRb2JUcmx2djZJS1hMakUtdXZjMELSAXBBVV95cUxQdzNxTnVoUGVTRE5URV9jYWJUREhfVEp0U0xXU0FhM09HRHplWVI2Um15Zlp5aTBUZGRyUHV3bmVEX0tGWEJhZEp6M3FIU1VPWkVQcjI1djhTUHVfbkVibVVKWnBLWmtjOUw4cXQ4azV6?oc=5",
+  "surgos": true,
   "eredeti": ""
  },
  {
@@ -338,6 +432,18 @@
   ],
   "cim": "What Nvidia and Anthropic's stock swings could mean for your portfolio - WKRC",
   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOenVHZFd1MnJuU3NkRFc0Q1FVemNMdkxYUUxKakozb293eFBQZVVnYklsWktneVJNLW1aMC0wV0pYbTNTYWl5QXZoM0hDNmVsbERjQ001R3oxYmJCZ3J2bVhGbXJvcnRZVDQ1Tk0wZFlwa1oyVTVjVTZ6U01yLXdCUGtONWZNN0NELVlsWFpxbmluenRFbjViemNCMG1nbGliN0tCNGtTWUFlak9rUnZObWNUcHZSUl9WSkFQdFIyZHRJQmxvWGNqWGdLQlRUZGhtSWc?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795584004,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "White House to 'Post': Trump's position on military aid to Israel unchanged - The Jerusalem Post",
+  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yM1Z6OGNwMzVrRFlOYlgxdnhlM0wwTkI4VkQ1ZTUwdGhoRllaNGZHMUVfSFZiN2o1TTBTcUxLQ1pGczRJN0xMNnVqaXNFTWVFMmZFMWM2Wm5BanBPMko4?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -804,110 +910,6 @@
   ],
   "cim": "Fact Check Team: Supreme Court to review Trump’s bid to suspend asylum at southern border - KATU",
   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbXh5MWFPdzVod2otNUd6YjJ0cFpHS1k0QUtPQmhvYUhqdTI5MUdPOTI2VUxVWElwSkM3VzdxWGRCSW10ckFUV3FVeDZZVUtzUE5kU01fT0ZhMkh1Q29Gc0pVbGFwQ1lEU1ZiNEwtbzFCRUM4X0VOa3E4WmFEOUhGdUZJMFIxRUw4eXFMYmo0cWcxV0Niam5RU1dkQzBPdmVOZloybkxUNFdlSC00QkFsUTd3RzZJdktBNFlsYlUtcXBjSm1VMDdncUZ3YlRqQkk0Nzk1TVlHMFVaWEpuYTE3WUVXRDdjYWJyZDZ3?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795578883,
-  "forras": "BBC World",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
-  "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795578698,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump plans new tariffs on 16 countries, including India and China - Udayavani",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUdxdXEyeGxHR19OVjJmMkVUTmcwQzY2RUY5TGdsa2dyMmRtQzdZRlBRS3ljcUZwSUZwZ0MyalpJODdXMzZlTFhJMWlvTnJSRjluZ3lOTXd0ZXJQNWQ4UjE4Y0F2QmR1bjdkWTVDWU92UTExNUVXX09tUW1HSzI3bjM1OThBTm9NOE5BQ2VQMS1zTTlLdnZ0M0VhQ0V4eFYxdm9LUnZ0RlBzV2VWZGo5R1M0dF9tdjQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795578580,
-  "forras": "Investing.com",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "BTCC Receives “Excellence in Crypto Exchange Trust & Security 2026” at the TrustFinance Performance Awards",
-  "link": "https://www.investing.com/news/company-news/btcc-receives-excellence-in-crypto-exchange-trust--security-2026-at-the-trustfinance-performance-awards-5049709",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795578471,
-  "forras": "Investing.com",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Why is Samsung Electronics stock plunging today?",
-  "link": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plunging-today-93CH-5049707",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795578359,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trump plans meeting with ‘smart’ el Sayed, says Jensen Huang pardon ‘always an option’ - Washington Examiner",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY0xCUV94OG5DQlhqcXVBMkFsVVBQY2toeEhBMGZKWUZ3Tm40U09JSXRQV0NKT0tZdkNoR0pXWE5DY0tDVURFQTRYNC14VWY4UlJ1ZUszZTZOdGRjSE1ndE91SENYVnpocy1yTHNkSXlzTkJUNFl4NXhqUXc4YlBjZmlzVFR1STN2UmtXQ0N0ZDFCaFUxTVhkLW1GMGwwdGZQY0p5eDFn?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795578171,
-  "forras": "Investing.com",
-  "temak": [
-   "Jegybank/kamat"
-  ],
-  "cim": "Dollar takes breather before key inflation reading; Aussie slumps",
-  "link": "https://www.investing.com/news/economy-news/dollar-takes-breather-ahead-of-us-data-on-fed-path-aussie-jumps-on-cpi-5049486",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795577900,
-  "forras": "CNN",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Bill de Blasio on Trump awarding Giuliani the Presidential Medal of Freedom: ‘It’s troubling’ - CNN",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0hLLVJWVGRwOV9UdTNKMVpWMC00ektRRW5uY0MyZ2RIUjFFWWdZTzBTZnZOV3hJME1mZmpYNk43UDlta2tLdjg1VG1ySVp6THBEeHZWbDc2ZUJjaE5hanlIc0g3Z1pHdTk1ejZOVjBJMHk5TjVoZkxoV0NTWFJLaVRNOEZ3VXo3Z1NhNFFxXy1sck8zMlhiclhlWDNjTUJFLV9SSVFBdmVsOGFUQlZLU1VoeU1tLXM?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795577880,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Taiwan among 16 economies facing new potential Trump tariffs - Taiwan News",
-  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wRkFKRlBSdHF3cWhYRDZ3ZVdwdGVoNjNvRWNBRzlRVEs3MzgxMDNtUGtBX2J1a0dhNzdMMDVQUi1IaE9pZ3R2Z3plRGhPcDJkYncycHZ1RXU?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795577751,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Pennsylvania Governor Josh Shapiro criticizes Biden and Trump over Gaza - NewsBytes",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObER2MGx1eENkQ0FjRzJoLUVkWGpJbXd1QklFbVFGemdVQ3I3SnVPd2Jpak5SWGZzSnVqZzBnNGRFNVdWSmFkX0Y4anBXOFFJeTVRYmNuQ0dBTGtqV2xOWkluTmtrNUJqMV9SNG5TWFZSZHVZSVY4dWNfUU9QWXU5elE0YzhXMGxIVFhfeFIyX2RsYXk0dkNKNEFlbV9iRDhQMDlIN2hDVncxX19fSURBUllmZV9QblU?oc=5",
   "surgos": false,
   "eredeti": ""
  }
