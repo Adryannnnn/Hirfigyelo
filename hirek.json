@@ -1,5 +1,50 @@
 [
  {
+  "ido": 1795606560,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Nem kegyelmeztek a képviselők a legnagyobb svájci banknak, de kaphat egy kis könnyítést",
+  "link": "https://www.portfolio.hu/bank/20261125/nem-kegyelmeztek-a-kepviselok-a-legnagyobb-svajci-banknak-de-kaphat-egy-kis-konnyitest-879006",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795606560,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Lecsapott a rendőrség: elfogták a százmilliós csalássorozatot irányító bűnbanda vezetőit, egy rakás készpénzt is lefoglaltak",
+  "link": "https://www.portfolio.hu/uzlet/20261125/lecsapott-a-rendorseg-elfogtak-a-szazmillios-csalassorozatot-iranyito-bunbanda-vezetoit-egy-rakas-keszpenzt-is-lefoglaltak-879012",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795606270,
+  "forras": "Cointelegraph",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Hong Kong launches tokenized debt platform with 24-hour settlement",
+  "link": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795606232,
+  "forras": "CoinDesk",
+  "temak": [
+   "Kripto",
+   "Jegybank/kamat"
+  ],
+  "cim": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+  "link": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795606020,
   "forras": "MarketWatch",
   "temak": [
@@ -880,52 +925,6 @@
   "cim": "Repedezik az olajkartell egysége: újabb tagország ment neki az OPEC-nek",
   "link": "https://www.portfolio.hu/global/20261125/repedezik-az-olajkartell-egysege-ujabb-tagorszag-ment-neki-az-opec-nek-878974",
   "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795600738,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump: War against Iran is funded through the end of January - BGNES",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaWcwVjBYY1BvcXBvQkc1Z2NPcVdmS1I0emdFeHpOZWhDTkF5SGFjZTVOaGdadlBBOFJtTVY0S21Xd05td0VXdktRN0dwZklDV3E2d19nSUcwbzRWR051bjBqaVRQb21nQTQ3Ymo4MDZORTFTMWxFeURDWnlYSVpJN21lcHM1ZTJUMUlWNjYtSFBjaS1S?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795600692,
-  "forras": "Cointelegraph",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "French Senate rejects 100K euro crypto wallet disclosure requirement",
-  "link": "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795600680,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Forex",
-   "Világgazdaság"
-  ],
-  "cim": "Több mint 23 milliárd forintnyi hamis és jogsértő árut foglalt le a Nemzeti Adó- és Vámhivatal",
-  "link": "https://www.portfolio.hu/gazdasag/20261125/tobb-mint-23-milliard-forintnyi-hamis-es-jogserto-arut-foglalt-le-a-nemzeti-ado-es-vamhivatal-878946",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795600661,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Army lays groundwork for death row executions if Trump gives approval - ABC News - Breaking News, Latest News and Videos",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzRjb0xPbC1DMk1ERUthMlZSQjhrRG00bzFKOGs2YlFFU0xsa1ZhZElNa1pLWC00VWVtNDNDVGtOSHR6cUNERnpCVU1oUGZDYV9vUlc2SjJuRmo1elctMG14bEhESlQyV3E5cnpaa1BCRFN1NnhZYjFBdXlVdFdmRXNnbWdCRmRnOGRqdVgxZHpyY0V3b3Ric3hzcTl5bWfSAaQBQVVfeXFMUERMemxQT09LZ3BCVVRwbmZoT0ZTSVpWMzRmNk1KeUlRVVNweEtMRUtDRElxTERLeXF6Mm9yOTFVNk5aTDUxSC04YXQwWWhkRW53VzRZT3dybDZRV0FDSFBVU0xUV0VOQUFUZTBLb3VJM3RDNU1sRHhmV294ZG41VmtFcHMyVWtKOUJoUmcxTjVnR1N1WnMzNHg0bUVIbk45eXltVV8?oc=5",
-  "surgos": true,
   "eredeti": ""
  }
 ]
