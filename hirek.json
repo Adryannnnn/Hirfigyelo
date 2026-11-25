@@ -1,5 +1,77 @@
 [
  {
+  "ido": 1795628340,
+  "forras": "MarketWatch",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Why this stock-market selloff is probably going to get worse before it gets better",
+  "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795628313,
+  "forras": "CoinDesk",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+  "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795628207,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "BNS: Bank of Nova Scotia offers notes tied to Micron and NVIDIA stock - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRmxpeExWUGcyQ1Q4Z2NLal9teGI1R01BaldYenoydmpnd1p6SHpyUzJGc0tsUkx5bU8tSzR2ZnB1bGdMSHlMYXlUOU5HeGF0aFFGSjFGeXZCeGxUenFNUlVPV3dSZ3FEUkFydmtUaENyMmpSalNzV2VvazJkT0hhQVp6UGtsWU9CMm9pOUh4WWFkOXM?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795628076,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Trump administration proposes new tariffs on 14 economies, including EU and China - Seeking Alpha",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdlVhUmdTV2FSTWZna0RmZU1GVktjZ1lXUGdka3dyWW9tcHVuT1VaV1Z5Y2xxT2V5VlMxZndUNXBFZE11YjRIektzZV9hVElKQ0M0SVpvdXVoWVc0V0ttWUFKcnhEU3FkMk8wVjlqWnFfRkZiaHdsODVQaVlTaFBvQjRXd21nalRJUm9XYlZqcGt1Uk9FRVBfU29OS2NfZnEteHBkdWViMGkzS0Z5SzB0R0V3UzZFVmtnSlE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795628006,
+  "forras": "Trump – beszéd (Google News)",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Mark Carney Sets ‘New World Order’ In First Speech Since Trump’s New Tariffs; Then Points At Women - The Times of India",
+  "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNTkhlZFlSN0EtZWgwY3FVVUsxUEg2Z19KRWppakk3dE1IZUJOUVhsVF9CRHZrbWo1YW8xeDFrbWJxbEhpMlpKbFVXQ2JtNmxHY21QQlhrdkRzOWJLR21IbE1fNzhDdEF2aXBBNTBDMjNROTl5bnU1eVZRV3ZlUktYQTQyWC1mem9OT091MUNldW9ROG42TURVWmZmSFZweENoT0FOaW9vWlQzVEpSOVFqaDdxb1FNTmtqUlY3NHA0UEIwMktQcXB2M2ZJaTVPaGhlQ0JoVVdramwzdU5SU2t2ZHJMZkRTODdVRm1OTkdXVDB6WkI3MUM1ZGFuRzlkeFo3VHZBX3Jn0gGLAkFVX3lxTE1lRnBpd3cwMjd5akpqbm5KTWpwUjdtUWc2SllqN191T1hfdlFIcW9fR2JqeGdfVHdBZzI3TWE0SVBLaU9YbXlNTWg2dnMzbW0yNUpGTlN3RzVkbFNqdVgtLUc3alJ3R2VMMmR6eUFxNzBVRVhLUE9Xa09wYTd1T0pCUlJQUkotR0d4ME5qbzdJMVZMdG0xcnY5aE5BUkRyRld0dlFXejRYZUF5aUNyOWNxYkJsZnVFeERkWi1wcV9hS1YyYnczTE92ZDJTOElvQUNXVER1bUZ6TzBPZ0dYMU84Z21sS040d2lzMkFPYXdRVFd3SkNla242SWIzN2RoVDhVZVhTOFd6a1ZrQQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795628002,
+  "forras": "Cointelegraph",
+  "temak": [
+   "Kripto",
+   "Tőzsde",
+   "Jegybank/kamat",
+   "Világgazdaság"
+  ],
+  "cim": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+  "link": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795627727,
   "forras": "Blue chip 2 (Google News)",
   "temak": [
@@ -29,6 +101,19 @@
   ],
   "cim": "European stocks close down 1% as chipmakers slide with a 4% Nasdaq drop; carmakers hold gains on EU hybrid caps - MLQ.ai",
   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX19Lbm8zWTdMeERWYTNqUWhTTUdWckFVVHhLNTVwNkk4el9WZlh1QXQ5YWhYSTNzVC1lNFkwWVF1TG1reVVUVlROUXVYVVFmcGt6TWNuUUwzNzgySk5VWC1KZ2F2MXFqb3BZLXI3QkpHejZtVEhXeXYwR1hXQndaX1pFdkNuSzl0dWVEVXBQNkxnMDJfY18yelZKa0VTX3BTS1BKT01fcXM2ekNlaEVhMkdaZE1RVVcwcGlfRkVxMF91U3FOenYtbQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795627380,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Trump set to increase tariffs on China, E.U., & 12 other countries over industrial subsidies - CBS News",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc3VGZ0NHU1hIVGlOQlF2amwydFBjNkJ4N1UwX0VTVk1NQV9fcFNZcVYyNGFpbnhQUGZhdGJHcmV6TVptVjhRWk5SMV9DeUNCSGtmaXBYSzc2aVdZM3lOeHRmZ1ZUOTdsYlZHTTNRTHZIUmlkQkNybU85QmtFY0JETE50WTdoX1VwZ2xBSy05bVUtdkdOM1pCdDRxcGJJUkRTakJDaFZtcmpvbVl4N2V3cG9PNmNTLWlIWHpjRHUtaW1zR0Nq?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -79,6 +164,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795627025,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Jegybank/kamat"
+  ],
+  "cim": "Stock Market Midday, Nov. 25: Nasdaq Plunges 4% as AI Sell-Off Deepens and Inflation Remains Stubborn - The Motley Fool",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOOFdxSUtyREc5anF2S0ZYVWJ1LXpkRmhQS2dORXVhT3RvWkM0Qnh1V3pnXzBQSlFqZ2xGQVd0QmJiUHptZ0wtOE5IX0RCNTk3NXZzb1VNbXVxT182QlJuV2V5REdwYnlyZkVHUmEzZHR2cy1nQ1dPR3F2NzFRMXNnY2ktOVRFLTVUQ0ZYSUtCMWN3TkxLQWgyZFE2aE5SUFJlLW9QOHhBOXc3VjVlVXB4Z2hlMlgxV0dSODBoa3dRRXRfd1pQM1FtUU4tbDAzbXQzV25xRFl5SXhYakVWYS16ckJ2MGVtV3lXamx3QlZ2aw?oc=5",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
   "ido": 1795626960,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -113,6 +210,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795626671,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Why Is Micron Stock Down Today? Shares Fall 10% to $566 on Weak Memory Demand, Analyst Downgrade - Around Prague",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaDBFSzJSVzgzN2g4SWJtSXFMQTFkdVdhZ0xPWnBqall4bWZLR1R2Z3VYSF9DWWx1VmlLbjMxbzdIaXBSNFJQNWRDVUctdnBnMlM4NHJtVnlMOUdCcDZneWlJRW9oeHpibTYtaEdLeExjQzFTZXB4UG04YjRKNnd6RGpFTFV6UDhoV0JKeTBQdDdqb18ta3dfRDMxZVNhUThTMWpqX2s1bDhvOWZsb1E?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795626637,
   "forras": "Reuters",
   "temak": [
@@ -120,6 +228,17 @@
   ],
   "cim": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft - Reuters",
   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGZ4TFg5REgyY0VnandHQjZIMFN1cnNBOEJVQTBDaU1IWDFLVUxmdHFTXzRLVnVKc3pHd3lTYk9lRHZBOWV1Skd5V0VzVU05ZDRjZXdZekl5cWFneWI2b3ptS09taEhjNzZIcGhuWVdydDk5cnpkcElkMUdTZkJjTjROT09sOG5adVUxNVpNeGp5UmxaaHl2bzh6TklXMlp2eVQyVW9idi1QV25LcnpIeFBjMEF4RzNNbkNIU3JOUlN6WWVqSjRtTlFZMA?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795626617,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MS01wSHJ0d1J3eDhpZk1OYUk4ZWpWanhRYkU1OGhtV3lhODJib3hxOGkzNUJNVjdBVHN3U3NwOHZVcTBLa3I4cm5fVl9tak9OSHhPTlVxUEhGcHJuYjZYN3BwVC1RUzFmN2F1ZFhvSERxenPSAXhBVV95cUxNMk9GalFIT19DZThwZ3hGd3BjVkh2TGQtOGVOdkFoUjZjZnBURm0tTFBhb29nX3ppX0w5Y0xLV3p2S25QekdRVlRrcHo4OXlYaEFmYVNPY25JeFNpNldQbHprSkpmUVNBS0JvMmw1VkxtV0ViMnI4aWU?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -436,6 +555,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795624500,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Oracle Shares Plunge 8% as CDS Hits Record 356bp, AI Debt Fears Spread - BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHVXc3dPVXJJdWVwUFhJZE4tSmNWVTNKclBqMjdWUXZ1TFQtS2FOZEpXbDdWNXBuY205SWVIc0xyVGtobElKMlRRMUpHc0VWSE9iZl9yeUlSOV8wN2h4LUNTN08wZnAwajNFdjlaai03RTM5bFE?oc=5",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
   "ido": 1795624494,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -550,6 +680,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795624046,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Trump’s Tariff Shock Is an Opening Offer, and the Clock Is Already Running - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFQ4WEplZkU3U3pZUFNOeTFScWN0Q3NOVGd3S0daQ2ZFdDNDdWwzalV5NzF4Zzl2aWhuSmR6ZjhKSlJUd01QZlB5R1VXT3h1NThXZEV5YkpvM2FYN1RjRDdfYU94R1dHWmdvNnBnOVpiamZ6RlRNdFI5REZYTG1QTHE5b05WUXBreHpXVkN1VXFSZ19aaTNaSWtLdWFDd1A0MHh1QUtGZlRWTlZHdHZDSW1QVGV5bmox?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795624020,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -582,6 +724,19 @@
   ],
   "cim": "Melania Trump helps reunite 9 children with families amid Ukraine war - upi",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTViYmNSUXJaM05Xd1N1dVNhN1hRTjVOZTBJUklfQnoxRkMzTFJxcmpGMFJYenFiV3hsNGtsMTVicHNpR21xNXlDZlozSU4zNV9kRHM3b1NlcjV4OVllOFV4VFkxcE1laEVhOVg0NEJrYk5zRzQ3bDJhT3ZhOVdmcF9HRVNpdmNlTl9BdUlfNFRfTHNoemhqcGhBb0hLbU9K0gGmAUFVX3lxTFBNWk9CbUQ2QlM0VVNiWV9oeXF0LUdzYWZQdVRQY3YyR25uUVljZUw3RmF4Y1d0RXdhMUtueDctVkF6R3dyZnpzWWM2bjR3RjhKNUVwSzVEa1Z1Q214OVVhYkxlQVpUODUtQUlBV0hYWlBMa0NrbUpOaVU0R2VPQ1pmNDdVOXliS3BvekVGb2xaWEZqRldKdXBLbWEwRGVvRWhhVXdDU2c?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795623660,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump",
+   "Jegybank/kamat",
+   "Világgazdaság"
+  ],
+  "cim": "Trump rolls out sweeping new tariffs on Thanksgiving eve despite midterm backlash over inflation - The Independent",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWU5nSnl0RVJuQjdOaWZlcjFMVDNwR1Y1R0FVX1hlaGJBS3UwTTZDR1JtRkV6OFJJbTZST0JiUWYtTWU0ZkpLc0ZlLWRoMTlpSDJjekliVnFrTUxPT3BaOTdwVTJLUFk4NXU3NHRIV0gtOWtIUzhRbWJ6WDFJSVk2UTVZbm1mRTFySEEtcGxfYTJVNGx6S0s0?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -765,157 +920,6 @@
   ],
   "cim": "Earnings call transcript: Grupo Financiero Galicia misses Q3 2026 EPS",
   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-grupo-financiero-galicia-misses-q3-2026-eps-93CH-5051285",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795623089,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Tech selloff sends Aehr Test Systems lower 11% (AEHR:NASDAQ) - Seeking Alpha",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX0kxd3hxeWpYVnh4Y3FpcjA5S1FqS08yal9iZVA1ODMzSlBIMHRBNDRPMFNPMERhOE9wLVVWb2VGb0hNSXF3YVppUkQ1aXdhSllRNlFHM3hEZTk0TzJzcXNMekJNR0RsR0RWQ0w2RHBWOTRhM0JFdkFLZVV2Tk16Vl9jQ1RjM2o2R0xV?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795623060,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump's New China Tariff Plan Adds Up to 10% on DJI Drones - DroneXL",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2lCbXBrTFMyQ1NlZlM3UHJfMl9IUkdvR2dWUEVSaHgwQ05jekMxSGFsTFRKTWxjZmV5MWJVbC03b3JUVndzaWNacWkteFJzZW40cjVyOGlrQWltM2JRUmZGc05zU3RXRkhkRUtIZkpmaVFNck83THhQTTRwekxlZG1fQ0ZXcFRYVVVMREhTc18tYmZu?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795623024,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Why Micron Stock Just Dropped Again - The Globe and Mail",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNFVkR25lRGpsNW1UckF5Z2JkOVBkLWMwdldMRTJHLTZ2SzllTDd4cHlJbXdEMy12Y2s2elpVc1I4NGp6aFUwR3dkZzY0ZlhYZXRHYkgzekFCVVZDaUFoRjl2VWtZU2RFbnBQcHJXZTZOSVQyUVk5a0llSjRETHIxaldtVHI2R05zYXlWWUxFMjgzbkRsYXVMUmxwUEtXdW04QnFvTkpLRHVwQmR1RVd4b2lZc0VDRjFJcnBGdnlB?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795623000,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Forex"
-  ],
-  "cim": "Lehet olyan közlekedési kihágás Horvátországban, amelyért majdnem 1 millió forint a büntetés",
-  "link": "https://www.portfolio.hu/gazdasag/20261125/lehet-olyan-kozlekedesi-kihagas-horvatorszagban-amelyert-majdnem-1-millio-forint-a-buntetes-879116",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795622963,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Donald Trump’s Biggest Thanksgiving Pardon of All - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQjNXX3FkU0k3RGN5WUlTcmRBaUFuY0lfWTZ0bU5vTE85OUhVeWU3T3lnN05TZ2E3SGdzV0lodTY3RXg3NkhKcUhwTUlpQWM5OXEtS1J3QVE0SnhOUlRxS0xfV094bnJiMWV4cUlVa1R1djQ3Wm9KQVluX3F0djhJb1MtZm94RU0wckl5SC03ZGVhc0NRVFBsMFBTWnZQemQzY045VnlpZU5CTFJNZFBxMTJhYlJlMjFjbHIwX1R4dw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795622802,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump unveils proposed tariffs on major partners, including EU and China - VnExpress International",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUU5fdjFyM04xUzhaRm1UUk5GTVc0UDRON2UzRndRaXhPSHl4QUp6ZnJzbGV2NFRtMS1GXzRrZGRWbGR0SmRid1NRRV91Y0dwckFVU29kaC1QMlN0YTM1NGtpa0ViRlZkeHVhMjgyeVJaNmNZX25idUxVeVVncUdVUDg1Qk8za3VZNzVVRGFCVEdNQjVOQ0dwQTBWRW5fYlpIVUFoQm5ER2lLQXhCZ09zS0o0Z3JwZGk1VHVHa1dnM3RoM0pVWGZZNDNR?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795622769,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump to Preside Over Taiwan Semiconductor Plant Expansion Ceremony in Arizona - www.marketscreener.com",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbVlfVktLZGoyWWZQLVRBSUExc09wdnRURGROZmFYMnZpS3dic09oWFpIV2NKTjZBMGNBZlJoNHN2ZjZMbFJaWVI0cm5WZjlaTkN6a0d1SWZIRnpoQ0FadnUtVVgyLUp0dzBSN25lY3hKLTZOV05kZ1ExMVkzN2RFaGoxOFlkVU1kZW9SMEJiNzlISVprRS1tdWhSTVZXTkZyNzRObHMtOVVwVml6dUoyVk9pYVExdkpfSGd6ajZBbUtjSzQyaGNaLWVEOA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795622749,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Plug Power, J.B. Hunt, FuelCell Energy, Tesla, and Viavi Solutions shares plummet, what you need to know - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNenY3eUZBcTNKakI4MnlSbWt6SWZBOEc1NW1zdERTMWU5WE16WVJSOXhOOWtiRnZRN2NhV2dKRGZuVTAtc1dEbXFJTHJWRTdHdnlQZnRHYmdZRHBSb1ZEYXpEb3B5SEVHT053WnBTYk1WSjhEOGM5RWxPNkh2QzVSWDZZa3FENlhRV2o5UHJ2b2VTZUpodmZKTF9Ec3JMU3pfaTRnTUxMMXJuRVB1cTJUWXFxbVRDSlM3c0RpUzR0YmRSWUYtaFZjUkhYTGdPbDk2bDVOQ0hxTlBfUy1nbk9weFNrblJUQ1pQanB4bW42M1E?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795622580,
-  "forras": "Trump (magyarul)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trump új húzását Budapesten is megemlegették - Privátbankár.hu",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWdTWW5OUUJVdWRIVTVhQ3huVVFjRE5CcmJobHN3TkU3azRMeV9SWno4T2ZsTGk1d3FTVEVXdDhaNndqaUFCZk5LVW04QjZsVE5rS0pNdVg5X3pISFdmQ01QZE4tTGstbUtsVUg3SGJaeEUwYVlaN1NxZlJQUDV5THBrTlV0UnpDZlZVejRPMXJRSms?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795622551,
-  "forras": "CoinDesk",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
-  "link": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795622527,
-  "forras": "CoinDesk",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
-  "link": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795622400,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Mennyivel költenek kevesebbet az amerikaiak, ha esik a tőzsde?",
-  "link": "https://www.portfolio.hu/befektetes/20261125/mennyivel-koltenek-kevesebbet-az-amerikaiak-ha-esik-a-tozsde-878948",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795622384,
-  "forras": "CoinDesk",
-  "temak": [
-   "Kripto",
-   "Forex",
-   "Tőzsde",
-   "Jegybank/kamat"
-  ],
-  "cim": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
-  "link": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
   "surgos": false,
   "eredeti": ""
  }
