@@ -690,5 +690,8 @@
     ]
   },
   "figyeles_ora": 6,
-  "_ar_megjegyzes": "ar_figyeles: eszköz → {jel: Yahoo-jel, szazalek: küszöb}. Az ablakban (ar_ablak_perc) elért mozgás ennyi %-nál jelez; a napi mozgás a küszöb ar_nap_szorzo-szorosánál. Törölhetsz/hozzáadhatsz eszközt."
+  "_ar_megjegyzes": "ar_figyeles: eszköz → {jel: Yahoo-jel, szazalek: küszöb}. Az ablakban (ar_ablak_perc) elért mozgás ennyi %-nál jelez; a napi mozgás a küszöb ar_nap_szorzo-szorosánál. Törölhetsz/hozzáadhatsz eszközt.",
+  "stat_aktiv": true,
+  "stat_nap": 6,
+  "stat_ora": 20
 }
