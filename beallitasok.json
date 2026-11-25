@@ -550,6 +550,11 @@
     "Blue chip": "🏢"
   },
   "reggeli_arfolyamok": {
+    "S&P 500": "^GSPC",
+    "Arany": "GC=F",
+    "Ezüst": "SI=F",
+    "Olaj (WTI)": "CL=F",
+    "Olaj (Brent)": "BZ=F",
     "Nvidia": "NVDA",
     "Apple": "AAPL",
     "Microsoft": "MSFT",
