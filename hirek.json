@@ -1,5 +1,54 @@
 [
  {
+  "ido": 1795645500,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Nvidia Shares Slide Again as S&P Flags Possible Credit Downgrade - BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PdkZBN0F5ZmdvRi1vT2lKbjhaVmdNNDFyNHBWeEtMMU5XS1pWNHpOeU80WVhBOHRCVnc4MjB4YTRlMkdIbUlTYy1oNHVRbEhaZUllS3NGcE1rTkNBdEZxQ054c1ZkeDhPbHAxYkZPTXNMMEpNY3c?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795645488,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Trump proposes new tariffs on 14 trading partners, including China, Japan and EU - KHOU",
+  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWF9sVWlmdThvcUd1YUtKT2ZrMGFHZ2xrM3l3TW5PYXRhRjBQX1NuYVVBaUdNLWlaT3dFU2w0THFldTBnOUtMUG9HLWlyUW9NVGNOOHJZVF9zcExpZkliTmUtdTVETjlMM2w0Vy1YM2xTckpjQy1pLXFFMFZwZW4wX1pHQ1FWNVVKOFhoREx5Tzg5NlJGMTdBSDhabnlvc0dHQTF6enlGc09MaEdJYzVubG1tT1J3Sk9mYzhDbWpmLXd2b1ZaVzlxLVRGRWhRcldUSU5xeUROOWlEWVAxNDJjNXNVRjVjYzVkTGxrWG9RZmdMQQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795645305,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde",
+   "Jegybank/kamat"
+  ],
+  "cim": "Stocks Pare AI-Driven Losses as Dip Buyers Emerge",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-25/stocks-pare-ai-driven-losses-as-dip-buyers-emerge-video",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795644808,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "A propos - New US tariffs: 'Trump lashing out really indiscriminately', expert says - France 24",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb0xOeHFXRlJuT1V1SExteHVPYnQyeWFER0R3YWl4MFNZNFNZWThfWWxFR0NQYjZSVlI4cmtjUEJOVEo2VzFoUURmTTJFQUY5YXVraThsRkUxTTBnNWM1WTRsR2NHalpHczgwby1peklmUTA4YmdpZTgteFlxdk9VanBCN2U5azMzNzZTc2FkUkxoaHJBYzRPUnNoRkw2ZV9EQjlYV3NaN3VrM2ZhdmhfQnlhY2lIbk51eks1MTFFN3M?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795644681,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -7,6 +56,17 @@
   ],
   "cim": "S&P 500, Nasdaq, Dow Forecast: Wall Street Rebound Faces Major Resistance—Bull Trap or Breakout? - StoneX",
   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdklPRnp5aF8zbVJaTnU0QUJXNWpVUnJPUjRxUzNoUjNCVjFsVW5mQWpLbWFJMUo2SXo3empTdkl3S253eUZiZzIxXzhwVzlEa1NNNl94X2J1V0lVRDNrTjVncGhNTnlRYktqeXZUbjg5QzF0bFJlRXo1WlBFWnExWEJXTllQRDlRQmZmb20tMjFrX0hnQllORXN4azdVcmFXMnhIVG9EN2lnNWFzNzJhdGZTMGZVUFNQWkplTW40UFJQc1c3NW16WHFpejlBLTVyclN2ZUduSU95UQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795644642,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Asian Stocks Set for Gains After Late US Rebound: Markets Wrap",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/stock-market-today-dow-s-p-live-updates",
   "surgos": false,
   "eredeti": ""
  },
@@ -29,6 +89,17 @@
   ],
   "cim": "Cathie Wood Dumped 99% of ARKK’s Broadcom Stake Near Its 52-Week Low. December 9 Is When AVGO Stock Could Prove Her Wrong. - Barchart.com",
   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNX2ZZUGVla1ktc21uOWlmX1pWSnVmQVZrd0VISUZwVE1QdVROYW5QYlZySHZNenlpR0Y1N0FiYmRtejNPOUlFRERibFlxdjg2bmJmWkpMLTc0cGVfd2dzSHVJNU5YakZxWWJMa3VQMEVFQ3l6SXNVMW9ZMGZad1ZZdXh1c25vRXFsX1BueXJlSXRacFBpLVR4bHFaZ1BpdkdrcEdsNldrYjlSTkNwcjFUTU1fQ2FKWmhLWHQ0OVhKRzFkS2ZqOUxEc1RkRVRhOHpQZlg2ZXdCSXRHeXoxU3dMU1BaS3RuYkpHdFFIMVVRckJVSFFa?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795644382,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "S&P 500 Futures Slip to 7,194 as Tech Weakness Weighs - JournalArta",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPekc4UGlBLS1MNHlNUDdHWTVwUjB4bWZOd3M4YWRXS0pucWNkNkFONnRXU21mSnBGYjlEMGtwTVA3dXI5LTRXNFlOZTJzbGFEQkQ2cmJYWS1IdXo4ekduSmRla1ZzUlhaanRlLVZodWNNQ0NPSS1RcHV3Z3dybkNtSk9SYWZUTkxNemFLRWpSNUJWSVk?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -119,6 +190,17 @@
   ],
   "cim": "Elon Musk and SpaceX to donate roughly $17.8 billion to ‘Trump accounts’",
   "link": "https://www.marketwatch.com/story/elon-musk-and-spacex-to-donate-roughly-17-8-billion-to-trump-accounts-071c12e1?mod=mw_rss_topstories",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795643300,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "S&P 500 futures slip as Dow contracts edge higher - JournalArta",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdkM5ZHdOdFpvbWJFd1JkaWc3dUtQb3JDVjhrZ0E5MTV5M0JnQk00WXlBeXllWVpnMDdkUFd0LTF6eXVYUmt2ZW1OdDRPWUJFSGE2VWpYcWRjZzZ1NGpuRWI2ZmFIWFpKZXlJZW83ZmZIS3FVSjhqOEJpT2F0MXlneTJXR2NkOGt0MnNDblcwbG4?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -259,6 +341,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795642260,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Prediction: AMD Stock Could Rally 58% as Analysts Maintain Strong Buy Rating - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWkxOdU01SzNIV196RU9WazhvcnhyeGs0QlJBdW5neUg5SzRwOVBYd0d1R25UbXpvTnBndlNCWGowNGpEbGpJRGJqQjFON1p6WUNNMkRJOUxjVDZDSWRHZWMzSm5HNk1CWFZDc3ZFcEwzVW9UQWtLVUhTSUNsR0dZVG05T1BDOUY3Wl9lMzludUU1NDRUc2J4ektoVkEwUQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795642202,
   "forras": "Blue chip 2 (Google News)",
   "temak": [
@@ -332,6 +426,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795642020,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "“Thank you Jensen”: Nvidia options trader makes 1,984 % profit after Huang’s return - Notebookcheck",
+  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbE5lOTg5Q1UxVVVjejhNbUFOcUhpVWdHcUtKeWgyeFY1MUtJcHNFSUh5QnRSTldBSW5McFZIWWVWcDBEcFMycGNOUWVLc3VtMzNBYXZtQ2w1UU5LUVNhYmZIRGRxUzdpdWZNR0xRU0I4ZFg3ZlpzTXdQMHVJVzk2OUNYMnJwM1VTRGtiMWJUSUNXZ1hXWmp3MXZLWmZiNXVEQlRfdDdYaDlYa3VKbF8xdVJabWlQZHV3MHdhTXFiRFo?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795641914,
   "forras": "BBC World",
   "temak": [
@@ -355,6 +460,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795641754,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Dermata Therapeutics receives Nasdaq notice for minimum bid price non-compliance",
+  "link": "https://www.investing.com/news/sec-filings/dermata-therapeutics-receives-nasdaq-notice-for-minimum-bid-price-noncompliance-93CH-5051650",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795641739,
   "forras": "Cointelegraph",
   "temak": [
@@ -362,6 +478,17 @@
   ],
   "cim": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
   "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795641734,
+  "forras": "Investing.com",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "Crypto Fund Trader Launches Its Own Perpetuals Terminal For Traders Worldwide",
+  "link": "https://www.investing.com/news/company-news/crypto-fund-trader-launches-its-own-perpetuals-terminal-for-traders-worldwide-5051649",
   "surgos": false,
   "eredeti": ""
  },
@@ -386,6 +513,17 @@
   ],
   "cim": "Trump veje megszólalt a béketárgyalásokról, Lynxek kerülnek az ukrán frontra - Híreink az orosz-ukrán háborúról szerdán",
   "link": "https://www.portfolio.hu/global/20261125/trump-veje-megszolalt-a-beketargyalasokrol-lynxek-kerulnek-az-ukran-frontra-hireink-az-orosz-ukran-haborurol-szerdan-878884",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795641528,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Stardust Power to be delisted from Nasdaq; board member resigns",
+  "link": "https://www.investing.com/news/sec-filings/stardust-power-to-be-delisted-from-nasdaq-board-member-resigns-93CH-5051634",
   "surgos": false,
   "eredeti": ""
  },
@@ -438,6 +576,17 @@
  },
  {
   "ido": 1795641180,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Hadron Energy receives Nasdaq notice for minimum bid price non-compliance",
+  "link": "https://www.investing.com/news/sec-filings/hadron-energy-receives-nasdaq-notice-for-minimum-bid-price-noncompliance-93CH-5051622",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795641180,
   "forras": "Trump – döntések (Google News)",
   "temak": [
    "Trump",
@@ -457,6 +606,17 @@
   ],
   "cim": "Why ECB collateral eligibility could boost demand for tokenized bonds",
   "link": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795641013,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "S&P 500 futures edge lower as Dow contracts inch higher - JournalArta",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejNRVHBIMW5fZS1leFRNY0pxVnJqVWVISUphWWVPUkJoc0lWUm96V2VwRktWOURFUFJUMjhVOWppNjVhRGRiX2hDLUhjbC01NzM5UnIzNXMtN2FkYkh4R1NYLXRsdlFDeW5ITF9ZTEplYkoxY1JVeUNPNjBpLUowS3l3VUdGcllBU2M3MXVGaWdGYTZBUE9vSw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -607,6 +767,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795639467,
+  "forras": "Trump – beszéd (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "BBC Files Appeal Against Trump’s $10billion Defamation Lawsuit, Challenges Florida Court’s Jurisdiction - Sahara Reporters",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbTRkQV8xX0x2M2JKSXN2S29IbFpBRFp6MGxYcUVIakJsbnpUZTVVb2NJem9mTnNrUTd3RTBzWkRSa0RHaUU4aFpVc2luT0ZKX09nMnBLdE9JQzZVWjRJdEVwSHVLek9mSjEwd3Q5T2hkMGMtRzFsRXo1b0lac0FsSkpMOVdBd25tN0NjcTdvOXp5Q0lUdkdKNzM5ZXlXbjlUM3hmM1NqVFZ6V3ZkbTFWdzg0alBJUGNJRU10X2stdjEtOWc?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795639440,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -636,6 +807,17 @@
   ],
   "cim": "CVR Energy completes $1.25 billion senior secured notes offering for refinery acquisition",
   "link": "https://www.investing.com/news/sec-filings/cvr-energy-completes-125-billion-senior-secured-notes-offering-for-refinery-acquisition-93CH-5051551",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795639366,
+  "forras": "Reuters",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "Fed survey shows continued economic growth, sticky inflation in recent weeks - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -727,189 +909,6 @@
   ],
   "cim": "Markets Touch Record Highs Before Reversing As Chipmaker Selloff Drags Down S&P 500 And Nasdaq - Foreign Policy Journal",
   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcGsyeGsxWkJwRlZCZ2pDZ0JVNUY3VHFsdXdtN2N4UHZGZ1BGYWJqLS1BaVJtSjlwVC1wVmNCNUlVVUxDRWFZWDdnV19GRFh1SzhSZVlveUpyb1dLWHltd2FIcjJkek81bkpIbnJhTFd0MWNtbE9TVGg5Q1NQa1hJM2M2cE9ud1dFc1RTSTRtdzUyaUF3NGVDWVBfUWpreV9WeWl0Mi1RUVBSTXNMNnZod3ZBMWN0UFRQS0VLUlVfSm9oUV9oUko5cEZqRGtqV0RrenhDSnJpVmZEZw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795638507,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump to meet NATO chief Mark Rutte at Mar-a-Lago after Putin and Xi talks - KEYE",
-  "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQTzdGY2FfTFZ3WV85WDRGUGpVbjY4TEk5Y1lwcHBJaUpKSDJBTEJ4Q3pzMGR2QzVhYUdTdXQ5bGhlNzBDOWNCRHNGQUhRdWdHWWVkSE5YUGFkdFhSSDRFUVhsN21XeFRwTWRXVlg1akFTUmJGekFvUVlKM3huVkJfTzNNcUhZYmlLQXc3bzZ5bFVyWncyS1loS1EyRjdNRlZJUGxqWWhJQ2NENnVfWm1KeVFUT20tV1pGUnIxNjI3RFFfUzNtYnRDdDNsOUl4bnRqTUpGYk10VkpKU21iX0R3Q3cxQVRwQnVyUlI2OE1xX0pTS0Jwdko0TlBzbFFzeDhvZlN0ejFBYVdlamZyUXdBTlptQlpqQTlxRDd6Nm5yXzQxVXpXZmY4VjQ2ZU02LUt1ZXRLcGt2TDZvQ0Fzd0lBd0xYZ3JlcjlEWmV2QmNR?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795638461,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump says Iran war funded through January as Israel warns of chemical weapons development - KVII",
-  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeGtZSV9Cd2xzRFo2RC1yemZjbTRKZ2NqRjZyZW1LZ1RSVG1JQW9lZkpxSXBRZ21VMTJVNWt6NWVjSGNNNnZ3WVUzYU81X2loU0hrLVpFOElCVG4tb2RqcU4zX3FtdEhYcDI2eFhQeWhtRDhOV2JvNWtNY3JMMDN6ZUxOWnJzNnJWOGFOWUVQZFotM0JnVmJSNjFabFRZN3NOb1U1TGVINE1UU2dGM3ZYOFZ3cHRtN3FuMWpldm8wQWJCZmcwbjU4VGtLVHY3TVJKa1k2akpqLUZYc3Q2NXpJMw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795638455,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Rumor About Big Score on Nvidia Stock Surge Is Not Backed by Trading Records - The New York Times",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeldqODRQRTNYOTNIYmNYSC1NREZjZTdvZUwwT1NkNWZ3TFJYMVQ5VF9FeDJmcG1nV0NGRFlscmpIR2ZmT1JteEdYLUxpa01yR3htWUJlbXJEVnM4dmRlNUF6ejdOTHh1N0RfQkpYTWhJTkdEYjExV1MxT3JDZWluLTJ2d0hYdXRmdWk0?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795638417,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Bank Of Montreal (BMO): Buffer Enhanced Return Notes due 2031 tied to S&P 500 futures - Quantisnow",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUV9jbThnaU9vVWQ0aWpGV0VPSEI5Ql8tdGMzclZqa3dOQTdlNUt4RnN5Q2FZRXIxdVFfWUhtZDRfcW1aUzdkUGlFVUswUWpHQ0VGOERONS1KS3ZVU1RkZnBBWXRIamh6THJURG54YWZrUnlKOVNrYnNjYjFiUy15eGJsa0ZWTWhJ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795638350,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "After ‘pariah state’ warning, Kushner presses Netanyahu to implement Trump’s Gaza plan - Ynetnews",
-  "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSLUVZQUkxT1BzT3FtSTM5YVhYUlpsTVU4eTYxUGt1TTk3NG4wdkZPVXFBajRnQkt1LVNtVDdtV01Jcm1QcXNjdnV2Qm16cWRiVVIwZ1ZB?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795638292,
-  "forras": "Bloomberg Politika",
-  "temak": [
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump Revives US Tariff Regime",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-25/balance-of-power-early-edition-11-25-2026-video",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795638160,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Melania Trump Announces 9 Children Reunited with Families Amid Russia-Ukraine War - East Wing Magazine",
-  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QMVRnb1pjZW5rX283cERhcmhuZFExTi1SN3BzWVhKNjhYWW5oM3YwYzBwV1pwenZRdzJLZi1BbjNRNTQ1cWFTQ3dHelk1NHZMY1ItU29NSFVISmhVNThpV0JiVEFJdjNQbWpHU3JzNkJjR3p2WHZqdQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795638081,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Federal judge blocks Trump’s latest attempt to limit birthright citizenship - MS NOW",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWWZ2bjhRZWZuUERMak1PWlY4Z2V3SDZ6Y0dLM01GdVdFSDU3WWIyYVVFbDlPdWZFc0Q0NkpBamJwR1JQOVNreFF3MU9rQ2xVb0MzNk1MeTdjS1QycmtDRkM5eVVKVmMyX1R6Y0g5WmF5eERnbm9TM0kyUk5JT3kyMXBaNEdmZXQ1RE1Yc3NCM3F4a0dTbXkzVmZTQl9CQQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795638058,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "BBC Fights Back After ‘Surprise’ Decision in $5B Trump Lawsuit - The Daily Beast",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMDBvOTYtenRIVWxhSVlPdEtKTUg3cWhRQ2w2WE9hX1FOemVkektBVnNScno4R1RCU1FwekdmRnRkTXA0U0NleXhZcE1yWHMzbEgwQnR3WWdQcmRQRm5DOGs2eDFXYlMzd2tJQVlBVFJuQ3JQdXFpeHZTYmV5NDRTRnJTM1JaNHFOTHlKekxmZVY4bHM?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795638024,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "RPGL faces Nasdaq delisting risk over late annual report filing",
-  "link": "https://www.investing.com/news/company-news/rpgl-faces-nasdaq-delisting-risk-over-late-annual-report-filing-93CH-5051487",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795638012,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Why Oracle Stock Slumped Today - The Motley Fool",
-  "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WQWlqTURycE42MWpDaXJpY1ZkYmRDbDZWaUZOTVJSd292WFdYcjl2WlRiV09FRFBfbjB6SnpRekpXd1VoNTNaUGU3eWVxWEJkQWZHdkY3bmh3ZGQ2RGFyMGJlNEdrVmpzWUF4WVhUWVVuSFBUdDVmNTJJVTBLUQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795637982,
-  "forras": "Bloomberg",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Sanofi’s $41B Insmed Deal Shows Cost of a Patent Cliff",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-25/sanofi-s-41b-insmed-deal-shows-cost-of-a-patent-cliff-video",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795637968,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "As Nvidia stock fluctuates and talk of an AI bubble heats up, here's what you need to know about saving for retirement - www.marketplace.org",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbFQ5UlUxem1PQWhBYnBCbW45X2JSNnBoN3dISjRSTDhZRGJqRVh2bGdXdDFlbkIwOHdRYmN4OGdNRHhOeGRmUEtoQmRhM0RSQVowQm9Pc1ZTWUNxMWhWejFOSkwzYnhOVjcxY2pOeHVsZHJfc1V6RGRmMGEySmtiQUh0WFJxdE90eVBLZnJMUQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795637921,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Nasdaq sell-off drives rotation into consumer staples as tech losses deepen - Traders Union",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSmxPdkN5YktIb2d2SUlnZUJHREQ5U0dkdVJJUHpuU0R0NjJYZFNZYmRzYjhuS1lVOER4ZzdLclBRVFZWeHl5TTFWbmE5ZDNBVWNLejhkTi1haVJBOXdVcVhtZDhhWTdKUU13eEFVSlNxd0ZMR1pIeUpaUXlmeFRsS21na01BMnFRWGF1dHZVRXRxbjh5X3c?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795637708,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "S&P 500 Pares Losses on Beige Book: 10 Tech Stocks Rebound - State Street SPDR S&P 500 ETF Trust (ARCA:SP - Benzinga",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHJDVjhhVjFUYXB1U2xsamF2akNBT00yNjBHRmhERDRfRUpHS1Nlc0dHay1YRDhLa19hYWF3cTZKc2VneWl6Y1lRZUFqc0RLTGhnR0duUlVFLXNoWGN6R2NMdlBqUVdNMnhYRC1NRjNwalpTR2JINjB2UW5mRGFDMTRJY0FMZW4wV0RpQ3d3eEZjQ3JkY3FFZlpKQkdkaEdiTTR0U3VmbG1SZi1tSGxsd3gyU1FOV2N0WFhCa3ZGU3lwZw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795637667,
-  "forras": "Bloomberg Politika",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump Revives Tariff Agenda With Levies on EU, China",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-25/trump-revives-tariff-agenda-with-levies-on-eu-china-video",
   "surgos": false,
   "eredeti": ""
  }
