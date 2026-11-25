@@ -1,5 +1,67 @@
 [
  {
+  "ido": 1795615740,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Trump",
+   "Tőzsde",
+   "Jegybank/kamat",
+   "Világgazdaság",
+   "Blue chip"
+  ],
+  "cim": "Megint esnek a tőzsdék, menekülnek a befektetők az AI-részvényekből",
+  "link": "https://www.portfolio.hu/uzlet/20261125/megint-esnek-a-tozsdek-menekulnek-a-befektetok-az-ai-reszvenyekbol-878904",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795615740,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Figyelmeztet a Goldman Sachs, még túl korai megvenni a tőzsdei esést",
+  "link": "https://www.portfolio.hu/befektetes/20261125/figyelmeztet-a-goldman-sachs-meg-tul-korai-megvenni-a-tozsdei-esest-879078",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795615622,
+  "forras": "Bloomberg Politika",
+  "temak": [
+   "Trump – háború",
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "US Plans New Tariffs on Chinese, EU Goods",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-25/us-plans-new-tariffs-on-chinese-eu-goods-video",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795615271,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Stocks Meltdown Spills Into Unlikely Market, Sinking Carry Trade",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/stocks-meltdown-spills-into-unlikely-market-sinking-carry-trade",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795615200,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Az AI térnyerése és a trumpizmus hanyatlása határozza meg 2027-et",
+  "link": "https://www.portfolio.hu/gazdasag/20261125/az-ai-ternyerese-es-a-trumpizmus-hanyatlasa-hatarozza-meg-2027-et-878796",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795615053,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -425,6 +487,17 @@
   ],
   "cim": "Huang Rally Fizzles as AI Stocks Slide Before the Bell - www.trendingtopics.eu",
   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wVzNQVVVzN0Y4YnZKQXIxbGhzVUZ0MGV0VTRBbWFEVEtFT0Z6R2ZzRWlYVmREUkxBcjVfVENLZjlSVTJWdllFejQxNkg2WVBXMVE1d0t5ejlSdEFlTWJGc0VjYVgzTG9DU0JiMF9XdWdYQXZ6?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795612892,
+  "forras": "Bloomberg Politika",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "Here Are the Targeted US Tariff Deal Rates and Economies Hit",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/here-are-the-targeted-us-tariff-deal-rates-and-economies-hit",
   "surgos": false,
   "eredeti": ""
  },
@@ -855,74 +928,6 @@
   ],
   "cim": "Trump Pardons Freedom and Feathers in Annual Thanksgiving Tradition - Military.com",
   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQW1rOXp5N3NDS08zN0lVU2w2V0RkdDkwWWNoWE5kcDk5bHhwV0ZxS0JfaVREZUV2RmQxeEZodi1wdFI2R3h2UWJIZFB5Qzcwa05RX0R0VDRzRWRlc1JXeHB4V1VmLThXMk9CVjFPbXp2QnA2YXlLbTY0N25JcGJHWDZmQzlSb1B3dFV0T2M0aGJGYWp6cjdrVXk1b0VGRDQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795611008,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "US stock futures fall ahead of Wednesday trading; Dell results in focus - 联合早报",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2IxOTJFOFlJTGhDOF9DZGxsZGFwdTgzMF9HaGNVby1SQkQ3M292a3B5X29MYWxWZ05SWjBxV2JwR1UzaENXS0hoYmVoT195QW1wUHZTZHU4T2xTYWlDdnlvNURxZWNKbVBiSmJRS201VEk0ZDQxZXQ5QWtpVTlxV1Q3bG12YXZCWnFrclh5cExMZ25XTGdxNkJXTW16RGI0cU5PekducnNPaVU?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795610847,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Anthropic vs Nvidia stock: down 15.7% since debut - Opening Bell Daily",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVZObFo2U0hxanh5WFJ3QlJJUTVyM2xXb1A2NVFOaVdkcXcxSHBWY0RySVdTTXZ6ZU01NF85NGpHUlRRa0Q2T3Z6ZE03eUtQQlBldlpHWkE1bUhUdktXSlpwSFNOdmJKVHRIZmRCLUxnaHZESTF1Tkp4SGdxc1VvT2JtZHpKblg4LU96Qk9Qcw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795610744,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Earnings call transcript: Polestar Q3 2026 revenue miss weighs on shares",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-polestar-q3-2026-revenue-miss-weighs-on-shares-93CH-5050823",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795610659,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Donald Trump shelves plans for business deals with Russia in Ukraine peace push - The Irish Times",
-  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcnhkd2dJdGdPVXM5VXVzZjdJd0w3VVBYUHh5ZVZta3doTzhZS2FSa0VRV0NDR21fdDdNTkJ6VExOUDFud3BqcldYcWxxWUhUdlUwWTY4d2UtNmlOZVYySTYybGtGUk4zQ2hqZTd1VTJmRUExZzZMOUZjRF8wdjJOUFhYZ1d1QVJXLW9UT1ZfekYyTHctaXJCWVZlQnBHdU9lMGx0OGtQajF6bDYwT1UxcHlZZm8yV0dGOFhGcjkyV05pQ3FhWm13QVc0bw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795610640,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Forex",
-   "Világgazdaság"
-  ],
-  "cim": "Visszatért a félelem a piacokra, már 374 felett is járt az euró",
-  "link": "https://www.portfolio.hu/deviza/20261125/visszatert-a-felelem-a-piacokra-mar-374-felett-is-jart-az-euro-878896",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795610616,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "investingLive European session wrap: Equities and tech selloff deepens, gold threatens $3,500 - investingLive",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeU91QlpVVERCMlpNZGI2QnM1cVd3Y2txMVhES0ozdGdHZUVHVkZPdmVna012aTRWRXM1ZFBhcWJ5VlRNb2xkUGFuS2szVXpDYml5SENTYjJTdlNZTTR4eGhNSncyekkzUmtVQUJHQjM0S2lxOUxBcURMaF9PY0xxZk1jc0tkVFd1MWd6NEJDMjFWcGRYLURQWC1EWjUweGlfWGVFaUxRS3FhS1JEb0ExQkY0OHdEbGtVSDlxX0U4OA?oc=5",
   "surgos": false,
   "eredeti": ""
  }
