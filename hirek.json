@@ -1,5 +1,17 @@
 [
  {
+  "ido": 1795647003,
+  "forras": "CNN",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Could Trump’s new tariffs impact the prices Americans pay? - CNN",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeUQzZXBxOHd1TXk2N3pZQmRMQU1nOXlXY0c5azBsd2JxNFN5ZzQ0OTIzRWozeUpQdFZIWTNwRXNlS3ZQd1VaUXEyWFJYNnZlMGdMenhncXpHaHlfNDl3a0ZHYXFnUGsxSm95WnlSa3p5cjI3WGJyTkVZTGdJVjYyOHliTFpwQkxkaEVZTXlpVTQtVXZVb3Q4QmFyNV9Qeld2M25wb2ZVTjRxdEh6ZzBOS3lXcmM?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795646530,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -7,6 +19,17 @@
   ],
   "cim": "Dow Rebounds After 1,100-Point Plunge; Nasdaq Dips 0.6% on AI Weakness - 조선일보",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd1RuSjMxb1F2UzJRSHdTdkZVczZYeWtvbGUtTkxhU1JqcmNfbEtuOWdGdVFobERHYVdqNW9aRUFhdW85ZGZheXJrMXBEMDhLVDNZT1NObzdQamxyaXUxRGlGRGZHcldobFJqNGZndUR5OXBCMUpJSzVqb0ROb3R2ZDlocU42RzdVWGhOeU5R?oc=5",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795646100,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "AI Stock Selloff Drags U.S. Shares Lower; Dow Plunges 1,000 Points Intraday Before Reversing to Close Up 164 - finance.biggo.com",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmSHcxYWl6amtxcFhvbDVTYTB1MGJDbk8xZUxmbXFlR0NMbjZ0Y3I3UV8zUC1NVldMQjlsMWZFa2o5cU93WFNUNVNicERZNnFxVzBCMkc5M1FrczM2SHNCOXlSSThlWEMyVGtLSVJ6OFVSaExzeGc?oc=5",
   "surgos": true,
   "eredeti": ""
  },
@@ -71,6 +94,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795645381,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "2 Billionaire Funds Dumped AMD Last Quarter. Is It a Sell? - The Motley Fool",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdnZJOUk2R2RZSmtEMm5OSGJScE9pblpmZHkxUzRDTGlWUU1VZVBUV0g0cXRwTW0tY0xCeVptOXgzd2ZzWnc4VzVvYXAzcGZZUWpVMTBscFRFM1FwbTVDdG04azBUZGxkR2t4RWdsRG9CalFoWDRtMUVIQkw1aE1VdDkzM1BrYTRtX2dJLXhxQl9hTzdnUkUyQS0xTzZJS2hZ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795645305,
   "forras": "Bloomberg",
   "temak": [
@@ -91,6 +125,17 @@
   ],
   "cim": "A propos - New US tariffs: 'Trump lashing out really indiscriminately', expert says - France 24",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb0xOeHFXRlJuT1V1SExteHVPYnQyeWFER0R3YWl4MFNZNFNZWThfWWxFR0NQYjZSVlI4cmtjUEJOVEo2VzFoUURmTTJFQUY5YXVraThsRkUxTTBnNWM1WTRsR2NHalpHczgwby1peklmUTA4YmdpZTgteFlxdk9VanBCN2U5azMzNzZTc2FkUkxoaHJBYzRPUnNoRkw2ZV9EQjlYV3NaN3VrM2ZhdmhfQnlhY2lIbk51eks1MTFFN3M?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795644735,
+  "forras": "Trump – beszéd (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Why Is UnitedHealth Group (UNH) In Focus After Trump’s Medicare Remarks? - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX0g3UkNtUHIwTV9pRFdDRWYteDlhN0puVHNUS0JQMTZONkFPdkk3aXh6aVVabGpaazRDOU05Q285Z3paWS1rU0taOXd1MDZVUVBPNWpwcmxqQ3I2MXBxY3lkV0Jjb21HUUJBUXdQU2JVSWNkcmYzQ09oX09JS3d1SVRyVjlPOU1UZFhkTW5YZ0laNmlJWHIzSQ?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -346,6 +391,28 @@
   "eredeti": ""
  },
  {
+  "ido": 1795642845,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Soluna Holdings receives Nasdaq notice on minimum bid price, to be removed from Russell indexes",
+  "link": "https://www.investing.com/news/sec-filings/soluna-holdings-receives-nasdaq-notice-on-minimum-bid-price-to-be-removed-from-russell-indexes-93CH-5051676",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795642645,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Earnings call transcript: AFP posts strong H1 2026 growth, stock little changed",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-afp-posts-strong-h1-2026-growth-stock-little-changed-93CH-5051675",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795642560,
   "forras": "Blue chip 2 (Google News)",
   "temak": [
@@ -397,6 +464,28 @@
   ],
   "cim": "United States shares mixed at close of trade; Dow Jones Industrial Average up 0.33% By Investing.com - Investing.com India",
   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNXFoLVZTYWdBUWJNNTQ0cnVhdkRkWEI4VjVzX19aV0xVM0R1SG01R21Ma2ZmSHYyWjFXU09LU3Z3Q2xBQ1RoTGFUZ3FpUXlJeVNHRUoxQXl5d3FMWE1mOEpka1F6SjZyVjhKOThJal8ydFVVUjVCdldlX0NQNTlxeUxBR0htb09WQ1VWYVhSdkx3TlR0S3pabGp0bEFFbDVLbF9BY0pjdXByQVhlaXJ2LW43UFdmbXh3NUZIakszWjBtUlN4Sm5SSjdOclUzalJ3N0E?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795642363,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Tempus to acquire Personalis with $600 million cash election in merger agreement",
+  "link": "https://www.investing.com/news/sec-filings/tempus-to-acquire-personalis-with-600-million-cash-election-in-merger-agreement-93CH-5051665",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795642313,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Earnings call transcript: TradeWindow H1 2026 revenue rises 16% as losses narrow",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-tradewindow-h1-2026-revenue-rises-16-as-losses-narrow-93CH-5051663",
   "surgos": false,
   "eredeti": ""
  },
@@ -560,6 +649,29 @@
   ],
   "cim": "Crypto Fund Trader Launches Its Own Perpetuals Terminal For Traders Worldwide",
   "link": "https://www.investing.com/news/company-news/crypto-fund-trader-launches-its-own-perpetuals-terminal-for-traders-worldwide-5051649",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795641732,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "As Pentagon blasts Canada's defence spending, Carney says Trump hasn't raised concerns - CBC",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcUJXbkY4d04yMVJpWkNSMF9NWjRoMHI2anFtdWNXVVBvWGtfOWNXYUZnYXhud2FfRTdoaEhzT3Q2eDVCMHd2TXNSeHVMcU0zQ09HVVU2YkMwRndQb0R5eW9WRHRjRFdYLUh1VVFKOHVDdjNFQmpkeENDbVlkUzV6RGJ0bnh3cUlVbG1iZEJ4V0F5QmhDWGlOTG1Cdjg2OWhURWd6QldFQnBIeTRBSG5aaUNaRTlzdmND?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795641667,
+  "forras": "Wall Street Journal",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "Bank of Japan’s Ueda Vows to Keep Careful Eye on Fed Moves - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSnNza2NNRXZGYWpkOFZlTS1qYV9TRUQyMTFnSWxTQVlIQW01R0tzTm41dVhsa2VUZHRkcHJkbko1NjNVZ0I4emgwdXcxcElXa3ViRnA5NWZDWndSeExsQk5CQTJ0NS1JX1duQ0dORTZ6MVludnFYOFBKM2h1aWNyXzk2SG9JVDlwU0YxUkVpdzhtVENLSmgzZnlvbFRVdXhCeW5naU5TSHhOcjdmLWptUVRXT1A?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -801,117 +913,6 @@
   ],
   "cim": "S&P Global warns Nvidia’s credit rating could be downgraded over governance risks - Business Insider",
   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdG5FX1hUSEdYa0toMWVMb29pN2RoeE5naGJESnE1Q1pzcU15M1FkX3NKOVVwa01ESm9ZM2hKa21xZHBzUkxLLWVvNEJ6VF9VNFRTYTBvT1k2T2V5QldBdVF0N2gtQWlGT0FzM3ZwT2dJeUk3WFl0dkJHa3ZOckRSempHLW9zRUVDTEdJNUJaYVVXbFFlMWFLNkV1UXJZUQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795639898,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Világgazdaság"
-  ],
-  "cim": "For Shoe Brands, More Tariffs Are on the Way - WWD",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmNNZlFQNzJzSW1UdzVENm5NazhJOXpYZUt1R1NkNTJDZTdwa1NRNmNqYzZzM3VNUHJPZUdiUzRORjVhSEVHX2pCZ19id2hGMzdUVnAxX1ZpVnZyUjcxV1gxREYtdk5YRXZRNGpvSEEzanhMZFhwQUZTcW5zVWlyLU1rc2w4ZDZlUjFWeHdRQ0VYbXByUnh6eS02RW44aGZzRmlBR1BGQ2U0dTZFYWlrWU41QzV4UHhF?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795639766,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Federal Judge Permanently Bars Trump From Penalizing Groups Working With the ICC - Truthout",
-  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORFphUnFKQ1BmQUJfTEVLcHRkZkxaWUVRRmdiVDc4a1g0T2FlaHprbVdjcGhuM1JIV1JmVnZQaW5oOFdHTkNVbThhR2xMYjF5d1lROF9IQ09TNUhYRkxwQnVGb2Z6Ry1zcVlORmxXdk9PdFh4NlJDaFRGUWxxVmdZNHQwWXRuc0RGekZqTmlGR0VIS21mZkZnaWswWkhzRWlwS0VCdWNySDZtUXkzenRQTg?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795639560,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Forex"
-  ],
-  "cim": "Kicsit korrigált a forint, de jelentős gyengülését így sem tudta teljesen ledolgozni",
-  "link": "https://www.portfolio.hu/deviza/20261125/kicsit-korrigalt-a-forint-de-jelentos-gyenguleset-igy-sem-tudta-teljesen-ledolgozni-878896",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795639467,
-  "forras": "Trump – beszéd (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "BBC Files Appeal Against Trump’s $10billion Defamation Lawsuit, Challenges Florida Court’s Jurisdiction - Sahara Reporters",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbTRkQV8xX0x2M2JKSXN2S29IbFpBRFp6MGxYcUVIakJsbnpUZTVVb2NJem9mTnNrUTd3RTBzWkRSa0RHaUU4aFpVc2luT0ZKX09nMnBLdE9JQzZVWjRJdEVwSHVLek9mSjEwd3Q5T2hkMGMtRzFsRXo1b0lac0FsSkpMOVdBd25tN0NjcTdvOXp5Q0lUdkdKNzM5ZXlXbjlUM3hmM1NqVFZ6V3ZkbTFWdzg0alBJUGNJRU10X2stdjEtOWc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795639440,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Federal court blocks second Trump order on birthright citizenship - News From The States",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSEkzQmQwd0RNcmhfOHRGSUJtZTV6SWxwWXZCOU04b2s5OGVyYTMzTElYYTV0MHY1ZmVIZDlERG5BMHgtUlJkUjM0bmREa0JFdWNxTWg4bW80VlVaNmZHN3B1M1JVN09WTjRTZVBzVENTV2VFRW5wZ1ZLTWlZYng3VGVtcGRXdlJ1U0NxZURSaXlubEI3WWlNSXU4LTJyOWZpTXc3SE03WQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795639423,
-  "forras": "CNN",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trump Upends American Foreign Policy - CNN",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdGpGbHBBaXh6RFd3dnhvWTg5TjJHR29hWU1yNF9IanVkSmpBSzNIdVRzV016WXMwZmJOb2o5MHFqUTJKLVE1aW9mWUdrREtiaGNkYWZCcGhLdHJlS1RESzRQRnV4eGhNbFNsR3UxSWRrUXhmN0RfZmI3R2ZjTEpGOEh5UDNBNHl0YjZxN0xiWnZMMWs?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795639395,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "CVR Energy completes $1.25 billion senior secured notes offering for refinery acquisition",
-  "link": "https://www.investing.com/news/sec-filings/cvr-energy-completes-125-billion-senior-secured-notes-offering-for-refinery-acquisition-93CH-5051551",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795639366,
-  "forras": "Reuters",
-  "temak": [
-   "Jegybank/kamat"
-  ],
-  "cim": "Fed survey shows continued economic growth, sticky inflation in recent weeks - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795639320,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Judge throws Supreme Court in Trump’s face in birthright citizenship rebuke - The Independent",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYWZzbTlrLXA1QVF1RUdZSFRCMi1MNmlxZEZmNGQ4LWI1R2lZNXRTTkl1NGhfdXVCV0doYm9EcnExY05ycFdOYkxUZWFTN1Vtc3p4d1NGMGVEUHhaQVNkYXdPMi1LOXBCV3JGR0RrRlJvY1BoY3JkMTJQQkJJeXFHaVlTM1lCU1IxTmtqZ3hRNWRNUEJOVUI3MDkxYnhTMEpuSVZHU2Z6S2VOdkFKaXBVZlhKcExxcVg4WkdFdHpPQWNFYkU?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795639288,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Watch Trump Revives US Tariff Regime - Bloomberg",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY3BkcWlCV0JyOVZLa24zcUJJWXpsaktxX29OS1Q2cEU5MEZWcldENVlyX2U0eW9FTDBOMFViUDk1enlKc0FhLUt3S1RTYS1aNEN6eU5qRndib2FHa1Zvd1d5MGlRRkQ5V0NXYVVyRXAyYXlqV3FxQmNCMzV4NWxvYmZCUDZOajFtbWxaeVBjWmF0V2YwV2o2eXlHYl8?oc=5",
   "surgos": false,
   "eredeti": ""
  }
