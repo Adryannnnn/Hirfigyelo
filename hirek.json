@@ -1,5 +1,99 @@
 [
  {
+  "ido": 1795641914,
+  "forras": "BBC World",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "At least 30 killed in massive fire as fuel truck crashes on Cairo highway",
+  "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795641840,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Trump Doubles Down On Tariffs, But Key Stocks Shrug - Investor's Business Daily",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXFONlRkX29GcHZWMENXUDJTOENMU0s0QTN0bHJsS194RmVmNlFYd2J4U0lOUWxnLWM4UEtpVEZrMUlTYjQwTjY3SEREdnJiRElMU0ZDTTBTSFBwb2FrY001b2ZXZndZekdDMHNqUTgxR3U4eWdacC1EM0wxSTRlRTdn?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795641739,
+  "forras": "Cointelegraph",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+  "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795641540,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump veje megszólalt a béketárgyalásokról, Lynxek kerülnek az ukrán frontra - Híreink az orosz-ukrán háborúról szerdán",
+  "link": "https://www.portfolio.hu/global/20261125/trump-veje-megszolalt-a-beketargyalasokrol-lynxek-kerulnek-az-ukran-frontra-hireink-az-orosz-ukran-haborurol-szerdan-878884",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795641300,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Megszólalt Trump veje: elárulta, min akadtak meg a béketárgyalások Putyinnal",
+  "link": "https://www.portfolio.hu/global/20261125/megszolalt-trump-veje-elarulta-min-akadtak-meg-a-beketargyalasok-putyinnal-879196",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795641213,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump’s Nvidia decision renews questions over China espionage - Honolulu Star-Advertiser",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGkzQWl2Q2ROZXBXcUI2eUxETnlpU2xINWZrbUs3TUhGekxqUGRmdU41aFQ5WjBmLUJhYmNUVkFQVW1FbUVTRk1qMlBoTjNSbHlOVHg5VVUydWRxN0dVUHNQWklSUzNQekg5WlJZVGxIbUFVVlBjMmFZZHllNWxyd0hJMmlBbTdyM3VxTkJkMm9FWnJFQkJhckY0Y1ZHVE5IdXhObHZFMXdRWU9xVXR3M0pCV3ktdjFD?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795641180,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Trump administration announces plans for new tariffs - CBS News",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMXVvS0h4eFhoSllPN0NZT1NUWmpmbTNyTUR3b0N6eGZpbTR4c2l3U2l1NEFWY19pX1ZPWUNiXzZ2ZVo2S2tlNGs1Mk5GWk9NU3dBQWowVmhGVGVpUTRfU09pOEtJM2JlQ2ZLS3RPZTFaZ3dDWmlkdy1ONGRNUWJzbUs0eUQ5Q1JvU0R0Q2lFZkl0LTZsX2c?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795641099,
+  "forras": "Cointelegraph",
+  "temak": [
+   "Kripto",
+   "Jegybank/kamat"
+  ],
+  "cim": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+  "link": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795640927,
   "forras": "Blue chip 2 (Google News)",
   "temak": [
@@ -7,6 +101,28 @@
   ],
   "cim": "Berkshire Hathaway Beating S&P 500 by 3X: Market Expert Credits Greg Abel - Alphabet (NASDAQ:GOOGL), Berk - Benzinga",
   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTGFtbWlFemJiRzAwdFdpY3hXLXBlTDYwNUFlZkI4dnd3QWFGRHkzY1dMOW9OQXBzWkxDLUFHOXdGb0ZYYmZuZU4yb1BjTXlpUWNLeXpOSG1hbXlldWFyc1ZrdGpKNEY0RTkzcFpNeUNZcWZzUFpuUVBBSUF1STh3bW94UXFPNFZTVE4tUVVsZkpLdnEyYUFFc3UwbUZERVRCUnZPN0tyZkp1V3FqaWNVQlhoZ2JIU1dWSWoyV1Y5ZkxKVzF6bXEtaWpEMFhEUlh6VjFkTlJWc25BT3RwejJ2anM2MVUtT0xsZE1RV1Q5Nlo5ek1vVzJtYmM3WTRxdWN1ZG9VOC1DaGhram8xcUE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795640880,
+  "forras": "Negyedéves jelentések (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Snowflake Gains Momentum Ahead of December Earnings Report - bsinews.id",
+  "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yZDRNUzVsc3VFQ2pSalNjVExiOEZ6Y21HRG8xVlV0dGtkVzhDajVTeWRHajFZWTB5VTZNX05RamRtZ3ZXVXdGeVdEalNsMFZ3WW9KQUZtTl96ZVhQdkh2SnlweDBGSDF2UkJldVBn?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795640597,
+  "forras": "Bloomberg",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "US Tariff Proposal Raises Stakes for India to Clinch Trade Deal",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/us-tariff-proposal-raises-stakes-for-india-to-clinch-trade-deal",
   "surgos": false,
   "eredeti": ""
  },
@@ -32,6 +148,17 @@
   ],
   "cim": "Mega Rail Deal Gets Unusual WH Meeting",
   "link": "https://www.bloomberg.com/news/videos/2026-11-25/mega-rail-deal-gets-unusual-wh-meeting-video",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795639982,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Anthropic’s Chip Choices Could Change the Nvidia Story. Here’s How. - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNGloa192V0h0LUItVjlkN2k2LWVSYXBsS2JFcWpicTU4Qlk1Z0R3MW1UWTV2eGJQcC1yX0tHRmk2VjV6UXo5ZjA5TnpFeFZmUHoxZXUtR1ZqVFJzYmpvTEoxUmNIRUl0SHYycktnZU5od3FwRk1ucFRlZkNuR0F5YkxWaFh0RXpUSFQxRHFCNGRCLW91cUN4NlJsaHJKNkdK?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -275,6 +402,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795638024,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "RPGL faces Nasdaq delisting risk over late annual report filing",
+  "link": "https://www.investing.com/news/company-news/rpgl-faces-nasdaq-delisting-risk-over-late-annual-report-filing-93CH-5051487",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795638012,
   "forras": "Blue chip 2 (Google News)",
   "temak": [
@@ -456,6 +594,17 @@
   ],
   "cim": "Nvidia nears first death cross since March 2025 amid stock decline - Crypto Briefing",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMEdyWGlJUnBXLWZFTFYzMkw1QlR5SmJva0Izb3dzdVZSZkhwQ1k0cENxdkVoLW1Ua0p3dm9XSlF1NVNxYlA5OS1DSzFzZlZHS0x4Qzl3QXJiZENCd2E2M2VZWUFxWEFLSF9CbWNHdWt0WF9SN016bkJ0bTM2SzdvaUJISmRXZTFDWVFLZmExbEpyeDNRSnBGRjV3?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795636181,
+  "forras": "Trump – beszéd (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "First Lady Melania Trump Hails America’s Armed Forces - Van Nuys News Press",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQWdqSmRQMjdVWW5UaTZCck8xT2hXbmdnb0xjX212N0JYbTMyZFpXVXRaNTFtZGV0VnF3eDJaZlYxc3RvZUU3aWMxN0JsUEs1S19vT0F2Qk9keTkyVlhJWHFrdnVFRFpERktka2ZTZlVwMC1PRC00SUdnUTV4NkRMaFo0WE11Vm1GZ1NXN0RHZw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -767,155 +916,6 @@
   ],
   "cim": "A New Figure Emerges in the Nvidia Chip-Smuggling Saga - WSJ",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUlhNXzR5WjJQLVh5WHE1dW1mdFE4MmZreUtrNHRhOVh1NEd5d2p5cjNkSlZRYzY0eU9wZUlfNms4NXM2Z1VnUDdUdnZkR20tekRUX1B4Mm01ZEJTVmFyMWdEdnFjVWFiMkFNZm5tTWtPVmJZV3ktMmdjQjdKQWY0blA1V210MGl3Q0ExTnRsZHpiakQyNWEw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795634700,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "NATO boss says Ukraine ‘doing exceptionally well’ in war, as Trump admin sidelines plan to do business with Russia - New York Post",
-  "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdGZtT2RrVHlSOFNCWWhrLVRFUS1FbDJUX3hZeHNDUlZ6UXdMZERDU0FkSTBfX3RVTXB4eGduRzJGN2NHZFctREV1Umt6QkVsR0FKbHZCODlpVE0wek1wR3l0aGRES3NRc2NUQjhabVpLQkVMeWFkejFOd0pTd2RBLXFOTTVsaVV6U0ZrZ0dHcG8ybTg0ekpid29DTFVDQlplRHNMNDEteGRNalMzMFhfNmpYdHpndTQ0M1MxRlJ6RXFFc1ExLTVrczJJLTZmNWNrckVjdHctbHJjSFFhQ2dpQg?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795634499,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Blue chip"
-  ],
-  "cim": "Tech stock sell-off persists as AI fears outweigh Huang’s Nvidia return - KQ2",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXdRRE1SWGhNQUlVSXpFYjNmU0NDOWI4NmNjdHJUOGpMUFd2a1o2TlNZVncyN1cwVTFyeUdpTEtWMDg4QkdydDJzeS1wZUduUHowRWdHTjBMUV9sZW4xVE9OLVFjUk42Q3dhNGdqeFVySFRWZFhFbWhXQWU4SUI2YURFcGpJMmVOWE0wb1RJaUR2YkFVZWNWZVBrZTlmVHM0WnVWM2xVOWZ1VTN3a2t1aDdhdFpZT1RfN05EaXVKNUs?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795634469,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Kripto",
-   "Tőzsde"
-  ],
-  "cim": "Bitcoin slips as Nasdaq surges: Is leverage taking over? - Crypto News",
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfSWJYNTdMVGhZd0ZkdDk2T0lHWVp1UUd0Q213X3NRTlk0bXNqUUZkMXVhMFpFbkFNdjZWY1puYXRLTHVyUjB4SUVYZWVjVkhISW51REVsY2pOYlJSNlpRQVF2TkVQWVVQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795634395,
-  "forras": "Bloomberg Politika",
-  "temak": [
-   "Trump",
-   "Blue chip"
-  ],
-  "cim": "Vance Defends Huang’s Nvidia Return, Blames ‘Anonymous Sources’",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/vance-defends-huang-s-nvidia-return-blames-anonymous-sources",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795634346,
-  "forras": "BBC World",
-  "temak": [
-   "Világgazdaság"
-  ],
-  "cim": "North Korea expels Swiss diplomat in sanctions row",
-  "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795634231,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Micron, Nvidia among market cap stock movers on Wednesday By Investing.com - Investing.com Nigeria",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMk05MFZadmdQTUxyTzNnVVk3ejVSbk5YQzNSR1o4T3pYWW13cEU5aUJvMVpjUVUzSTRVcEladmFIOGxuVGVYaWd3ZXJOY3ZoZWtVcW9DdDdlN1hRNmNZZWlUREhwVDVETmFVSWFON2ZyOFFXRWdFMGRfUXVfV0w3enNMYVdmc0ROemE5emh1THB6OHN4R25BMGNiSU9yTmZuNUFHa3JUWm1LdEhFWG5NZ3R2aS1iWnlL?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795634220,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Top Trump team leader took agents from China tech fight as personal security - The Independent",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZnZFNFlpck5id0pDTTdZRUtZbjBxMU1UNndtQkFneVU2Qm9uYVF4M0NQWGYzdnNiekZCaVp3bFZkRGxsZlVST01YNENCMHVyb0RkSTRUQ25sNHVnbkZCck9ZaEc5NjV0UzRMQW1qWDRuVmZ5ejdabDI2TnNNRVlHR0dKbzk5ZWlXWkcwWDhHR3NiRVp3RW5R?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795634160,
-  "forras": "MarketWatch",
-  "temak": [
-   "Kripto",
-   "Világgazdaság"
-  ],
-  "cim": "Why macro investor Raoul Pal says the dollar is the signal to watch for stocks and crypto",
-  "link": "https://www.marketwatch.com/story/why-macro-investor-raoul-pal-says-the-dollar-is-the-signal-to-watch-for-stocks-and-crypto-d36f3c49?mod=mw_rss_topstories",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795634136,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Dell earnings analysis: questions answered and next catalysts",
-  "link": "https://www.investing.com/news/stock-market-news/dell-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051407",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795634117,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Ambarella earnings analysis: questions answered and next catalysts",
-  "link": "https://www.investing.com/news/stock-market-news/ambarella-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051406",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795634082,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Deere earnings analysis: questions answered and next catalysts",
-  "link": "https://www.investing.com/news/stock-market-news/deere-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051402",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795634072,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Li Auto earnings analysis: questions answered and next catalysts",
-  "link": "https://www.investing.com/news/stock-market-news/li-auto-earnings-analysis-questions-answered-and-next-catalysts-93CH-5051401",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795633956,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Huang Hangover! Nvidia Stock Stumbles After CEO’s Return - Yahoo",
-  "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDBKbHFXaVNRenFGUEZWWlNqVFBqeGdJOGJsMG8xUTlPVDFMQkFaSjRkS002UEl1V3ZSOUh5aVFYLUZUaWlRWTA0WGtYMWc1cHRFQ0xGZVBCS1J0LXhIdlV3U1YtRlZHbV96NUF3eExxdXRiVUI5bHU2WlJsNWM5QUtsZjFNbGdLMU83ZDd3?oc=5",
   "surgos": false,
   "eredeti": ""
  }
