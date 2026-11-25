@@ -34,6 +34,10 @@ on:
         description: "Az összes figyelt eszköz (arany, olaj, ezüst, blue chipek stb.) aktuális állása a TESZT-címzettnek, a jelek ellenőrzéséhez (a híreket nem ellenőrzi)"
         type: boolean
         default: false
+      ffoldal:
+        description: "Próba: eléri-e a futtató a Forex Factory weboldalát, és látszanak-e az actual-értékek (a híreket nem ellenőrzi)"
+        type: boolean
+        default: false
       stat:
         description: "Az eddig összegyűjtött heti statisztikát a TESZT-címzettnek küldi (nullázás nélkül; a híreket nem ellenőrzi)"
         type: boolean
@@ -104,6 +108,12 @@ jobs:
         timeout-minutes: 2
         run: python3 hirfigyelo.py --ar-teszt
 
+      - name: Forex Factory oldal próba
+        if: github.event.inputs.ffoldal == 'true'
+        continue-on-error: true
+        timeout-minutes: 2
+        run: python3 hirfigyelo.py --ff-oldal-teszt
+
       - name: Statisztika (teszt)
         if: github.event.inputs.stat == 'true'
         timeout-minutes: 2
@@ -126,7 +136,7 @@ jobs:
           curl -sS -m 20 -o /dev/null -w "curl getMe: HTTP %{http_code}, %{time_total} mp\n" -A "Mozilla/5.0" "${API%/}/bot${TELEGRAM_BOT_TOKEN}/getMe" || echo "curl hiba"
 
       - name: Hírek ellenőrzése
-        if: github.event.inputs.teszt != 'true' && github.event.inputs.kozlemeny == '' && github.event.inputs.naptar != 'true' && github.event.inputs.heti != 'true' && github.event.inputs.ar != 'true' && github.event.inputs.stat != 'true' && github.event.inputs.admin != 'true'
+        if: github.event.inputs.teszt != 'true' && github.event.inputs.kozlemeny == '' && github.event.inputs.naptar != 'true' && github.event.inputs.heti != 'true' && github.event.inputs.ar != 'true' && github.event.inputs.stat != 'true' && github.event.inputs.ffoldal != 'true' && github.event.inputs.admin != 'true'
         timeout-minutes: 4
         run: python3 hirfigyelo.py
 
