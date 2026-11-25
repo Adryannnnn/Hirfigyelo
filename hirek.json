@@ -1,5 +1,75 @@
 [
  {
+  "ido": 1795564547,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Nvidia’s board said Jensen Huang would not be back. But President Trump, who pushed for Huang’s reinstatement, effectively overrode the board, governance experts said. - Facebook",
+  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNjZqVFdFMGV0Q2gzUDY1WW83X1pGRW5EaHJIeS1vYmg0dURsYTR3SXJYVC10eE5HR2RJVVZWeWtJa3p5bHdHRmRYd3BFbG1GWmp0aDFJeFJGanh1Y1JCVTAxajhGWVlBVnVrcXUzOHZZYzhueXlKenI1Ymx1a2otUm92YVFFMzN5TXItYWxQTlhDZWJtYzcxZ0FGcXpSVEFMNTNPalFaNk10a0hTNmZlME9JV04tRnhvX1hHSkVvc2lBdWNJaEVhWWhhM3NDM2hndlV3?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795564530,
+  "forras": "Wall Street Journal",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Treasury Yields Fall as Anthropic Fails to Sustain Risk Appetite - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUxqWVA1Y044cTZjWkE0VlVFR3hrRVh1S0ZsLW5VVDZfNlRsT0dmNElmUG1ocmh5Wi11eGhRZEFTbEJpbjVjM3F4b0t1TGtiYTZ5UFlMdFBZSXBQdlNUQ2gxMklZclRVOG9JSkVBNFRmMmVSckpzeFQyZ1RxN250RjZpWXJUTnBKQmhhRXBCV2FERE50STNlZU5n?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795564282,
+  "forras": "Bloomberg",
+  "temak": [
+   "Trump",
+   "Jegybank/kamat",
+   "Világgazdaság"
+  ],
+  "cim": "Gold Holds Decline as US Tariff Plans Reinforce Rate-Hike Bets",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795564200,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Microsoft (NASDAQ: MSFT) Stock Price Sits 11% Below Record Highs Despite Monday's Nvidia-Driven Tech Rally - Foreign Policy Journal",
+  "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWk9fMnlSS3RJREZlVExGelNuS0JSNm50Y2EzWHNMNDlMWDNRdV80OXdqRnFNMmJUcEJ5X2VRMDk5Ml82VGs1UUVHalpuYXFDU2lTOVBsU0Y3bUNXV0RuTk5nOVRoajlManhuLVV0eUR4eW5Qai1HY3lGRFBKZnhkRGpRSkdYY2Z5UWRXZUlidWhEajU4MnVuU0ExcjlaQjdIekJkcE9vNm16R0ZkUEpPSTJERi1rXzhMaGJtM1J2d3MzVzZFSmxUY0xMVnpPZ2xOcDdpaDFFQWRwVGdRZzZZbEFoYXo?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795563965,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "US stocks end mixed as Nvidia, Anthropic losses drag Nasdaq lower - Anadolu Ajansı",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeVpDcFA4cmVTeHVKOFdGSTNpSkVNYU9LS1pxYVVfeTFVaW1MWXZ0b21xQjJ5SjA4bXR3dDZaMW5kdmQ2MExXejhHbVg4dzBpaUxpVVI2d2c1OW5jMjJ1YXhNWE9uUG9yczk4NEwxVm5yR3VTaExQaEFyV09QOUFJMlhvYVIxc0c4dUtyVUJ0NV9IbzhFU1c5ZFZ4WVA3UnE1R3BCWkhuTjZ1QQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795563722,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Berkshire Hit a Record High While AI Power Stocks Sold Off. Here’s What That Says About Where Energy Money Is Going. - The Motley Fool",
+  "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTTcyTC1NTnpFOFJvemRlUmtoa01lOWxoMzFhbzliOWhOMlJCWUpfaXJEelB1dTQ1dEdNbnJ3cm8xZWZ2U2pyQ2Y3QjBhX0h2QVpJdFQySl9NVGg5bFU2M0pmcE5tQmEwR25xekpVazJRQzl0RWJyeVF0dWYyRXhrcGFidmRwamVGcGlfMGJUQURlQXhUQW5YRjBDWUs5TWhMeTVpejBDb010ZkE2Yms2endMYUt4dXlDSmw2bkdjNlUzQV9FZ3drWHZQdkFzWjFDeF84TFpDMDluX0NHSzg5SFpjX1BTdGxkWmJtVA?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795563660,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -57,6 +127,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795562765,
+  "forras": "Negyedéves jelentések (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "PSP Swiss Property (SWX:PSPN) Stock Looks In Line On Quarterly Results - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX0FaR0FvUFA2TkhQQVpZbHlaRU9BR2VoWmtrUlpqNlowRG5rd0RPUVhwWVZTc1lSMEU1MW1ZUWQyTUt1a3B1OGdEUjBQald0d0Z1WWtBV2lka0Y5XzFfY3JJa3JHWWxWNzkyYk1GWEVOV0NfVnRSX2V4M0Z6SzRsVE9LRFhOelloa1FWYmtBclB0RzQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795562641,
   "forras": "Bloomberg Politika",
   "temak": [
@@ -99,6 +180,18 @@
   ],
   "cim": "Why AMD Stock Fell Today - The Motley Fool",
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0OUdHSkZ5VUtZY3JLenZad1RVcEhydnVoZXNjMWNuMHR5S2ZiMS0yYXdLV1E0eS1RMGF6dTYyUzZSZ2FrbUdCemIwQlV0LXJfbGFxWW42UFM5elI4VGNpQlh2bmU2dmNSSXZiLTlqMEE2N0hleHc?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795561380,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Jegybank/kamat"
+  ],
+  "cim": "Stock futures are flat as traders await key inflation report, assess tech sell-off: Live updates - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Jd2QwOVppNGtIY3I5ZXgyVmZKQzJ3SzZvVnVydTJHQnliRXBCR2RiQTBMeXExQU16TnpPQzkwWVl2Q0FKV055NzJBNE4tMGQ0UmlFMFdnQ3o1OG9tR2JNd1Z6Ymk5cGtDVFBxZjJPT19jblIxZ2lwRdIBfkFVX3lxTE5qZGNISDFwMjNGQUoxc3ZlT1JFR1A5Zk1oTmJSX1kxWVFOWUZscTZGTWh2cHdfMW92SzVCbXdBR2o3YWJUVzN2TXhfOUdhSUZpdFNyNXBaUjdseWpuQklwaVgzaUlGdkJqNm54TWEyVTluWVFYVTZVMVptNV9xQQ?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -659,6 +752,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795557689,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "US STOCKS-Nasdaq, S&P 500 slip following Monday's Nvidia-fueled rally - Devdiscourse",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZmphRjRSQWVzZVVGS3d4a1ZzNVAyZGY0TE1sUEZTYVlkd1gxcW55Z3VWanV2UFdrX3EzRWU0R2JvMWQzVEN0ZXhwcUhMWXJFQi1wamNOQVdwZEdyMlBmbEZuazI2SjRvMlBTRDBjbHNVbVBLTmNaQ0NleDVNZ09DUERiLVJDYWlpRU8zYnRzUlctZmtpUHN2SmI5a0I1V3hfWnBJRTVEV3pEdzk1SHJRbDR3ZGhWU1A0NjRieUx4U0J1R3PSAcgBQVVfeXFMT0VYVUI2NW40SHZCVjlBa3M1SGFBSEx3bTJvSWtZTzNpYzB4bnVYeTlJNUthMWdlT1dfR25nMW43cHB3QW9HLXNKcXBpUmVyZG5OTzJQaHV0MlRNMVRHWTR5NmRhMWdHWllNN21hVDZrSDhXU2F1MWVNQzI3SEdiNlAtdFlPSC1STTM1cHFoWEtCanBCaU9EUlp1bjlGMEFwQTlHdmFoc0tRbUEtNGxMWHRrSENrUTVvbVRYQ0o3OHpTLXVRT3d6MXE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795557658,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -800,105 +905,6 @@
   ],
   "cim": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
   "link": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795556894,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Urban Outfitters (NASDAQ:URBN) Releases Quarterly Earnings Results, Beats Estimates By $0.02 EPS - MarketBeat",
-  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZVpHZ2FHVXVWVF9JTDlENjdhZ1RnWjRxNW1PUUxXLUdsR0QwT3RUMkJKemhuenNtRkZwVzNEQTA3X19Td3JIenhJaV8wNTR5WjF4RHRMOVhDZW9SMGlfTDc5OUM3VVEtS3hjUzJMVTVBMTFTSF9wbTk0eTA0ckZ5R0JjY01qdzkyRS12SzRyNndTWlZwN01qekpVZ3pmY1liT2hQYWJBSGotelFVajJueXBTQWhJaS1mTHFMV0JBRnYwVXVhamRMclVxT1Y1eFJVT0lxMHVCZGNBMTY0cl9xMDlGTkI5SURESEE?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795556721,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Obama judge's Omar warrant unsealing directly contradicts his own decision in Trump case - Fox News",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1ViQm51VVJWQ28weXVGclVlUjcyMlAxclE1Y1FobnR2RVlWckNydEpNbFNpNmlCTTd0YVlpSGJhcmZOeVJuenVCaFd2elVaeGhuc0YtbmszMWhKcUhMekFORzRFZmd1MVpBb1FzNnlpWi1HMHc5dkRqN0N1SHowSlNUUjhVYWtybkFleVRHa093Y0c1QTZaSFowcS1uMGxadTN2VVQ5enB3MHpyZl92QWEwUTN5YjRk0gG-AUFVX3lxTE1QUElvVXFTUjlTdkw2WVp0QlFrVktfbzlfMExMUnhnaEs0empEMjdXQ1BxeHhYOWh6RHlIcDJobWk0RmVhb3lLZVA3cm04OU52ZlJYWDZ5QXM0NDNxekZyUkpWT1JpUU9OcWJJMnpFcEoxTkVjVU9MMWZELV9ldWxsMno3OURyUjVyT2V4and2RmxWRHIzSGpfd3QyTEh3MVlyOU0xTGJjSDN5ZjU5SFBUT3huUFpDNThTOHQ0ZWc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795556594,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Earnings call transcript: Black Pearl Group posts H1 2026 revenue growth",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-black-pearl-group-posts-h1-2026-revenue-growth-93CH-5049290",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795556475,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "iSpecimen reports regaining Nasdaq compliance with stockholders’ equity rule",
-  "link": "https://www.investing.com/news/sec-filings/ispecimen-reports-regaining-nasdaq-compliance-with-stockholders-equity-rule-93CH-5049288",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795556443,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "HP stock reverses course after hours despite quarterly results beat, dividend bump - Investing.com Canada",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZkdaSGRSdTFBUEM1LWlwc1lkWGE4bXNydGFLYnhUY2Z6eHV3X0RrSFdWSW5zUFB5MzkxVXk4RnFLTUgzNGZ4SGVmNHZHTnVQc19QM2pRaVl6ZEIyTXJQSTN2ZFc1Q29DLVJqWlNBdkFBcnZPSnhWd3JpbXowWEFwXzlYeUhOQl9HM3NfSXRXR1Rra3NQUFJLWV8weTNWTUYzckdaNjZBcmdtNG1HV09FTXU2bmRvR1B0emNlcERHX241NWtDb2JZ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795556436,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Earnings call transcript: CleanSpark posts Q4 2026 EPS beat, revenue miss",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-cleanspark-posts-q4-2026-eps-beat-revenue-miss-93CH-5049281",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795556210,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Earnings call transcript: Workday tops Q3 2026 estimates but shares fall",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-workday-tops-q3-2026-estimates-but-shares-fall-93CH-5049275",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795556182,
-  "forras": "Bloomberg",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Quant Funds Are Having a Hard Time Keeping Up With This Market",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-24/quant-funds-are-having-a-hard-time-keeping-up-with-this-market",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795556161,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "S&P upgrades Canadian Pacific Kansas City to A- on cross-border growth momentum",
-  "link": "https://www.investing.com/news/stock-market-news/sp-upgrades-canadian-pacific-kansas-city-to-a-on-crossborder-growth-momentum-5049273",
   "surgos": false,
   "eredeti": ""
  }
