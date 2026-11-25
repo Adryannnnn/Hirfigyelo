@@ -1148,6 +1148,7 @@ def trump_beszed_ellenorzes():
         try:
             ertesit(cim, uzenet, None, True)
             kiment += 1
+            STAT_UJ["trump" if cim.startswith("🎤") else "emlek"] += 1
         except Exception as e:
             print(f"[!] naptár-értesítés nem ment ki ({e.__class__.__name__}: {e})", file=sys.stderr)
             for k in kulcsok:
@@ -1355,6 +1356,7 @@ def ar_figyeles():
     allapot_kulcs_ment("ar_riasztas", ref)  # előbb mentünk, így nem megy ki kétszer
     try:
         ertesit(f"⚡ Árfolyammozgás ({len(sorok_)})", "\n".join(sorok_), None, True)
+        STAT_UJ["ar"] += len(sorok_)
         return 1
     except Exception as e:
         print(f"[!] árfolyam-értesítés nem ment ki ({e.__class__.__name__}: {e})", file=sys.stderr)
@@ -1381,10 +1383,104 @@ def ar_teszt():
     ertesit("Árfigyelés teszt", szoveg_, None, False)
 
 
+# ---------- heti statisztika az adminnak (finomhangoláshoz) ----------
+def _stat_ures():
+    return {"futas": 0, "hit": 0, "surgos": 0, "forras": {}, "tema": {}, "lista": [], "ar": 0, "emlek": 0,
+            "trump": 0, "hiba": {}}
+
+
+STAT_UJ = _stat_ures()
+
+
+def stat_rogzit(uj, eredmenyek):
+    """Egy futás találatainak gyűjtése (a futás végén egyszerre mentjük)."""
+    S = STAT_UJ
+    S["futas"] += 1
+    for nev, _, hiba in eredmenyek:
+        S["forras"].setdefault(nev, 0)
+        if hiba:
+            S["hiba"][nev] = S["hiba"].get(nev, 0) + 1
+    for surgos, ido, nev, temak, cim, link in uj:
+        S["hit"] += 1
+        S["forras"][nev] = S["forras"].get(nev, 0) + 1
+        if temak:
+            S["tema"][temak[0]] = S["tema"].get(temak[0], 0) + 1
+        if surgos:
+            S["surgos"] += 1
+            S["lista"].append({"f": nev, "c": str(cim)[:120]})
+
+
+def stat_mentes():
+    s = allapot_kulcs("stat", None)
+    if not isinstance(s, dict):
+        s = _stat_ures()
+        s["tol"] = datetime.now().strftime("%Y-%m-%d")
+    for k in ("futas", "hit", "surgos", "ar", "emlek", "trump"):
+        s[k] = int(s.get(k, 0)) + STAT_UJ[k]
+    for k in ("forras", "tema", "hiba"):
+        d = s.setdefault(k, {})
+        for kk, v in STAT_UJ[k].items():
+            d[kk] = int(d.get(kk, 0)) + v
+    s["lista"] = (s.get("lista", []) + STAT_UJ["lista"])[-40:]
+    allapot_kulcs_ment("stat", s)
+    STAT_UJ.clear()
+    STAT_UJ.update(_stat_ures())
+
+
+def stat_uzenet(s):
+    sor = [f"📊 Heti statisztika ({s.get('tol', '?')} óta, {s.get('futas', 0)} futás)",
+           f"Találat: {s.get('hit', 0)}, ebből sürgősnek jelölt: {s.get('surgos', 0)}",
+           f"Jelzések: árfigyelés {s.get('ar', 0)}, piros mappás emlékeztető {s.get('emlek', 0)}, Trump-esemény {s.get('trump', 0)}"]
+    tema = sorted(s.get("tema", {}).items(), key=lambda x: -x[1])
+    if tema:
+        sor += ["", "Témák: " + ", ".join(f"{k} {v}" for k, v in tema)]
+    forr = sorted(s.get("forras", {}).items(), key=lambda x: -x[1])
+    van = [f"{k} {v}" for k, v in forr if v][:12]
+    if van:
+        sor += ["", "Források (találat): " + ", ".join(van)]
+    nulla = [k for k, v in forr if not v]
+    if nulla:
+        sor += ["", "Nulla találat (kikapcsolási jelölt vagy hibás): " + ", ".join(nulla)]
+    hiba = sorted(s.get("hiba", {}).items(), key=lambda x: -x[1])
+    if hiba:
+        sor += ["", "Hibás lekérések: " + ", ".join(f"{k} {v}×" for k, v in hiba[:8])]
+    lista = s.get("lista", [])
+    if lista:
+        sor += ["", "🔴 Sürgősnek jelölt hírek (ellenőrizd, tényleg azok voltak-e):"]
+        sor += [f"• [{x['f']}] {x['c']}" for x in lista[-15:]]
+    return "\n".join(sor)[:3800]
+
+
+def stat_ellenorzes():
+    """Vasárnap este (stat_nap/stat_ora, alap 6 és 20 óra) elküldi a statisztikát az adminnak, majd nullázza."""
+    if not CFG.get("stat_aktiv", True):
+        return 0
+    from zoneinfo import ZoneInfo
+    most_dt = datetime.now(ZoneInfo("Europe/Budapest"))
+    if most_dt.weekday() != int(CFG.get("stat_nap", 6)) or not (int(CFG.get("stat_ora", 20)) <= most_dt.hour < 22):
+        return 0
+    nap = most_dt.strftime("%Y-%m-%d")
+    if allapot_kulcs("stat_utolso", "") == nap:
+        return 0
+    allapot_kulcs_ment("stat_utolso", nap)
+    s = allapot_kulcs("stat", None)
+    if not isinstance(s, dict) or not s.get("futas"):
+        return 0
+    if admin_ertesit("📊 Hírfigyelő – heti statisztika", stat_uzenet(s)):
+        allapot_kulcs_ment("stat", {**_stat_ures(), "tol": nap})
+        return 1
+    return 0
+
+
 # ---------- minden bővítmény egy helyen, a hírellenőrzés végén ----------
-def bovitmenyek(kuldes, elso_futas, eredmenyek):
+def bovitmenyek(kuldes, elso_futas, eredmenyek, uj=()):
     for nev, _, hiba in eredmenyek:
         szolg(f"Hírforrás: {nev}", hiba is None)
+    if kuldes:
+        try:
+            stat_rogzit(uj, eredmenyek)
+        except Exception as e:
+            print(f"[!] statisztika-gyűjtés hibázott ({e.__class__.__name__}: {e})", file=sys.stderr)
     if kuldes and not elso_futas:
         for fv in (trump_beszed_ellenorzes, ar_figyeles, heti_ellenorzes):
             try:
@@ -1392,6 +1488,11 @@ def bovitmenyek(kuldes, elso_futas, eredmenyek):
             except Exception as e:
                 print(f"[!] {fv.__name__} hibázott ({e.__class__.__name__}: {e})", file=sys.stderr)
     if kuldes:
+        try:
+            stat_mentes()
+            stat_ellenorzes()
+        except Exception as e:
+            print(f"[!] statisztika hibázott ({e.__class__.__name__}: {e})", file=sys.stderr)
         try:
             szolg_kiertekeles()
         except Exception as e:
@@ -1829,7 +1930,7 @@ def egy_kor(kuldes=True):
             except Exception as e:
                 print(f"[!] naptár állapot visszaállítása nem sikerült: {e}", file=sys.stderr)
 
-    bovitmenyek(kuldes, elso_futas, eredmenyek)
+    bovitmenyek(kuldes, elso_futas, eredmenyek, uj)
 
     if kuldes and TG_SZUNET_IG != tg_szunet_regi:
         # a Telegram korlátozott: a szünet időpontját elmentjük, hogy a következő futások ne terheljék tovább
@@ -1854,6 +1955,7 @@ def main():
     ap.add_argument("--naptar", action="store_true", help="a mai piros mappás EUR/USD naptárat azonnal elküldi (a --teszt-cimzett-tel csak a teszt-címzettnek)")
     ap.add_argument("--heti", action="store_true", help="a következő hét előnézetét azonnal elküldi (a --teszt-cimzett-tel csak a teszt-címzettnek)")
     ap.add_argument("--ar-teszt", action="store_true", help="az összes figyelt eszköz állását a teszt-címzettnek küldi (jelek ellenőrzése)")
+    ap.add_argument("--stat", action="store_true", help="az eddigi statisztikát a teszt-címzettnek küldi (nullázás nélkül)")
     ap.add_argument("--admin-teszt", action="store_true", help="próba-üzenet a működésfigyelő csatornára (teszt-címzett)")
     ap.add_argument("--telegram-id", action="store_true", help="kiírja a Telegram chat azonosítódat (a botnak írt üzenetből)")
     ap.add_argument("--telegram-diag", action="store_true", help="Telegram-elérés diagnosztika")
@@ -1884,6 +1986,14 @@ def main():
     if a.ar_teszt:
         teszt_cimzettre_valt()
         ar_teszt()
+        return
+    if a.stat:
+        st = json_betolt(KULDOTT_FAJL, {}).get("stat")
+        if not isinstance(st, dict) or not st.get("futas"):
+            sys.exit("Még nincs összegyűjtött statisztika (néhány futás után lesz).")
+        if not admin_ertesit("📊 Hírfigyelő – statisztika (próba)", stat_uzenet(st)):
+            sys.exit("Nincs teszt-címzett beállítva vagy a küldés nem sikerült.")
+        print("Statisztika elküldve.")
         return
     if a.admin_teszt:
         if not admin_ertesit("🛠 Hírfigyelő – próba", "Ha ezt látod, a működésfigyelő üzenetei megérkeznek."):
