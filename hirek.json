@@ -1,5 +1,62 @@
 [
  {
+  "ido": 1795619838,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Why is ASML stock sliding today? - Investing.com",
+  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcVFMM2cyeGFtbVhqZHRKUGE0WllTREdrZUJ3UVRqdE51eWI0UGFZUEYwcmNSM3otMWF1TmVOMFhDM3BhRHZtSm5qbEhwZUo3VE5xNnQtZzZDTUZHRWo3SDE3RFg2dkIzSXZFQjhubnRhenNDUjByOXgtZzd0OEZjeGh5cXc0NW55YmpUYlZsTTdsLTBPOWdDYg?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795619820,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Szabályosan kilőtt az érdeklődés az Anthropic iránt az interneten: az OpenAI-t is lekörözte",
+  "link": "https://www.portfolio.hu/befektetes/20261125/szabalyosan-kilott-az-erdeklodes-az-anthropic-irant-az-interneten-az-openai-t-is-lekorozte-879060",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795619775,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "ASML shares drop on U.S. chip export control bill fears - StreetInsider",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ3VlaTRISGZBaC1fZkV0Z3Azc016dFNfV0x3ODJ5Nlpwd0p2R3dWSzduakZlX0dOa056Z2ZPdzFLdDlyd09zMi1rZGhqRTd2V0xZeDUzSnlGdWV5UFVJLTFyWHY2bnJOUGdfNzUwcm5fcHZPYW5McFpPcmRvVmE0OFdieXdXLXJCSFVSY2J2THJZQXlDX0dseXIwSVB2YnBWb3Nnb2VqNDNGY1ZKdHc?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795619738,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Micron Technology Inc Stock (MU) Moved Down by 9.70% on Nov 25: Drivers Behind the Movement - TradingKey",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeGpORXVhd0NLYjhyMGI4UVlBZUdPUzZKQ3BteTl2eHUwSFhtTUh1aEc1YXRrekdrR2ZsUWRLV2Uzc0I4MGg5WFZPeVlfZEVZR1VZLXcxZ0wzT2tZZmNpSU9HUnBGRmxkV3BTSGxSdjZ4dzNWQ3NIZlZmN01vQWYtSHIyb0pkSEFi?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795619658,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "VOTE: Do you think President Trump should end the war in Iran? - 13WHAM-TV",
+  "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPbEY4eVFBZlZqQ2YtZVZoaXgyaFdtTUp0ZUs4elJlSlRwZXVwWFRWVDdnYzViN2JYRGtVV1BTajNHclBSYmlPSlRybVdKQ3RNR2pzQi1Vd2daNmxCTUlwX3FrRW1XQ2JYenRETFpyWXlGcklFTm11RzgxSDlHcGkxN3BEWmxUd3FiWmFVUEFYRklrRGo2RDBPRDlMcFBXRnFlbk1HVTExQ0xuQ1ZseTk4dTJCbE5ESEtCR1lmaXc3UlBNem4xTUU0YWk0RGt1N2dxbmdhcHBxQWxkNEpGS3Q5cDdDaDlEbVRuQTdOVWNiTjI4ajI4RWtZMDNDYkt1Ym5zYkR3dFNMNllHdndObmszYWJPSG96bmQ4RmdVUXBlclN0akt2NG8zWEhhYmZpWEFFaDM4cFhETVJwZVhNS0VNbGstcWY?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795619436,
   "forras": "Negyedéves jelentések (Google News)",
   "temak": [
@@ -7,6 +64,17 @@
   ],
   "cim": "How Investors May Respond To UiPath (PATH) Ahead Of Earnings Report - Simply Wall St",
   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZWJXcVVBRVNaODFETFhfeXRoZXhSM05EbmFOc3Y2YVR2WVdaSXJjVDEwajlmTnZMRlBhbFNkRnp0eUZmUTVkM3c0X2IzQUlFS2xZU1dFQUpTeHBUVnppaGs5QlJxUzlwdEhha05NNlhROXRIWDZHV2U2R2JfaWJQc3h2VlJqMzFJNzFuTnZsdkpiamxzYjY1T0djdXFKRDdSZnBJeDZYeXEzaDlyM21jSmNaM2tSWlctSVEwb2pYMEzSAcYBQVVfeXFMUDR5YWdnNHhydXhEUEVBaHBoZUZNRVBtS0UyMG5aWkVHNTM2Y2FqcVRMOVg5UFlfQ3Zhd3R2RF9veEpueTJrNVpZSEV1ek5WaFBua2hseVpYdFNsYnNZSnZJbnd3NkhKTDEwTXQyTmxxYmYzYmZkUExWcFE4QmZoRDdWcHFMdjU2RkVIYjVpWVhYTTdPV3FrS29CMjVsUk9heDlxN2JucE5acjFQR3R6QXRad18wT3dpRWlPdW9DXzd5OW85N29R?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795619421,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Micron Stock Falls as UBS Cuts Price Target, BNP Paribas Downgrade Weighs - Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcm5uSzFucTZkd1dyRWJzTGRZYWZQLUhhQXJyUUZsWTh5VEVpUjlBVVVnMkl4bWdyc1ZLZ1I2eVFTQzQ5NGV5eE5GMTl4VnlvcnhKY2phSTRZSlltWVdVVGVSWHVWYWxfZEJqYkN4OXZmcWRjcVQxLVFHZ0lodXdqNHhIWnFRSFE3dGZJUWhLQU1tOXNVNnZJdDVQd2ZhV19TNkZSVGtEVmsybEk4OW9TQS1qWVZYZngydVR3cTRwMGluRDRVX0dEMi16RUVBZw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -101,6 +169,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795619035,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Boeing Is 35% Off Its High. Mizuho’s $225 Target Says the Selloff Went Too Far - TIKR.com",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd1p6eXRxbHpUVEgtck1nQm9xMVk4Tkp6elFEZ1N5OTRMNFlnRl9iaWdmOVdicWxoakFsTFpUX094VjRXa1cwSlNJNjFZMUZoU3N4eTYybHFVMDV6cjk4dFVsZHNFTnhjSWJyQ05aX1RKN29yeDVIS0Uza0NUM040czRvR3BKVEo2a0JfbTZZbVcydFhZMmswSzV6TDIwaXd0ZkVpRGdHX2hpXzVEaFF6RnMwUW9DWkdzSjBsQWlGQjBUbUNCeE5HM3NXS05JYjFFSWZ3dlpHV0c?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795618980,
   "forras": "Portfolio.hu",
   "temak": [
@@ -108,6 +187,18 @@
   ],
   "cim": "Változnak a kilátások: megszólalt az angol jegybankelnök a várható drágulásról",
   "link": "https://www.portfolio.hu/deviza/20261125/valtoznak-a-kilatasok-megszolalt-az-angol-jegybankelnok-a-varhato-dragulasrol-879098",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795618906,
+  "forras": "Trump (magyarul)",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Újabb vámokat jelentett be Donald Trump - maikurir",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03SC1fUFNENHpocG5objc1LVJPQ21QNnFDZHdpWkJlTkhLSDM4VjUwTXRYelhHa3lYMlBBR2h4S0lwMTFtOVAxbGVBamlKUjlEMFJuV2pvbE9sNXVjV3V4ZDdMTzJhNTRlX1dDcg?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -156,6 +247,18 @@
   ],
   "cim": "Fék nélkül esik az OTP - Mikor érdemes beszállni?",
   "link": "https://www.portfolio.hu/befektetes/20261125/fek-nelkul-esik-az-otp-mikor-erdemes-beszallni-879010",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795618740,
+  "forras": "Trump (magyarul)",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Újabb vámokat vetne ki a Trump-kormányzat - Magyar Hírlap",
+  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNGZXZENfSEJISXMzdm9hZHBzbHBtTmFDMDRJazY0NnVvLTJtdkljenJSczZPbXA4bVFCSExDRk10VkpUT1dpV3BTNzJPNHFLSnA3UzdwNVN2MEIyclFlTnlaTkhMdnNXNmh1clNXa0s1ZXFHaklPSVB0N2NCM1BJVk9naW5NazdsTWc?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -357,6 +460,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795618037,
+  "forras": "CoinDesk",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
+  "link": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795617960,
   "forras": "Portfolio.hu",
   "temak": [
@@ -449,6 +563,17 @@
   ],
   "cim": "Trump Hits Japan, China And Some EU Members With Proposed New Tariffs - Yahoo! Finance Canada",
   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZFFJQ0JZS1IwNzRwRmZzNmh0b0dxd2JiMDMtc3E1R3FoWjB4cnZpX1RsOUlyRExHWFNZN0lxNHdsSGl1YXJBUE5vRUZra2ZwRlcxVzFIT3FzeGhkQ2taVGhPb1hsRHZEbHlYV1ZIbXBiUnhubi1xX0ZVVHBQV2s?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795617391,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Stock market futures fall as Nasdaq leads losses - JournalArta",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUzF2dWlQLWJZdFZ1djFBNU80V3FNUEVva1AyRUp4MDRSRFVvOU5SQjgzelVCMzYxT1llLUI5WDZZdTFtVW9FQ24zTDRob3RDMGZiYnE5VXk1UWFLNU5fQnROb1lHZUFKbERTb2p5US1ncW9CdHhsMzZUUGZTd2RiOHNxRk80UHNiYTBidGpzcw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -805,134 +930,6 @@
   ],
   "cim": "Governance Worries Wipe Out Some of Monday's Record Rally as Nvidia (NASDAQ:NVDA) Slides 5% Pre-Market - Kalkine",
   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcjM5UXNDQm9vbDFBYjBGRjExWjRSYTQtYld4Q3NNMHZKQTUtbktYSnJ0NnMtLWctekhoWmVwOV9uUkgtZzl1dGJhdmd2RFlKTEFLVF9wYlppaW80WW1UU1ZsbVk5c2ZsZjNEMkk4cjBDMnhZZkJTdlk3WkdnR3VGbjR2VFRwT0taM2pVV0FmeFV6NjZFVUxZblZzV3Ztci1xUmV2TWpFand3akJnaXczbXFlNlJWTWtLbndUdGVvdDgzNk1hdzlmdHdFNTlJZDRvVkE?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795616088,
-  "forras": "Bloomberg Politika",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "Ukraine Adopts Crypto Rules to Boost Revenues for War-Hit Budget",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/ukraine-adopts-crypto-rules-to-boost-revenues-for-war-hit-budget",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795616040,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Why Record Results Aren't Enough: Urban Outfitters (NASDAQ:URBN) Sinks 12% Pre-Market on Anthropologie Slowdown - kalkine.ca",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOU1iUnpScHUydzR2MnphOFR2ZkZHU0VodWVSb1JvbElzWlpTc2hFUlBHbXJtUVZLWEFDenQ3ZUxaWXBSMU1PVHdxMUEzVjFsYS11M21hX2xUMG9MWHNmbC1UUEdPZjhaNTBGT2lxSWZuQjBXbnNkUzhvQWNHakJRaW9kSDBTY2IzbVNWdVRWeC1mSHZDbUpyQzFjbWE0Sjl0a0hIXzdVYzV2VFFyVWlWYkhQSV9MNjdmbjlqVFJxMEgtSV95SS1XUVRweFpWc2dmcWc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795616040,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Forex"
-  ],
-  "cim": "Karácsony Gergely döntött: komoly leépítés jön a városházán",
-  "link": "https://www.portfolio.hu/gazdasag/20261125/karacsony-gergely-dontott-komoly-leepites-jon-a-varoshazan-879076",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795616040,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump proposes new US tariffs on 14 partners including China, Japan, India - Nikkei Asia",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdjRHdUY0ZEUwQ3o2c3h3Y1JBQUMxTEdyYkxjR09VZElUUXR6aUZIVXBNZkNXYldnQjVuOWptcUZZbExXMXJwZ1E2OWJ2eGd3WjJxdm5DQWpac3NnOEdQNlhzY1UzbkYta3VkbzNQQ1FyR1lUN0dZZ3p3ZzZQdEI4RDJZdy12TjhwOGUxeVN1bEtMYUtLZGJlOGQza0cwS2w3QzZPelVaWF9CN2k5VG5JdEEzN0VEMGphb3JVNkNjaG1DZ3lvQ3gw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795616040,
-  "forras": "MarketWatch",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "U.S. proposes fresh tariffs on China and others as Trump doubles down on his favorite trade weapon",
-  "link": "https://www.marketwatch.com/story/u-s-proposes-fresh-tariffs-on-china-others-as-trump-doubles-down-on-his-favorite-trade-weapon-cd9a1df9?mod=mw_rss_topstories",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795616040,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Sandisk (NASDAQ:SNDK) Falls 7% Pre-Market Today: Memory Selloff and 44% Monthly Drop Put Investors on Alert - kalkine.ca",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcm1QbFdpX2ZqTjc0Zm1VZkFRYlc3LUEwWnZMZWs3Q0NrajBsWTNfRGE4bEh3cnh3SVZZWFFKcTJTV3J0eU9BQmZrNVkxSldXRGtnMW9xMUxTU0hVVE1LQUdLbWloMl93cFBGNFBEbEdkQ2tTVFNLcFNoSVpyVEdlNUMzZDZpdnFNTkVsRWpQMmVYcTYzOV9mUWd2NWdaUjZTVzVxeEZ6SEIyTXIyNjFWV1NwdmxEdUdwOEN2cExNcDUyeFZZRGhhNW10M1dQWTdLNEE?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795616040,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Nvidia (NASDAQ:NVDA) Drops 5% Pre-Market as Governance Doubts Cut Into Monday's Record Surge - kalkine.ca",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcDFfUTVnMzlUYi0wSUE4UkJUX2NBVkVONUwtQS1uVXBFekxUTGZEUnFHUmpkaDRkTDNuWERiYmJqaDBRdDk5blh1N2FXSEZyOW9wNG5ZUXlIajd6LXRNTVJIM09CT0NOSG1HUTBYU0FUc3dyaWMzRlJRMlVUc29vYTc1VEIwUW0wR2I5YmZmTVBDcExlVlpuV3BXSHpQV0c1VF9aRGpObjByRFhvOHNVNnRfLWl0bk9CM0R0RDRqZw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795616032,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Amazon’s CEO, CFO and AWS Chief All Just Sold Amazon Stock - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaVBkX1FzdkpWVUpZU2FNb29mdjJMZFRyQk1tQmdlODN5MmhLblVpWE9ZXzVnRmR2ZDBDTHhVV3BIZ2RBcFhjR0pMVGtmR3JCbGV6TDROZ2p4UTN0SVVmdDFLWml0VDJlanNXb2htdC1tdFRqU0FEWG1tbzhNcU5UMVVBbDVsNGxqUWREUUJSNzhmamc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795615980,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Világgazdaság",
-   "Blue chip"
-  ],
-  "cim": "Micron Falls 7% as a Weaker DRAM Outlook and New Tariffs Hit Memory Stocks; SanDisk Drops 7%: Are Micron and Memory Stocks Now a Value Play? - 24/7 Wall St.",
-  "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMHo3cGJWUUhPeEoxeTRsSTRvWldWNF9yUG9tbTlpR0Q4QW80S1g2cnJyUHMtZm1pM3h6QUxtLV9JMktCYXRicFltVUxfWFRXNWJxOGh0b283S1FlSkNBOWV0eDJpQUdxZWRfX0hXeHIwR3JROWt2N3ZFaUdJcGRDQ2QwLVBuMGlvVzVlWGtjUlJmRnA4b1JhTUNRMGRZRG16a01EUG9ZV0ROWkF0MFpoYldLWEZMeTl6TlJSMDVfZjV3dG9ndGFsb1Z0eEV0dm9QWFN6bVRiS2hlbzVhYndvbk5SeVluWnIySGxIeFdocDFqTDNYLWFRdXZXX1RXZmNONUFDSFljOFFnVW8?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795615930,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump Announces New Tariffs Of Up To 20% On China, Europe And Other Major Trading Partners - www.thewealthadvisor.com",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjRjS1gwVlpmRUQyZE14cHJSQUdRaGJ0OHdaaDh5c25JNnJNOFdWcENsanM3bUVBSWUtOE0xdUxQZWREYkZQWldBWEFUUnJ6VUhGbV8tdE9fYXltSnVTd3lKWDcxSnVFTlFGS1lZTHhTTjZscExXb2JzM1RhTHFzVlNlSlBlQ3lUZ2NYX0tobWx5UWZsZFZaUHhrb1NZd0FwaVJIZkFTYWY3N1l0QnNxZnBFS3JodldQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795615850,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Morning Movers: Ambarella and Deere sink after quarterly results - TipRanks",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVpCSnBjb0JIOFNOWFVrRGxvTGJRMHJMSUlPZnhJV3kwd1BIajJYcFVXT0VDMFRpSUNTS2FkS3poN3c5aHVlVUR4UmZqSnk5MjBsWXFyUmVXOVQyR0ctYk9zVzM0aWZPbG1mU2w1QzFZdU9taDB0Rjd4OEFURFhuTEZvZDJiRU56cGkzWVJ5Mk1tZ0o4c0xGQUZfYTdoZWZub05nalRDM2hBT1FiclRfTGpnRQ?oc=5",
   "surgos": false,
   "eredeti": ""
  }
