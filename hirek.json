@@ -1,5 +1,84 @@
 [
  {
+  "ido": 1795625724,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "What's Going On With Microsoft Stock Today? - Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcDJiZnI4X3BtV1V1R0lBcmo5U240UVJXVm53UHRuOHpFN1hMWmxBeXVFLVVDVVliZGI0VTlsMmY4V1B2ZTVKX2NXb2ZiaDlTLVEyUVFnc3hUUXZpejl3aUtNODBLLTNFeWctaDRWMXlqZXZqekdadl9GYzNrU3NBMFVQOVlPUGNxcVUwbDBxRmlSWnhaVV9DMmJsWFo?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795625640,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Csődvédelmet kért a brit diszkontlánc",
+  "link": "https://www.portfolio.hu/gazdasag/20261125/csodvedelmet-kert-a-brit-diszkontlanc-879142",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795625520,
+  "forras": "MarketWatch",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Oracle’s stock sinks toward a 3-year low as the AI trade continues to unravel",
+  "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795625340,
+  "forras": "MarketWatch",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
+  "link": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795625292,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump Is Desperate For a Ukraine Deal, but the Window Is Closing - Foreign Policy",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVkJybEd5VFFPc25qd052LTBEcFhiWHQydS1UOXF6bmJPZ2pJN3pmU29NT1pCem94YW1ZcjJKQmhSMTl5VjVBZWpTRHU2Z1FhSHc3dTkwdUgxbC1wZy03MnQtTmktbHcyZUZuV1J4M0d2ZDhwYm9FczlSNEg4YlpmaUt1THFmeEdRZVhrT1A4d2NqbHkyY1AyOE81Zktnd3ZvUjVLUjVqSTM5bFJxQTRJY1BTVUFsMjRRRVdWaDBTaHZXLWUyNFE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795625100,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Anthropic’s Post-IPO Struggles Contrast With SpaceX’s Early Days",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-post-ipo-struggles-contrast-with-spacex-s-early-days",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795625042,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "CoreWeave, Nvidia Credit Risk Hit Fresh Highs as AI Fears Mount",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-25/coreweave-nvidia-credit-risk-hit-fresh-highs-as-ai-fears-mount",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795625035,
   "forras": "Blue chip 2 (Google News)",
   "temak": [
@@ -7,6 +86,30 @@
   ],
   "cim": "Oracle stock trades down, here is why - StockStory",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2JBazdBem9XN2hEbE1zendaVjN6YW8zWkZDcEV0NnBtdUZBcjRRM0ttOF9WTVMwWEZrZE1Tb1paUWF3M1oxZVhpY3RFQmUwVHh1SUQ0NDBCN0UxUURsOHh5NC1MMU1sMkFSUTU2bGlTZDRZcUw3WnFVSjNlSjA2NkZ2ak5wSmNzalB1anA2UEVEdmxiVW0tZnJLYl8?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795624980,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Jegybank/kamat",
+   "Világgazdaság"
+  ],
+  "cim": "Nasdaq tumbles 4% as Nvidia leads AI sell-off, inflation and tariffs weigh on investors - New York Post",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0lob2Q5R1pRSm1LZmhUbFRCX2pNX0I2ZU9JWTJkVU1jMWd0TjVIOTBURVZrd1VGaEl1WW84MS0tVE4xaEUxZVVJMlExLU9XLThkLWtwSXY1RWdMaVNIcjVWdHlwQnVGSnRQSW80cGlKbU1XaXMwaFN2bFE3LWhFVzJldS1WMVhXRFIxYVJTd3BJbFZEbldCWTctLUhtRDk5VkZxYzF1RDlCV2I0cEJSZENXV0dub2EtekdFcjAwZ2hYczg?oc=5",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795624949,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "NVIDIA stock remains a solid long-term value buy, analyst says - Fox Business",
+  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBbFRad0M5eDdyY3JQVlg5aDBKRGdYbUlqYy0xYUlFbF82UmIwdzRiNkZaMVNiMEU0cEQ4WG9LZkh1aEhnenhVTHpicU9FSmEyVzZINHdpdjFXSWc?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -19,6 +122,17 @@
   ],
   "cim": "Trump’s accounts traded Nvidia shares 44 times this year, records show - BBC",
   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zeHlzeG5POVNQREwyaGhoTnNCb0taYVN3MkRDNjItbUZyNmZHU2taS2F5Q2dKaDVYeVFWVTg4bG1MNlVmb284Ti1pOEwyRzJ1RjFXVHVWWEZmR2s?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795624920,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Trump says Jensen Huang pardon 'always an option' - USA Today",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2hOMHB2STZJYWdQYUV0QW8zZzlkUlZZdDU3Wk1yalFxR045SDZKUXlaaW1UM21KaHJWbkh1Y0VOS0lkajVWcGZBSnpwTEFGdFd1ckZHbGx1ZHNCWWxVTTFVUmI0bm9pbUVIUU5tQjVwZ0o1VEtUZFFTVzBFN1ctUWpPZUZjZzJPcE1tNm5xakNqN1VoYnB1cENUendzSWNXSmt6aHNsSXdFR0JV?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -59,6 +173,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795624396,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Micron Faces DRAM and NAND Pricing Pressure as Shares Slide - cwibc.co.id",
+  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sNVZ6V1c2R0p0dlVLQk1rTll2OHg2WWVqY2hkNFRRWUFfSFh3QWJ1U2ZzbFI5elplOS1Da2YzeE9DdF8wSGVjODR1NGkwTjJRV1N4VDhJWGh4c3pBSHhBaXFnUDV0dDQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795624380,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -78,6 +203,17 @@
   ],
   "cim": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy for 2027? - The Motley Fool",
   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnJVR3BUNWZaTzB5Z0hBaHQ2b1RaWEZOekItNzg3ajFlRW9VQWl2c3FIT1Q3Qzd3RWhIUWdoNE5JVHFuSUJwbEt6SWkzanRfaUxkaXJtaWtud19uLXJZN2UxNHBqcjZCWGJQaW9oVkpDVk1fWFJrVE5qVnB6SFVOdDRYX3Q0MkwwVVpyeVUzTXhOOF9DVy1jeFQ3MVd1NWFERjd5NzFoZ3BqeUlVQmd2dW41VmVTVk5nYjNHN0F3?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795624301,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Tesla Sinks 5%, Sandisk Down 13% as AI Selloff Deepens and EU Stalls FSD Approval - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWZLZTJBeFlPeVFFMHFhWXFrdzRjeUVISHlKNGJyWmZVOEpneXMxbVVQaGtPbVZRQTJJdExkMmIyNTlQTVRkS0FLdm1NZlY1LURsX0dteHJqdTEwaEVkcFcxNXNCcEd6REZpUXl3b2NCcEEydEVhUmxrUGZMNEJJamhEb2dkaG1JNFVvbUM2QjV2RUJ3Smc?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -555,6 +691,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795621687,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Micron Stocks Sink 10.47% After BNP Paribas Halves Target on Oversupply Fears - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa05XTHg2dVBvLUxfR3FuTkkxWUZ1dHdfdkY5QTF3Wm9TNFdPSTZjSVFRdGQ2ZVhTNWM3RXZkQnlPX0ZHTFVSS25JS1JhZ1U5QUU5emt4aHdfblJZak1WOEszaktYdV9ya2dKQnl5Q0Q4RENMa2pZNThjaExTNnYtWmVYclJkT1Y5dFptZ3Jrd0ZQNHU4dE1ablY5czQ1LUd3RGtMbVdfMndXeVdWZkcweDM0NVBYSXdkUV8weFU5clV0SC01VnhTRTNxU2ZmcXE0QlE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795621625,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -769,157 +916,6 @@
   ],
   "cim": "AMD, Micron, Nvidia Lead AI Stocks Lower as Market Tumbles Into Thanksgiving - Benzinga",
   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVzdMMHY2ZklDdXRQZUJIbEZjWFdCaW1FVnhzWFZaRzFMS1pxVFBKN28taE03Rjljcl94Yks0MmxqRzlzNlFXUV9ZMmQtOHFycTkzR1FGU0h6VnVReVNiTFpYbElFbjY4b2dwcXd5aUhHN2o2Nmg0RVNVR2R4c0RVMmRQa2FOWG1Ubkk3VURGUFJWOGY5OWJRQmlQMloyME5VN3I4UW9BeVFqNU1MV1hpTkQ0LW5ILXpoR0daYkpSNHFLWlktcmc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795620764,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Urban Outfitters reports earnings release for third quarter and nine months",
-  "link": "https://www.investing.com/news/sec-filings/urban-outfitters-reports-earnings-release-for-third-quarter-and-nine-months-93CH-5051229",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795620752,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump proposes new tariffs on China, the European Union and other trade partners - NBC News",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnZuOG5QU2VGb1Y3dXUwVU0xR3g2X3ZKcjV3ZjhaVVRvLWtwQ0JQa2U0V0lpN3VSNkhjbVpEemp6NWZSWTE5cXdaTWUwR2hTR2w4eVk1WHpsemUwQWEtczREZ25IdlV5ZTU2RENwdmhQOGtFdjdzUEhYTm94YzBkVzZZN21Zemc5Uy1YZmJiOVpSX3RXaExubGNIYmFYVGdsZnlIYmZESlhTV1pJblVUZVQ4aWI5cl83ajNSdWxyVQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795620725,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Blue chip"
-  ],
-  "cim": "2 Chainz Shares Health Update After Horrific Tesla Cybertruck Crash - VICE",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFZ0WWJqVlROblkxd3RvQmhvbU5LbWhZYlA5X2ZCTFlMRVYtdXE3TTNYTHQ2YXJfSjZGSUdrVEFYaW43SFpjcVFHemhubkRDWVNKT28yb21DcEx5eUFDSjZHTWxHSmNsckpXdS1HcFhCWVpMWkhGeHFJX1pKdGJ0dV9rTlVtNWRaaHlmaGYxTUhwSFpobUItN2h6ZkxHdlJ2VEE?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795620674,
-  "forras": "Investing.com",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "Tether buys $5.75 million in Gold.com stock",
-  "link": "https://www.investing.com/news/insider-trading-news/tether-buys-575-million-in-goldcom-stock-93CH-5051228",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795620660,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Read President Trump's pardon of Pete Rose - Tacoma News Tribune",
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54TllvczhMSld3Nzg2QkFHOWVRdkhZSThsNHljeGpjN1FDX19UYXc2ay02ZUdRR3BLMjNseUpEY25xZGJra2dzaVFBWXZ0cno3MjNLN1VkVWt1YWZ4LXZKblFBR1JvZmowa2Ew?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795620660,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Whitmer may kick Trump education tax credit decision to next administration - MLive.com",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTdPUDFoTHJZWVpienh0UE5tcW5OcDRMUmFjQWlhTU5weDlSTVJVVWgzaDBPLXVmemlucVZ4Qk4zNVZlNHpQbkNjcEVkZHBlVWNGRjNKN013eXZOM09VZ2lqaWtCMUhxTW5BemhOaWt1eHlyb05pVFJOLTNFazFKOXA0NWdkSl9Kd2ZrcEZRU2U5UkFHY3BMY3VnbnBLdG9oTFktRTdESElYOGpOVEE5UHJnOGFDc2NvVDczcA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795620660,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Világgazdaság"
-  ],
-  "cim": "Nasdaq slides 4% as AI selloff, tariff proposals rattle Wall Street - The Detroit News",
-  "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVHJNa2oyU2pRM3JfcHBkM09mbFZuSVNsbVNGZFdSRWpZS1dodkx0SnRvb05hMkVOX25UbWZJMHhRT01fTFFicHJFY3IxcG4wUDRiODQxOG1lUFp3dGNORjNSa3BnaE5jdkxpV3R1R3BHZC13dHJTLVc4dUpoYW9IazhhdFVneUFkWEh1N0RVXzRYVVprbzhWMDkwZm9adzV5WVdnWktZR1d1bHFfaVRROTBrd3V6YmhIWjlZaDZ4NHJ0OXZBWDJZcjRwWkV2WVZBRVpv?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795620620,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Világgazdaság",
-   "Blue chip"
-  ],
-  "cim": "Palantir stock drops amid insider sales and tariff fears - StreetInsider",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaG81amFhTmJMekpFbGdHN3gyc3lHTTBMSWhXdUlRZzVuMGRFNjJIQlFSd3F2RWFIWUlXbXZFbDJpajU2UTRDX0lIWU5HaC1ka2xVem1fdC04eVIxdWdOUV80TkhFY05aTi1WQTNySjBXbTVvTzlDanp3SWl5WEJTLW02T2o3UkUzbjQwY2FqYjlBYnNEbWw0LVJyWjlMbTNlb1haQmpia3lXVGNQQ0Fz?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795620597,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Blue chip"
-  ],
-  "cim": "Nvidia Stock Crashes 8% Despite Huang's Return and Record $115.8B Revenue - Coinpaper",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS21YZHpBUUoyVWlSMFcxN3pFa1l1RUVhVmp5LTkxVVowc2pOY0dUNG95aGhWVElMc2EyWEZoak51LVN2OTRaMlBlaG9Sb2NTVlBKc1MzNEZKZi05NUhYbzhvT29tYWFQS1hDc0M3LUVob2VDdWJ4UmwzQkE1MjVabWhzcXVrVmhDdGJMNWR2WEZsRU5TeFhLTmJkV0RkVmpwaHc?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795620587,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Sandisk drops 12% amid broad technology selloff (SNDK:NASDAQ) - Seeking Alpha",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaEctZG51MlpnNGd0OWxTY1NjUXBQbGQwNk55ODBwTFgtamNwQTRReVpQalJuZ1otTGpSRE01czhhQjlGcVVOWHZJaVJ0eXJmWjFTMjNCWkVrRDM1cXBiODg1R04taEIzcVEtWDRwT0s0Z2RYWndPckpUaUY4OVlvT01jek1wWFdGb1pLcVV3bWVXQzZadWRv?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795620572,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Boeing Lands “a Firm China Order” Worth $7.4 Billion. Trump Expects 250 More Jets - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMC1TWlB3LXdrVW5nRjF4d0pTdTFHSmVlVkFjU1kxVUwxNUZXZERuQ3FGc3hDbXkwcnlZSnJfZDRDVWt6aWtUZ1o1Sk5ZQXhSX0J0TzNHT2ltaERaZ2lVNHpMUXh3ZFNZMlVDT3RHUTdoNGQyazFkenlKTW1sNjFwdFBnZF9QSVFublhaQWY4eml2dTZKaFN1ZlRR?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795620540,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Forex",
-   "Tőzsde"
-  ],
-  "cim": "Közel 30 millió új AKKO-részvény érkezik a magyar tőzsdére",
-  "link": "https://www.portfolio.hu/befektetes/20261125/kozel-30-millio-uj-akko-reszveny-erkezik-a-magyar-tozsdere-879110",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795620471,
-  "forras": "Bloomberg",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "DoubleLine’s Cohen Turns AI Debt Lover From Hater After Selloff",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-25/doubleline-s-cohen-turns-ai-debt-lover-from-hater-after-selloff",
   "surgos": false,
   "eredeti": ""
  }
