@@ -339,14 +339,15 @@ def arfolyamok_szoveg():
     lista = CFG.get("reggeli_arfolyamok") or {}
     if not lista:
         return ""
-    with ThreadPoolExecutor(max_workers=5) as ex:
+    with ThreadPoolExecutor(max_workers=8) as ex:
         eredmeny = list(ex.map(_egy_arfolyam, lista.items()))
     sorok = []
     for nev, jel, ar, valt in eredmeny:
         if ar is None:
             continue
         iv = "" if valt is None else f" {'▲' if valt >= 0 else '▼'}{_szam(abs(valt), 1)}%"
-        sorok.append(f"{nev} {_szam(ar, 0 if ar >= 10000 else 2)} USD{iv}")
+        egyseg = "pont" if jel.startswith("^") else "USD"  # az indexek pontban, a többi dollárban
+        sorok.append(f"{nev} {_szam(ar, 0 if ar >= 10000 else 2)} {egyseg}{iv}")
     return "\n".join(sorok)  # a fejlécet az üzenetépítő adja hozzá
 
 
@@ -1366,6 +1367,33 @@ def ar_figyeles():
         return 0
 
 
+def ff_oldal_teszt():
+    """Próba: eléri-e a GitHub-futtató a Forex Factory weboldalát, és látszanak-e benne az actual-cellák.
+    Az eredményt kiírja a naplóba és elküldi a teszt-címzettnek."""
+    most = datetime.now()
+    url = f"https://www.forexfactory.com/calendar?day={most.strftime('%b').lower()}{most.day}.{most.year}"
+    kod, nyers, hiba = None, b"", ""
+    try:
+        req = urllib.request.Request(url, headers={**UA, "Accept": "text/html,application/xhtml+xml"})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            kod, nyers = r.status, r.read()
+    except urllib.error.HTTPError as e:
+        kod, nyers = e.code, e.read()
+    except Exception as e:
+        hiba = f"{e.__class__.__name__}: {e}"
+    szoveg_ = nyers.decode("utf-8", "replace")
+    db = szoveg_.count("calendar__actual")
+    vedett = any(x in szoveg_ for x in ("Just a moment", "cf-chl", "Attention Required", "challenge-platform"))
+    i = szoveg_.find("calendar__actual")
+    print(f"URL: {url}\nHTTP: {kod} {hiba}\nméret: {len(nyers)} bájt\nactual-cella: {db}\nvédelem (Cloudflare) jelei: {vedett}")
+    print("--- részlet ---")
+    print(szoveg_[max(0, i - 300): i + 900] if i >= 0 else szoveg_[:600])
+    ertesit("Forex Factory oldal – próba",
+            f"HTTP: {kod} {hiba}\nméret: {len(nyers)} bájt\nactual-cella: {db}\nvédelem jelei: {'IGEN' if vedett else 'nem'}\n"
+            + ("→ az oldal elérhető és látszanak az actual-cellák." if kod == 200 and db and not vedett
+               else "→ az oldal innen nem használható megbízhatóan."), None, False)
+
+
 def ar_teszt():
     """Kiírja és a teszt-címzettnek elküldi az összes figyelt eszköz aktuális állását (a jelek ellenőrzéséhez)."""
     ablak = int(CFG.get("ar_ablak_perc", 60))
@@ -1955,6 +1983,7 @@ def main():
     ap.add_argument("--naptar", action="store_true", help="a mai piros mappás EUR/USD naptárat azonnal elküldi (a --teszt-cimzett-tel csak a teszt-címzettnek)")
     ap.add_argument("--heti", action="store_true", help="a következő hét előnézetét azonnal elküldi (a --teszt-cimzett-tel csak a teszt-címzettnek)")
     ap.add_argument("--ar-teszt", action="store_true", help="az összes figyelt eszköz állását a teszt-címzettnek küldi (jelek ellenőrzése)")
+    ap.add_argument("--ff-oldal-teszt", action="store_true", help="eléri-e a futtató a Forex Factory weboldalát (actual-értékekhez)")
     ap.add_argument("--stat", action="store_true", help="az eddigi statisztikát a teszt-címzettnek küldi (nullázás nélkül)")
     ap.add_argument("--admin-teszt", action="store_true", help="próba-üzenet a működésfigyelő csatornára (teszt-címzett)")
     ap.add_argument("--telegram-id", action="store_true", help="kiírja a Telegram chat azonosítódat (a botnak írt üzenetből)")
@@ -1982,6 +2011,10 @@ def main():
             teszt_cimzettre_valt()
         ertesit("📢 Közlemény" + (" (előnézet)" if a.teszt_cimzett else ""), szov)
         print("Közlemény elküldve" + (" (csak a teszt-címzettnek)." if a.teszt_cimzett else " a felhasználóknak."))
+        return
+    if a.ff_oldal_teszt:
+        teszt_cimzettre_valt()
+        ff_oldal_teszt()
         return
     if a.ar_teszt:
         teszt_cimzettre_valt()
