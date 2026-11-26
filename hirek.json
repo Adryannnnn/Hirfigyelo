@@ -1,5 +1,51 @@
 [
  {
+  "ido": 1795674538,
+  "forras": "Bloomberg",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "US Tariff Plan Raises Stakes for India to Clinch Trade Deal",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-26/us-tariffs-raise-stakes-for-india-to-clinch-trade-deal-video",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795674060,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex",
+   "Tőzsde"
+  ],
+  "cim": "Csődöt jelentett a magyar piaccal is próbálkozó diszkont Romániában",
+  "link": "https://www.portfolio.hu/gazdasag/20261126/csodot-jelentett-a-magyar-piaccal-is-probalkozo-diszkont-romaniaban-879210",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795673949,
+  "forras": "CoinDesk",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
+  "link": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795673486,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Trump",
+   "Tőzsde"
+  ],
+  "cim": "Abdul El-Sayed Says ‘Too Big to Fail’ Wasn't Pretty Last Time: Trump Chose Stock Market Over National Security - Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWGQ3ZTdNSnlMdmxvNWN3czhqOWI2bC1jaS1Qb0F5RU5xdERzazRQVC1rWXFPQTduTXlNR0hsek1vMThxRjktamkxOGh0XzBqQTZncWJVdDlQNkJTY0UyRGRnNjZkekJLX2FOZXc4Q3VPRF9mZUZOWFZYREJNQXBtUkVJNVZBNHZfQWp4S3FPWFQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795673428,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -337,6 +383,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795669980,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Trump Tariff on Indonesia Still Lower than Competitors: Govt - Jakarta Globe",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORXRJYmxneUxwdGN4NDhFOU5BaHc3eU9JczA5X0N0RWcycENEUHBYUGtRUGtmSmZYRU9aZWh2bTBFY1ZwV2RfcDEyWU4tVlFVRElndGNJSWlVbzlLTl82d2NVMDBvTjdhcWxTbGRmLVdEVmlfdXQ0RHo2cUNuaHBiVlpjcVo0VExsRktpeGZabUhzMHNIdkVz?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795669637,
   "forras": "Trump (magyarul)",
   "temak": [
@@ -428,6 +486,18 @@
   ],
   "cim": "Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound",
   "link": "https://www.investing.com/news/stock-market-news/kioxia-jumps-14-after-nvidia-collaboration-as-chip-stocks-rebound-5052074",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795669093,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Report: Kushner pressed Netanyahu to fulfill commitments on Trump's Gaza plan - NewsCord",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RcTBjdHFMV2xmdTFGWnZpemljZ3BkVkNnRGk3QWNWZHNMRy1STFFZVmQyZnV6VWk0V1EwZmRaVHl3emFfQXFFbnFyMXUwakdTYnQxZHJwT3dIUzJ3YWpkeTRiblhVQWQwZmNuV2hmNm91a0djam9LSFpyLTJVREk?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -541,6 +611,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795667100,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "Global markets rebound as tech shares recover and tariff fears ease - Yahoo Finance Singapore",
+  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeWZKYW1TUGNfNmtjaXZEZFhYemlXdTVMaXc2VHI2a1hJVFdIZDVRWUZvYVVqWWJrVzl4VWJwU1FnVU42d29RcFFyR00zaEFEZGpFT2k3NkszYWFjNGpNQmo4X0VFM1J4c2k5OWRjdG9kNGRCNE9fUElmWkZFZzZST3hodmFsUHFKU20w?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795667085,
   "forras": "Cointelegraph",
   "temak": [
@@ -548,6 +629,18 @@
   ],
   "cim": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
   "link": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795666975,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Nvidia Reportedly Sold Top Chips to Chinese-Owned US Firms - NVIDIA (NASDAQ:NVDA) - Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQXzNjeDU1X1RUMmRpc1o2VkgxejRBRjJfR08yV0xOZXdXblJIeV9INVhyTS0xUFlvRDhwUkQxZ1ZQRzJBMVV0MGgycjJESmlFV0luRGFGSk1VVjNDWnNTNm0xWDdIRW03V0dXN1dSUGFuNGpaNWFVdkU1R2Y2NnpzMlBPOHpiaU1wd0IzVUxhazYxaE1FcmVyWGllcEw1SFVoTTBrMy1RT1NVbm9mdUNyVDJGR1FlVU81VFViTTFucG1SUFNYcl9rZFdUUmU3Zw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -836,96 +929,6 @@
   ],
   "cim": "Legend Bob Woodward levels Trump with a chilling comparison - AlterNet",
   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FeFFlMURTOTByWFdCX29FYlRGRDRmNUtGVzBxeTlWc01VMGFrcklKTTNVUEtRdU5pVGtMbURXLVpzVElqaUR1S1hBS05DVXc4SWw0eXoxZjdhOFU?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795663325,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "OLB Group earnings beat by $0.02, revenue fell short of estimates",
-  "link": "https://www.investing.com/news/earnings/olb-group-earnings-beat-by-002-revenue-fell-short-of-estimates-5052007",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795663012,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "ASML €11.7B Quarter, Shopify +32%: Long-Term Picks - shattered.io",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ29QaXY1S1NTS2lGRTlLRzNudHNRdzIyTXE4SXJBRkExOFNBTzc2cE1nNWZQc3p0b25IcGE2UnB6MmRkMkhqcEFBRUhxbEQ3UVdaOGZjTi0xM2ZxSnJKWHVwTnRLSnhnaFE1ajZwbHdvVlREdEgyOG5hVHd4VVFlT2NISjAxLTlu?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795662840,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Dow, S&P 500, Nasdaq Futures Edge Higher As Tech Rebounds After Selloff: DIS, VRTX, DE, CHTR In Focus - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUd3eE9QdHc0TFlpa0w0YWZGbjl5OHB6YXZUdWdSZ2dMcVRBQ0doUDZFallrZ3ZLWGlMOUxzYkRqRVh2amlET0FSRGlWaG4tMU5YZkNQREs2eThRbmhSVXN5RWhiMW16VVNXUzMwU0Zja2pTTnI2NndoeFFwRFh4eFJmMzRaWXF3a2UwVE5sWjUxUEk?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795662623,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Josh Shapiro slams Biden, Trump for failing to put the brakes on Netanyahu - Jewish Telegraphic Agency",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdUFmX2tDdUthNDdFWFdUVVAwcDlyREY0TzhCenFBNlplNUtjc0owa1VXaGNXdFRfdTR1WkMzMDBaYU5MUmJSbG5CMkh3S3pUemJYbjVaOHJLeXQzZkRDcnBDbHdCRzdzUTNMYVhWZndfY2ZMMzN2S3B5b1dBQXFmdDZnWXlDcnY2eURnTVY2c2pCUk9RRTVxNkRwN0JLWkxVLXZwMGIzSmhReDBRNU4tRmIxYw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795662468,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Nvidia Slips Below Microsoft as Valuation Retreats From $5.77 Trillion Peak - BigGo Finance",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIY29mQ181M1JvWGNHaldUdXJmODRrODJXaHZkWW5pQXFOLWtwdTlwa09DQVkwVFE1MEgwU1hPcWVET3oxRXlBQzdyVXhMZ2h3VERYbW05ZVlBMUUxaEdoRTU0ajVMOV9EZXh2SGxQdzZPZDNNRXc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795662461,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Nasdaq 100 Dips Into Bear Market Territory, Then Rebounds as Chips Lag - www.trendingtopics.eu",
-  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UZzdMYTUta1Niak9MZU9RWWdncnBFTDNCTmJUczZsU0ZFSTBwcDhoZmYwRVpITUt3Vl8tdUUtNFBNZTRiak95RTlnLTV2OUV3YTdsSUpncXdySEVXRnJaNUlEbkFfdGtDYThoVVFNMTVwbmM?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795662385,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Trump",
-   "Blue chip"
-  ],
-  "cim": "‘Trump Put’ Protects Nvidia Growth Through 2028, Says Gary Black as NVDA Stock Trades at Cheapest Valuati - Benzinga",
-  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQmt5LTVNWGpHOHM4WG9NdDdQUkZGamNqNDZrb0QzVkdRZWk4R0hIOHVlZVdUM25IMllJOWxCYk1MOWdURWJvVS0wTXc5ZXhSdVJjNDExNG5HMndZVlN5aEJqQUM0R0RiN29UQXF2aENIVUZaV0dYOXdLQzRkODJmeGkyOThySFZlRWpxMlJfNGozUjJQR0FSQkVqWjdoTF9sb2xkYmcxVlBDWTh0S21WVzRKT1JOc0dNTUtpTVJtYVM2MUl5c1lVT201b2NjS1VzalRoZHBNRXVqTGhLVEFuYXM0SjUwVnJGZlV3SkZ2RnBCeTN4dUROV3RDSU95UQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795662360,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Trump",
-   "Blue chip"
-  ],
-  "cim": "‘Trump Put’ Protects Nvidia Growth Through 2028, Says Gary Black as NVDA Stock Trades at Cheapest Valuation in 10 Years - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTU0wbzJ6NERHVXotQkh3Sm01UFp3S1NQeDh0TzFQTVZKU2tJQXZvRzdwc3ctSHRhUlBkTnRYWFM5eGxpcVcxbC1GX0psWmpJQS15TFk4S0NHTEFXQUZYQ3dMOURaME0zM1VJemdtUmFMU19xUEE3U0dDMGlSdkhFWGNhSDdTeEFqRWtXYzc0SXlmNXluWUhXdllyMndqV3dmZDhKVjBiTS1SVXhILUpQVmtUOUxTY1gzMEh2OG1BQVNSRjhkcXlEdkQ1ZFVtbURsc3ltakxEcmFBSmlNdFcyUHJramNrRDJhVTBvald3bmI5OFVqVHBGVWZZSEhLc0xpdnJnWDdn?oc=5",
   "surgos": false,
   "eredeti": ""
  }
