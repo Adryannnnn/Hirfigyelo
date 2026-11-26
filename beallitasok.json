@@ -11,7 +11,9 @@
   "max_hir_a_listaban": 80,
   "fordit": "",
   "max_fordit": 150,
-  "telegram_csatornak": [],
+  "telegram_csatornak": [
+    "Forex_LiveStream"
+  ],
   "temak": {
     "Trump – háború": {
       "aktiv": true,
@@ -394,7 +396,39 @@
     "sponsored",
     "giveaway",
     "price prediction",
-    "top 5 coins"
+    "top 5 coins",
+    "live automatically trading",
+    "automatically trading",
+    "today's results",
+    "todays results",
+    "today results",
+    "maximum dd",
+    "max drawdown",
+    "lot size",
+    "for more info",
+    "more info admin",
+    "contact admin",
+    "dm admin",
+    "vip group",
+    "vip signals",
+    "vip channel",
+    "copy trading",
+    "copytrading",
+    "free signals",
+    "signal group",
+    "join our",
+    "join us",
+    "whatsapp",
+    "account management",
+    "managed account",
+    "trading results",
+    "profit today",
+    "my trades",
+    "financial institutions and bank order",
+    "financial institutions and bank orders",
+    "bank order",
+    "bank orders",
+    "how to use these order"
   ],
   "forrasok": {
     "Reuters": {
@@ -704,5 +738,6 @@
   "_ar_megjegyzes": "ar_figyeles: eszköz → {jel: Yahoo-jel, szazalek: küszöb}. Az ablakban (ar_ablak_perc) elért mozgás ennyi %-nál jelez; a napi mozgás a küszöb ar_nap_szorzo-szorosánál. Törölhetsz/hozzáadhatsz eszközt.",
   "stat_aktiv": true,
   "stat_nap": 6,
-  "stat_ora": 20
+  "stat_ora": 20,
+  "telegram_adat_szuro": true
 }
