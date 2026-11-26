@@ -1,5 +1,28 @@
 [
  {
+  "ido": 1795724700,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Megszólalt a miniszter az ukrán kukorica behozataláról",
+  "link": "https://www.portfolio.hu/gazdasag/20261126/megszolalt-a-miniszter-az-ukran-kukorica-behozatalarol-879522",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795724457,
+  "forras": "Trump (magyarul)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Donald Trump szerint Putyintól a háború lezárását kérte - KárpátHír",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYWpSRkNIVDBCTEZRRm1zdmFHWWlaSk1uZG9GaHAxUEp5MzlvUlR4QWlqd1dxSVo0d1lDMjVHMlJGaUpaaWFYZ2FhQnVUMUlHQkZoXzVBM2ZYckI4cEItbnc5ZXVLRnh4LXdCREVBQUZLaTc0dEJRc2NBTmVWWEljLWpsVHdnRExKN2ZOdFBYTU5kYXM?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795722958,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -77,6 +100,29 @@
   ],
   "cim": "Közel 70 milliót kapott az MNB alapítványától egy korábbi utazási iroda, szabálytalanul fizették ki a kutatókat",
   "link": "https://www.portfolio.hu/gazdasag/20261126/kozel-70-milliot-kapott-az-mnb-alapitvanyatol-egy-korabbi-utazasi-iroda-szabalytalanul-fizettek-ki-a-kutatokat-879516",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795721478,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "America's Tariff Power Struggle: Congressional Reassertion - Trump's Trade Strategy and the Future of Global Economic Relations Through 2031 - https://debuglies.com",
+  "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQ2hYZEt6dDBXX3VJZUpGUnY4SUpnSkM2d2V6SEY4MkNFam9QejFYT1BIZXZEdmtEUDl3UllJYXRSNW9lUGZDazNEYnhmMGNMemlMUmE5bkVnY3FLbUNuTzl2NElMU0lqSWs4SWhLUXEwR0RvTTJvS2k3WktHcTBCOFZBdjBuZ2FWeU1Fc2lMM3JNZWpZa0c0OFZRMksxWENIUzlHanlCU1pZQzhkb294NDkwemcwdmRhc2lFeHRCMk1jQmVmTjN4amxBNE41Rnluc014cmVaYVRjSWRtU0x6ekM5ZFVIQmRBS0VVdTYxWDhIZ1NIWHBMRzRUcGYydw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795721403,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Nvidia Cut Its Intel Stake and Bought More SpaceX. Cathie Wood Is Buying Too. Why SPCX Stock Faces a Big Test on December 8. - Barchart.com",
+  "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPeURyQjB4VEdiXzVtVDFONG9nVmF3YTM0ellFUjdNb1gwQ0tHQ2syXzRhT25oSVRMbnlNcXhfMFJpQXoxbUN3RktVb3NmWnNwdVdEWGhQWlNCV2IyXzhvdzI5emNhbEtOcm1vcVJjSXJWWkNnVlJucFUzdzhMcTJ2OUcyVEwycHFYS0hvZGg1eGpKX2pHdE1rSHR1TnNCZlhEd1FrWG5qQy11bHRoZUxyRTVkTkFxUVpKVHZndTN2V1RsQlYyd1NkeFJnamp2QzZsOUpLb1Z0cEI2Rkx2VlYyRnM4UnJrbzR5TTVpTjUtT2dWTVIwczlSUw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -274,6 +320,18 @@
   ],
   "cim": "Figyelmeztet a szakértő: komoly veszélybe kerülhet Európa legnagyobb gazdasága",
   "link": "https://www.portfolio.hu/gazdasag/20261126/figyelmeztet-a-szakerto-komoly-veszelybe-kerulhet-europa-legnagyobb-gazdasaga-879488",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795718202,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Palantir Stocks Rise 1.5% After Peter Thiel Discloses a $122 Million Share Purchase - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbjMtTW1nYmpGMWo0T1BuMU9ILXJ3Mzg3WGZ3NksxUnJnYWlpOHUtRExWSFdLak1GbnRKVHRIRjFrUElkLTV5UWoxY1NlZFI5X2owc0RHNWYyWERWRGVoaDRYdjZYbEJTQjJDZmlVYmlNQUZoSFd4aWdUa1pzRkloZ05xTHp0SEM0V210aUROTGRLdXBPdkpzdldOM093MzE0LXA3bUg5TTZycDgya3lpRC1JeVBCeDVWdW15S0g3ZF9DRmhnQWN1N3JHR3FnWTNRRmstWnVSTUY?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -703,6 +761,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795714815,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "ASML Dec 2027 1180.000 put (ASML271217P01180000) stock price, news, quote and history - Yahoo Finance UK",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pUjZTc3dHaEdpbkJveFUxbmMzYjRacUdnZ2t4YzNVVEt3UXE1UFNreUZ1NGVqNnJjR0tuVkNOMTFESEI5R2NPU04teG5lQXpQal82T0Q5R2pDS0tka0g2ckhKZDlFdw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795714793,
   "forras": "Cointelegraph",
   "temak": [
@@ -853,73 +922,6 @@
   ],
   "cim": "Trump Says He Told Putin to Back Off Europe, Calls Ukraine ‘Bloodbath’ - Newsweek",
   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbU5CQUptYzlNTnJlbW5YZ3pQTGN6VkJVdW5KVTNUS2REMUo0QTFjbFpKeXpJQTZYb1ZRN1lIMGlIYlNvdk03WjdnZmhXN1FPUlNUYjVFdFBSZlRHNm5JWUNBQldwT3FMQVQxTnVORFc4YVd3Tm9SZFNWWV9leEFTd3JFYTI3dVJYbXZkYTFocG1FTWc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795713522,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Oracle Stocks Sink 5.13% to 52-Week Low as Default Swaps Hit Record - TradingView",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVE1jUmV6N2FzWm4yTnFsWmZ4VnBjUUN5SmtDdWNHWWVaRGdLTjZTQjFwX0wtM1ZPaGZPbmg1bmpGUTdOOGxJOGFtdjF5aEx5S1Bpb0Y4M2hWRGV6VHZPN2xCa29hY0FDSkRHMDZnMmxzTGptT3o2TjJkdXliUkI2LUlhMUZ2MmpzUGVpdTEyV01JUHpQejlCbVBMQlVzYTRuaDdkREFId1RSamk2Z1pDT2poX21acFowRFB6eUZqOFFrV083?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795713480,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Blue chip"
-  ],
-  "cim": "Deutsche Bank and JPMorgan Forecast S&P 500 Gains in 2027 - Limapagi",
-  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tWnZqWXVFZ21ESFlNRTlOOWpiQkl4WEdsRVI5ZFdIQkQ3SHJlaXRwbkV3OUwtcFdyS0RHc2NxdWhWN0xRNXhzSHV5WTBDYnRwbFRza3lWVlZTeEw3OGplYUttYnY?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795713020,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "SpaceX Stock for Children? Elon Musk Announces New Trump Accounts Initiative - Coinpaper",
-  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXFxbFpaZkZWZVc0eTVfMDZoVTJKRUIySWdJbWhzdXhRR0U3ZVJqV1poT1BESzZtMl84MGpQcVBJMEZhUncxZVNzSUVLTTVQV1BIN1B3UnAwVVgwdjEydVdnemtpZTMtTy1XMnBqTjlWakxOczIzMGhmejM1ZG4wWG5kQTFQMHg0bTdtQVExU0VnaGFDSmZNdFZleWc5RzZiczNLa2tmOA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795712820,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Apple, Exxon and Lowe’s Are Rewarding Shareholders Beyond Their Regular Dividends - 24/7 Wall St.",
-  "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUpUYVFxQWNQdld1aTJCLUZROUVhOG5FT1dyX1c3eVoyNkF5OFBnV2ttNmNMakhlTXVKUU5QYnpRM0R3cmNZaktVWVhjTDhuZUp0MG5ySmgwMzlmaXBUMy1yWjY3MTVnQU85SHhEMXVlLVpiN3BYb3ZoZ19BVC1OTWQxRVpCQnpDajV2OTZmNk8yVVQzaTYyV1E0U0N4RUFlV0s1ZGliVk10dnQ1eTlKdzFVXzFpRW5NaEZGbG1pYlY?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795712404,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Nvidia Pauses Advanced Chip Orders in Southeast Asia - Investing News Network",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TSEJuajdiT01OOU1kaEFxam54MDA5ZHB6Z1NEdEJHb3hrUGt0QzN3b3hSUGVycTNJMlZBMVJkOVRRd2NERndoQUtfLVl6MDVvVGFGLVAwSDg3NGhJRmFSQ0NMLXY0QnBJN2M0Yw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795712400,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "5 questions facing President Trump this Thanksgiving - The Hill",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOGc5RWxPWFpTSktNU1lYMEwtanFEakJySjAtbzNJYkJzcWQ2ckQxWVlUN1RaSGpqSlowZnRrdjFZTG5KX0RQa1Fib0RsUy1oTjB3d2ZIb1Z6VkkteVV6cjdnOVdvUmh5YnNFSkVBbjI4NWI2UU1oelV3SXFPcWwzdtIBgAFBVV95cUxPOGc5RWxPWFpTSktNU1lYMEwtanFEakJySjAtbzNJYkJzcWQ2ckQxWVlUN1RaSGpqSlowZnRrdjFZTG5KX0RQa1Fib0RsUy1oTjB3d2ZIb1Z6VkkteVV6cjdnOVdvUmh5YnNFSkVBbjI4NWI2UU1oelV3SXFPcWwzdg?oc=5",
   "surgos": false,
   "eredeti": ""
  }
