@@ -394,6 +394,16 @@ def feed_elemek(adat):
     return ki
 
 
+ADAT_AKTUAL_RE = re.compile(r"\bactual\b[\s:=\-–]*[-+$€£]?\d", re.I)
+ADAT_VART_RE = re.compile(r"\b(forecast|previous|expected|consensus|prior)\b", re.I)
+
+
+def adat_poszt(szov):
+    """Igaz, ha a poszt egy naptári adatközlés (Actual / Forecast / Previous). Ezeket a bot a naptár-figyelésből
+    maga küldi, ezért a Telegram-csatornákról érkező másolatokat kiszűrjük."""
+    return bool(ADAT_AKTUAL_RE.search(szov)) or len({m.group(1).lower() for m in ADAT_VART_RE.finditer(szov)}) >= 2
+
+
 def telegram_elemek(oldal, csatorna):
     """Egy nyilvános Telegram-csatorna webes előnézetének (t.me/s/csatorna) feldolgozása.
     Visszaad: (cím, link, leírás, időpont|None), ugyanúgy, mint a feed_elemek."""
@@ -408,6 +418,8 @@ def telegram_elemek(oldal, csatorna):
         szov = html.unescape(tisztit(re.sub(r"<br\s*/?>", " ", t.group(1))))
         if not szov:
             continue
+        if CFG.get("telegram_adat_szuro", True) and adat_poszt(szov):
+            continue  # naptári adatközlés (actual/forecast/previous): a naptár-figyelés már küldi
         ido = None
         d = re.search(r'<time[^>]*datetime="([^"]+)"', blokk)
         if d:
@@ -478,7 +490,12 @@ def feed_letolt(elem):
     nev, url = elem
     try:
         if url.startswith("tg:"):
-            return nev, telegram_elemek(letolt("https://t.me/s/" + url[3:]).decode("utf-8", "replace"), url[3:]), None
+            try:
+                nyers = letolt("https://t.me/s/" + url[3:])
+            except Exception:
+                # a t.me tartomány időnként nem érhető el, ilyenkor a Telegram tükördomainjét használjuk
+                nyers = letolt("https://telegram.me/s/" + url[3:])
+            return nev, telegram_elemek(nyers.decode("utf-8", "replace"), url[3:]), None
         return nev, feed_elemek(letolt(url)), None
     except Exception as e:
         return nev, [], e
@@ -1096,8 +1113,10 @@ def trump_beszed_ellenorzes():
     most_dt = datetime.now(ZoneInfo("Europe/Budapest"))
     ma = most_dt.strftime("%Y-%m-%d")
     if csendes_most(most_dt):
+        print("[i] naptár-figyelés: csendes órák, kihagyva")
         return 0
     if time.time() - float(allapot_kulcs("ff_utolso", 0) or 0) < float(CFG.get("ff_min_perc", 8)) * 60:
+        print("[i] naptár-figyelés: kihagyva (a Forex Factoryt nemrég már lekérdezte)")
         return 0  # a Forex Factory korlátoz, ha túl sűrűn kérdezik
     allapot_kulcs_ment("ff_utolso", time.time())
     penznemek = CFG.get("naptar_penznemek") or ["EUR", "USD"]
@@ -1112,6 +1131,8 @@ def trump_beszed_ellenorzes():
     lattott = dict(allapot_kulcs("trump_beszed", {}) or {})
     emlek_t = int(CFG.get("trump_emlekezteto_perc", 20))
     kuldeni = []  # ([kulcsok], cím, üzenet)
+    kov = [f"{d.strftime('%H:%M')} {c}" for d, _, c, _, _ in piros_dt if d > most_dt][:2]
+    print(f"[i] naptár-figyelés {most_dt.strftime('%H:%M')}: {len(piros_dt)} piros, {len(trump)} Trump-esemény; következő: {kov or '–'}")
     if trump_be:
         for d, penz, cim, imp, elo, elozo in trump:
             perc = (d - most_dt).total_seconds() / 60
@@ -1143,6 +1164,7 @@ def trump_beszed_ellenorzes():
             kuldeni.append((kulcsok, f"⏰ Piros mappás hír {csop[0][0]}-kor", "\n".join(sima)))
     if not kuldeni:
         return 0
+    print(f"[i] naptár-figyelés: {len(kuldeni)} értesítés megy ki")
     trump_allapot_ment(lattott)  # előbb mentünk, így hiba esetén sem megy ki kétszer
     kiment = 0
     for kulcsok, cim, uzenet in kuldeni:
@@ -1529,6 +1551,42 @@ def actual_figyeles():
             break
         time.sleep(20)
     return kiment
+
+
+def naptar_diag():
+    """Kézi diagnózis: mit lát a bot a mai naptárból, mikor ellenőrzött utoljára, és mi ment már ki.
+    Nem küld értesítést a felhasználóknak, az eredmény a naplóba és a teszt-címzettnek megy."""
+    from zoneinfo import ZoneInfo
+    bud = ZoneInfo("Europe/Budapest")
+    most = datetime.now(bud)
+    ma = most.strftime("%Y-%m-%d")
+    penz = CFG.get("naptar_penznemek") or ["EUR", "USD"]
+    ut = float(allapot_kulcs("ff_utolso", 0) or 0)
+    sor = [f"Most: {most.strftime('%H:%M:%S')} (Budapest), csendes órák: {'igen' if csendes_most(most) else 'nem'}",
+           f"Utolsó naptár-ellenőrzés: {'még nem volt' if not ut else str(int((time.time() - ut) / 60)) + ' perce'}",
+           f"Emlékeztető: {CFG.get('naptar_emlekezteto_perc', 20)} perccel előtte; Trump-figyelés: {CFG.get('trump_beszed_aktiv', True)}"]
+    try:
+        piros = ff_piros_dt(penz, ma)
+        _, _, trump = ff_naptar(penz, ma)
+    except Exception as e:
+        piros, trump = [], []
+        sor.append(f"❌ A Forex Factory JSON nem érhető el: {e.__class__.__name__}: {e}")
+    lattott = allapot_kulcs("trump_beszed", {}) or {}
+    for d, p, c, elo, elozo in piros:
+        perc = int((d - most).total_seconds() / 60)
+        k = f"{d.strftime('%Y-%m-%d %H:%M')}|P|{c}"
+        sor.append(f"🔴 {d.strftime('%H:%M')} {p} {c} ({perc:+d} perc) – emlékeztető kiment: {'igen' if k + '#r' in lattott else 'nem'}, "
+                   f"actual kiment: {'igen' if k + '#a' in lattott else 'nem'}")
+    for d, p, c, imp, elo, elozo in trump:
+        sor.append(f"🎤 {d.strftime('%H:%M')} {c} ({imp}) – jelezve: {'igen' if trump_kulcs(d, c) in lattott else 'nem'}")
+    if not piros and not trump:
+        sor.append("Ma nincs piros vagy Trump-esemény a naptárban.")
+    hib = allapot_kulcs("szolg_hibak", {}) or {}
+    if hib:
+        sor.append("Tartós hibák: " + ", ".join(hib))
+    szoveg_ = "\n".join(sor)
+    print(szoveg_)
+    ertesit("Naptár-figyelés diagnózis", szoveg_, None, False)
 
 
 def ar_teszt():
@@ -2121,6 +2179,7 @@ def main():
     ap.add_argument("--heti", action="store_true", help="a következő hét előnézetét azonnal elküldi (a --teszt-cimzett-tel csak a teszt-címzettnek)")
     ap.add_argument("--ar-teszt", action="store_true", help="az összes figyelt eszköz állását a teszt-címzettnek küldi (jelek ellenőrzése)")
     ap.add_argument("--ff-oldal-teszt", action="store_true", help="eléri-e a futtató a Forex Factory weboldalát (actual-értékekhez)")
+    ap.add_argument("--naptar-diag", action="store_true", help="mit lát a bot a mai naptárból, és mi ment már ki (teszt-címzettnek)")
     ap.add_argument("--stat", action="store_true", help="az eddigi statisztikát a teszt-címzettnek küldi (nullázás nélkül)")
     ap.add_argument("--admin-teszt", action="store_true", help="próba-üzenet a működésfigyelő csatornára (teszt-címzett)")
     ap.add_argument("--telegram-id", action="store_true", help="kiírja a Telegram chat azonosítódat (a botnak írt üzenetből)")
@@ -2148,6 +2207,10 @@ def main():
             teszt_cimzettre_valt()
         ertesit("📢 Közlemény" + (" (előnézet)" if a.teszt_cimzett else ""), szov)
         print("Közlemény elküldve" + (" (csak a teszt-címzettnek)." if a.teszt_cimzett else " a felhasználóknak."))
+        return
+    if a.naptar_diag:
+        teszt_cimzettre_valt()
+        naptar_diag()
         return
     if a.ff_oldal_teszt:
         teszt_cimzettre_valt()
