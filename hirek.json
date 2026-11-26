@@ -1,5 +1,74 @@
 [
  {
+  "ido": 1795697820,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "An Apple Executive Just Filed to Sell $19 Million of Apple Stock With Shares a Hair Below Their Record - 24/7 Wall St.",
+  "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORnI3VGhVN21RMGZmQzhBZVhxbzVuTHdpajBYUlRGUEtOWmRkdGxZWUZvRmV4ZjNmdzdsMWlUaHE5Tmp4SjQxUkhWUEZMYUtvZm1CVVJyRWIxY0lJSVdQR0ZxTXRKT0UwVmRIRFUwMlJwdDczOFJIb2FjQXIzdjlfTUtFNmxScXdvbVVUYTQ5Yk43TFpnY29lSmtjd3RUbGlBV1NXdmd3dnA4aWU3T2ZEdHJLOUtYUlIyWEhkNjZtbERHSkVsY0FkUjA5bHZTTGQ5RlFxbzQyc3NmNnVSaUE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795697707,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump opposes AI integration with China, citing U.S. lead, report says - Superpower Daily",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFFwTllCbDE2aDQ1T2pTVGw1dFZ6dEY4dFFxckZMTlBlOThpT0JzNF9SRGZ2cWtJUFRvaV9fcUlvYlhKWGdIaEEwMUtKSXBTRnRUS0VkZWpPX2phTG1OMFhqeHVVNnpoM3RGeWZYZFRoTDVVa3h2UWwzQ08xM1pBZnBpcGRsLW1JTVJGaktwMUd1b254dDdrSWZSUElhZEt4UjFr?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795697520,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex",
+   "Tőzsde"
+  ],
+  "cim": "Erős évzárást vár a Wood a DH Grouptól, maradt az 1500 forintos célár",
+  "link": "https://www.portfolio.hu/uzlet/20261126/eros-evzarast-var-a-wood-a-dh-grouptol-maradt-az-1500-forintos-celar-879382",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795696980,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex",
+   "Tőzsde"
+  ],
+  "cim": "Komoly kérdések merültek fel az Éltex-tranzakció kapcsán, esésbe kapcsolt az Alteo árfolyama",
+  "link": "https://www.portfolio.hu/befektetes/20261126/komoly-kerdesek-merultek-fel-az-eltex-tranzakcio-kapcsan-esesbe-kapcsolt-az-alteo-arfolyama-879380",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795696937,
+  "forras": "Reuters",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "Bank of England to cut capital requirements for UK-focused lenders - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV01VNUFveTUxSVFXeE9aSlp4UUQ2X3ZLY2pCaXdhUVZMZkpNS3FHWDZNYlpoWHBnTV9TLTBEc1VKMlF1VVBOMk15M09EZWVJTkVCNVJfZTBTVmZ4SEhId2xkSHN3SzIydkhZSWlIUFF4NTN3M29DYndUYVZpbDJDYk1BV2FteTR4TWNyNlItMG94b3dkZ3VvdGc0WXFucUVJOHI1LXhaUElKbE1IX0E?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795696777,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Nvidia Stock to $620? Meta Ai’s Wild 2027 NVDA Prediction - Tokenist",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTHR1WkYxb0NDMm92ejlYWklaN2t0Q0RfbEx2cndXMk5NaUF5Ty1ESktpa3NTME54MkhhcWdTRXVGQTJFekZ2VlVBTi1yLWJYSHh0bjNwOUlGajNMZ3Ytdno1QzVMbEVaVjBoV2JoOG9ZVjZ5dExRSHJsUWltVkNubWctdm1WLXZpaDAxdDdkMzFic0NJV1ZmYll0ZFV4U2wtM0Z1Sm1wd2h1VlE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795696731,
   "forras": "CoinDesk",
   "temak": [
@@ -7,6 +76,18 @@
   ],
   "cim": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
   "link": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795696579,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Intel (NASDAQ:INTC) Stock Moved Down to \"Hold\" by Zacks Research - MarketBeat",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON1NubERSbVByUnBVS01McUdfMTZnakpaUkdYWjNPNUV5bUlmYW5RTFdNSjFzX1hZcmhBVXFmX1JjNEEwWERpZmVEVGw3clo4aVJnYzZKWXRuR244bXZiang5X3ZYekxxenUzekJ4Q2gwcXZNeTBIdmFWMmJFeEZZclotZVYyZEw4bUlCMlJKYjhYUUFYZWpGOE9uaEUteThRYk5DM2haQi1OZVp2ZXMzcFE5OHBTTG9HRUtlQ2VHOA?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -23,6 +104,29 @@
   "eredeti": ""
  },
  {
+  "ido": 1795696441,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Global Selloff Pushes S&P 500 Futures Down Nearly 2 Percent - bsinews.id",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sc05kbUI5T3JtZnFySTBxUTIxRnFPMEVLUmNWRml4MEZTZlVLd0VMTUxneHhwYWVCOWlvZ01QVk5meXYyRUR5UGxLaXhwM2hNVk00eDBNS3UwQ21LNnI5UlRNMA?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795696320,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Kripto",
+   "Tőzsde"
+  ],
+  "cim": "Bitcoin Erases Rally in Under Six Hours as Nasdaq Also Reverses, Glassnode Reports - Hokanews",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQUZNRFp6MkZzMFQ1V0hZZTg0STJuNHBKNnBRSGpaU243bGpBTzhmY3N2em1XTUZnRGtXbU9iX0JtN3FaOWFyYmZHbmtHYmd0T20ydjB0N3JIT0tOT0paTkxIVmZzLURkaHdXUFZLWXJrcGpCTmZTcHNmSUFVRGkzZkpvTQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795696299,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -35,6 +139,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795696220,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "US Stock Market Today: Dow, S&P 500 and Nasdaq Futures Stab… - theopenpress.in",
+  "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01ZmczeDFpSnhpUTE2M0Q1NzhiX0JqYk5RdUFHdm1BSml3Wmxodk5Jb09IOXJMMVpMVWJlRkI5ODhZM2Q4a2NfVHNlaHF4cHU2VGY5NUtvbHNsNUJOMUN0M2tyeWNodw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795696020,
   "forras": "Trump – beszéd (Google News)",
   "temak": [
@@ -42,6 +157,17 @@
   ],
   "cim": "Mandelson told to tone down Trump speech as it sounded like he’d ‘drunk the Kool Aid’ - The Independent",
   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNanFOZmRPdEhVdjBpRmY0QTU3MEFrM0RtaWkxY3VzZTVBQ0xvNm1YSk4xVUluWDNiWGVxQnBpSzF1VEJWbUk3NTRaenBGMlg0UjRGUGFwY2lvTjd1NmY5QlhQOWNkQXItSzdYaWZxVEpHUHdRaFNkbU1WNjN0TWRmeEl4cU9vVkJXRF9mUmpRVXlhX3AxLS1CdkpIREE5akphUzBoMkxsYzlITk0?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795695900,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Buffett's 'Rejoice in a Selloff' Playbook Gets a Fresh Test as the S&P 500 Slips Into Correction - BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUa2lOWHBWX3NaY1pIekN0Nzc4cTdtZ29TUEsxczhWcDljMjBrTkV0TmhhTktTRXdCLUlUWEI5a0wzdkhZcFhmNzFtWHZMb2dIcjI2WUN3UENscDRwemw0MHVkdVFDNE5oMVRzeHVOYi1zWk15RVE?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -153,6 +279,29 @@
   "eredeti": ""
  },
  {
+  "ido": 1795695108,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Világgazdaság",
+   "Blue chip"
+  ],
+  "cim": "Boeing Stock And Aerospace Rivals Facing New Pressure From Brazil Aircraft Tariff Risks - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSUtiUUU3MG5fYVp2MHN3TFotSkYxeXhVajB0NFg0QzFBQWs1b29nREJTLTJKOHV2SldGUDZfVWdVWktOT3dQMmhoVXJDbUktQS1mVE00XzdHdktaV3U1MGdLdUlxSGdDOWM1eEhfWWFBSTdleUlJT2xUMkw5aDZYVXg2T1VOZjlSNzNYc25vYmFuS1p1M05iX3UyVE9vb2ZIWV9B?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795694940,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Which Programmes Drove Record Revenue at SINTX (NASDAQ:SINT)? - Kalkine Media",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXF2Z2s5V0RRZnhKZERkdFhWT3BqbzR1VzM0UWlGeHBDTjRFWHQ5bnpSd3gzT1ZQd3N6VlBIVTQ2eDRVWGdESVdLQ0NMVG1sdksySnJIaDFWdllWN25feGpDVGI3NTA4dlBYeUk3cTZEcjkyWmhONGpKUmc2SGlqdWdMS3d4WGFzNGhOV2VvM2h2cDhVVXdZS1NDbVNuZ2ZrcUt6UWx3?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795694839,
   "forras": "Blue chip 2 (Google News)",
   "temak": [
@@ -161,6 +310,28 @@
   "cim": "Oracle Stock Plunges Over 40% This Year: Can It Return to All-Time High of $345 by 2027? - TradingKey",
   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUl5OUlCV21VOFkyOVEwNkxheVVGSmE4bkN5UmJoTnBRekU5enNKOUJrMUpxbU9VSWpWZG4zZEFRaTNLUVVZRTBoV3czbDYyN1BLNXpORDJObmFXbkprRDM1V3paVnRYU0Z0SlpXaVdtMDBhcjVrb2J6S2psU2RCZzE4NlVzdEFQOGZ5S2oxRlhYVEI3TjdoS0E3UHNDeHdqczdCZVFyejQ?oc=5",
   "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795694820,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Which Business Lines Led Robinhood (NASDAQ:HOOD) to Record Revenue? - Kalkine Media",
+  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUU56bWZNOTNhXzQzQ09TMlV0SGdDTllnbDMxaTlQT2dIVndaR19vVzVYZUludzVhYUViTzF6RW5BMnprdVc2dEV6bUtidFhnazNDUHhFRVlDbkhuR3Z5cDBVMDVnUGFWYVJjbzNRVGpLbkJTYmxfTG1COWhWZFZZMlpkQjdMTnNkZXB4ZW1kQjBuMGtRM2lKNDlpYVdlN1RYS0FZbnJkTUUxMXdj?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795694820,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "What Drove SoFi Technologies (NASDAQ:SOFI) to Record Net Revenue? - Kalkine Media",
+  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjlKRHlPX0FsaklUUmRNYkNqRHFGMGt2aC1KNHkwQ0NZMmEzd1lMckhiLU5wd1NrSkVFOVZ6WjFXSFVSUG1zSXZkekFzQzg2TVZOd2ZKYUNUT0dUUWJFaFRyNFhjdEZ5NnU3aWpzV0x2WXRrNTk2b2M2V0tWV3UzMHRrei1pNUJGNDlFbWJlSUpzcHBtVGNZc25SRE1JckI5Ti13LWU4aWozdw?oc=5",
+  "surgos": false,
   "eredeti": ""
  },
  {
@@ -277,6 +448,28 @@
   ],
   "cim": "Trump’s China Tariffs Threaten Fresh Trade Tensions",
   "link": "https://www.bloomberg.com/news/videos/2026-11-26/the-pulse-with-francine-lacqua-11-26-2026-video",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795694100,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Is Recurring Revenue Driving NAPCO (NASDAQ:NSSC) to Record Results? - Kalkine Media",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVE1iZEhWODZhdlNNbHZEdlEzU1hpS3FQdjFmczAwZmdudk9qS0JvbmNrb0pKM0NKcFN5QXFrVkRJUkxJU0dVRjdmOFM4OTVqaXhLUG1fSzYxTzl6aTd5UWUtbm5iQ05FVVhxOTBFQ0IzeXUyZlFOajZxOGM1c0hlQWVIOVMtNVlONm82bjlkOXQtY2RxWnNPX0tiZjdGS2dsSEx1ejAyRm1mc1U?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795694040,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Which Markets Led Cronos Group (NASDAQ:CRON) to Record Revenue? - Kalkine Media",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTVozM1QwRkRXTWYwMUFTYVhfUlY2OTI0elktcE5KLVIzaWl6MXA4VDN6Nk0yUXl0dlEtSWtPTVZmYkR5NDJZcE1zUUxkQzhYX1ZnTXhuaTJNUXpUc1hDUU4tYkVycWgta3hkUXFZQWZZSllyYndHZFJOVElLelBJeGUtRnlhWjZGcG8xQlQ0Szl3TUN3SkdYWmtsTDJpLU1EWHFpMktn?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -398,6 +591,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795692878,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Nvidia Pauses Server Shipments to 4 Southeast Asian Nations as US Tightens China AI Chip Controls: Report - Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdUFuU3pQMjY1SXVkVjNzbVJCQy1HcWNDQlN6emVpa0FoTzItWnNnZkRaTy1hQmRnYldBLXVON0I2cjJMUXNYb1V2NVZUODVzX0hsV1ZUaVhONTJjbms1RjVpbEVLZTJOYkpTdlMtbXdldWYwNjFjcVB1S19ZR2xDUFJ0SEprSTh1S21QVkFONjNhVU9aRkNnTzBtY1NFU3Y4akx6bGpnY0VROFpDZGg0SlBXeHVfSnhiUkpOLUl3cjlBTW9xMFlYVE9OTWtoNHV2RTJ1ZEFUaFlTbGV1NzVBTkRyMHpXcDItc3pzUlBWNV9NNkVINUprTE9scHVYbXppLTZybWVMc05FazdhU1RV?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795692871,
   "forras": "Trump – beszéd (Google News)",
   "temak": [
@@ -417,6 +621,17 @@
   ],
   "cim": "Trump's Tariff Obsession: 15% Defended, but Room Left for 25% - SBS 뉴스",
   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRMUd4RF9sYjFJWTVZMWktSjFXSFY1UTNzRkdxckk0WHhaTXlBOGhKTFVLV1VsR0hxX2pyNEc0Z0NIRDVJMjNvRzR0T0JXdzlqbGpKLXpLZjRNMV92YWtyaXFabkhaM0dUZ2liM0ln0gFmQVVfeXFMTlNqUTJJWkZKY0F2MGhFWFlNUHV2LXNaRzVOTVRIVDZETjRXeGxZV2hyZUlQSldXamZFOVBpN3dPWUU5YWxwS295cGJxcHpESHdfMXlFS2c0Y2JTNFQ5RnNxQ1VSdnBR?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795692656,
+  "forras": "Investing.com",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "Exclusive-StanChart’s crypto unit Zodia Custody hit by security breach, some client data exposed",
+  "link": "https://www.investing.com/news/stock-market-news/exclusivestancharts-crypto-unit-zodia-custody-hit-by-security-breach-some-client-data-exposed-5052481",
   "surgos": false,
   "eredeti": ""
  },
@@ -639,6 +854,29 @@
   "eredeti": ""
  },
  {
+  "ido": 1795691184,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Nvidia, AMD and Micron Stocks Plunge as AI Selloff Deepens - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXI2ZHFBcjBOY2VTTTR5cWhjd0VHYUlmd3pJNjdIZkNKR1pKcEFESzBaM1NlcHRpQ1lnQy1SX3ozbDNMWkl3aTJReHl2NWlHdWd5WkZpWkNON2NBRVRSWENYZzBxOGhqbWNyd2Z0bjlHVnlVQ2FZcWc5aG1OQmZyNHFCdWxXRFpIWF9DSW9YZ3J0RktTajhvSkdEYUZjN2NyV3JfT1lQeDFleFZzN2lSX243VXdOZFVv?oc=5",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795690930,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Dow Jones Futures Rise, Nasdaq Leads After Wild Wednesday as Markets Close for Thanksgiving - SSBCrack",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa1Z1YVRieDl5Z0U1dFcxWXZFdHdNczBkSTZFRE9BZ1J5d3hldHdZZDBOTFdxZjJsZzJ2eW1tZU94U0gySWwzblhOZ055NXRCTnVxWVZJZW5ZMElQTVFjTkZvTndjXzVwYlotd2RtM1dzM1B1ZTlWVXhiM3RtblpNcG5jbmQzOWhCZlZ5NmdfTGQ5VjNHOVpWUkpVTVItSnNzVFc5dGRNQ0NBcGJBS0w3cDBqNmN2REtu?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795690860,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -680,244 +918,6 @@
   ],
   "cim": "Trump’s Import Tariffs Leave US Consumers Little to Celebrate This Thanksgiving",
   "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/trump-s-import-tariffs-leave-us-consumers-little-to-celebrate-this-thanksgiving",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795690612,
-  "forras": "Bloomberg",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Wall Street Flips From AI Euphoria to Gloom",
-  "link": "https://www.bloomberg.com/news/newsletters/2026-11-26/wall-street-flips-from-ai-euphoria-to-gloom",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795690606,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump’s fresh tariff threat puts Asian nations under pressure to seal US trade deals - Malay Mail",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWUZWemVTRVYxVkxja1RDMWs1TUtwZTAzbWFsR2J4UWJiZnlzbTN2ekgzdWVUd29aNklqUy0xUVBQYkJuOHl3YlhEbmRoZklaMWhuNU16UHRuTDNxWEZidS1zSnJnQWNMTEZGOVdiOUNXVVo0QmNoakdBV0laV3NJbTNKRnFwSDJsSVpZY2RiS1liX3g5RTlZRnZjYmh1WXp4aHdPNXQ2MjZlTHFKNXNlVUxUbTYyUldEalNXRjNTMGVLWWlMVk9TQ0NlZjZ1b1I1VzdFS9IB2gFBVV95cUxQSkN0X2lUUm5ZdENmVWtBRzNSeUhEQTlEZ2Y1Z2l3aV9KMjMyaGQ3RnhMczBBSG9iYUE3M3ZESGxSckZNU0RxY1ZWdm9FRHZCajZTNnFGVThnV0hOT3hUM0tHNWtuMjg1OEEyMUdvd0FSSEw3X3dhSTZCUXJDLVJTd3hnb1YwSjZxbm9GY250bGtWalJoSm9zdUVxc1cxTzhBdnV3a0pOXzRnckgyNVFWNmo1dzdNWkVaSlFFOWxkYk15aDh4ODFKaTc0R3o1NzN3eTR5VEF6Y2pYUQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795690568,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Nvidia shipment halt threatens to stall the AI rally - CoinDesk",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlI2MmFSNGVseUkxcGNLWW5RQklfcDJnUE9weDhQT2hOXzQ3dkdQekxaX3dET1ZzS0FMd0ozOWF3ZTlaVHdxcW0yeFJBTjFDTlVscU1CT25KTUd2cjdHSnM1ZG1CZTFkay1ZVHBZR204cWRacUJpbi1WZ1M1SnN1U25CLW1sbHZ6emFXMzRfNnBzVUxMcUlfOTVEdGZER2ZlcFZmU3JmUlJWemVtUldxTmFOdkM?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795690568,
-  "forras": "CoinDesk",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
-  "link": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795690500,
-  "forras": "Reuters",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "EXCLUSIVE: StanChart’s crypto unit Zodia Custody suffers security breach, client data exposed - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNGJWWkQ2MFZyZFRTMl9HcGFjU1V0WmZsNGt3MWpJZmNJdUlUNmRtNGpKR3pjRE1YeUx3ZkFKa1NPbFJlUWtOR19yV3FWOG1sY3RrdTFINnhwcnVnZUtrZy1VWmJWa0lQZ1Fla1NSY3dINllTT2FUOGs1MnAzSU03WWtQT2RtUkhrS1M1TFE3bHNKcXBXMXp5OWtxWWFiSGF5dlBOeHJHWGw5Z1ZwclNlSExxUUlNR0FHeTZ0VzhVSmoxQ1p5VUlkdXNydzFTUQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795690434,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump's new tariff push sparks backlash from China, Japan and Singapore- Moneycontrol.com - LinkedIn",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcmRhemwycXVfVHlpRElqeFVPcXdQUU9uSGhTRmxjMGdpTnFaamF2YWFLRUxaR3ZDTGJoNUNrUTVGQkpNZFZDVG5EN0dqY2RBTUdublVSUS02MUV6SGpLTnlYT0RDTmZJbjk5dlhWbUJnVDJvZGhmVXBGVnJ1eW9mZl9EbzlzT2JjR3NQbTJoQWg3ZmRwNVRWSi1kRGJWX0RtYkp5NnlpeGVlcjBoYUJlN1EySlZuRExPZGxBU2JR?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795690382,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Cathie Wood and Philippe Laffont Are on Opposite Sides of AMD Stock. Here's Who I Think Is Right. - The Motley Fool",
-  "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNclFJWkVlR0txRlk0VUFfSGRLNlFOY3JIRVFfNVM4cnVoMkZEOF9hTU95T29rSGhJcFl4cTFmeTJwd1JQV1ZrS294ZHZxRUdUV1VOUVdlNVBzMjYwTmVqUTV5SHZ6a2FaSzFYaTZWbE5tYjN6cFNBSFRka2s5WHlMbVR3QjhIcllzRjJZNVJydEZCZXh0M09xRGhiYnd3VmNtNXFTWEFiUVN4cEM5Ty1rc2w5NUpnWnJaOEQwcURLQWtrYVdXMkQ4dFBmNU11ZUF4QjBfSA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795690260,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Kerek perec kimondta Trump embere: Európa lényegében háborúban áll",
-  "link": "https://www.portfolio.hu/global/20261126/kerek-perec-kimondta-trump-embere-europa-lenyegeben-haboruban-all-879328",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795690159,
-  "forras": "Bloomberg",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Coris’ Ivory Coast Bank Unit Plans IPO in Push for Top Five",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/coris-ivory-coast-bank-unit-plans-ipo-in-push-for-top-five",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795690031,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Status of Asian nations' trade talks with Trump - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3BlMEIyV0IyWU0zTE1xSllodC1Lc1E0VThIaGIxanBOX29CZ1c0alNwOFFXS2VCUWlhTUd4Ylp3TXIyOTZCOVYxMFVYazlPZmd1XzJvdWJkczkzLVl3MkJjMXA0SHNDNnAtMmMxTHplRnRLVTJCdnZQVzNfcVZyODlCQzZPZk02YUd5RDR2bExtdw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795689945,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UYkNOcV9TeElnTHlhSTRvWktGNmtNRS1fWGcxQUtKX3I1b0dhRkkxLUE4VW1XUC01UXVUd1FGVjh0aGdHVTBGVHJvbVdsMjZ3bDR0UC0xSTRVYzRWSU1vbHJoanNBZnhzYkkzQUZYWGNIWDR0bmtEMlluQTjSAYIBQVVfeXFMTVBta3Z1MXJQQ1htZ3AtNExvaW5wTlg5TFRyWDdBdUVjX3o3MjFqOE9pcDVFNm9iQjEwMkpDOGZpWldTX2VhUW5FX3ZTekQ1V0JDbzdtamxsRkpWLUtDSmNySWt3M1N2MmhLcW4xdTJhRnhLNTBXaVJFNm9zR0V4OVNwUQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795689840,
-  "forras": "Trump (magyarul)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Közös üzenetet küldött Putyinnak Trump és a NATO-főtitkár - Magyar Hírlap",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdTNxR2VtRTZBcDhaNWNSTEg2U3JFR2RMWWgxSDZiMnlYN0VfaDZQS2E0UmdScUkyRUNnWGZZdTVQbFotRENzVE5zZ2tZVk5rYzdDQzV4YUxEVlpya24tLTNRMl9oRlBjS0xocUtPSUtoYjNyNDZqRHZwcW1mME1xQmM3bnJJQmNTY0NfcF9ZcTJFcDU3a3cyOFBlQ19zSjA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795689741,
-  "forras": "Investing.com",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trump moves to replace Texas judicial nominee opposed by Senator Cornyn",
-  "link": "https://www.investing.com/news/economy-news/trump-moves-to-replace-texas-judicial-nominee-opposed-by-senator-cornyn-5052436",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795689633,
-  "forras": "CoinDesk",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
-  "link": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795689420,
-  "forras": "MarketWatch",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
-  "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795689396,
-  "forras": "Bloomberg Politika",
-  "temak": [
-   "Jegybank/kamat",
-   "Világgazdaság"
-  ],
-  "cim": "EU Leaders Meet With ECB, Budget, Tariffs on the Agenda",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-26/eu-leaders-meet-with-ecb-budget-tariffs-on-the-agenda-video",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795689339,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Világgazdaság"
-  ],
-  "cim": "Fresh tariffs blitz pushes Asian nations to speed up trade deals with US - Yahoo Finance Singapore",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNckVIdGNFWnBLR2hUM21zVzQ2dHNudHhWRk9ZVllfbFZmenFYLTMyREJfM3hLWDR6M1BXemNxelpwakdEbTM5YVo3bDhGS3hlLXE4SnVHUkxMZ2VzQmkzOGxHMWJDaEJENExCNnVLNlNpOXdHVjR2MjNqVE1QWG82dThYUDVVbC1G?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795689288,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Microsoft: Time To Sell Before Depreciation Eats Profits (Rating Downgrade) - Seeking Alpha",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmw2U0YyVDljSks4Qk40REVCYXg1YS03TXQ5QUJwellnY2Y5TnR5OXd4enFDbkpSbFNBcENaS19YUC1CU0hqYVY5cWQ4elF5MzdrMUdhSGtxaUV4UFV2QjVzbTZ4ajdJUDljSmdieGtQVmxTQTRFNmlxZVBHeDdHVlgzcXlILThBS3g1MUc5aEgyZWw0d1d0NS1SWDc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795689056,
-  "forras": "Wall Street Journal",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Legal Fight With Trump Leads to Anarchy at This Beloved DC Golf Course - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS0U0ZHJoTHNaaURzeVpOUlFKYm5PR0ZCSjRITnZqbUZrYW5aenV3eHd2Q0hPMXgtWVU0TkMtV0FsSzBFWnRqTWpsN0o0aFkxZEltNFBNOHlOY1dteWVSNU5WVDRPRG1Lcjl5M1cwQS1ENkNWSkxEUmlOY0RMLVdWODYzWmVueFkxX0Y1eVpzZE5USzdnTWRRNHhmQzBXOXhKNWwyUjFEcXNDNE5VaHJJV0ZTT1dMTENwZ0FrQ0ZhM29UcWlYU2wtQ05lTmxxQQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795689000,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Michael Burry Still Sees Trouble Ahead for Nvidia Stock Despite Jensen Huang's Return - FinanceBuzz",
-  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxemRRcm1kRDFLcUNpbmtjcnpmOWduZWVwSm9ONFYwMEt6dnhDSjRhRGxjYl8tYm00TS1ueGJBVjdoWEFQYUVKWktfTGVqN0sxazRUcUNQWHNnQVEwbzQxNGlRS09JTWZ5Q3ppcXRqemo?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795688942,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Jensen Huang Is Back. Here's My Nvidia Stock Prediction for 2027. - The Motley Fool",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWVpU0ZjeVA4V2o0NE5nRTM0bDhVMHdySkFHUU5lQ0FpVFhPM01kanhaYldpMjhCTlg1N0lHUlN2aVhfYWlZbkJlWldHak91bkh5OHloOGlGNlE4ZjNJaFhiSzlFSFBwbzJDdVhFNjNCZy0wb3VRYTJxaWN2WnRFcUlsencySk5TVzRHY3NReWx1ZTFqSzJz?oc=5",
   "surgos": false,
   "eredeti": ""
  }
