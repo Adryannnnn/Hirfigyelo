@@ -1,5 +1,40 @@
 [
  {
+  "ido": 1795694280,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde",
+   "Jegybank/kamat"
+  ],
+  "cim": "Újabb 2008-as léptékű összeomlás jöhet? Súlyos figyelmeztetést adtak ki a hitelminősítők",
+  "link": "https://www.portfolio.hu/gazdasag/20261126/ujabb-2008-as-lepteku-osszeomlas-johet-sulyos-figyelmeztetest-adtak-ki-a-hitelminositok-879364",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795693985,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump and Rutte Urge Swift Peace in Ukraine After Florida Talks - La Voce di New York",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXZjS0lKM0RhdGtlV3VqaDk0Ukh0S0ZBM081aXFFanNidVlkRkFFM01NV0VhZU94LTNJVlgySWR1RWlBTjBrQUNUX19VT0xxTVNfb2lhc3dKSFpQdHFfakpGZUNvXy1yMnVRcnB2QllaYU1xMjFHeUhNbVFxRkRGeHpfcms3REdLbHhKVjB0dk9QenVaSEE2Q0szMC02QnFXeC1Gbk45aFppc0NzVzdIRw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795693500,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Két év helyett két hét alatt készült el a fejlesztés – Mi fékezi a vállalati AI-forradalmat?",
+  "link": "https://www.portfolio.hu/befektetes/20261126/ket-ev-helyett-ket-het-alatt-keszult-el-a-fejlesztes-mi-fekezi-a-vallalati-ai-forradalmat-879362",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795693418,
   "forras": "BBC Business",
   "temak": [
@@ -8,6 +43,17 @@
   "cim": "Norse Atlantic suspends all flights as it faces potential collapse",
   "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
   "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795693293,
+  "forras": "Bloomberg",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Turkey Plans Lower Taxes on Lira Deposits to Support Currency",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-plans-lower-taxes-on-lira-deposits-to-support-currency",
+  "surgos": false,
   "eredeti": ""
  },
  {
@@ -45,6 +91,19 @@
   "eredeti": ""
  },
  {
+  "ido": 1795692285,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "China, other U.S. trading partners oppose Trump’s new tariffs plans - The Globe and Mail",
+  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORC1BRjExenpjLWpORXhNYkpkZ21ERVNMbFJJQmpkamc3aTJQTXlQX085WkVHakx0Q2ZzUE9jdXNYbzFIWUl3VHVOMW1yNVl4YmdpV2pzVThubm9fM1pMbWkzQU5mYlNaTFBtcVZXX1I4NjZZVmJ2OHVXMGdOeXRxUXFTTHNlRnp6WjUtSXl2d1hRbzhzYnV0T3J4dE16dmxRb3hxTUttU1FHVDQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795692179,
   "forras": "Cointelegraph",
   "temak": [
@@ -53,6 +112,18 @@
   ],
   "cim": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
   "link": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795691940,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Donald Trump’s surpriseDonald Trump’s surprise 10% jet tariff threatens to squeeze American airlines - The Independent",
+  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVVV0MzVDRWJ4SVlnZG1XSGtjRlQtU2xQSl9vTDZVNlctTGk2RkVsZUd3M2RBa1B3ZFRxZ0l5Y01LV3pvcFZPVzExQ1UwYjFPNF9rd21WQnQ4ajFpUVBiSDhXWDl6cUYzZk5LRUFhVW0xZm1WQzNNZ0U2V0ZWV3J3WXJ1alJKbzlqUGdvRVZzYUdlZ1J5YThOc2s5WWlsNF9hYmhIZGl4c09INTU4c1Aw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -201,6 +272,17 @@
   ],
   "cim": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
   "link": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795690500,
+  "forras": "Reuters",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "EXCLUSIVE: StanChart’s crypto unit Zodia Custody suffers security breach, client data exposed - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNGJWWkQ2MFZyZFRTMl9HcGFjU1V0WmZsNGt3MWpJZmNJdUlUNmRtNGpKR3pjRE1YeUx3ZkFKa1NPbFJlUWtOR19yV3FWOG1sY3RrdTFINnhwcnVnZUtrZy1VWmJWa0lQZ1Fla1NSY3dINllTT2FUOGs1MnAzSU03WWtQT2RtUkhrS1M1TFE3bHNKcXBXMXp5OWtxWWFiSGF5dlBOeHJHWGw5Z1ZwclNlSExxUUlNR0FHeTZ0VzhVSmoxQ1p5VUlkdXNydzFTUQ?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -354,6 +436,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795689056,
+  "forras": "Wall Street Journal",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Legal Fight With Trump Leads to Anarchy at This Beloved DC Golf Course - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS0U0ZHJoTHNaaURzeVpOUlFKYm5PR0ZCSjRITnZqbUZrYW5aenV3eHd2Q0hPMXgtWVU0TkMtV0FsSzBFWnRqTWpsN0o0aFkxZEltNFBNOHlOY1dteWVSNU5WVDRPRG1Lcjl5M1cwQS1ENkNWSkxEUmlOY0RMLVdWODYzWmVueFkxX0Y1eVpzZE5USzdnTWRRNHhmQzBXOXhKNWwyUjFEcXNDNE5VaHJJV0ZTT1dMTENwZ0FrQ0ZhM29UcWlYU2wtQ05lTmxxQQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795689000,
   "forras": "Blue chip (Google News)",
   "temak": [
@@ -455,6 +548,18 @@
   ],
   "cim": "Earnings call transcript: Oceana Group lifts FY2026 profit, but supply risks remain",
   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-oceana-group-lifts-fy2026-profit-but-supply-risks-remain-93CH-5052416",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795688567,
+  "forras": "Reuters",
+  "temak": [
+   "Tőzsde",
+   "Világgazdaság"
+  ],
+  "cim": "European stocks rally as tech, bank stocks rebound, tariff fears ease - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDAyOS03ZTA0ZzRTRmR6d2diZDJ5X0V0ejhjSlg1MzhMaTlCNU1LNTBCYVlJS2VhVV9USmNxYnNGYk9CaTdYckN1NVBZLWNKQm9BYXB5SEpNYVMyN3hzbFRjaExPY3piakNDakM1Qm1NSDJ1MFJLZzF3NGN5TFVCYThrYmNzZFhyVzN1bVBhaXh6a2t4cUxNQzBGUnpWVVFxb1l2cFR5WE1UZ0tvUEpDcw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -814,107 +919,6 @@
   ],
   "cim": "Trump’s latest tariff salvo rattles an already shaky Asia - Asia Times",
   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQTRTRWxnVk1IVVBISjd0Ulk3b2F4Q0lNWEtnZWNXQ3ZhTnJSMEdiZXZiLXJLeGRmelVySXYyZmJ5aTMzc09hYURocU10WnBPc0owMnJZdEx4d3ZaQVN1aDBwYWlHMkpzU2VPUWp3R1E4ZlZKSTVkejRwUG9DaWg5M2p0QkdhMGdsNFF6SFg0ZEc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795686264,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Nasdaq 100 rebounds. Is the bottom in? - www.tmgm.com",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMmFUdzdsci1aOTFqS1J3S2R5QzhZZFI2aUo4T0RHZ1RvaTdLV29jUW90M0h1eGN0QnhBQmthaUZZb3I2RDdiNno4X0lzeEQxc0xiaHl5UEQ2dWpCYkUyYVoya2R1Sm52NzFKTVY3c0ZlamxibHJmdDE2azdFVGFQdHZwTVJobk1Pc2hjWA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795686177,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Amazon Stock Holds $235.98 After Bernstein's Cloud Warning, but $247.46 Caps the Rebound - TradingKey",
-  "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb0V6Y3BqMmdxdEhCOTlTMEpUMnBScXpJbjhtZ0dZOGVNbEFiWjV1am5uTm9EU3d6VmYwLWctbk5zOUJqcndMSGVMcWN1MThuVXlkLWo5TTBZNnA5ZTJhOWVjNlFLR2N3TTk3cDI0WVV0cnowbDdpOUlwNWlEaUUxQUtoYUdjYzJGRVdHME02ZUQwQWxHU0pTQ0F0MEdFcGxFLThqVHpJSlJMbm8zUDQwampycll3bjJDb3VDOXF2cHVpdTNxYmg1MEtUa3BSVm81ak94dkFUQjFjd0V0bklEVjBZdDhxWjM3eUZ2ejVsOExQdw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795686154,
-  "forras": "Cointelegraph",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
-  "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795685977,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Earnings call transcript: HICL posts H1 2026 gains, lifts return target",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-hicl-posts-h1-2026-gains-lifts-return-target-93CH-5052384",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795685869,
-  "forras": "Trump (magyarul)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump és Rutte a háború kiterjesztésére figyelmeztet, Kijevet rakétatámadás érte - Vajdaság MA",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWldDOGRiVUdYejlfLWVqYjRhYjg4VER4MlQxNlRfZ2dVcUhQSjY2ZGVWQlM3a3Vacmt3VTk4TXQ4ak4yMTAteUcyVjFTUEZEYU1lNFl4R2p4TGdIVTVyS1FqVjNKTWRrUFpnY3lmZTdBLWduSkpyUkVpV09kMXZ5S1JqamFzQ1J3d3JTZ0JkT0NhRUU4TDhtemRKdDJJblNfNjdRQ0ZfWXZOYm5vUFhobFZyUm8zVDROeWtTd1R1XzlHRHh3?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795685820,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Rászóltak Izraelre a Fehér Házból: ideje felfüggeszteni az állandó háborúzást, másképp az egész világ ellenük fordul",
-  "link": "https://www.portfolio.hu/global/20261126/raszoltak-izraelre-a-feher-hazbol-ideje-felfuggeszteni-az-allando-haboruzast-maskepp-az-egesz-vilag-ellenuk-fordul-879312",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795685812,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Earnings call transcript: Halfords H1 2026 profit surge lifts shares 14%",
-  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-halfords-h1-2026-profit-surge-lifts-shares-14-93CH-5052383",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795685742,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "78,145 JPMorgan Chase & Co. $JPM Shares Sold by EP Wealth Advisors LLC - MarketBeat",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObHBDVFVZMXFZLTJxSDRlOER5VjFleFpNVnlsVmc4ODFIcUdPSDBFNWc5SDNMcWFCTWlSX085aGUzOXlUZWJTYl9tTXBWQmdlNTVXMjQwUTFvVWFYR2VfOU00MmFYRE5Fa2lqQWZoRGlRSzVmVnZlSEdPQXpSdTF6WFE2LS1fODNKNmowQkxvOEY3QjV6alpyandCYVlNdUZKM3RlLXNCUk5CUzNQM3lHTVVYc0dLR2VVSmN1ZC1VNHZueFYy?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795685736,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trump signs bipartisan anti-counterfeit bill backed by fashion industry - Fashion United",
-  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0MzNE5sYmxVUjJ3WFVuc3p2akVJeTlCOTR6aEFMQ0l3cExacmxaMnE4QWNIVUF1WVFYeTlDT2N0bm9BRkhGMXRZU1ptWEFvNV9oWEpVV3JBQXMtN2ZWdE1XUm96U3ZjdVAzSXBNNWczZnRIdzBIems1aklEZXNFeWhqMURhV2ZTLXVWSVotMFdaeFh2aV9BMldTYzFhclZ5djV6ZG0wR0hod3UwdzBOMF8xcnlERjQ3cVNnUjkxSlRYZ0k?oc=5",
   "surgos": false,
   "eredeti": ""
  }
