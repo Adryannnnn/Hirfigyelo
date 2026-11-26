@@ -1,5 +1,61 @@
 [
  {
+  "ido": 1795714200,
+  "forras": "CoinDesk",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+  "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795713885,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "Broadcom slides as Google reportedly trims TPU orders - Crypto Briefing",
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pajMyb1lJdWt5LUM5R1Vqb2xKLUhrS1J1Qy13OWZKRE1KeVJmNGxhOThlUldoeWl0OTd1amdyMzg2TWcyc0xJbEpOOUpWM2Y4bWFraFoxYWgtd3dpZTBtM1ZxUVhGV3ZDSFlBcHVvZjc2N1lPanVN?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795713660,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump Says He Told Putin to Back Off Europe, Calls Ukraine ‘Bloodbath’ - Newsweek",
+  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbU5CQUptYzlNTnJlbW5YZ3pQTGN6VkJVdW5KVTNUS2REMUo0QTFjbFpKeXpJQTZYb1ZRN1lIMGlIYlNvdk03WjdnZmhXN1FPUlNUYjVFdFBSZlRHNm5JWUNBQldwT3FMQVQxTnVORFc4YVd3Tm9SZFNWWV9leEFTd3JFYTI3dVJYbXZkYTFocG1FTWc?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795713020,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "SpaceX Stock for Children? Elon Musk Announces New Trump Accounts Initiative - Coinpaper",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXFxbFpaZkZWZVc0eTVfMDZoVTJKRUIySWdJbWhzdXhRR0U3ZVJqV1poT1BESzZtMl84MGpQcVBJMEZhUncxZVNzSUVLTTVQV1BIN1B3UnAwVVgwdjEydVdnemtpZTMtTy1XMnBqTjlWakxOczIzMGhmejM1ZG4wWG5kQTFQMHg0bTdtQVExU0VnaGFDSmZNdFZleWc5RzZiczNLa2tmOA?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795712404,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Nvidia Pauses Advanced Chip Orders in Southeast Asia - Investing News Network",
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TSEJuajdiT01OOU1kaEFxam54MDA5ZHB6Z1NEdEJHb3hrUGt0QzN3b3hSUGVycTNJMlZBMVJkOVRRd2NERndoQUtfLVl6MDVvVGFGLVAwSDg3NGhJRmFSQ0NMLXY0QnBJN2M0Yw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795712400,
   "forras": "Portfolio.hu",
   "temak": [
@@ -231,6 +287,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795711140,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump's version of joint statement with Rutte also calls on Ukraine to avoid actions that could expand war - Українська правда",
+  "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jcGpaWXRkZGdBdVVUaHYtN19Xbml0dnlvbjE0dFRBaDJrU1VrY0Vub2JrT1A2UnV5c2ZvQXhZWUc1YWlCTjVPOFRIcXl3cnpGZmZTQ1JYOW83cmZYdjB1N1NhUTPSAXBBVV95cUxPcVZHTE52T3RSUEg5dWZlbTN4d0c1Z1Q5SXFxdHp5enVzeHl3ZE1ibnZ3NWZJOGd6Qk0xbnZrblAzRnVERFBHRmh5czAzMkhZRHg5cm96Z09fYkRZeGFoNkpZeVVWcWJiZlQ2U05XTzVn?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795711110,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -286,6 +354,18 @@
   ],
   "cim": "China Says It Reserves the Right to Respond to Trump's New Tariff Plans - Daily Voice Of Asia",
   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVhXa1FLUmVyQkdxM1hYN2Y1ZE95ZUtqNW42aXVXZUh5NzZ1RmVXLUFWdHZLR1M5UTFlT3hDOWJlTlI2V1BNRjUtMUZCNGd2b3pnVDg1MzJPbWdKazVLbGtuMWZlWmF6VnFkSUlLSlBvbkI3X1VPbUh1aUtpZjdKYWNyNmFQT1RTVkpJZ0tQOFBLUVFwTnl5UzQtX1F4QlNGTlFlQjlDMTlEZw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795710700,
+  "forras": "Reuters",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump says he asked Putin to 'pull back' military aggression throughout Europe - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTBqZDFmdVZMYUhDSHRObmlwNXBGNXRpXzdBVnBTc2hZTk54NU9BYThqQUswalJPMklvaGhHNmJiNW5venFCYk1FbjdNQUdJU1RISjlXbGtpc0lWektRUThRNEhOdFdSZ3B3cGZTSlk5blFMWnhGOGNfaEFjbzBha29XdlNxTXUzemUzR1FIc0FPc0kybGZLSmp5OVNNSGRLOXNZM21pd0Fac2prOVoxcC1rMnFIUQ?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -389,6 +469,17 @@
   ],
   "cim": "'WILL RESPOND’: China Reveals What It Has In Store For U.S. After Trump’s Tariff Blow - The Times of India",
   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdHEwVlVyUFAxeUNZUzFfSTVsaGp1SV9KcVl6YkUwdjJBd3JTS0NEcjJMc2dkU2hCTTZmeWd3eE5YUVdCTHhQUFRRRTl2Um1HWXNiSG82d29HWnlnQXZEVjlTbE5WdktFVHNSSlRSR3ZxZzdaMzY0M0VHTzVScHotbW5iWDBQdk5fME1vY0ZKUk5EM2NnUWI3UVNTNXlwQ0NkemwwYV83MHRpUkhRdUEtZnBFZWx3SDJEQmxtUmpVWkRvNnlLUWo1Z01qV1RYWXRzQVg4N3VRcWZReGtoU19hSGt0c1pjS3N2aXdWcXQzNHI4anfSAfgBQVVfeXFMTk9lempfd0JKMnVKckRsbUVPT1o3Y3F5MlR1dGM2c2hnUEFidnA2cjhCSFlMY0o2VDZNOXJ0UTRsQ1BKdzlmSE50aTFYMGlORm5NRlJ5U0xERjNtM2RzLWIyb2FWS3Q5RjhxTG4tYXpERUFVajcwTHhFQWVLc0hoNU5KSG5UcGdPdWZQM0dlVllhRDVfV1JEemxGWlo5RTgtMUdsWFl2cjNvakpsTG5nTnNTUEZUMEo5YTVGUklvV0RGV25QYm15dncwWTVDcnNRTklHdHh1WDZJaXpvZkhMU21rVHJTZU5NVFFOLUMtTzdDemRJLTFPc0I?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795709563,
+  "forras": "Investing.com",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "Mexico urges Asian trade partners to crack down on tariff dodging",
+  "link": "https://www.investing.com/news/stock-market-news/mexico-urges-asian-trade-partners-to-crack-down-on-tariff-dodging-5052646",
   "surgos": false,
   "eredeti": ""
  },
@@ -826,94 +917,6 @@
   ],
   "cim": "TransUnion (TRU) Up 6% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVk91amJ4WndFeHVKcWFiYkFzNWdLVndHVEdRU1VGOUxLUUJSMnFkdTZFNmh4alpjUUswZUpTUTFCNko0d0dfekpVWWpDOF92UlROb0VlanNxOURucmhmNmtiNldvYjA0NmZscWUzdlZSWWFWbzNERE45bFQ0bW9ZQ1BQMXJFRmRuRmNleUJ6S1dZOTU2Z2dZ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795707018,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Why Is Sensata (ST) Down 9.1% Since Last Earnings Report? - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPazFZTVdfQlNqMjEwYm5ONlU5cEZRRUlQZldpNHF0M0wycVljLWEwalJsSTZ2MTZlYTY3N1d6Z1ZpNmpqWll3SFc0MGNmVzlQdzBqdTVnT19yY190U3NhRERxLUNQWjVudWotdFhHdGd0VklzV1BpTC10cFI5OXBlbUd5bF9qOW96NEdSdEJVNA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795707018,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Why Is Seagate (STX) Down 32.3% Since Last Earnings Report? - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWJEMEV0Q1pKVjctb29CdFdwR0NOSHNfOVBzQmdIX3UzNDloRXBlUGVzMEMzVkdzcWJfMVBDbmdpZDZhLXdMclpaVGx6c1RKcGJ4cjFITWxOLVU3dmRhdUJybktvdk5IZTAwSHhqQ1ZXelN1ZXRwdHI3Yl92UFRBcXdTRVRHWWRaRTdnaU1ldXVaUQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795707018,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Universal Health Services (UHS) Up 10.7% Since Last Earnings Report: Can It Continue? - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGJ3aUFvSUxQLWx3VzFSX2hET2FVbUJ0S0o1UE9PcHpVcFlNMG45aFhQeUg2SnJzMDZBREhMYW5iYVduMzYtWnhoeUM2VFBaQzNpdk9TbGhvdnRVVkF0M24weUhYV3ltWjhKdEtQNk5hSVFVd0pNd3hoR3B0a252aE12SFJIc1VhM2wxbUxMWHNxSVBOc2FHcA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795707017,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Why Is RenaissanceRe (RNR) Up 3.8% Since Last Earnings Report? - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbTY5bWpreVR2dDNtNU1tekdEXzhUVnpoR1oyRGVIVGtVc1JBVm9jTkxQcU5NaDhFS2FreHF5WTNHamdjTjVmQ3hGSGhvSkhUaEpvendNWW95eVlYVmIwZ1RERkdDdmZZVVRUYjRTeUtuS2l2eWJnYmNRN2EzQXpqcXZZbmdWTzlacmxBUUloMmQ1VVho?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795707017,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Why Is Sherwin-Williams (SHW) Up 12.5% Since Last Earnings Report? - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1ZsQjlWVlVMeXR0SzRJUHFWVXdHWWkxSjlSSV9xSXdBbEZpLWdYUUlJOWRKWGVLWjVORTdBRGR1Mm9sZ3pZZE5URUZRcHZrZkNtMVpad3Z0WG5KYTZENldQd0tJeG5Mdm9LdzhQTndRSmJ6VEpxV1hMNkpzb05ZRDFnbEpkaDZQZFRyWnphZmJzZVFYNHZ3?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795707017,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Why Is SoFi Technologies (SOFI) Down 23.8% Since Last Earnings Report? - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSnRtNjZ6Ny1lR0lRMm50blhGUllGb2l4UVRLR25oOEVmMUZpeFNCbTlFS21aak1NdmEwQXVVemt6U2tLeFV1M21qMGFvai0wMHZTMVZUa2oyY0JtTkNsb0EzczlocHZYdGdKSnRwc21MNGVFamplNTV0S2pXLS1rZlVtUmlab2hxN2plcVZlZGxhdG9OM1hRRE5LMFY?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795707017,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Range Resources (RRC) Down 9.4% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSi10WUpOYXhicnRqLUNZeUFwNHM5aENLeGNZTk43VmQ2dTB1UXFNRmtyVktlTmhicTU1T1kzNzkyUDlRNmRCeUZOYzFnY0Z5VXl3YU1TOVdQUEREaWVpdVFLOUZ2OVJfd3pDSzhNMlAtSk43OFhMWHJObTgweXZFSVU5TnVwcHFtQVh6MWFDSlBzNHY5Snc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795707017,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Why Is S&P Global (SPGI) Up 2.5% Since Last Earnings Report? - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT0pSWnU3MTN4M2Jfc0J2RW56WlAySC1sWHhrcGVGSFlxYl9pUGxMU2pBbXgtclJZcmp6V3FYWXJqTFd6VkZUY2xxY2c3WHEyd3R0NWdkNFNUMHF0UUwxSDFnUlVMOHFtMHI4bnB0c203Vk9KLXBmZVdTR1JLWW1CdG1YU3o1MGd4LUpZYQ?oc=5",
   "surgos": false,
   "eredeti": ""
  }
