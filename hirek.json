@@ -1,5 +1,16 @@
 [
  {
+  "ido": 1795706100,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Visszatér a reklámadó, a szakmai szövetség szerint a magyar média fizetheti meg az árát",
+  "link": "https://www.portfolio.hu/gazdasag/20261126/visszater-a-reklamado-a-szakmai-szovetseg-szerint-a-magyar-media-fizetheti-meg-az-arat-879454",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795705594,
   "forras": "Blue chip (Google News)",
   "temak": [
@@ -295,6 +306,17 @@
   "cim": "Oil Refining Profits Crash With Global Fuel Supply Rebounding",
   "link": "https://www.bloomberg.com/news/articles/2026-11-26/oil-refining-profits-crash-with-global-fuel-supply-rebounding",
   "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795701994,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Earnings call transcript: Transgaz posts mixed Q3 2026 results as stock slips",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-transgaz-posts-mixed-q3-2026-results-as-stock-slips-93CH-5052571",
+  "surgos": false,
   "eredeti": ""
  },
  {
@@ -884,29 +906,6 @@
   ],
   "cim": "A Deutsche Bank szerint hamarosan véget ér az eladási hullám a tőzsdéken, majd jöhet egy nagy rali",
   "link": "https://www.portfolio.hu/befektetes/20261126/a-deutsche-bank-szerint-hamarosan-veget-er-az-eladasi-hullam-a-tozsdeken-majd-johet-egy-nagy-rali-879400",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795698951,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Investors Overpaid for Retail Safety, Missing Kroger’s 14% Rally",
-  "link": "https://www.investing.com/news/stock-market-news/investors-overpaid-for-retail-safety-missing-krogers-14-rally-5051989",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795698800,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Five Key Takeaways from Trump’s New Tariffs on Major Trade Partners - Global Banking & Finance Review",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iSTZsS3dJeHpPYmFHZWxfTDNmd3h1dGxpOUIyMjNqTUx2RkFRT3JIOUVreUJsSjVUdkdaWW9DbFUzemtEZ1E0Szg0ZGZ4V0ZkRGh5Y2ZscVcyRXFnR3ZpdzNwOE5kVnBsd2F5cC1JYTNqTFdNOWQ5TG41dWR2aVk?oc=5",
   "surgos": false,
   "eredeti": ""
  }
