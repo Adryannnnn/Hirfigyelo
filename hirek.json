@@ -1,5 +1,85 @@
 [
  {
+  "ido": 1795675409,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Adecoagro stock rating upgraded by JPMorgan on Carapo mill acquisition - Investing.com Nigeria",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWHFKYTh5ZGlkM3lOQjFGUTI4MmNlSnBHaUFzdHU3em9sZ1ZJcWNPQUt3S3ZvSExoSGIzcnBxZ0RDWXBIaWlNVm9zbEExcDRXcXVTOHRkb2lJMExSR0w5V2dTWFlyZFF1aU4tLUc1b0tJWEhGSnp6VktMaEN6OFRESW9sRVlxdU8td3Jpejc4Q3BDS1UxN2x1dmdadm1rMGVwaGxCYlMzeHd3TUlEY1VuUjFGb3RGQllmOGlpODExV1NhWDNmUzllSDdrTQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795675328,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Vertex stock rating reiterated by JPMorgan after povetacicept PDUFA delay By Investing.com - Investing.com India",
+  "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSkZLWi1wZHJHdGlZZHJYZjRnY1dPNk90djlSX1JMRExBWVVERGNIYXdNeGc2ZllNVmZFdzVjZVl1ckFZVTBjREl6T1hrQ29xUWZGZjVfeGJnZVhySGVad05kU3FObi04RDl3MF91c2hQLUZ2MlYxajhydkRCZUxMS3dIREthRnRZUlVzMXNuSGF5eUZjUjN4RDl0alU0eXpjY09qMTItYkFtSVpCZ0l3d2FEeUZOT2dHWkllZ2VSZFlyeHVzcmdZc1pFN0JEWFE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795675304,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump and NATO's Rutte urge Russia not to 'expand the war' in Ukraine - TRT World",
+  "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OMkJiLVZDN0JaZnJ0STZvWTVJaFU3Ynd4dDdhT2tQd2VjY3UzNkg4Ylc5Y2VXZ3ZLUmNOWEFxWk1DeS1zWWl2Y1JMT29EcWhHVzFzemRRNDk?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795675200,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Veszteséges lett a Rába",
+  "link": "https://www.portfolio.hu/uzlet/20261126/veszteseges-lett-a-raba-879220",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795674960,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "TSMC Shares Down 30% From Peak; Foreign Analyst Says 15x P/E Reveals Buying Opportunity - finance.biggo.com",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4dHdSc0pBNVRkZ2tOd1AzRHd5R0ZBY1dtRUgySkRaVHl3cjRvTl9uVmVvaFJmTjlRaFpYaHVyVS0xTU1pSW5lZDVMSXpwTnJiRXh1VXBZbWMtYnY1OGVESmM0MzRVRjJLcEROTFlVYzh6b2hKa0E?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795674900,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "A chipszektor hevíti az ázsiai gazdaságot - a jegybank lehűtené",
+  "link": "https://www.portfolio.hu/gazdasag/20261126/a-chipszektor-heviti-az-azsiai-gazdasagot-a-jegybank-lehutene-879216",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795674720,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde",
+   "Jegybank/kamat"
+  ],
+  "cim": "A világ legnépesebb országában készül nagy üzletekre a Deutsche Bank",
+  "link": "https://www.portfolio.hu/bank/20261126/a-vilag-legnepesebb-orszagaban-keszul-nagy-uzletekre-a-deutsche-bank-879214",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795674538,
   "forras": "Bloomberg",
   "temak": [
@@ -8,6 +88,17 @@
   "cim": "US Tariff Plan Raises Stakes for India to Clinch Trade Deal",
   "link": "https://www.bloomberg.com/news/videos/2026-11-26/us-tariffs-raise-stakes-for-india-to-clinch-trade-deal-video",
   "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795674060,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Micron shares plunge 15% in 2 days on AI and memory price concerns - Chosunbiz",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WR3RkalBrWGlDM1M2RzE3Y01xSXNPczZWY1hTUWlvQUpoLUwwOXNtMm9vbG9WckNFQlNTOHZ6UEZmNV9ucDlyaEpHX2VGbGFCUkFmbXFSbkxUd0NkaTdodXdCbWIxYVRXMDJFOWFoSkQ2YWN6RTVsb0pR0gGOAUFVX3lxTFBWcUhiSFVGeWhMZTdJcjVlRzJyZWU2UFdfYmhqM0c3cENUU2k0bC1qT19Ya1VqcHJ1RmlZWExic2Y4b1IwQUxVNmpFNDU0cG5KX0hVZjRMWFM2N2RmZjhRUUNXaGthNHlkTEFnZGxoSlBzSWY3MTcxalNTNTJyU2F5Z3h4bWhKWGt1NExpQXc?oc=5",
+  "surgos": true,
   "eredeti": ""
  },
  {
@@ -30,6 +121,17 @@
   ],
   "cim": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
   "link": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795673563,
+  "forras": "Bloomberg",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "Turkey’s Traders See Slower Rate Cut Pace as Reserves Shrink",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/turkey-s-traders-see-slower-rate-cut-pace-as-reserves-shrink",
   "surgos": false,
   "eredeti": ""
  },
@@ -257,6 +359,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795670940,
+  "forras": "Magyar cégek (Google News)",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Éledezik a forint, megjöttek a friss árfolyamok - Privátbankár.hu",
+  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb1lOSm1pbEJvWC1id3RHVGdvQ3NkOHlwcmR4UHZmUXZVMnBVdzc0eHQ2NnhhczVrM2RaRTg0bmlpY1RiZUktYkpUcTh1RkZWU1ZRLU90d2ZqSFB0MTRtYVJBNG5qNTZQQzU4ckg4ZXB2QmZqM1YwTzU1LU1ZTG5SalAyLW81Y2MxTkh4eFZ1TTNheGk0Nmc?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795670880,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -451,6 +564,17 @@
   ],
   "cim": "Russia must avoid ‘any actions’ expanding war in Ukraine -- Trump, NATO chief say after Mar-a-Lago meeting - New York Post",
   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNzVqR3J2cDZqYW9Lbks4eE5oblRrekdmSXNNUTR3VHJFbWVkT2tGMDFpY1NJMEcwb3VlQ0NkYmN6eDNkVjQxSzF6TE0tTHN0NjczVGdZcWkxMDFBOWNOTWRaelJJbVhSa3BubEIyeG05bmozSFdiZHEzdDF3NEExcE1aS0stX0NxRWJyVTBQNFdoUGJVQWpXdTRmbFBZelBMNDJ0dmpxWTA2TDhLV241UExDZGZtWDdoWm5UQ0pVejkzRWU3bzBHb2g1ZTlSVXdoZjlrYWtB?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795669320,
+  "forras": "Trump – beszéd (magyarul)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "„Történelmi személyiségnek” nevezte Vlagyimir Putyint Donald Trump jobbkeze - Mfor.hu",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUR5Xy1Tbnk1MVJqZXlmZHhueHNYZTJZZUVuMU9iMnVpSzE2Z1FwdFNqYlQteDNkV3ZyVDZ4V0VoX29Iam9HYkd1b3F5QUh1U3A2RS1OV3BGUzlORk5Ed0NPeFQyVHJCTXBwUUR5WmlSQnY0R3NuT25kOUhQMWRWNFRVWnJXQk54VnFpN25tZVF4V29Qbm04U00wYUR1UFVCSFVJTmhRX2Vjc2RmLV9ERWVpdw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -801,134 +925,6 @@
   ],
   "cim": "Trump, Rutte stress need to avoid escalation of Ukraine war - Breakingthenews.net",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOFVfdVZ1Vi1xN0k0REZnaFZsa0Ffd0I3MTAzaXpMdkVrUzRXMVpYWnpsNk14ekZxRnBISGZLblF6NENKVzFteDdnR1dnS2J6T0JHWDN5Q3RXMFNnblZ2WGFoTV9mQ0RlRUduaVhNUFZkSE9Nb3dKb25GZHlVaDRaUFkyLVBWQnMwV1BIQ2h2Wk9hOGd0UmZ6V3N5SnhDcm5iai1DMGtR?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795665240,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless - The Guardian",
-  "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUJrQ3VzcUs4NmJmXzMtVmx0dUYzaUZ0ZGw0MUM2X29UdG83c2Z1d2ZRR1JIQVYzbC1BQlA5NzgwUnFJUERLTG81aHd1WmptOU43UjFaekpVWGFFeDJtQUtybnpoNUVsUTdYbDV3MF9MME1hN2hvWl9BQ1U4NUd4NmZwR1FlTXBhckdUQTE1c21JMFR5ZHlOQWtR?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795665234,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "US Stock Market Holiday Today: Will Nasdaq and NYSE Remain Closed on November 26 for Thanksgiving? - Kotak Neo",
-  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTktyMjBGN0EwREFWZ3dCUy00c2UzM2ZkTEdKRklzWGtkXzR1aEtNbUVyYS0zTFlEdGZwekNrc2R5b3R2S0V0NDU5SXRINzBCZjY0d19lNW9FQjhWejQ5UGRZZDI1SVc1c0ZyamFySUF2clZIMEk0b0FHVGdqQlc3Q3ZzVnBxWXpvVVB1RXNsSzhuZ1RpdHpNTHlGVWhjTjBPT2lBbHRldWNOMlIwV2oyVlVULTlIa1NVM2NhbDhQQVZvUnBmRm1acXhsYldwd3RoQ3FyNTZaNHhVU0pRVlFFclczMA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795665203,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "My Nvidia stock analysis shows bulls are better than what most seem to think - investingLive",
-  "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaTdSdWtvbVpvUC1nVXhoT0ZMaWtTX3VwY2M2TG1VN0E4eE5FaC13dGJvcVRxZW9Ea3hBcEQ2bV9FVlcwa3NUZVhUemtJT1c2dGpSOHN4S3lZVXFQSTdOenM4Y2JTZDRKS2VrNGhjSGVyQnlqQ2MycEpnanZ5aEFnd29lbk5zczVubnRYelBzcDExeGI2bHVISHdFYldRTFZOelVxZWZkSERZQzhhd3BZ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795664700,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump’s China Tariffs Raise Threat of New Test for Trade Truce - Bloomberg",
-  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTVMWExHUXNZQS1TWHdON1BLSjgydFhicUlOeWo0dXZ4cVBxYm4zUk9ydG5YXy1oNlVNMDB4TlU1ZjRoaDdGMlJieE5XSlJsenNFZ3ZDWGtvVEt0V0IyaGNwRnYyRGNJdXlBaGs0MEdsUjhPZ1FwNFV2NlVfZ21Ldk9DLTk3Wk1lWF9FenVEZHdselN5X2ktUHItdUpMZVM4eldXMnNiM2pqWExNMUotWGdjYw?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795664520,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "SCX.ai Holdings (ASX:SCX) Shares Fall 7.7%: What Do the Quarterly Results Show? - Kalkine",
-  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2k4Z3RWc2xnN3N4MVB4aGxFa05QMFdrZVhOMndqR0lsVzZpTmFXQms1Vi1KeUVUYVJkbWdzTTJTYXB0R21QTE1JOXhzUFhLNmFIdVBwNEFiUHJTVDd1RWU0SndLTGd6Y2J5eV9iZ1JKakRtYTU3N0xvd3paeHZxVW9jYWpKaFhnT0NZZmU5YWVjeFFWcHU5dXVYb0w1ZDF3UHo5MHJRZ0ViTXF2ZEc2WWc1SVdUdWFBLVJPdw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795664231,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Blue chip"
-  ],
-  "cim": "Nvidia, Micron and Oracle Shares Fall as AI Sell-Off Continues; Key Reasons Behind the Decline - Kotak Neo",
-  "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ1gxUTE2RXBKNUdSVkJUSDJfd3Jidm5EdDVIQjRMVHNVOEZwVWpCMTUwZ2ZYcEJMQ0NVdzlZRWlzU09ub2VlSFdtSUFsWTdTQ0syN05ka0Ita2gybFhrbmI3SUtvWXYzNVFnY0tPaWkwUEc3UE5TUVFZODVMVkJwemJPRS1JNm5oWTJ5aTkzMjNRMWNHTEVkV3M4dzJITk5ENExMNk1pNXdxaTEwS1Fpa29XbWdUYjE5SU15VmI0YnVzYnk2QnFESm9TVEhWSnJEb0VQLTBhQTF6Zy1vWHVMZVdRRQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795664205,
-  "forras": "Bloomberg",
-  "temak": [
-   "Forex"
-  ],
-  "cim": "Japan Life Insurers Complicate Yen Fight With Record Low Hedging",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/japan-life-insurers-complicate-yen-fight-with-record-low-hedging",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795664105,
-  "forras": "Bloomberg Politika",
-  "temak": [
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Singapore Is ‘Very Disappointed’ by Trump’s Proposed Tariff Hike",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/singapore-is-very-disappointed-by-trump-s-proposed-tariff-hike",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795664096,
-  "forras": "Negyedéves jelentések (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Li Auto's Q3 Earnings Report: Deliveries Are Back, Profits Are Yet to Return - 36Kr",
-  "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12VU12QURjOU9ySVhhLXFSZ0ZEYWU4UXFZYjM0cEFmaV8zQ2UwS2FmWjlYTmZ2VkI3Mkp6XzBuWGxDSmRKTm93TWxjMk16M09jWmw0?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795663920,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Blue chip"
-  ],
-  "cim": "Cathie Wood Buys More SpaceX Amid Tesla Merger Talks — Ron Baron Says SpaceX Could Make $50B A Year From One Data Center - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFZkVVYyYnVfcTgyWDQyRkxpU1Zzb1g0aTlTMG1fSjlwR2lpMkEzTHNUQkp3Q0JvZEU0dHlvX1dhcTVMTEllckxXcXdGeVFMdG5PNno2RkFZT05kYzhpRHJ2R0N4dWFyM19oUjR2WnNxLXZWVXJVYmdGRWcxbFdDX0FISDJBMlpGckJzbUY1R2Q2WUtIQVN1OA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795663440,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Legend Bob Woodward levels Trump with a chilling comparison - AlterNet",
-  "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FeFFlMURTOTByWFdCX29FYlRGRDRmNUtGVzBxeTlWc01VMGFrcklKTTNVUEtRdU5pVGtMbURXLVpzVElqaUR1S1hBS05DVXc4SWw0eXoxZjdhOFU?oc=5",
   "surgos": false,
   "eredeti": ""
  }
