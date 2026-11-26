@@ -1,5 +1,16 @@
 [
  {
+  "ido": 1795666301,
+  "forras": "Negyedéves jelentések (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Plug Power Q3FY25 Results: EPS beats estimates, stock dips on UBS cut - scanx.trade",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZmxEX1FONHNoYkRPbjdhdFktQW1jMWFjSjcwVDg4NHRCSHY2ZFpYMGNJNG4yRG5DSkhWY3NXYU9maWVrTHlrTTRmTkVVY2d2SzNiVHZCTUdCMm9rb2FKUGZQZndYSEVIRjgwSE9vRVdldEk3NkRCRGtJeXE1VjhTdV9HT1ZMalY3TnZ1Q1R3UW5Ya0pXaEJ5WUtNM1J5LU5jdFRWUUVCbEppMGQxRFJ1emhtRl9qcWxxbW9rZk5R?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795665522,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -242,6 +253,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795661820,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk - CNBC",
+  "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51YVJtVWRQVW9UQ2F0TmcyYnRIY1o3eTdTX1pPamJjRWlod2stNjhCRnIwdndsRm4zTkdWR1NSblpacElZSUdVcmc3ZlB5WDdUNk02VHRid19Nak83VjVVYmlhcVlwZ3BUQVg4RXB3V2N5UU9v0gF6QVVfeXFMT05JRkhHVWFocEE4YlFWMHpMb29MZzJSa2NpX1VuSVNtSGxJbkpsLXEtbHBocEh4Zk1NQVlmMVdFd1FNX0FhT0dRUFJ5dGo0aGozelJMY3VYVDNhUmRzR1pkVzViaUdRc1RxU19xWWstT2xtMDNELW9oaHc?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795661728,
   "forras": "Investing.com",
   "temak": [
@@ -327,6 +349,19 @@
   ],
   "cim": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
   "link": "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795659822,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Trump Threatens China with More Tariffs Over Structural Overcapacity - Opportimes",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZGxHN2pqSkxrSzJnWmFuMktxMTlvVFJNRV9tTGZ4TTI0MG9oRXpHUjRuOV9XZWdoU044Tnd0b014dmF3Xy02bG14UlFpWkF6VURYMEJkM2RJbmJSV2UyeWZUU3hFTXZ5N2pubDMxS2FGLUtwT3NIbEdXY0FyUi1vRTNRTHVEak1GeHQxNklJTjkwaEtFd19UZUV3WjFaSEZt?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -877,42 +912,6 @@
   ],
   "cim": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long. - The New York Times",
   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVJKQzVEUVhZQkxHM28yQ1paU3Y2ZVhGT25aMFpyYmN6akhuOEVxTVpVT1hpeVk3ZkV1MWNjNlA2NjdZZ3ZMLVlGZVFVbEdqNjlmQ0FodV9mb0lLanNiSVhyX2o2WUdZaXNGSEdWWWFnUnptRG03QXM4N253RkYxXzNKVQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795653060,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump administration proposes new tariffs - KALB | News Channel 5",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvMXRoVElEblBXYThiN1Y1X2pob2NJZGNSbk90aFBZZ0UtaDZEWlZSS0RLd2k1YWd3dnlvUDNzLTIwMkpyTXljNmNhS01ORlhMNldCdjJXOWt6WjBDX1NWSlcyb3R0LVdKUldnZmw1b0dpTHdYM05PVHZvam8zYWPSAZMBQVVfeXFMTnY1dWxtTGJwWjVNWUNtRndjbkVJVkdIMzIxZ0wtZVN3b1gwaDdMQW5YUG01TU1SS09SSkc3ZXQyS0JjR2hITk1jd3ZPMG1Jb20yaEJZd1A3QmtNaDRxZGpmWVdhRDk1R3VqaURBUlk5Qmt2MUJRV3hBNmFtd0pycFRSc1dDcVA5U193bVM3QWF4M3E0?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795653060,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump administration proposes new tariffs - WTOK",
-  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aeVgxRWF3U05TLVl5bEpLdWtzSThKNi02VTdlb1VoX2YxMHFzMjIwWXNUN1BuNjhJdkZkaXhnamh2cmFpY1M5ek5NY2ZtZmtzN200LTJFZ2ZOU0p2WVNLV1FrVk94eFNwcVdsZTd5RmgtS0dnN2hYaTFVallNM2vSAZMBQVVfeXFMT3ZzblczNklEMDdUbFE0UFVUeWRleWFXeFdNV3hYaVZlbFNXMS12RnktVXFUMzJjR3JFaktKcEh1Tndqd0JpZWZrdGpJVVJxTVBtU1Z4WGlrUHZBSFBjRkJ2V3ZoM3dudmM2U01meHppc01odktZUGhTX21aWjY1NlJwcV85U3FuUmk4eGVnemtIUnJz?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795652955,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "🇺🇸🇮🇷 Why is Trump's Iran war only funded through January? Democrats take over both chambers of Congress on January 3 Trump warned Democrats would \"take a total win and make it a loss\" by ending the war, and retired Green Beret Lt. Col. Anthony Agui - X",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Eb1hYTGRtcmotVGJuR0tyc1NocEpaeXhpZm9GMV9BQTEzSldQV1hsNGRsUTR5YTFVSHRzVmRyak9aZFpnb0Z4V2lKbXp0MVV4T19TbW5SV0J2SHhUNWtibHhHczJrMGRUVnBsQg?oc=5",
   "surgos": false,
   "eredeti": ""
  }
