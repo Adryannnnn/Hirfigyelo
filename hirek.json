@@ -1,5 +1,39 @@
 [
  {
+  "ido": 1795732500,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "History Warns Anthropic (NASDAQ: ANT) Investors: Every Comparable Mega-IPO Lost At Least A Third Within Two Years - Foreign Policy Journal",
+  "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSmxIcHNWMTdzNXk1OTBva1ZrOW9wTU1hVWhUYjNxbEtoQlNLOVJNUnVOWkExb3JyU0xjbmJOcl90ejZyQmFhaWRZUXM2aU1kUHlxUjBmZXk4a0VpR3FaNU40VE1IMUJJQkM3Y3NBS3hfbDY2V1lQYjFTcExURzdocXZKUTM3V25qZEticGtDZjYzek9nNEk3Rk9Qdk80VldkRWxXLWRGcUpGMWRfZXljWWpYcXU5TnRfVm9UMkkyUE51aGhETndHMDNvYTFNYmFtVEN5dTRGcjYxb0xaeVVrR3ZnaHNjVFVSTmppZFlhQQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795732249,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Nvidia Is the Worst-Performing \"Magnificent Seven\" Stock This Year. Is It a Buy Before 2027? - The Motley Fool",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb1JfZkFPMnBSbjY3ekF0ZUpIUHpVVUgzTDdSbEgzeGIweHFfTFRuVWc1T3hZQ1R0Ynh5UkFJRFEwRmJNMjJ2OEJIS1pRcnZkcWczcEoyMk5QYTh2MzdaTkFSekx5cUNHZHdmRXZ6NUdXbGRZSUx4VmZob3ZMeGhYblpVcW44NHVMbnUzX09XYmVWYUp1SE1NaTl3WWpsZWQzX3l6MEtjZnlXTFdkRDVuaXJ4TDFwMjNUcXUzYkFvNHh6c0NXUzNKYUh0NA?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795732213,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "AI Rout Makes Kioxia Japan’s Cheapest Blue Chip, Backing Bulls",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/ai-rout-makes-kioxia-japan-s-cheapest-blue-chip-backing-bulls",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795731763,
   "forras": "Bloomberg Politika",
   "temak": [
@@ -44,6 +78,17 @@
   ],
   "cim": "Should You Buy Tesla Stock Before December? - The Motley Fool",
   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMG9hbzY3bEFYanl3MlgzNE1URjYxUzBnLVhUUDdGSW40Qk5ZWXdLSWNIWDJ1ZDhRZ3VDSXp3a0RENHE3V0gtd0RZcUhwN1BkeDhqeUhfV2ZzMkx2WGY4NWxMUGJDMU5RVWJsTzJ5TVlXRkFQTldMc0NiYmdGc19ma2Eyc3RCQWh6bVdHWEhR?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795731266,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Oracle Paid $109 a Share for NetSuite; Stock Up 165.7% - FourWeekMBA",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTm9FbnY0c3hRQ3ZJSUp5eUktSF96WUw2U0hmRlhHTUpYcy1zekdVNUtNbHVqRnQ2c1JuekV4N0w2RnlRMDZZR0V1Qm41amtXeXZGa3plcmMtMEhnMm1lQkNDNk00RnMxdjdZcUtrYU5qbzNTMk1YYWxYbDFKZi0zdlFzZVpsZw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -266,6 +311,19 @@
   ],
   "cim": "Nvidia shares fall 5% as board opens inquiry involving CEO Jensen Huang - Crypto Briefing",
   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13dmhHY0FwdFNqYkl1ckdWS0lJQXV1NXpXSFdjdVJlQUJYMlJyQ0ZIRWVMS3ZtMFVoODNQVDdTWUZJRUtNR3o2MUpFZGJtc0Noai05R29TQTRGS2tNYXg4bDJ0aVJqN3hCSDRFa1NWM1Faam45cll5ampJalBDdw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795726800,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "China, Japan and other U.S. trading partners hit back at Trump's new tariff plans - Japan Today",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFdCSzdPMHlhSEJOcjVzQzBXNGFtQ3plT1FwMGF3d2k3NDJBZXJoR1o3MW9uWERsRkllN2tkRXN2X0lPMXBzNkNwMzV0U0M2NHJZM05FVHVTcXYxZjE1bkhucDZKTk0tNm5kOVlNRmxDNXpWdmZYcmRKMkJVTnp5WmIyTjhjaDgxejVCbU5SOS1SUkV0VjVPVDc0bVByaTJOWkw3NHJIb0FFRUJWcHdJaDlEZGx0V1RB?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -866,64 +924,6 @@
   ],
   "cim": "Trump and NATO Secretary-General Discuss Ukraine War and Iran Conflicts - 8AM Media",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSXpVMmNmOWZQV0s1RElZSFVISmk1Y09wcjhGMVZuMERpS0h5OHRZeGNIM24tc1BBeXg4VzktYmVjN3dZV1luUmN2Wm4tV3lHRVNCSlVzdW1tcHNPV3FkNlVMdVJEMFpWcE5nU0ZOcWlGalNzbVp3SWY5N2ptZ0lEQmhTR3JNdU5VcWN6cE8yNTlwYmJ6SzA0R2FR?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795717721,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Blue chip"
-  ],
-  "cim": "Micron Shares Rebound After Hitting Lower Bound of Descending Channel as 26 Long-Term Agreements Poised to Support New Rally - TradingKey",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1QySl9sdUtFYnl1c0pia3ltVER2ekFkUWlIYUhCcTJ2emIycGVqSThQbVZFcGoybUxnVWNRWURsZnZmZjdLX190cmxvcFJHMklHSG9Pby0wVHROdko5Ulktd0VLdS16eklBcFZQLXoyM3VzbVVsTTNRWHBWRjhIa0JmTHFyQ2UtUnJjem9PM2Z0M01MMXROMlpobkRDZE92aHdETERUSTNiRTcxQzRTTWRoZjBhTGNZRUJtb1VMWjlWSl9PU0M3Ni1R?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795717591,
-  "forras": "Cointelegraph",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "Spain moves to grant financial watchdog power to freeze crypto accounts",
-  "link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795717533,
-  "forras": "Reuters",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Trump uses Thanksgiving message to lash out at political foes, immigrants, federal government - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQmtPdXRIWFFwMkxPY3ZpT0hvLVRPZVRURVFPbTh1ZVZ6aG1aNnNRU1FocksyRWM4UVJ6amxnd0tpQWdIbU02TEg2elQwY0VjTm9pbFVUNjVNRnA4RENJVTdBRTUwM0tLVktMUW5HNkN3Vm1QY1JuRkMwM3Z6X3F3NUtzWC1LVWF4N01hbTRXSGN1Z2dnTzJ2Y0V5RHlMbmhpQVZXZHp6eDhmcmROb2NHUTNmWFFwMjNsX1RF?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795717440,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "🇺🇸🇮🇷 Trump's war with Iran could undermine NATO's ability to counter Russia Retired U.S Navy Commander Bobby Jones warns that Trump's pressure on NATO to support his Middle Eastern campaign is creating a strategic dilemma for the alliance. While W - X",
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pNTMxRDd0N3dwbkdfMXVVMG9tUFZEejVRbmxpQV9xcGJGbUxScjVrdkwxdC05eTQ1Z0FuZGVvYWdXbnY1Nlk1Ql9BRE5QYkZVMTRsb3JrMlF2V29CNzBjWFp1UjJGdVYxR3ZCSg?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795717360,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Kripto",
-   "Tőzsde"
-  ],
-  "cim": "S&P 500 and Nasdaq 100 perpetuals climb on Liquid while Wall Street sits out Thanksgiving - Crypto Briefing",
-  "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTWDI0dV9VZUN0b0RQNDhxZkRYS2FlWU0zaTk5UWVtSzg0QWRsNWxBUzVnRDRDeEdESlhmSTVYUTBtclBaeUJrSVZqQUVKdTZnSEstMG1OZGJGa2ZhMjdsWmhvOHl3V0M3M0E4OUxHdFVZSUJSa0dFdDZsRlc?oc=5",
   "surgos": false,
   "eredeti": ""
  }
