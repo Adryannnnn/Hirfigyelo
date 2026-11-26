@@ -1,5 +1,54 @@
 [
  {
+  "ido": 1795668792,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Jegybank/kamat",
+   "Világgazdaság",
+   "Blue chip"
+  ],
+  "cim": "AMD shares drop amid tariffs, inflation data, and dilution fears - StreetInsider",
+  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeW1oYmZTUUltUjBaVm5TSU1KeURHcTdjd3RmeU84M0FJMG96SUh5b0pHcVpUbmJNS05XZG5zWENwWGRsVlFBcFJUOHJyTDFYRThhblVXeExpNE5sU1JYZV84ZFNaZ0k0Qjcxc19XcnlfakJuZWF2WVdQbGVmLTBNUWlFWHM2NGNKMUM2VEdYUE9VbzNvRDhoLUs3dTRid0hoX3diN1d1bzlrU05La01ybFE1Uy1YUU55TnNLbURB?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795668588,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Nasdaq 100 teeters on brink of bear market as Wall Street tech stocks fall further - Sky News",
+  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzExYV9IdDZsaFlKT2g0TkZBUXd0Wm4yYVhYRk0xaVpVaFN1dERRS2VqdGQyODZWTkZlTlJSLVFKZ3B1eG5KSGJDcUVmYnFBaERFckJWQmU1UldYOUV2UnpseWk0ZzZZcVNERDhkUjV3bW04YnB6SEs2dURxSUd0YWk2TEJ2NWNJbWVQWFkwVGJocXZ3N1FJazZIN0hGS01WUVVLUTU2VVFlR1B0UWhIbUZGQXEyYWpVWUE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795668361,
+  "forras": "CoinDesk",
+  "temak": [
+   "Trump",
+   "Kripto"
+  ],
+  "cim": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+  "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795667837,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Trump Administration Announces New Tariffs Targeting China, EU, and 12 Other Trading Partners: 14 outlets compared - NewsCord",
+  "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcl94dWtCdmViNUd6QUdWaDcxNU5PUFlab1NGV2lKdUh5NzFHUFBMM2ZobkJGU1B6UTI2NTlQYUZhbDNJVWJQQWwwTDFmRGY2X2pQOXdBbkVyTlc3ZzZEN0xKRWVtMDcwRE5IMzNjbzlDS1hwZW0zQnpxM25lRG9ZdTRFTkEwVkxSOWhnbElDZEJ1al9fU1dBakE2LWdONTV0by1YYU1Uc0lORmtSQno4b0ktYmFLeTlYQkRVTzdKZHZCWE91LUQ1dFlEeFJpWXBuZVZubU1EdWFDZzlTb1FRSVlkdWpOd1Z4N2c?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795667400,
   "forras": "Bloomberg",
   "temak": [
@@ -7,6 +56,18 @@
   ],
   "cim": "Australia Firms See Inflation Holding Over 4% for Next 12 Months",
   "link": "https://www.bloomberg.com/news/articles/2026-11-26/australia-firms-see-inflation-holding-over-4-for-next-12-months",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795667356,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "“No Exceptions, Even for Allies”: Trump Renews Tariff Offensive, Facing a Dilemma Between Fiscal Gains and Diplomatic Costs - https://economy.ac/",
+  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TYy1rczhtakRVdkpRSks2VlhxUHUwQ2xlVlhGaTEzRGRTYlR1dmRwZk04SXd6cl9Dbk16MFMxbVp6dDJwTHZHSGZNQk5jZlEtcjV6THR0UQ?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -341,6 +402,18 @@
   ],
   "cim": "‘Trump Put’ Protects Nvidia Growth Through 2028, Says Gary Black as NVDA Stock Trades at Cheapest Valuati - Benzinga",
   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQmt5LTVNWGpHOHM4WG9NdDdQUkZGamNqNDZrb0QzVkdRZWk4R0hIOHVlZVdUM25IMllJOWxCYk1MOWdURWJvVS0wTXc5ZXhSdVJjNDExNG5HMndZVlN5aEJqQUM0R0RiN29UQXF2aENIVUZaV0dYOXdLQzRkODJmeGkyOThySFZlRWpxMlJfNGozUjJQR0FSQkVqWjdoTF9sb2xkYmcxVlBDWTh0S21WVzRKT1JOc0dNTUtpTVJtYVM2MUl5c1lVT201b2NjS1VzalRoZHBNRXVqTGhLVEFuYXM0SjUwVnJGZlV3SkZ2RnBCeTN4dUROV3RDSU95UQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795662360,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Trump",
+   "Blue chip"
+  ],
+  "cim": "‘Trump Put’ Protects Nvidia Growth Through 2028, Says Gary Black as NVDA Stock Trades at Cheapest Valuation in 10 Years - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTU0wbzJ6NERHVXotQkh3Sm01UFp3S1NQeDh0TzFQTVZKU2tJQXZvRzdwc3ctSHRhUlBkTnRYWFM5eGxpcVcxbC1GX0psWmpJQS15TFk4S0NHTEFXQUZYQ3dMOURaME0zM1VJemdtUmFMU19xUEE3U0dDMGlSdkhFWGNhSDdTeEFqRWtXYzc0SXlmNXluWUhXdllyMndqV3dmZDhKVjBiTS1SVXhILUpQVmtUOUxTY1gzMEh2OG1BQVNSRjhkcXlEdkQ1ZFVtbURsc3ltakxEcmFBSmlNdFcyUHJramNrRDJhVTBvald3bmI5OFVqVHBGVWZZSEhLc0xpdnJnWDdn?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -766,6 +839,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795656900,
+  "forras": "Reuters",
+  "temak": [
+   "Tőzsde",
+   "Világgazdaság"
+  ],
+  "cim": "Stocks rally in Asia, unrocked by US tariffs - Reuters",
+  "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWRTQ2N0czgwTVhPdVhvZDUzeDNDRUJ6cFd0MWx1N05aSTJHaUlOdTQ5X2xieEVueHJ3VTRrb0ppNEtzbFVBRm1fU3VvV0xpMWVlUWg3c0NvWXJxS2ZabkwwejhwenhCVmhYRUdweUwwdHhTTWd1bTh2QlR1dFpvVDFHVQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795656898,
   "forras": "CNBC",
   "temak": [
@@ -832,87 +917,6 @@
   "cim": "GLOBAL MARKETS-World stocks tumble as Trump tariffs rattle markets, AI rally fades - Metrobank Wealth Insights",
   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcy0yQ2QxQWw1WnExd2FJVmdtTXVXdHR6QWhmYjRaSHoxeFBqQTExNnJxQXllQTFrMnVBZW5wbHFTUnMwSVdycUZCMkw0d2pxb0kwWGhRSnU4N3VnODZCRWxxcERHSWh5bFRKSTFoV1NPSjFrSEpGLWh0VUpQUzZ5aWlodnRVdVRzZlhRM1hjVmEtN285d2h6QjR2S2N6N0V2Q2hFeDQxdThXdW85YWVLcnpXQVBydE5TUUdWb0hMZDB3c2pT?oc=5",
   "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795655989,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda - myMotherLode.com",
-  "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWGxILXVaUjV6cl9BRG9fcEVfTzBnSjVHLTdMTmVxWnhJUWlDYmhZWnZPZ2VNNGpmLWJhM2lSUHZzalRBSjZTSDJyU2R1UnY2eVRnOE1URVpkdktwWHRhb1FRMFJPSFFqTEZLa0ZseV83R0xyWG1OYXBCUjBiWVpXbVNnMlBTYlUxS0dIeUphQnNpVXpQcy11MEpkZkZwVHA2OEVLUHpxaWVsajBDY1YwbnRRaFpZeUQ0eUtQbDRwTU5yNFVDVTVRNmRZN1ZBZHNNOG1maWx1cmJoc0lKdS1qdVFybUpSQdIB6wFBVV95cUxQRHlMM1Y4Q2JfQ3E5OVRYQ195MzVEanNZekE4VXBlYUx0VzNkTXB5X05zQ25HdTlGREQ2M21DcEo1aGxtd0gybjMwcEFaSXh0cU9YZlZqQXFyU0lKeGlqekNGcjlmamZwQVk0dm9DMnZLMzl2ZGFuTy16V0tjWFN1OG5jYng2ck9yZ2ZUeVBIOGJ0QnFIOU12aDI5N3llZl9mNVplZWRkdDlqRURIVHNwSDBrR3ZGMk94cnlCYWw2YnRwdThJRHdVOThUdHlyWjdsYWw2bjRrLWJwVm5BeU40dlZsZkNJREZsdUtr?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795655876,
-  "forras": "Bloomberg Politika",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Breaking Down US Plans For New Tariffs",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-26/breaking-down-us-plans-for-new-tariffs-video",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795655827,
-  "forras": "Bloomberg Politika",
-  "temak": [
-   "Világgazdaság"
-  ],
-  "cim": "Brazil Lashes Out at New US Tariffs, Saying It Will ‘Not Yield’",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/brazil-lashes-out-at-new-us-tariffs-saying-it-will-not-yield",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795655691,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Cathie Wood’s ARK adds to Anthropics stock, trims Netflix By Investing.com - Investing.com South Africa",
-  "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRDNXZk50LS1ORC1URXdKbzNROEI1SWZ5VzIxUGRKTjU1M2pkOS02bHNIV1lYYjBDdi1vTS10UFRBVWo0MUNPNWttbGdWZi1qQTNXRnA1S2ZpQlJ2WGladnFSYnpGclE0LVExLTI4NUJkVmJFOGRGVXNTbTRFbGpUdTVWOG5yR0Q0NXIwX1lxUUppMjAwR1g4OThkUzdYZW11SW5qVF91N1VwOXc4RXgzNlJlWDVsSnc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795655654,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Nvidia, Oracle and Amazon pull the S&P 500 lower before the Thanksgiving closure - Quantisnow",
-  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVndESV9wQWRGZjktQjFtNGpoZ3p4R0txUmRxUllfMXk1RlJFUm5uREljdzhUakIzWUktMHo0ZUdRcjZaWkZGRVc4VDJHSVZBU1NoZm1qT2tYcllmWS1xRktzM05Td3REX3pOMzZOdXRxNzBEazdodEtWQzJrRV96aUhNcUlwTzBTWmtBNkZJYWZrNktTcFltY0lsOUNDMUdxeEdLaEJBLU5ValYtT2EyZFdocGJVUQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795655538,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture - The Killeen Daily Herald",
-  "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcHlVeXhDZlFvWTZDSVNTNTVyU3VwbnJXMi1VQXlqQmFLSnMta3FabDZtWkMwRUdiU3NlZk5vaV82VU9yRmozSzI5UXdvVUV6bXRrYXhPdUdzNTdUV25aRGg5VEgxZkUyX2VZRDE2eld1cTVBbzFxaFJGakZuVDlxaXpmZVBtYkxxTHloeXVpZTVvSjVDMEY3S1o0bUhzNVZiNnRZYmdLVjdTcElCT2tZeFZOc3p4amRXR1c2VEo1alp2ZDdLZGJlQTl2bkZXQjZBM2FfdFBtSkJkU0pxY0cxbTJMaENFb1UybkRZZTRydFZQMm14aVE?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795655520,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump wants more tariffs. How are they affecting the US economy? - The Business Times",
-  "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDM3YzFDbkZjMHhTUWpha0ZndTcwNUVJRmVMQUlneG9JTGlyR2o2d19wZlZrU1lpLVRsTVltT1V3S213ZXV5R3N0MXE0RmpqeHJPRTZmNHN3bm8tRmxtMXVWRDFJRDVESnY5TXQyVjU0dHlHRGFFdU1UempBanJHTFFCUDJvdDhFY1ktSHpyZGhfUXRPRVpXMFlxaVdER1hJZ2JXR3BRbDQ?oc=5",
-  "surgos": false,
   "eredeti": ""
  }
 ]
