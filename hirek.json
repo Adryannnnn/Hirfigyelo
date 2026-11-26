@@ -1,5 +1,28 @@
 [
  {
+  "ido": 1795687140,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "Száguld az AI, de miből lesz a profit? Óriási lehetőség előtt a magyar cégek",
+  "link": "https://www.portfolio.hu/uzlet/20261126/szaguld-az-ai-de-mibol-lesz-a-profit-oriasi-lehetoseg-elott-a-magyar-cegek-879304",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795686392,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Trump’s latest tariff salvo rattles an already shaky Asia - Asia Times",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQTRTRWxnVk1IVVBISjd0Ulk3b2F4Q0lNWEtnZWNXQ3ZhTnJSMEdiZXZiLXJLeGRmelVySXYyZmJ5aTMzc09hYURocU10WnBPc0owMnJZdEx4d3ZaQVN1aDBwYWlHMkpzU2VPUWp3R1E4ZlZKSTVkejRwUG9DaWg5M2p0QkdhMGdsNFF6SFg0ZEc?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795686264,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -18,6 +41,17 @@
   ],
   "cim": "Amazon Stock Holds $235.98 After Bernstein's Cloud Warning, but $247.46 Caps the Rebound - TradingKey",
   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb0V6Y3BqMmdxdEhCOTlTMEpUMnBScXpJbjhtZ0dZOGVNbEFiWjV1am5uTm9EU3d6VmYwLWctbk5zOUJqcndMSGVMcWN1MThuVXlkLWo5TTBZNnA5ZTJhOWVjNlFLR2N3TTk3cDI0WVV0cnowbDdpOUlwNWlEaUUxQUtoYUdjYzJGRVdHME02ZUQwQWxHU0pTQ0F0MEdFcGxFLThqVHpJSlJMbm8zUDQwampycll3bjJDb3VDOXF2cHVpdTNxYmg1MEtUa3BSVm81ak94dkFUQjFjd0V0bklEVjBZdDhxWjM3eUZ2ejVsOExQdw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795686154,
+  "forras": "Cointelegraph",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
+  "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "surgos": false,
   "eredeti": ""
  },
@@ -160,6 +194,19 @@
   "eredeti": ""
  },
  {
+  "ido": 1795684156,
+  "forras": "Bloomberg",
+  "temak": [
+   "Trump – háború",
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Can Trump Gain Any Leverage Over China With the 40% Tariff Threat?",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-26/insight-with-haslinda-amin-11-26-2026-video",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795683836,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -252,6 +299,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795682520,
+  "forras": "Wall Street Journal",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "New Tariffs on China Could Undermine Trade Truce with U.S. - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUcwQ3JjLUlNWjhSZnFuYWMzVEFGd0RMR2lZT2VmWUdBejNHckpxbWFSb0lsTUNuTzktdm9qTk94eTgxMXFRQkplOTdZZkFDSEVaUkVZcWFfb1lEMTNEVzFHd013bXhoRFU4ajZjOTB0UXFhM1FacVliRVdqcFY5dG11UURVYmFZang5ZEpaZEVCazhBMjFz?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795682294,
   "forras": "Reuters",
   "temak": [
@@ -287,6 +345,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795682161,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Earnings call transcript: Tiger Brands posts stronger H2 2026 results as shares fall",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-tiger-brands-posts-stronger-h2-2026-results-as-shares-fall-93CH-5052308",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795682160,
   "forras": "Portfolio.hu",
   "temak": [
@@ -296,6 +365,39 @@
   "cim": "Csődbe mehet egy európai légitársaság, egy nap alatt zuhant 85 százalékot az árfolyam",
   "link": "https://www.portfolio.hu/uzlet/20261126/csodbe-mehet-egy-europai-legitarsasag-egy-nap-alatt-zuhant-85-szazalekot-az-arfolyam-879284",
   "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795682050,
+  "forras": "Investing.com",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Sterling today: Pound steady as dollar holds range on U.S. holiday",
+  "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steady-as-dollar-holds-range-on-us-holiday-5052307",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795682017,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Earnings call transcript: Kofola posts strong Q3 2026 growth as leverage eases",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-kofola-posts-strong-q3-2026-growth-as-leverage-eases-93CH-5052306",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795681993,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Earnings call transcript: Adler Group Q3 2026 holds steady as Berlin rents rise",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-adler-group-q3-2026-holds-steady-as-berlin-rents-rise-93CH-5052305",
+  "surgos": false,
   "eredeti": ""
  },
  {
@@ -351,6 +453,17 @@
   ],
   "cim": "Is The Client Unit Still Carrying AMD Stock? - Trefis",
   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRGhOWkxLNFdXUlZ4bWtxSm5rTW95RlFLWFp5WTRsUndiYzZHZjJwWmE1YXh0MnhsTS1CWTA4S0VsWU00REdfa2FRdlVtRjQ3NGNJaU1JV0x4UUVaMTRKWmN6X1hqbThpUG1pVXNtWVBJOUhzUjlDbVIzclVyNy1DSjFRWUNQV21aQURXdkM3UmFheUZuY3dLa3NSSDhwU2ZUckFvdXl3?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795681747,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Earnings call transcript: Mitchells & Butlers posts strong FY2026, shares slip",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-mitchells--butlers-posts-strong-fy2026-shares-slip-93CH-5052304",
   "surgos": false,
   "eredeti": ""
  },
@@ -812,126 +925,6 @@
   ],
   "cim": "Donald Trump és Mark Rutte arra kérik Oroszországot, hogy kerülje azokat a lépéseket, amelyek kiterjeszthetik az ukrajnai háborút - Informat.ro",
   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeHBhbGFKYjhIVTA5Z1lkWmM1d0xHaWFjSlBHb0FObVlwMWZqanBNOEtkZEVwOGphQjRIOXpwNE5aOVF4SFM5cjhZTFVRbDBIOHZfbnRmdVNZMnlRV1owSy1adjRIa0NHYzBfdGRyblJPYUdlSlVDb2trbENWYmFMZmFmT1VuWkVBdmNOcEhSVFdPVTR6T0ZfTDQ0bjRyNzYzdWxVUWZzSDA4VEZvRW9oNTRvRFd4c0Z5Zko4?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795678491,
-  "forras": "Trump (magyarul)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Donald Trump és a NATO-főtitkár a háború kiterjesztésétől óvja Moszkvát - Szeretlek Magyarország",
-  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYzdpWGl4aVh4UUlXWU82QWtUZjNSajU2VmtuZ2QyS2FjdTEwY3dkSkM2T0xTRlAzWHN2NUhfZEJreHFMVUx5VUx3RUtnWUxhNy1MSUZ3UU1KRi1kRUpoMGtUeUZweEJ4TExKT3ZjelRaeWRrMlNsN3RrRk80YjdIeGF6OUtyVmhRVWMyamhTdHdtbWlVXzFheEx1a0lPQQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795678442,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Prediction: This Is What Nvidia Stock Will Be Worth by 2028 - The Motley Fool",
-  "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSFpwRHdCM1luM3hpclhSSXNpTW45OFZFb0JwX0NiSWp4YmJfTkpsMzZ0Q2RyaEctdW5BTGxkOUZlVVhpeFptQTZ1YVZkWDRpcFlFcXZoRjlXV2VvTVdsakFTRXNwOGd6YTBHZ3Qtcy1MZG0xNXZFYWtUbXZCbVRpQUNHRk4xcEpHZ2k5Q0M2dFlQU3V6MzRQU2ZLdE16SlFjdnhZ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795678325,
-  "forras": "Investing.com",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "Tokenized Security Linked to Freedom Holding Corp. Shares Listed on Binance, Expanding Investor Access",
-  "link": "https://www.investing.com/news/company-news/tokenized-security-linked-to-freedom-holding-corp-shares-listed-on-binance-expanding-investor-access-5052220",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795678250,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump Turns Up Tariff Pressure On China, Puts Trade Partners On Notice - BusinessToday Malaysia",
-  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTNPUXNmRHRmZlRxcFFiWnRWVnNpelZ1UEVUU25TWkpRVlhoNmMybzBvOGljWDVQd3NZLTMwQjZBNVpJTTBBdm5CcERSUWJVdzZkT0Q0U3V6OVNUNWllbHZzMEllMy0yRUlIaEdMbi1ZdHZ5SGJnVUV2NzIzTkdnYnZTUFdaSFFTbzJ6S2E3R3ExM3dILWE1ZGppYmpYWmh2NkYtVzRJbXVsSURhZi1XV0Z2aG8?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795678200,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Világgazdaság"
-  ],
-  "cim": "Erős munkaerőpiaci adatok érkeztek Magyarországról",
-  "link": "https://www.portfolio.hu/gazdasag/20261126/eros-munkaeropiaci-adatok-erkeztek-magyarorszagrol-879238",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795678158,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump brings out the tariff bazooka again, markets frown - marketscreener.com",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUXJXOXlrS3hRaExqYWMzNHFMYUoxRjRtZm51aUtGTEhmbmlYZkRnVThsc2N1emNkQ0IxMFJCazZ3LU56Z0drRHVjZTRNQUpFZVpsUlZsZW95TEhxajU2ZTlEd2hIU0UwTWl4ZVZOQUxhYjJMSnZubVZueFJMN0hfTWlralgwbE5KTTZONVoxWDhRaWFpQUNFNFcxQ0I3dENIYklySkhjbGU3Rmxk?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795678080,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Asia rejects basis of new Trump tariffs as US gathers China ammunition - Nikkei Asia",
-  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWTdlU2lyQ1Q2c0lSWERfaE9nM3ZHUDlYaldoRGNJWERpNm5HTTNVNTJJRjBTOTRXcFNUV3MzR2RLSDZKR3ZsUnFFY1ZOMXYtUXRpbnZPc1VvTFRuSktXOUJlZWJOOVhYajBSbGt1bEtQT0dPWDFNLUIxVzN5NHNaSWVOUGJhZGdpS0RUQVphSm9JNjEwSDBaWk9HSlFlTDU4c0Z3WnZGdXU1bnYyZ1MxZmE5c3FfN3dfOEg5c3pSM0tWZnNh?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795677960,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Súlyos váddal állt elő Trump jobbkeze: Ukrajna akadályozta meg a háború lezárását?",
-  "link": "https://www.portfolio.hu/global/20261126/sulyos-vaddal-allt-elo-trump-jobbkeze-ukrajna-akadalyozta-meg-a-haboru-lezarasat-879234",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795677803,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump and Rutte urge Russia not to widen war beyond Ukraine - Operativ Məlumat Mərkəzi",
-  "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMVRmcXY0WWlMMUo1eDhxeUpJMzlrQzNmdE84TEt0eFVzMTF0Nm5jNVFmRVN4cVh3QWFybnZJYi1YclB4d1hHQVQ2RVdoQmlyREFzay0yOWx2T2s5eWRKQm5RLW5ycnMydnM5RkN5ZTVZMS1WRk4yYkZxQXlUVXZvRmpVc0JLc3JXNi1Tb0dKOW5ScUhIdURVNEdOMA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795677775,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump Targets China's Global Trade Dominance With New Tariffs, Raising Risk of Wider Trade Tensions - Modern Diplomacy",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNXJNZDBjLWFnYmNhVTdfTElROVktT0ZZQTlPNTdHcGdURUxWYXRIc3dBWkptY0tMQmxVTkU0djE0R0dLRjdJSkVyT3lRcXp6cEpTRXRGWVh3aXFPTUZtQ2FUbjc5MGd1SmgwV2dvREIyUDNjWU5wYkZWdHdEd1ZqM0dSQmYxOVN4N2I0MDBWZm12dDhjcFRuMmZ4OFNtQ2FkSWZpZGdUWll1QmdXOFRTZWdXS01RdWR4WWhtN2ZNdjF2YlZrRFlWN1Z1dnNSNTJCSmc?oc=5",
   "surgos": false,
   "eredeti": ""
  }
