@@ -1,5 +1,51 @@
 [
  {
+  "ido": 1795701180,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Jim Cramer Says Micron Stock Is \"Comically Cheap\" at About 3 Times Earnings - 24/7 Wall St.",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN3p6Qi1xSnJBN2ozd3BlZ2VXT3BpRjl3SnNQaW9lbnlYX0xlVm9yUUhEZUxtcnFIUTlMeUpvc0NWd2E3RWhPUVpzZGlWSzIzLXlfaGt0QXQ0eW1leXdIamMyQ2l3NjVqZWh6U2FIZkd4MjNYYmRXWEhoMl9VenRkTlBIX0U5TFlrdkZpTGNHQzRHN3ozRGMxdldVTi0zaWdmRlpMbjBrR2ZyY0VHcWFEVTNncG9WcXl1?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795701105,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Dow Jones Erases 1,100-Point Plunge to Close Green Before Thanksgiving - FinanceFeeds",
+  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSzhYWkxQRnZ6MzAyN3ZiVUNodGpBRElJaXAza0Y3a2lVbzBCR0t5SWVUeVRaNXJxX1VZanFTb1JuVi1JbHFERTM4bHRyRURtTVY5LXpkMUtNM1IwU1hZclJlOW85ME9uNnhUV1drWF9qVzhaLWFTTXdPNXlVdWRlSA?oc=5",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795700907,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Trump Tariffs on 14 Partners: Hardware Price Impact - shattered.io",
+  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPandlVFlubWYzUU44OERvWU5WZVd2SFVmVXBmblJJOTdQNXZFclZtdEZjVVNUUHViUmdFNmFSS0pZdUZrU0JpOS1hOUd5RndwTURKV0M2T1I5eVpKaklDRjczYWV6Z19JbHVma214SGZhRWFienMzalhMbFNoWnJ2Q2FiUDJkV2NSSFh5T1o5QUs?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795700876,
+  "forras": "Cointelegraph",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Nasdaq exec pushes for common EU rules on tokenized securities",
+  "link": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795700874,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -7,6 +53,17 @@
   ],
   "cim": "Global stocks rise and tech shares rebound as U.S. closes for Thanksgiving - BNN Bloomberg",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbU9BRlBSOWpYakItQW9OOExUSE1PN2xZQkFlNmpuNTF6bTczV094NTIzTm95QjlUbmZBdEx6Q0FOMkJvdzY3MmxDMkRubkhyMzNCcTFaa2NtVmdYQUlJWUVYbk9sY3FZRzk0Smlpa1RLRHI0YjAxQmlqZzRyRC1UbFoxWWx2NzIyVWQwOGZSTVJfaUNvNUphbWRvb0J1dVpCbGkxLWJPRTlLeXhxMjhpY2ZPeFh5ZVhnVDFVeQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795700760,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Is Plug Power (NASDAQ:PLUG) Closing In on Positive EBITDAS as Cash Burn Hits a Record Low? - Kalkine Media",
+  "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbENyQWJhZEhDXzFJb1hoRVFELV9TeWktTkFFeWFFT1pYZkYxVEZuUUpjTHBLUXRsX3U1WXFSU191alBhOWN1RjFtdnd2Nm1vS1ZCSm5Ram10cVd3cDBkWm1pbkFFdUxQLWpRMVA2dzhXNldNOVRfaGV1ZU5zd0NSTHdDU0pMTm1YTTJRZVA2d0V4dFBKdEQxdFRrOEJ5MVBkeUhEeVNaWVkwdHRjMzBnNjZDNlA2dzRuMVhKUXpDWEsxNmdTalE?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -41,6 +98,17 @@
   ],
   "cim": "Hold $500,000 of Apple in an IRA and Your Kids Inherit a Tax Bill on Every Dollar. Hold the Same Shares in a Brokerage Account and They Can Sell the Day After You Die and Owe Nothing - 24/7 Wall St.",
   "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOZXVOUGhMbGxaa2diR1RRWXAxZG1mR0w3Xzh6VmstWlcyWjhmTVhVWnhEaHZkTUE1TEY5YjNJVThrX2RleXpMN2dWUE1kQ01sc185QzJqMG84VWY2cHhBR0RXbE9LVkcxQVpfOHpjOGVOaGd2UHJtQVQxWnYybEcxOTMzNGNjSkg3WXVfUk9VREdLOE03aG1TV0xCUUZzZ1JxZmJBOThoanQ4c0hoVDJfQlNxYmhkTlhoTERtU2p2bXBUREUwdWZnam5SdlJqRW0xWnJkT2dPMjlMRmlYWTk1bEtfY0h0ZW9sV2ViMjJad0hiVEUybWtKRzBubk1lVzBCSXJuTG54b3FhMnNMNmtnaVFIR3NaQThfQlFpc3Z6NU5zcHRvUndxeDNaSzVIdGhXdmNIa0VFQ1JucmFSTmlKQ0pIZHBjNnZCQVkyYUtzMA?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795700312,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A Magnificent Seven Stock Has a Surprising Path to New Highs - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZTZkckpkeFliQ1VEc3o0c1VEWlY3andwNEJyWGs3VFJFeWxJcHZYajhEaF9td1o5d2NIeHdZR3luejZWRkN4UFhSZDI2TlpkRGpvdlhUdk01TEJpay1pRF83dmpHODd2WGNuYUFFcWR6LTA0X3JvZWVQQkQ0RUNaYkZLR2RoQVczNFg0UVltcVAzektXNEhzNnBZSkF6T0tYN1VYMlBkNA?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -98,6 +166,17 @@
   ],
   "cim": "Micron stock drops as HPE warns of memory supply constraints into 2028 - Crypto Briefing",
   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5SmU0dE5zbGlyRGRMV2hvMmNvRDl0Z0Q3bGwxY2NDMDByeTNUbzhaTThUdXRVeXlPc1VQR0dHYXp4NVpHRmNYZUpJZWVXbE1sRzNjdWJQaVJVSnFRNzdRazlmRWI3Y0QzY2VQUXhYSGZuMGdOSnpUcQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795699320,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "How Will CrowdStrike (NASDAQ:CRWD) Reshape Cybersecurity After Its Record Zscaler Deal? - Kalkine Media",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbXdCZzhkWWItbC1uOWZBN3ZHeG9HUS1XbzVtSlppd1RjemVoc1VPaFA2NU9mcGJ4TTR4d0NQY2tBT1dMb0FvMWJqMVJTY1dTckhWZWtNbGxtY1gwdnp2T0FBLWV1U2RKekJxa25mMzI1U1JLZjdfYlMzSVF5aDRsV2JmaEhWYlNfTFAtQ3paZUtpc09HV0wzTzJKeW80RUdXb2V4T2s5TzlTVk9LcFgwa0xaZjlpanB5QUhRN25EMnZkNXc?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -202,6 +281,18 @@
   ],
   "cim": "A Deutsche Bank szerint hamarosan véget ér az eladási hullám a tőzsdéken, majd jöhet egy nagy rali",
   "link": "https://www.portfolio.hu/befektetes/20261126/a-deutsche-bank-szerint-hamarosan-veget-er-az-eladasi-hullam-a-tozsdeken-majd-johet-egy-nagy-rali-879400",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795698800,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Five Key Takeaways from Trump’s New Tariffs on Major Trade Partners - Global Banking & Finance Review",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iSTZsS3dJeHpPYmFHZWxfTDNmd3h1dGxpOUIyMjNqTUx2RkFRT3JIOUVreUJsSjVUdkdaWW9DbFUzemtEZ1E0Szg0ZGZ4V0ZkRGh5Y2ZscVcyRXFnR3ZpdzNwOE5kVnBsd2F5cC1JYTNqTFdNOWQ5TG41dWR2aVk?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -820,99 +911,6 @@
   ],
   "cim": "Boeing's Shares Rise on Fresh Orders Despite 2026 Losses - Zacks Investment Research",
   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObHhlV242UTFwNXNCLTJiN2pKMjNuOWVQNGQ5U2oxdDA3ZDh5YUFzbHBGcHoycGV1YUV2YUkxOFI5ZXFmd3oxTHVIUWx3blBxVEdZbVZMT3pRVmxXNXJUY21vcUVldHczZ3o3bjVhT2xjamFBekRNSjhzSGxPdFltbUhhNmRCd29aMm1aS3pOejZTMFJOcUN2NHdMZ0U?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795694405,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Jensen Huang’s Nvidia Return Drew Trump’s Support, but White House, FBI and CIA Differ on Whether Alice H - Benzinga",
-  "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZDFZcUNtdGRCTHVRZmZnSTl4cVZ4bU9ISHRTY2oxc3VlaS0wcF9pX2t0UUJxN1ZsQ2RyYWNudmhrZ0NjajNRVFZTMUg2V2l3aVdTRmJjSGgzRDNWRGNmcGVOMlpqZmtYSUdrdXlWMWd1emhXOUZpWHVTOXBDQWhkdGtOM2ViVVJ4cHBVSXFzLThtUjNqLXRoaDllT3BieG9Ba0VrLUtocGtHSEh6UjZvcVM0OTNjZ0Nxd25JTGtzOVZldy1RQl84ZVd5OW9RRlNIU3lyVmVjby1NSVZGanN4aDZ2bVVrcWU5X0pNdEdtVkdZUjlqSG1CZFBBTlp0YVRwZ3U2cHBaZTZOdDd5cWVLWDlR?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795694401,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trading Partners Wince at Trump’s Latest US Tariff Plan - Bloomberg.com",
-  "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNczZySnhjRzBBQldfVFRuNE5hemdXWU1PZnhleE5WVm9jOVFwVW1FeUtYZU9ZemEzZjNEcGlaVkNVYkM2Yy1xbFhJVS1CMGZ1dHZyMlVIUGxvMGV2RkQzQ3Z0azNVZlNXYUlRNTM2S0lndV9JZjkwS3luM2RTRFlKY1ZkRTlBNzA0R1RSQVFPZGc4SFBTczhXRTgtRXFYckJ1TWc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795694400,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "90 százalékot zuhant a világ egyik legnagyobb autógyártója, horrorforgatókönyvet áraznak a befektetők",
-  "link": "https://www.portfolio.hu/befektetes/20261126/90-szazalekot-zuhant-a-vilag-egyik-legnagyobb-autogyartoja-horrorforgatokonyvet-araznak-a-befektetok-878994",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795694280,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Tőzsde",
-   "Jegybank/kamat"
-  ],
-  "cim": "Újabb 2008-as léptékű összeomlás jöhet? Súlyos figyelmeztetést adtak ki a hitelminősítők",
-  "link": "https://www.portfolio.hu/gazdasag/20261126/ujabb-2008-as-lepteku-osszeomlas-johet-sulyos-figyelmeztetest-adtak-ki-a-hitelminositok-879364",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795694221,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "NYSE and Nasdaq Close for Thanksgiving and Shorten Black Friday Trading - cwibc.co.id",
-  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGYmk4Vno3ZHUybEYteWtIV3RLVGJjYUwzT19GVV9GbTlwcTM0QUwtekZQckhXc2NhRUNfRDRVLW83anYzdVNaOG9FZzlvbEpqa0JDbkR1RTNXV2FHclNYOVFxdUFmVmVTeWdLb0tQVlZ3cEU?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795694211,
-  "forras": "Bloomberg",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Tőzsde",
-   "Világgazdaság"
-  ],
-  "cim": "Trump’s China Tariffs Threaten Fresh Trade Tensions",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-26/the-pulse-with-francine-lacqua-11-26-2026-video",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795694100,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Is Recurring Revenue Driving NAPCO (NASDAQ:NSSC) to Record Results? - Kalkine Media",
-  "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVE1iZEhWODZhdlNNbHZEdlEzU1hpS3FQdjFmczAwZmdudk9qS0JvbmNrb0pKM0NKcFN5QXFrVkRJUkxJU0dVRjdmOFM4OTVqaXhLUG1fSzYxTzl6aTd5UWUtbm5iQ05FVVhxOTBFQ0IzeXUyZlFOajZxOGM1c0hlQWVIOVMtNVlONm82bjlkOXQtY2RxWnNPX0tiZjdGS2dsSEx1ejAyRm1mc1U?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795694040,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Which Markets Led Cronos Group (NASDAQ:CRON) to Record Revenue? - Kalkine Media",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTVozM1QwRkRXTWYwMUFTYVhfUlY2OTI0elktcE5KLVIzaWl6MXA4VDN6Nk0yUXl0dlEtSWtPTVZmYkR5NDJZcE1zUUxkQzhYX1ZnTXhuaTJNUXpUc1hDUU4tYkVycWgta3hkUXFZQWZZSllyYndHZFJOVElLelBJeGUtRnlhWjZGcG8xQlQ0Szl3TUN3SkdYWmtsTDJpLU1EWHFpMktn?oc=5",
   "surgos": false,
   "eredeti": ""
  }
