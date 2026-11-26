@@ -1,5 +1,51 @@
 [
  {
+  "ido": 1795672750,
+  "forras": "Negyedéves jelentések (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Siemens Energy India surges over 7% after strong quarterly results - Daijiworld",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HTG8xWFQ0ekRaQlpRNWFCTmtBNENaTmFJUkRoRTlvWjQ2eXk2V21QZXU1cTFOTGZ5N0hBTFR5Z29GVWkwVzFJY1g4V2pQNE1oQ0RLMVZVOU5DUHRaYzFyWFdNY0hJbDkwcWc?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795672331,
+  "forras": "Bloomberg",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "BOK Hikes Key Rate to 3.25%",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-26/bok-hikes-key-rate-to-3-25-video",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795671850,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump, NATO chief urge Russia not to escalate Ukraine war - en.bd-pratidin.com",
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55bzF3Z25kYXdaRDhUTFc0aVlBUTJfN19YYWQtSHc5blJScVQtVl9wZ0ptMGU0T2VLQXFqekdxalM0Vi1TVUc4SFk5T250Qkc4cGZGM0Q0Y0NQZ2xkcW1NY19XS0ptRlVw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795671128,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Kushner reveals outlines of Trump's plan for Gaza: Disarmament in exchange for reconstruction - جريدة القدس",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzVnUlYyN2M2dDNieDJRQkdhRFRna0g0cDUyYjFpRzBkODFTT3pLWVB6TlJWREtBUGUzWEUwTUZIdEEzOEJOLTRJWVdUUVhLeXAtV1UzVVlKaUE4c2prSnRxbXVqWHlBLUVQTEd1OFZ6NUw0anNGMVRzdG4zNDZWUUh5RDFDYmpJUnNTd1NpWmxDeEhZNU5Va3Vsb0xrQmdHRzBva1VHdFVITjZwSkU3bkJR?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795671060,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -787,6 +833,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795661617,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Nasdaq Crashes 3.3% as Nvidia Shares Plunge 8% - HDFC Sky",
+  "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSE5TNjZQWDdPUkdHanZrMUxnXzBnaTI3c3pNWnluMzM2VHBBQjhXdE5lUmxiSklUN0dBc0pOamVxYkRaYkJRdW0xMnhDVW5LQnJCeHU1UVRDNmRQWTdtQkhRZ3pnNEgzdFoyaXJkRUhsekVuRGpHeTh2RFBEQWhNd3FVU09YelF1cUR6S2hSN3dyb3J4bFItYzQ4X2htQk9SSEZGbHI1RFNzVzNaQklfZWE5ZXZmb0xQOGtDUW9DS0VYcDBv?oc=5",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
   "ido": 1795661542,
   "forras": "Bloomberg Politika",
   "temak": [
@@ -861,64 +919,6 @@
   ],
   "cim": "Nvidia’s Market Cap Falls Below Microsoft’s: Analyst Flags Five Overhangs For NVDA Stock - Yahoo Finance",
   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYkwwaEEtY3lVNTJENlZ1NVNGMFZrSTlxYU5tMXFGMnVGdk1fYXo0a2pUTy1NRVBOWGhfSEo4UTNXNlFBY285b016NnVJNHgyZWwzbWpZcHM1NENDekdoUE9DMTFpbXBEcDRTZVZrZll6cm5wSXRlV3FCMXZFczRpUGFleVR6MVlNcnlzN0pvWmV4eEFPQ1NjVzBR?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795660380,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "HK, regional equities rally as Wall St fights off lows - RTHK News",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQmd4X1RybVhNMU1qbVJmXy0xZU9zSk1VUVNHQmZwOVBudThGWlFXUXpRdExxZWVUU3lqRWdfbXA3V2Vha3h6SVZpVFhnVjVRMWdObWFxay03bU1FSkZlb2hjbkhyaVh5RVA1dWt0bGNNWjFDWWtoRGJ0VV9HM0JFX3JuWVE2NmM?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795660110,
-  "forras": "Bloomberg",
-  "temak": [
-   "Jegybank/kamat"
-  ],
-  "cim": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795659822,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump Threatens China with More Tariffs Over Structural Overcapacity - Opportimes",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZGxHN2pqSkxrSzJnWmFuMktxMTlvVFJNRV9tTGZ4TTI0MG9oRXpHUjRuOV9XZWdoU044Tnd0b014dmF3Xy02bG14UlFpWkF6VURYMEJkM2RJbmJSV2UyeWZUU3hFTXZ5N2pubDMxS2FGLUtwT3NIbEdXY0FyUi1vRTNRTHVEak1GeHQxNklJTjkwaEtFd19UZUV3WjFaSEZt?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795659643,
-  "forras": "Investing.com",
-  "temak": [
-   "Jegybank/kamat"
-  ],
-  "cim": "Gold eases as U.S. inflation data reinforces Fed rate-hike bets",
-  "link": "https://www.investing.com/news/commodities-news/gold-eases-as-us-inflation-data-reinforces-fed-ratehike-bets-5051964",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795659544,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Trump’s New Tariff Offensive Tests EU–US Trade Agreement - EU Today",
-  "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjSWk4WHZPUFN2UHVaQjFJQkZDVDBZOC0taEFYWm5Sa0d5akZqUDlSaTBmeGRMQzFZLUVnbTFlTDhvTHl5M1RuVUxyazJVNFNsYUs0N0NIbzVMYVc4cmNZcmlidEZnVlk?oc=5",
   "surgos": false,
   "eredeti": ""
  }
