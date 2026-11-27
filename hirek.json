@@ -1,5 +1,40 @@
 [
  {
+  "ido": 1795737539,
+  "forras": "Trump – beszéd (Google News)",
+  "temak": [
+   "Trump",
+   "Kripto"
+  ],
+  "cim": "Trump expected to speak with Nvidia CEO Jensen Huang soon - Crypto Briefing",
+  "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uM2lzRmpPMXhNeFNfWHB2MHpINk94TmdjaXRXakdrZE9Bd09HSTJfanlEV2NRZmgyUzhtdVJBamdnYlBzc1JGZl96WHpqS09kRTJWclo4ZUZuN0JtMElxM3dQUGY5QW9TSENjTXdaeEFBY3FpdHRaT1pR?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795736730,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump Revises Agreed NATO Statement, Adding Ukraine to Warning Against Expanding Russia’s War - Kyiv Post",
+  "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oU0M3cHdBVFVXOGMyc0Y1VHRyYm5ldkJOTU5rbEE1MEhBYWI4RjJ1Ykk2RlV4MGFMV2dLTlAwdjNlRjRfVzdXTjY3RQ?oc=5",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795736496,
+  "forras": "Bloomberg",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "Japan Bank Shares Risk Further Unwind as Funding Cost Bites",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-26/japan-bank-shares-risk-further-unwind-as-funding-cost-bites",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795736388,
   "forras": "Blue chip (Google News)",
   "temak": [
@@ -63,6 +98,17 @@
   ],
   "cim": "US Stock Futures Rebound After AI Rout; Traders Brace for a Fed Rate-Hike Replay - BigGo Finance",
   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUcFlTR0laRnZ1WE9SanZVVXZXbEs5RzlOTkZ0UXJYdFNrTk5PWGtid3E3bi1PWUtfdWY3SzdIdkFHU2Y1LThUSWtILVkyZjF4cGRwWXRvd0JXM3N6RlVxREJteldkSkJnbE9rbFdMU3paN0hRcWc?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795735495,
+  "forras": "Wall Street Journal",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "Exclusive | Cost Pressures Already in Pipeline to Fuel Higher Inflation - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaHROaGlMV1FteF9zZlkyZGE5ZUdHa2tFRzZDTnR3QUJXWkdRZ3dlelRhWHNlNWJQTzlsNkxCeWpHb2luR2d5NGk0ZC1fS3RyOW5vYVdsYXptclBfa2VZVHNnMzVSNTIyZFNVdjZ5S204OTM4MjBZT1JrdTd2Z0JKbDZjemNsX0p3ck53Xy1MY254dGhjSC0yczlRakcxSm1GaWpxRGlB?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -132,6 +178,17 @@
   ],
   "cim": "Donald Trump thanks 'murderers and rapists' deported from US in Thanksgiving address - GB News",
   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEJCUUM3YVZZZmpjZ2pCTHZFRS1Zb0Q0S2ZqR1V1aXJVM2lOV3U0c093aVd2bjBRUUd6RkVfcktGY1pidUdLUkpWYXVqcTU3eVJoekoydDUwOE5yb05Iek42RmFCRTRfdkZPSGJqUEtmZ1RFOUkxdkN3SkQ5akpmM2hSRG1jUGJDTlpGSkRqR19TM3FyOU1idQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795734438,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "RAW: FL: TRUMP SIGNS DISASTER DECLARATION FOR STATE - Local 3 News",
+  "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUmtfeXdKb25uQ2xKbW5wN1NnUmVQdGJCNm92V0pONjZlUVpmZWNUd0xnTXpYbUxuOVlaRjFWVFl4Z3l3UUZkYm1PWWxUTzlsbFhBQjcxd3ZnRVFwTTFhSGFtaGR5b3F0TXc2ZWNDMWFZM3k3a29OeHA5OEtmZE10TnFWQ0RacG9lMFluUDUtMjNHVFpKRGprT0VHRUFWSE5fLXJZZUFaMFVpWHNTS2JQWl9IS3doOENpb3MzZkVOX0pCRklhM0p2LXZLWG9RbUYyS1VlcHhVQ2pTdw?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -212,6 +269,17 @@
   ],
   "cim": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
   "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795733056,
+  "forras": "Investing.com",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "Tokyo CPI firms in Nov, core inflation slightly misses expectations",
+  "link": "https://www.investing.com/news/economic-indicators/tokyo-cpi-firms-in-nov-core-inflation-slightly-misses-expectations-5052758",
   "surgos": false,
   "eredeti": ""
  },
@@ -507,6 +575,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795730186,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Five questions over Nvidia's China chip trail that Huang's return has not settled - investingLive",
+  "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVFdDc01rM2JOeVpDV21TeTZHYU40RERyTHhjYVNuU1RHZWdUN1I1c3lRcWRiV1ltSWNNOERmSE91b1NuN3gzdlhyWWZYQ29PLWRTeW9GbExwZVo1VUtRWUV2d19Vd3lQQnM5VW9UdUg3LW5PVm1ORDI3RTkwSlVkejZ4YThNOFZsSUJPSnd1clBRSU50UGY2dURTdFpiWTV1bnExY2FQT1VMTGFhMklvM2s1MFVRZw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795730160,
   "forras": "Blue chip 2 (Google News)",
   "temak": [
@@ -670,6 +749,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795726643,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "New trade war could be brewing following tariff proposal - KOKH",
+  "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVWVOY0JjOU9KbU9JZXRVV3dRLUVXNGp1cmRLdlp0U0hLQVZJRDdUbTlSeDhfTUptbE1WZ3NkQ2I0ZlR3a3lzcXc3ek05dlFfRjBuazR1QWFBUWlkZ2VkdEltclN5ZHdBcGIzTENIT0dYcEpoTUFFMW53NWdFNTdHSlZCRC1KMmhtZVVldHhyVjctWWNtQUNKdEFEaldxNFNtX3ZyZTI5V1dISFd0cGlsSVdBblg?oc=5",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
   "ido": 1795726500,
   "forras": "Portfolio.hu",
   "temak": [
@@ -827,99 +917,6 @@
   ],
   "cim": "Donald Trump arra kéri Vlagyimir Putyint, hogy mondjon le az európai katonai agresszióról - Informat.ro",
   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczNyOEdQaEdvbzZqbFJ4QUh4NnF1SnhjaVB2aHctOFl1SWRvQXlBdmgySlJhNkNuOTdSVVBid3drU3dwb2N5VzJtR0NXZTBtaUhTSjRoTTZNc0xQUmdsLWMzaTEteGpsai12d3BlaXNmTVlOUHRicWxKZ2cwRTV5ZWtDa1JCYXRqeXgwd1JMRXlpQjRReFdRZHFWYnYyTHlLakZCUEJPREZ1aVJycGc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795723379,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Watch Trump renews push for Russia-Ukraine peace deal - FNC - FOX One",
-  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNWFCZ0FPN2hCWU43VERNc0JaaE5xNi1DMkRlb291MjlTR3pJNlhfTlRHYTI5ZzVKOWgwTnNDdDBGcHdHRHBneWVvbTRUTjJKODNoZGdCdWdWZ0taeURLbThmVzRiSURqSDNnWkNlME84d2hsQjBLemJhMlVLNWpjb0dtNFJ6Z1JVSUtLQ3dkek1abU5pTWF3?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795722958,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump",
-   "Világgazdaság"
-  ],
-  "cim": "Faisal Islam: Why Trump's new tariffs are less of a threat - BBC",
-  "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mS1RNWGZ3OFI5aW9OeldzV0RQYVRuOFBfTGM1SDJOamdVRTBWY0hSalpHMXFEdjNOZVhrb3BDa1ViNEZsN2tueDhEX04xLWc5cnFYN0RsOE1zQ1U0cHc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795722900,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump, NATO Chief Warn Russia Against Expanding War - Newser",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcW50NUNqZkphdXpveDczdVFJLVZuTXNUY0tUTnI3MHZKcGhWUUktM0RiN2N0WC1pSUNXdVlObWxDaFpZNVdJdkNTUTRtcFE1TzF3TTZwaW43ZHZMQWtfVW9SbXJkeWl1U0U1bDQ0TG05R0Fkd1BUWmdIYjJMMDZBV2E5RzJzWjVndVpKQTVNS0ZlejA1WXc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795722720,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Warren Buffett's Thanksgiving Message Names a Teacher Most Investors Have Never Heard Of. At 63 He Bought 300 Berkshire Shares That Would Be Worth $260 Million Today - 24/7 Wall St.",
-  "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQb3pITXctZEtBMWRHSGRkeVlHUThxNHBiSl9BLXB5SWhrdWVyZlZTZURFV05rdkQtUE9abEdBaHZlaVZlako2OThFbS1WWnY1WjJrSmVHSG5tZjZlTzhONkVSS1V2Qk03TzNDb2hrRFlkNDE4RjF1dzZwVHg2NjRucGJ6X3lhUW5LbUlLNG1lc3pINEdINnVOZUNkQlEwUEptWEJsdTdrQVNfSExqSnItbUp0UlY1aklCX19KMzdSNVhmSGZ2OVJiR3E5RWZtOU5mZUFjSWN5Y2M3NllabXI0bTJOangtUElwV0pWS0FsMG91cDk1WWZCZWZ3aVg2cmFFWmo1V1BLU1FfaXdxQXNJN185aUIteWY4V19kWHFGdC1VOFlqQk1Ea0JSNEpraDQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795722703,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump renews push for Russia-Ukraine peace deal - Yahoo",
-  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb211b3ozQ1Z3WWYzU1J0SHBXLWNDRjVUU0xIRUFDSmxGb0JyV0VrblJpWU9fekFaLUt3bXFyYklVZEgtWnUyaWswV1hGWk1HRklYNm1JZUw3M0tDcF9KMlFFZFRUWE03TzJfTlhIdXJSclhvbW1hYVVnT0dneTdldzdPbXhEcGZU?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795722258,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Is NVIDIA Stock Underperforming the Dow? - Barchart.com",
-  "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSU9JS2ctSTktQ0NhMzM1T0FvVk9WcXpJX0NDdWRZT0c0ZjFKcGpmenpZLWF1Q3NzN3FPdGQwd2NUX3Z6UHllZU9HcGtXOFhGcDl1bFdxMTlKM1A2ZVNLUGc2M1lJWHhXcGRrVFVOVHhTTlJKc09DU2h3aHNDVlZhR1llZE4zWEx5QnBJ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795722097,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "European stocks surge, S&P 500 futures finish higher in Thanksgiving trading - investingLive",
-  "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2RSbUxfYXUxbTBnTXNyWWFlLUpDZWRkREdZMFJETTRIcHd6MjRweEZiamdicW4xbVFQY2tBemdfa3QyeFBjQTZCc29sMVpTV25SQVRtdjU5RWtFZVJMaDhWVWRqMGoxU0tuNktzT05GUGUwa1hpdnVtdEJnS2ZYbTRUZnQybzVvTmFPVUpvWHZlanR6bzRaZk1iNWNUeldiSFlXTmwxX3RfYnY3VXc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795721595,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Blue chip"
-  ],
-  "cim": "Goldman Sachs resets Broadcom's 12-month price target before earnings - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMGpHSjVqME5UcS13eHltS2FTb2M4SUl2U1JoZnpqVmpxVHgyQVdQcGlCZGNXdVRySzFtX05RMkgzRzFyd1ZaTEp6RHFqcGh5WjFqdjVQTGk5TmVmNXJudEh5cDFIXy02UmE2RG90ZGRJZTJvenVaVVNwMG15TWFYOGVJSmtZRzB5VEJlTU5IMTN2TFU0U3VYazlFd1ZCcUk?oc=5",
   "surgos": false,
   "eredeti": ""
  }
