@@ -251,6 +251,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795797778,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Jaguar Health receives Nasdaq delisting notice and requests hearing",
+  "link": "https://www.investing.com/news/sec-filings/jaguar-health-receives-nasdaq-delisting-notice-and-requests-hearing-93CH-5053755",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795797650,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -902,18 +913,6 @@
   ],
   "cim": "Apple Takes Bigger Bite Of US Smartphone Market - Apple (NASDAQ:AAPL) - Benzinga",
   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRlNHMDNhLXJpX0xrbkFTMmNJd1B3bGVJS3BVTXR5UXRrRVlmNHZoWG11eXR5Q01OWEJrN3Z5ckowek5QY0JHcnZPTnNKd0lFQUhNeXgyUC1RSTMyY0R1eFNtb3RDaHNqUVc1d1ltSDl4cHMtRGRhZ3BaOVd2dlJLcVluNDRKZTZRQVlmS001dFJiN1R0LUNMaHYzT1BQNVBEVkZqa2lkaDhFWVRydEIyeU5JNjBtNUhSZ29HM3BNVTZNVXlvVnd3SHFTMTdZZVo0S1JnR2tNRnNOZw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795794348,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump Downplays China and Russia's Support to Iran - ASHARQ AL-AWSAT English",
-  "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZDVERWJEeUNOaWhFeExZUUJiUHZsb2N4a083M01nbm5MYXBNd2kxOFlSQlR5Zm1YaF9VX19lTEo0bF85bkp6Mms2MEhEc2dMOG52VllNQ2RpeWFpZWthcXN3V3M0MXZsMkxjZmhhMFNoSW9BdnNSWXhiUFk5QW1nYmhQQUdkQXpqS1dteF83dTQ?oc=5",
   "surgos": false,
   "eredeti": ""
  }
