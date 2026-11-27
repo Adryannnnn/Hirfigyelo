@@ -1,5 +1,83 @@
 [
  {
+  "ido": 1795772395,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "NYSE and Nasdaq Close Early on Black Friday 2026 - bsinews.id",
+  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tblBoanF1eGZOZ2xKZ0M2OXY0RFZKWHJCdHJjTU0xSHg2bTVkT3NEVkRPbWxCd28yS2JLNG1UdVprNVpGSzJWbVFHQ2ludm8xQVNVNnZrMFhwbVNhU3h3NW9JQQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795772370,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Meta Platforms, Inc. $META Stock: Flputnam Investment Management Co. Grows Stake - MarketBeat",
+  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMWowZU82Rno3Q3F4RGZBNzZtVDlZMzM4VmgwWnBrUHRLVFpaLXdQLVFabGdXSGxXczRBWkwxWlBBU0d1OTVyQkRIS1VKU05NUGhIcGh1QUtBdlpQOVMxRlYyVnZydVZrelJaWkk4UnNobG5JRVJfTUxCYTFtMjAySmdhNkpoSXJqemxXQVlSS0VGSVZMNTNua0lpMi1aZVc5dDdiUmkzTENaYlJaZ2NfQWhXXzlfRHVHcllQSEQ5d3c4Q1RRRnpIbFNKZkJyQlNhcVE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795772365,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Lame Duck Trump, 80, Indulges in Weird 'Veto Corleone' Mafia Boss Fantasy - The Daily Beast",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRWxPNzh4WjNRaUlTMDNRVXZ1YTd5UzFzVDR6VXR1TGlENndWTlVWWi05cE9UQTdDZzZMMDJ3Q05rcEszeFFHTVNHZDAxVWVhZmZITFhob3M3TGRsbEhObUc0cFRqNm93ZHcxblVSc2Z4QjJXZmxRUlYtWUpTdkRNdk5Kbjd1aERHaWlWdGNxR0xtZ0hlcDQzc0tJNENGNUJG?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795772280,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Átalakulnak az Auchan-áruházak",
+  "link": "https://www.portfolio.hu/gazdasag/20261127/atalakulnak-az-auchan-aruhazak-879660",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795772040,
+  "forras": "Wall Street Journal",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Stock Futures Jump as AI Trade Set for Rebound - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS0hzcmlIem9tcHVGU25zUE1LcVowbGZnWjA4NXgzVkt3Z1hUSDdYR0tUazluNXpjQlA0V3dPX1ZabGdBZ0xRTTBRbE5SUHd2TS1rQW8yTk55U3RCeloxdk1HeXdNMnBVeG5pV2xBTFZOTm9zcEFEdUNuVjNCOENYU29sYkRjc1psS3FFeGlIbEZIbmtQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795771989,
+  "forras": "Trump – beszéd (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Ukraine’s Zelenskyy Compares Putin To Hitler, Slams Trump’s ‘My Friend’ Remark - StratNews Global",
+  "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQckMwd0ROckkwYnhLM1pUWm9nci1WZi1oRnM5NFprUUFnM0hGVHRWdFlKbm5vOGplVjhEVnRtejc2NmN3cVdYQi11R0dvRE5xZlVrSkJlQV9pQ3hadXJaVDVzMDFuakd4SmxQN0paNE9QelByX09BRjV4aHhLTzIwRW1hUHNlYUZaOUFLUGRQT3VHZGM2blEzZGZWRjRlU2Jmc1YzRjdKY19heFRLWW9vdldKNA?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795771805,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Nasdaq futures surge nearly 3%, S&P 500 futures jump 2% as AI stocks set for rebound after... - Moneycontrol.com",
+  "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNYkxFUm1KV2tpNjRrTzVQQ0x6ZGdRZ3AwTGJDX0lIOUZJdjlyV0NfeUpGTWYyamNkLXQteG5rblh0SDluQmNVYUwtUC1Sc0RaTUFNM2lscnVmUjNWQ096VFZER1JoMlZpTGFCMVdlZ2VKRG03UmZSaGNCUEFCNXZ3Z3l0RnlkYXJPT2lueWVpeWZveGdsVEs4Ukc2QTNLcklCaWNGVExQMGw5SmZJX3Z3aW5pcDRPbk9XazNsQXBTdEhwdnAwYzN5S2ZtUjU1M2tMMzFiSldWU04xcnVvSWYta21PbzMza29NeHVERTYxdFg3Yjh5QWVwRHQzS3hpNmlHd0I40gGIAkFVX3lxTE5XUXlxejB1X1lDaXVkVER5VEVlVXhVc2pRelRtV25raE5qZkFmTzJQeFExRm80ajg4d0UyakZZUHRzVmJBMHF6b1A0UFBEZFZRM05iZkFVN0tQLVlrVHNydFVqQ2RqbXU5eDB0d2tWeUkzWVlLYVpGYld1QlRpUHNkWjM5UndVbW5BVldoYjB3YU9XN3QzR2pFVGswUUZzanFsZi1tejlvaGpxSGdhNnFfakh4OXZ3Rk52aXVkdTlSdFdtY20zejJyWXFDWHlKUVNvQ0kyeS01TXAtZ2VKQ0E3cDlNSElBMk1fRTlzLWFDTWlYRVlYV0VWTmxHTmJpZzM2bnJydVU0Mg?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795771771,
   "forras": "Blue chip (Google News)",
   "temak": [
@@ -7,6 +85,41 @@
   ],
   "cim": "Meta Platforms, Inc. $META Shares Sold by First National Bank of Omaha - MarketBeat",
   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbmlOWTU2R1hPVjF4VEltSC1lTWF2WmkzdVhXdDh5UFBueUpkamlTUjltUXdESmE5YndPZ2xxMU5LYl9mLUJNVmxRUE5rakFhNDFmQ1FMY25xOXBGR05EdWJEMmZoN1FTWnhLendjUGhERExFQ0lUbG9TUWc5VHA0X2VKUmI1cVcyX3F3Z0dWQ2JYcS1hLXpwNmladmtKamtuNExTUGZYa1dIdFl5QnJlT0NCSWdvMlVFNWFhREs0dUFMSkQyX1Q0?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795771740,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Zelenszkij sem bírta szó nélkül hagyni Trump ámokfutását: \"Ennyi erővel Hitlerrel is barátkozhatna!\"",
+  "link": "https://www.portfolio.hu/global/20261127/zelenszkij-sem-birta-szo-nelkul-hagyni-trump-amokfutasat-ennyi-erovel-hitlerrel-is-baratkozhatna-879642",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795771740,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde",
+   "Világgazdaság"
+  ],
+  "cim": "Emelkednek a nemzetközi kötvénypiacok a jó piaci hangulat közepette",
+  "link": "https://www.portfolio.hu/gazdasag/20261127/emelkednek-a-nemzetkozi-kotvenypiacok-a-jo-piaci-hangulat-kozepette-879658",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795771732,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Stock futures jump as Wall Street looks to end volatile week on a high (SPX:) - Seeking Alpha",
+  "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaEF0bW4yNXBWT0JLN0lTUmM4STBCVHVKVk82Zk5oTlpFYTNreVNucElGSVhLY1J0MXhUVVl2SlRYcGNYWWdmdnprOVNnR1ZMY2o3RzFldXUxd29hcmh0eGY4SWliNEJHdjJ0ZEw1ZGtNaEQ0aW4wVTBQRUNPajBZWk5ZWkJ6N28tRnhYNHdyaVR2b21peDVMOGFwQUZodWUwZHJ3ZjB1emxlTk0tcDdtaWJWR3MtUVFselNLWEhWaXJrMzhBQ2kzMk82RFAwWVAyTW1hSWdleXpRUHBtVHdz?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -44,6 +157,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795771468,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump Says Iran Still Has a Chance to Make a Deal - IranWire",
+  "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTJXdVZfNDJMT1lSaENfUzFaM1k4YXoySnZXOVZDRXJkSk9JaGpmM09pNXNCX3RFM0N0NDk1QjlmblVvUGhhTmZyU1NyeGl6alJmWTZZU1ZUckhBQ1NCcVNwMmtKcWdSYURhRlpzNUJUZ09OenJpdlBmRUVJdnZpaDBOMDJfNk95RVU2U3d1aw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795771359,
   "forras": "Trump – háború (Google News)",
   "temak": [
@@ -52,6 +177,17 @@
   ],
   "cim": "Zelensky says Trump calling Putin ‘my friend’ is like saying it of Hitler - South China Morning Post",
   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUttR3NoZVFfNktsVEJpZWc0aVpvNVNkMWJjS3loQ3M3cmVObUNFamltUzBCaUkyay1ZZVQtZEo0a1FMd2Y2d190NWNWcWxneWFfQ0FDYWxILWFRc2hZamhQc3lrYVVoTXdscG9RcXFibzlqVnZhVDd4STlHTXpGVGxQbmdEd1VOQXhpQXNxREhWa3dHZ0FhaXFZS1p0M2VEZWJnWXN6aGxLVk9CRUNHUUNHWWZIQ1ZGRnNLZjJEMHVNd9IBwgFBVV95cUxOanZWaG85cWV6WDZoVjBORG5kWW1VN3otMjBUZzVMVW1KblhxNm1KMHZiSUZmalhBTW12QUJsTzhac1lTVFZsSDE0UWQ3YURSU0RtU3NNLWFjNXBVZ3JkbE1OdHl5cUtDanB3U1FYNEl1SlN1VG5WR08wMWRsQ0U0S1Bldk1PaWdlYlFkVkJkN0J1NnVBcldJZ3lkcjBUYzcxTmJGNUM3XzczNDlYcGczUGJuQ28yNExhdXRLeVR5c2Exdw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795771205,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Intel’s Four-Year-Old Gaudi Chips Deliver 60% Higher Decode Throughput Than NVIDIA’s H100 in Qwen3.5-27B, As AI Software Optimizations Unlock Full Potential - Wccftech",
+  "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbHNLLUs2Q29kWmlnYW91akl6TjBsb3JwZzFZZ2pEa2xZUmliR2NPRDhMdFYydDQ0M0t6QWMxYnNGUzNySWJrUHVXcGRDb3c1c0NrMktsN2dKaldjRlMwZzBFNndNNFEwb3B4WE4teWlnR1NqWVFRT0Y1ZzFTTHBaMW1OLXZUQdIBiwFBVV95cUxQTWpJbXEwZHdIU0pTalpscnc3aWxRRjVBa1k3SC04dl9SdDBlQjRCSFJSZTBPZGtRT2RZN0dfak82ekxLY2E2S0IzRVdVYlVzVVN6R1NFYkZWelNuR0ZfdGRQTWZsUDNDbjd0VzJEdFBZZFF3Y2g5NTlZWVB2dXJkNzYwMVd4elFOQWxR?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -86,6 +222,17 @@
   ],
   "cim": "Trump megint elhintette, hogy közel lehet az ukrajnai háború vége, de közben valami egészen másba nyúlt bele - Hirnavigator",
   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQy1jaFZJSFhENlQ5WGZoMUZFNFl6OU1SejlyZ001TXhua05USnRtVG5hOTRvVlZaWW9TeGZwOG9qcVZncm12MUVRZGlUdlEyZmtxbGw1NDFyXy1vYTBFZHNVNnVvTHFnMEtNR3M2b21HeEhuY2wxc0I1NHhoU2VRdDNLQzBqM0pLeGpBMy1zTzBhb1BOaDVyVlpSWlVNZ1RIamNRbzc3STcwUTVnblk4VTV0bGVqLW1RRnVlYk9SQloyZVlKeGFpZHhOY2dfZTgwQWdkeUZzaHlkaVE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795770588,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "How Chinese Cloud Order Cuts At Micron Stock Has Changed Its Investment Story - Yahoo Finance",
+  "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVXA5S05BYnRIcElJTjY0b1hNaUFVWTFydmZRamxzN0JDUXlqcjNad2pDTDhmNGJtWW1ESFEzbWM4dTRlLW8tRTZCdHZUejJaMzNxUjRlSEJCc3JLa0l3SWppUk01MkRJaHB3V1JSUmFxVC00MU9FZVUteEtUckVvTEtfUmplM1lfUTVhd3hNNXQ0cEljSm9HOVdBTEc?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -175,6 +322,17 @@
   ],
   "cim": "Apple Inc. $AAPL Shares Sold by Factory Mutual Insurance Co. - MarketBeat",
   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT3F0czVCdmRod2kwQzRnbDJhZ0hiUG1IWTczSllZUE43OHRISFl2a0VPQ0VMMlNnZ2N1d2FyOTVqNDBoNW5GSFlKeWJfYTVNVjZNb0VjTVNHTVQ1RG9KcFFWSzZtbUFRZl9VNWVPdjZVRVpuUGxkVmJmcDQzR3d5a0R6dW5JTmJnOGVEdXIybDdrU29Lci1PaUdiRDV0MWY0bEhoc0JRVVJfZXZzYXJxWVBqSjJjUWpnRFE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795770201,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Walmart Shares Test Resistance After Q3 Beat and Outlook Increase - www.tokenpost.com",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PQ2V3Wnh2eEdLYl81UFZoS0RFQndHTHdnZXE2djY3VzY0SDBEdE9CYW5id3lvaHphWnRiSWVmcS1BYVJKQ2RRSjY3dGJJemg2S29uMU13REN3QQ?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -423,6 +581,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795768789,
+  "forras": "Investing.com",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "ECB survey shows rising inflation expectations in October 2026",
+  "link": "https://www.investing.com/news/economic-indicators/ecb-survey-shows-rising-inflation-expectations-in-october-2026-93CH-5053186",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795768740,
   "forras": "Portfolio.hu",
   "temak": [
@@ -441,6 +610,28 @@
   ],
   "cim": "Intel Bounces Towards $60 Zone as INTC Stock Defends the $50 Support Vehemently - FXLeaders",
   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYkptQ1NDamU1NWhrcmVTNDlEOGM3OC1pNlc4czluZjllZms5YUpLZ1VfWmh2MGV5LWpuNF93d2I1NUlKaGpPSG9ZWGZsSVMtbDlMYXNIcG01c0NHMnBaZ3d2b0laY3c0VTZfNzh5b1lzYWF1RjBBRVY4T2oxYkZMcERxYV9ldS1KdVFpMVpYN05MbERpOWVqeE5FWUJmRUdxVU5MaUJTWVpsMXJpYzhnWmN3enQ2NGlsNGJRWQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795768608,
+  "forras": "Investing.com",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "Zambia holds interest rate at 10.75% as inflation stays on target",
+  "link": "https://www.investing.com/news/economic-indicators/zambia-holds-interest-rate-at-1075-as-inflation-stays-on-target-93CH-5053183",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795768531,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Earnings call transcript: Cathay Financial posts record 9m 2026 profit on broad gains",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-cathay-financial-posts-record-9m-2026-profit-on-broad-gains-93CH-5053182",
   "surgos": false,
   "eredeti": ""
  },
@@ -716,199 +907,6 @@
   ],
   "cim": "Lazítást jelentett be a bankoknak a Bank of England",
   "link": "https://www.portfolio.hu/bank/20261127/lazitast-jelentett-be-a-bankoknak-a-bank-of-england-879612",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795766806,
-  "forras": "Investing.com",
-  "temak": [
-   "Jegybank/kamat"
-  ],
-  "cim": "Euro zone consumers sharply increase inflation expectation, ECB survey shows",
-  "link": "https://www.investing.com/news/economy-news/euro-zone-consumers-sharply-increase-inflation-expectation-ecb-survey-shows-5053169",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795766700,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump's 'double Kissinger' can reduce global nuclear risks - Nikkei Asia",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTFJM3pfaEFMdjI2QWdjakpUaGZ3cmNIMTNIN0R3aWVIUV8tZE9DdEI4c3dVWml1YVZnb2hPRDVsNDF6Y00tdnlUZmlPZWg4NlJZdEhybUhWNmFUcVExaFdJdTdkWDhoUnlOTHZKRlhmdUxDWnJETW9BdXhmZlFRMThXUkVLbzEwM1k0UjF4RVhUQQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795766700,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "Global Stocks Extend Rebound as Beijing Reaffirms Market Support; Gold and Bitcoin Climb - BigGo Finance",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vQ01qbklxZkF3U2w1T3RvanZCcUd6b0tSMDdIcThQYzdRRkpwMmdZUmZhbzByYk45THFETTFwREdFbGM2NktYM3ZXZ0JfdVJnMkpOQXd5a25BTHd2dVVKVGpRa0JlWTJBU25zNWt5UDJ1Z2xscmc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795766700,
-  "forras": "Wall Street Journal",
-  "temak": [
-   "Jegybank/kamat"
-  ],
-  "cim": "French Inflation Slides on Drop in Fuel Prices - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeGpEN2JPdlI4eGUzUDcwbkJ4WTZRVEFTeldXU0lkWkwzZkFpOVE1QWxrcEhRRTM3c2t3aTc0OHdkT3daTTd1UTRQZzJpcE15algtU085UTdSWk5UY2xYdUlkRm5mWHFCRWpTV0U5ckMzYmljaDBCR2h3XzdITGJnUUcwVHUtdWJPMnlhS3l6YURldw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795766679,
-  "forras": "Cointelegraph",
-  "temak": [
-   "Kripto"
-  ],
-  "cim": "ESMA to overhaul EU’s MiCA crypto register in 2027",
-  "link": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795766649,
-  "forras": "Trump (magyarul)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump amerikai elnök beszélt Putyin orosz elnök esetleges amerikai látogatásáról. - Vietnam.vn",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOUIyYi1RVjEwX1Fpc0dnMUJmZXcwRTNPbUJ5ZFdMa2tNejdjSXFMdDRVOFRNUjUwbDFCX0Z3S0hqeDgzeFJiRWV6eUk1ZHFUM2ZkT3F4dmxma3Vpa0VERlo5Qy03Vy05SG5qMFM0d0VXT3l0RVIyeWI2S0RQRHlqNnAxNWVYUDlwejhfTzFrcWFnX2s?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795766621,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Intel Shares Rise 3.23% While Staying Below Key Moving Averages - www.tokenpost.com",
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WSnQ2bUUxTjQxUXRRVTBUOHFURThaMEJyNnVXTzlXMnQ2bVM2VldZNGI0SUVqVnFyeHhhUjZFd2hibWhORDdEVk9oWUpRRzNfLVFWaHRWMjg4Zw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795766441,
-  "forras": "Investing.com",
-  "temak": [
-   "Világgazdaság"
-  ],
-  "cim": "German unemployment rises more than expected in November",
-  "link": "https://www.investing.com/news/economy-news/german-unemployment-rises-more-than-expected-in-november-5053161",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795766400,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Forex"
-  ],
-  "cim": "Mielőtt perre mennénk: milliókat érhet egy félórás látogatás a közjegyzőnél",
-  "link": "https://www.portfolio.hu/gazdasag/20261127/mielott-perre-mennenk-milliokat-erhet-egy-feloras-latogatas-a-kozjegyzonel-879384",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795766400,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Tőzsde",
-   "Blue chip"
-  ],
-  "cim": "Nagy dobásra készül az Anthropic, felfalja a szoftveripart",
-  "link": "https://www.portfolio.hu/befektetes/20261127/nagy-dobasra-keszul-az-anthropic-felfalja-a-szoftveripart-879424",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795766180,
-  "forras": "Bloomberg",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "US Stocks Set to Bounce as Risk Appetite Returns After Holiday",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795765977,
-  "forras": "Bloomberg Politika",
-  "temak": [
-   "Tőzsde",
-   "Jegybank/kamat",
-   "Világgazdaság"
-  ],
-  "cim": "Tech Stocks Rebound After Thanksgiving Holiday",
-  "link": "https://www.bloomberg.com/news/videos/2026-11-27/daybreak-europe-11-27-2026-video",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795765955,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Blue chip"
-  ],
-  "cim": "Palantir-Linked Perpetual Contract Rebounds After Earnings Beat - www.tokenpost.com",
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TZEE1MXByb2lIVTd0eklMUXlFZTlzV1pLVUZpQWhxNEF2d3dLUWoydDdlMlZidTdGQnJKN0lBUDEyeUZ2bWtaMU5EUHN1RnVPbl80ZFQ1LTU2QQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795765860,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Befutott az eddigi legmagasabb célár a Richterre",
-  "link": "https://www.portfolio.hu/befektetes/20261127/befutott-az-eddigi-legmagasabb-celar-a-richterre-879596",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795765800,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Jegybank/kamat"
-  ],
-  "cim": "Elkerülhetetlen: szinte biztos a decemberi kamatemelés Japánban",
-  "link": "https://www.portfolio.hu/deviza/20261127/elkerulhetetlen-szinte-biztos-a-decemberi-kamatemeles-japanban-879592",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795765769,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Strategist sees S&P 500 rally to 10,000 - InvestorDaily",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FSzlJNXhiYzRfdkJoMEZXOGRMMWNRQnFDXzlId1VoUUg5VjFsMGd2RlBPOVJwVVE4ektEMHZvYjFCUmRSVGpHNFc0M0JsUlFiS3J6a1AxYzdYUi1MeDZlMGtFalB1ejRfUFExQ1FrZmV2Q0tEeUxmOFdMNA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795765685,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Morning Wrap: Nasdaq rebounds from bear market threshold (27.11.2026) - XTB.com",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLW9MQWR6YWJ4ck5NMzNHY3dweWhWOGw0M3JWZFRIZlJ4aW5rLTNWOXJvb21laUlPcW40NWNWSF9vMGR6cVlHNzBwN2NKcVJsQzREWWZ2LU44a1pRaUhxRktyaktEMS1jM2ktQ3FCcTkxcGh2TTFGVkQyM1NHa0lUdWlwS2dPMmNBblc0SEdONWlqRVRpQ3ZEOFpfR3VpNENmR1hxOGRNLTR0bVJUQjg0SDM4Z1JxcFlKa2VHdkV5NnBRUQ?oc=5",
   "surgos": false,
   "eredeti": ""
  }
