@@ -1,5 +1,83 @@
 [
  {
+  "ido": 1795810149,
+  "forras": "BBC World",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Spanish PM and rivals rally supporters in final pitch for votes",
+  "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795809971,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Bank Of Montreal (BMO): Notes linked to S&P 500 futures index; call at 100% of initial level - Quantisnow",
+  "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUhPa3RqVmJIMHZSVG40dDBidTRLOURSNlJZQ3cwenh3eGFEb21SZm9GQV9kRnZKNVVOUm5OVWlGVUFNRjd0M3hCTk83QkdJZEJsVS0zZldkSE05T0huLXNSS3JrTlhkMlA5MzZXZjZOeWZJT0V3QUI2X0t5ODZZVHUweXAwaDhR?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795809900,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "A csőd szélén táncol egy ország, mindent megtesz a parlament, hogy összeomoljanak",
+  "link": "https://www.portfolio.hu/gazdasag/20261127/a-csod-szelen-tancol-egy-orszag-mindent-megtesz-a-parlament-hogy-osszeomoljanak-879816",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795809618,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "If You Invested $1000 In Walmart Stock 5 Years Ago, You Would Have This Much Today - Benzinga",
+  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamVfUlAyQnAwdmtqcEFCNHNlemV2TnNTYkdWc1hEQXpOa3lVU29VdG00OGNCQkIzSS1YXzljMHZmSFRlWDJMeldNNm0xYkNXVGFKSGFjNW1ha1ZacGwyRzFQc3BiMUtuS1A3THBkcjlBWGFIaGRVNnJ5REhtVlZlaDU1Mnl1NmVubERmZzJfbWg4ZmEwbnp6a3JPSE9kRFN5M0FpVDFrcFZBYkd4OEtkd1M0RzlaYzJl?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795809480,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "More Trump officials are calling military bases home - USA Today",
+  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaHdRUE53eTFDZUlMY3E2WTJZdWo2WlRhWFFhWEJ3YnlPYUh5Vi1fOFowbnFyT0c0UXI3QnVhbC1TMExDbTR4ZERhcUJnR1ppVFBtUmczODQtZG16dzR3M3oyVEhkYnNpcFlEaXpuN2lpN0R2NVRUS1RRTTJfUVNkbDU0dnpOYXdLblFJZzJscHg5QWhfV2kxNmFKY2YwcDNJ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795809354,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "TSLA Stock Clocks Best Week In 18 Months: Tesla Reportedly Eyes Buying German Toolmaker Amid Cybercab, Optimus Scaling Plans - TradingView",
+  "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVC1tZGxwVzdhWjJCRC1UT01QMXFMdTFnR2xPQ29XWmpfNUpOeXJVeHU3bkMydTZIdDVxZWYyUFU1ZmdzV2ZNaUVkMjhRclExcnVfelRhZGZEWTRhdFUwT1ZJUFIweGNqamNDTG9OSExMR1lwUGRZd1FRRDFpY1A1T0xVYl83YVVZUTFxLWpLLXFxMGhpUE83SW1nd2VSLVVaOWRBWm1xWWt3Ty13aXhaLVJaUHJwOFpJWHFIbWpQN2c3T3Bfem8wLXFlZ29nM0IxMjRzLXJBM0k3SHV2ZjczWjNQZGcyM1lQUUNHcVgyT0lJU3ZzYmV3aHduQ3lKOWxYY1BXYXNUbDVaMWU5RzBjNw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795809300,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "U.S. Stocks Rise Broadly in Intraday Trading; Philadelphia Semiconductor Index Jumps Over 2.5% as Gold and Silver Strengthen in Tandem - BigGo Finance",
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKb2p0RXFHekNjZ24tZkE1YkY2M1MxRTJxVldYdldHdVNqZzYzbllxdGR3SzdGdjVaQUY1UGpOaU52dUg0aFRrUHhrSzJYZDNSYzNpNjhnT2pOeEcyRERWNFMxdnoxNEpZdFdxQnBqUWVmZ2ZwRXc?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795808580,
   "forras": "Blue chip (Google News)",
   "temak": [
@@ -315,6 +393,18 @@
   ],
   "cim": "Trump’s Nvidia intervention has a cost for US stocks - Financial Times",
   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUjltZWJOXzNQRVU0WXZNN3VaLUN5OW9YVk9odVhDSlU2eVM5Q0QzUzltSG1rMVpyTDJrdlZCQVgxaW9tSlU2YVZhdUhKbExLeVg3NFRpZ1ItNTZ3ODQySkktdlY0WmFEd29BbHJJR0MwWllqMlVhUDhFdTJIU1ZsRmZ0MTE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795803940,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "McFaul: Why Trump’s Russia strategy is ‘DEEPLY FLAWED’ - MS NOW",
+  "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOG1PS2hxQ2R6VHhJMFg1RGxrdDhJUndxU2I1MDBZQkRWTnJ6RmlYLWVkcGhQOTh6SnlCOHg3SXFsUW40MGg0a2FoWU1IeTF5LVp3d1A4ZF9ZM3VaNFB5RHJFLUhUcEc2eVpPRGtWZUVtdHNva0N6MFBXMHczNFU4SDVla19JYllxeE80SlNQaU1hUUcxeE82ZXpJNEgzQQ?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -815,97 +905,6 @@
   ],
   "cim": "Tech Stock Sell-Off: Down 32%, Is Alphabet a Buy Now? - The Motley Fool",
   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaHpYMmNhbDMzcjNZQ0w3MEdFelpzdEtMV1JPT0E0Mm44UGI4ZjVjbnJUQ2xsLTl0MHU1ZzBkLTVBU2lRU1dTRl9PbVJqTUc2ZENkSEw0OEN1MWdPUGNYMjE5SjlvbWxPVTd2TS10d1RJUy1qT0hNOU1yZ284S1NIV1NJV3AzNk1mT0pEZXRkZVZOSTBjNXlB?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795800652,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Does Amazon’s Profit Hang On One Business? - Trefis",
-  "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeVYyQzlsQ3VpaU1kYlhEZ1FwY1VUZ0ZhNy1KWk02QTdxRUVrVlE1c25yYkx6aUpHeWRTQ1RfOHFvd1pBQVZKSzh5RjEwdjVpcWVZLXZTVXpEUnBpTVF2UGxWdV9PdnhZSlFrSWxabHgxb0JQV0ZxSEV6TjJkT2U5Nm1lY1JSd2ZoME1fcWlJbzlaYzdyaXhTSnV0dmlRWU43d19jXw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795800635,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "'Chickensh*t Games': Dems' Chilling Warning To Trump Over Veto Threat After Midterm Rout | Watch - The Times of India",
-  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT3pqVXBjcV9TQ09mbUlWNmUtWlQ2ZUt1VEp4UVllTEFzUVVURWhnOHl3S0hRdndlTkFqTi1XbjJ4WmRrZFczTXRERHFpa2l0bm80LUJnNFozYklmZGtWNnRsdUpBQ0FQeGJxSEoyX2lqcjhpM0lzOENURkRYNFdkRnExZVoxTjh0dndOMHRCWDJfV2wycTk4TElHRVpmYWlrUXdzLWIxODBtbHR2cUlwb0FyMUpDMWNTNS1FdGo2SXpWOTA3S1ppM3N1SlpCd2I2NWFoQVdZdkF3YUtMMnVldWdNZjEtamFGNnBpTmxINXBrSDgxc2R0TXhMUC1WOEHSAYQCQVVfeXFMTXZ3XzFRQjM1c2pJOERsUTdTbzNBcS1vYVM1dzU2TzNyWWRPRW9WZGxtdVhYbWlrRGpsT3Rsa3hiSXhJR0lBWk5Gb1ZrNm9jWkYyNmk5SUtZd0E4M2dtck9iQlNQWWFvajlxWlBRZS1oQ1J4VVNfbGRzNThvaFIxdC1YNVFmRmJTLUtzX19xanVuUzlpRlRqMVFla1lLcmltRGNfRDhXc2N3M2ZORkxESlVmQjRqZWUyUGRHVXZBVnNsa2owVjhUQ3c1bHgwSUY5VkJsTUo5VEpoQ2tDQmFOdUdmX2JfbERzd01qYkRockNwQWJqVi1CUWx1eFZQRVRMSkVRbWk?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795800634,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Eightco Holdings receives Nasdaq notice for minimum bid price deficiency",
-  "link": "https://www.investing.com/news/sec-filings/eightco-holdings-receives-nasdaq-notice-for-minimum-bid-price-deficiency-93CH-5053788",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795800516,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Forex",
-   "Tőzsde"
-  ],
-  "cim": "Nasdaq 100 forecast: Stocks rebound, but have markets found a floor? - FOREX.com",
-  "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRS0xRW9YRGNZLU1FWHFtR0dtUUJsSDFhcFVJSkpNQWJ0UXJOU2hGcWh5MkJBRU9lQjFkZzR5UXlIbG9peFV0NU52QUE2S0ozdVE0eE93ekRnQkZmUFhfOWxHSVhZR19sYzM0OG1kVDFkX2cyeUYxX2JYMlBUdXBtSGFqYjZrTV91dHRUVmRCcGtYbjk2OWNOdV80UnlrQzJRSl9SRDlQLWh0ZDVwRG1reFVJVDlxUUgxVHRCTUJ30gG-AUFVX3lxTE9FLTFFb1hEY1ktTUVYcW1HR21RQmxIMWFwVUlKSk1BYnRRck5TaEZxaHkyQkFFT2VCMWRnNHlReUhsb2l4VXQ1TnZBQTZLSjN1UTR4T3d6RGdCRmZQWF85bEdJWFlHX2xjMzQ4bWRUMWRfZzJ5RjFfYlgyUFR1cG1IYWpiNmtNX3V0dFRWZEJwa1huOTY5Y051XzRSeWtDMlFKX1JEOVAtaHRkNXBEbWt4VUlUOXFRSDFUdEJNQnc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795800496,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Why Trump's team describes Putin in such positive terms - DW.com",
-  "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3A3b3c5alltM0pna1ktWF95VFVhdjYwTzVxQjhJSFpxSWJOa1FLNlhWaTRoWDVwWm9qanUzVndZa0pWMXhwSktJUU9lTkJVVG85dElWajNFdjBKNUdBYXdNVnBsbExEY0JONHBWemlpTTIxank0WTJFTWtJUWxVUF8zNkRfWl9yRXlETU9WQjluNDJ3dnc?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795800407,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Cardiff Oncology receives Nasdaq notice for minimum bid price deficiency",
-  "link": "https://www.investing.com/news/sec-filings/cardiff-oncology-receives-nasdaq-notice-for-minimum-bid-price-deficiency-93CH-5053781",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795800360,
-  "forras": "Trump (magyarul)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump: fontos, hogy Moszkva és Kijev kerüljön minden olyan lépést, amely bármi módon kiterjeszti a háborút - Karpat.in.ua",
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSOU1DdHh5MlRRMVVwNUtDTUhObmNPYjlVTzVJa0tCTDZPZjIxT2FzSDZSUE1TVHpua1JqblFHd0JVR3hjTXdfaUtaQ3NNYktjU2NPQ2hiOURCZw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795800278,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Volatile stock market confronts jobs data, rate view as next tests",
-  "link": "https://www.investing.com/news/economy-news/sliding-stock-market-confronts-jobs-data-rate-view-as-next-tests-5053316",
   "surgos": false,
   "eredeti": ""
  }
