@@ -1,5 +1,134 @@
 [
  {
+  "ido": 1795760880,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Trump",
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Donald Trump elkezdett aggódni a tőzsde miatt",
+  "link": "https://www.portfolio.hu/uzlet/20261127/donald-trump-elkezdett-aggodni-a-tozsde-miatt-879556",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795760578,
+  "forras": "Bloomberg",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "Ziemba: Oil Supply Risks Outweigh OPEC+ Moves",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-27/ziemba-oil-supply-risks-outweigh-opec-moves-video",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795760460,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Váratlan bejelentést tett Trump: örömmel látná Vlagyimir Putyint a közelgő amerikai G20-csúcson",
+  "link": "https://www.portfolio.hu/global/20261127/varatlan-bejelentest-tett-trump-orommel-latna-vlagyimir-putyint-a-kozelgo-amerikai-g20-csucson-879554",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795760429,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump rewrites NATO statement to put Ukraine on same footing as Russia - RBC-Ukraine",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3NZaXNXd0JKYVU0Z29oX1pHUlZNZVAySnpVMVEtbE9tWlo2YXlvSDhSZGNIOV9CeVppY3M0WmhBemtWb1M4YmRWMWNyVW0zU09xUlBLVW5YbmxBTzVGT1N4N3lRZ054UHBMLVNWWDZEZFlGbG5lNzlJUnNHNHFkd0NCYXBKdm96QmI5NHpWRDE0UGZOSzBF?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795760389,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Is Microsoft Stock Underperforming the S&P 500? - Barchart.com",
+  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXdiZnRtdHEyOEZoUTFUNnJEaHlHR1NzWEstRy13QkFmTUl5MFdhdDZ3NnhnYkx1SnZLa0VIM21VT3FWc2FQejdjLUpHbnVOYjJKTlR3OXktVC1uRHR3LVMyN3MwUEw2M3MxMFdMS2M2MEdrN0JoMmVQZjk4TWdOMEtCV2lJRy1XQi01N1dSdjVwWjY1?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795760340,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "NATO Secretary General Visits President Donald Trump in Mar-A-Lago - The Diplomatic Insight",
+  "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0dE8wREtzNC16a1FjQ3VlTDYtYkFHUTBERGtBNThCZlpfQ2JjdDBVZ2lyS3JEMTU3UUtZWjBvNzRNZ2gyaTkzVE1jYWpweDNjUmZWSUFZSXZCamlHenhGUEg0V0dMUEYtQlBmWHBaT19NWXltNmYzZUpQZEg1dVE?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795760161,
+  "forras": "Trump (magyarul)",
+  "temak": [
+   "Trump"
+  ],
+  "cim": "Ebből még hatalmas balhé lesz: Trump meghívta Putyint a világ leghatalmasabb országait tömörítő csúcstalálkozóra – „Szívesen látnám őt” - Világgazdaság",
+  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcms4TE4yWkw1WnM0eWVTTmV3SnZEMmFxc0l4YnAxWlcyTUd1VFd4eE9pdWtjS1JSYTRzRmdmelV0ZHE5SHB3eXFuSnEtODMwVWRraF9vd3F1NmtmSUUxU0dQSkkxa2ZXZ25zSUtaZzZrLWJ2UVVpT2xEYkJPLVJNcjNR?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795759965,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Does Studio Purchase Change The Bull Case For Netflix Stock (NFLX)? - Simply Wall St",
+  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSW5QS1czaVA2WnMxS0Y1M1ZXOFJhMFpWTkotWXdnLURoX1hWWjdMNEZ0UTBja0dQUFc2WXkwZGZndFY3YXMyUDJ4SnRhdGhUakdab1VTZmpfLVgycUNMNmlZYWhjbVpwNkFTcFNoR1FjNkZzX2tjby1SZWdBdFNZcUpyTy1OZUZzeHpCWmpLVk9XR1JWaHhGV090X3N6VWlXMWJEeEZ0ZGRGSXo5WkpLTTlFYUhmcDhrRHBSSWxpSdIBxAFBVV95cUxQcUZqYWJsVlEwY1ZIY1Y5MDNPeFpzUVJPVjh1X2w5LXZqZEtULVA3ZWlHV0JmbDZOT0xQQjRELVVqV0tLNDNrYkNONGMzTnBPZHZtTVhSMFFtTGhJa0gwcDBSSnJxRU9ERVFLQzZhNFByMnVIVURxWGVoM2FINVFWNmVkUlBGblVTMjFUN2lidVc4dDVnSUNrRTJiRWh6UlBkdHRTUDkwdFJzMzR5YXhOOGZCbTdydW13UFYyV1VDR1FZdHh6?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795759854,
+  "forras": "Bloomberg",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Will the Nvidia Saga Stunt Chinese AI?",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-27/bloomberg-tech-asia-11-27-2026-video",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795759714,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Bullish Sign for Micron as MU Stock Reclaims $615 Despite NAND Supply Concerns - FXLeaders",
+  "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ193MjNrUXdOV0lrbjVqN3ZyVzBjdFktWllxYk84MzVSZEg2V3kyalVMS2F0aEJnSllmUU9YdnBKOEhuemhNbkVaaXhlSkwtVlA0bEotMXNMVElxdkZWV2VuZ2JEdGJyQndCSktsc0Z6NXNVc0NMUlVTWmd1SzRBMEZVM09LMlVMT2N0b3lqbmtCU1NHM2twZkJQMmdvbTRRVXU5VlJOSE1FQnFoUEE1NDRPZ3U0T3VaWnIyWA?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795759680,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde",
+   "Jegybank/kamat",
+   "Világgazdaság"
+  ],
+  "cim": "Mi jöhet ma a piacokon?",
+  "link": "https://www.portfolio.hu/uzlet/20261127/mi-johet-ma-a-piacokon-879544",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795759597,
   "forras": "Blue chip 2 (Google News)",
   "temak": [
@@ -19,6 +148,18 @@
   ],
   "cim": "Trump meets NATO chief and urges Russia to reduce military actions in Europe - Ticker News",
   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZktzamVIX21nOEJPOEdBR0xhTUFicUJaUXgzMGhkbnI4QXR1NEhnN2RMbkVRZFJlUVlJaDM3aHJKcnpvWFQtdnBUcGNINVVNOUpkbE9kU3M1b3Q5bGRwOXY2X2daQzE0RTVMZFNoajZ5S0lpNEo1Ql9CdHo1dEU4WTN5UEpjWjNuV21aR3FZa05DdS1ZQU5vRUpvTkF4eEx4?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795759279,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Ukraine, Trump: I’d like Putin to attend the G20 - Il Sole 24 ORE",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtS2tsVmRteHJiTS1UNTg5ckc3T0JHSExMQzFzSHBTYTZhTGw2THBNenZzdW9HT0d2M3FYUklxVDFvMldiNTRWQnRMeU51ekg3eHA2dV9KREcyOFNLdVlfOXBXQnFKMnppekZSNnlCTXZ5T0pSTFl6Z0laUQ?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -190,6 +331,17 @@
   ],
   "cim": "Mistranslated clip falsely shared as Trump criticising Taiwan president ahead of local polls - Yahoo",
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXc4SnJxYlROTW5nTzk0N2xxZFF1bHVEU0pqaHpLWXBwNzBTdkJaS2k1NDM0S1pJeWdKd1dIaEtWeEoyM00yYXdNdFNVaGpoLW53OGRNQU1hdVVjUDZUNEZZQmU1OUFfMWlrSlN4MVJZdHlCU2tDTkZSNUFIMTByX0pFS3NiRGdDVS1JNmtPbw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795756339,
+  "forras": "Investing.com",
+  "temak": [
+   "Világgazdaság"
+  ],
+  "cim": "Exclusive-US pushed Venezuela, Iraq to consider leaving OPEC, sources say",
+  "link": "https://www.investing.com/news/commodities-news/exclusiveus-pushed-venezuela-iraq-to-consider-leaving-opec-sources-say-5052970",
   "surgos": false,
   "eredeti": ""
  },
@@ -770,154 +922,6 @@
   "cim": "Trump urges Putin to \"quickly\" reach peace deal - United News of Bangladesh",
   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXM1UWY0M2dIUGJwTjJDcFUyZ2IzV0ZlLWZkZU8ydl95UTFuTUZmR0g3cG1WRExpX3BPQXliekV3eDBDM1M2bXFtakxYdy1PbVZrcXpuTFlKZ25mcTlaTDF4NTlUa0d3RnZ6bmxaRVJtREFJNFNHbERYVUxNenhRUU5FSXBPa3NLYi01VDBmdw?oc=5",
   "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795750942,
-  "forras": "Trump – beszéd (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump says Putin 'would like to make a deal' to end Ukraine war; urges him to end 'military aggression' | Key takeaways - Livemint",
-  "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQkN4MHE1QVc1ZGFLSlhiQmRzNmxWWi1oTXd1ekZnMVdzRndseUVHdjY3R2VsS090Q0k3Z19pajJFR2VZZXZxalMxSlVkb3pDZFVzNGVzV2d0WjhTeEdUQzJnTDRoYW1Uck1kN3N6LUh6d3pDd3lWZGdPVXdUZFdFdlFfMFF6NDN0YVJCZzUzVHdTWTRqZzMzdEF3M3k5YXVtQVh2dlk2LWZYcUEtc2xNQnNwalhZYVlram9TZjh5Q19kZWwtcVk1MHdQWktkamh1T2hTY0JETW1udVdDc210T0RFR29IcXpLNTBxWGtZdVdhNlZqS1lsTGVkZWN6WE3SAYQCQVVfeXFMTXEwRGx1b1BOSVVjUnUteEx2S1d0ZW1BbVc1bzhidFZGSVJfd0lsMENNMFBDMjFYOC1mOVZLbWdnd01tU2w0cDRMeURNcGtBLUlBWGp2OHdkb09HbkF6djQyU1BJazF5dnAxTFR3NlVVRWI3cmZ2T2lGaTNicGxBNFVNZU1JR3djTHB5YjNNVGZ4RXBDX1VKUl83WTZQYjlXMnBfZE53T2x3TzRyY2VGNl9Ja2h6MTNhdURkazNlcEE3dXlQZ0JNNEp6QXJZUXlFQ2pCcVhmYkNqZFM3MFUzNzU1YS1yNE1STGNqcG5FVDI0Q0N0NnYwc1oxUXJ2cVR3TG9VNWQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795750864,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Blue chip"
-  ],
-  "cim": "How Apple Avoided the Stock Market Crash With 31% Gains - Mitrade",
-  "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNjJZeG01cGxTWVNLNDlqY0QtclQ4QmdQMGlqdFRFRmt1V2VOVHQtSHdkeG9yaE9RaFFVOXdiNmZPb0c0SGN0TE8zekYzZWQ0R2EtLXdGR2lkQi1ZQnZuLXNoZjRDcW1NYU9HV19vVzZRMmFZMnpNYkpqVm1vMWQ4T25Jazcyc1pUeGpaLUFueEo2QVE?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795750428,
-  "forras": "Bloomberg",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "EM Asia Stocks Set for Weekly Gain as Markets Regain Footing",
-  "link": "https://www.bloomberg.com/news/articles/2026-11-27/em-asia-stocks-set-for-weekly-gain-as-markets-regain-footing",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795750380,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Amazon Lost 40 Satellites on a Boeing-Lockheed Rocket in November. SpaceX Is the Only Company That Can Fix Amazon’s Problem. Is the Stock a Buy Near $130? - The Motley Fool",
-  "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPYjFBa2NyN1ZXTVllTjZWX2V3N2hKc2kwYzIweF9aZ3ZLTzlIQjZ6Zk0yb2JXZ1dUX1VhU1dBZjQ3NFRJR2ViYXhUU0N3MGNoMUZyaGtUUzRGVVcxcndOT1E5bGJ2clp0NzRkdW9QNVMxTk1IU19NX1Q2b3FiOFAtdmluQlFxRlhNaXBIOUNaVVM1QjV4c3BFR2dya2JEMExiMUt6dFo3YmNjSU1LdW1zLThaTXoxdThoWWdtdVBKemM0VlFJcXhFNF82V3VXZnVfNzFPOEVfWlZaVFQ0aHJfTmFvVk9YaGpPU3UzRkJsbXE1Z1BXQ2p3N3FrNi05aDhIc3JaQnBFNWVKMW1IeDBUcmdMcHlLMC1yUHU3V2RxMlVSUQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795750200,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’ - CNBC",
-  "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXdZWk9aY1VrSmlEbExnWV93RnFxTDFwV3RLdjhtYW1SaXU0aXJCbGJBRUVOS0FramRyaVdva0VwUWRLQlBZdHcwYktUWVlwaEp4MTNEeUN3Y2Q1bi1RUG5TRTZoWlY0S2lFUVpqSVF3NzJQZ2hiUGFjU19LTW93cERfYzNNY3VKalHSAY8BQVVfeXFMTXlQSEhkZ20xOFJXTzlvczJPelo5S294dENlYTBpMzAxVHVxeHhFNUk3eHZVYVQzY0t6cWZ5T1hEYUdjbkc1SmROUVVTVWc4Mjdza3FYNXplRTE0Qk5NY1NyTTNwdEN6Z2JyWEJhOVRVd3RVOVRoTVlubGNUYTBsWS1zTkZ3czV6WThYWkk4RVU?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795749795,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Aclarion earnings beat by $0.11, revenue fell short of estimates",
-  "link": "https://www.investing.com/news/earnings/aclarion-earnings-beat-by-011-revenue-fell-short-of-estimates-5052851",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795749766,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump"
-  ],
-  "cim": "Jensen Huang excited about his 'second term' at Nvidia, says Trump - Business Standard",
-  "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVHNTUjJvOTJTcGVIWEg0amxHSGxMVVczU3R3UFJYbG4zTktodk4wSHpDaHE4QU90WU0tOFBxNWNndnp1ajNYLWF6RTlPWDNwWC1zWktrU2VwaDR3czJDZ2hUdVFfUzNwektxZEFKYXIyZDcyYWozX053aDdydzJ5M3kyZ0IyMVFDVnVBTG55emFQbHo3Qk10bS1oZERRUjVEVUV5bjlxeU05MEhveXl4NEpLeEtmenRYakEzQTBCMXhOb3dIcXdB0gHMAUFVX3lxTE5neTlMSU4wNmlNS0JNVm1PVlpVUEE0S0p0SV9GRElFUDJzWktRaXhBR0hZcC1JTnJ0czZLNllnbVYyRFk5QXp1eWpKWVlNWFJLTW9zUUVMMjNNdHlOUlBlY1lMbWZVcF9OUE1WWDY0alcyeng0RlRYdDF2WDRtSEp5cHVHNUREY0lzQW5laE5mNDhNTElFcDNLWDdtMFlYREx6R09ORkxfWHhZTGJxTXR4V0dJS25Vbm9ZbUNVVUFQSEJCcHFRN2tCQ3BnUw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795749628,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "U.S. stock futures rise sharply; Nasdaq up 1.7% in holiday-thinned trade - Investing.com",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUnU4cWlNcVQ3V3NzWWpsdnctZWVwbmJRX3Jrd0k1WDJEa1p0eUxhckdQQnpoZWZ6R3E2RjBoU25BdFpDYXhpVDFjMnlUdWpLRDJraGwzQW5TQ19hWHNKMWpWb01TMWNJb1pZMXV5TVBic2FXQndRLUFPbHZTejRyVDJGeVNYYkVFQW1xVEVvczBUZ2lDS3V5aldxYW12dDR1TjJELXBhMFBxVERTdTJhT3lZLWxpSmNjSGNtM1Nnd21yUQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795749548,
-  "forras": "Trump – beszéd (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump Says Putin Wants Ukraine War Deal, Calls For End To Bloodshed - News Mobile",
-  "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeUFZSlpaYmhneGFrVk1zRnpIRm5jaWRBbTJFVi1aTWlRcllVWTZEM1JwV3lvb3g4XzFTYmMzeU9tVVRGTG5FenZGWWJBUllTeGFTazhIOHdFaThfTWpycFJlXzd3OGJqdUJ5eXd2b3Z3UF9RcXV2MUt4VUI3ZjUtbkJEcVVGWU1seGxEcXJqMHEtOXA1OFdtRW9TcWVBRERhMnA5WGx3?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795749420,
-  "forras": "Reuters",
-  "temak": [
-   "Világgazdaság"
-  ],
-  "cim": "Australia sanctions two alleged Iranian agents over antisemitic attacks - Reuters",
-  "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHBtblZnbWZBQUo5LVNGb2sxQkpHOFdJTGI0YlozM0YxUGh0bnZkLWZOeWJrMFBoX0h3aGNkTEtCVVA3Zjg0WEpuYi1MdjBEa2dKVDg3Rk5yWFJCNEs1NDFnYTRrVmpJeVQ1Y1lMR0daaDItcWczSEhzT3VfVTRxVno4Zm9HVGdTN2RDT2NtYmk5NlZqTGJnekNMSTI5dERMY1dZaFpFUy1IM01aVUFjbzI3MDEteXFNS2FvaEhFLTJhZnBvRTVRbzln?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795749329,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump unilaterally altered the joint statement with Rutte on the war, adding a demand directed at Ukraine – Politico - Українські Національні Новини (УНН)",
-  "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUDBEUlc3LXpKMjd3OVJyWDNON1pWRGh4bEJ6THBEcUtPTjl0N0pCa1hYcHU5U29sM1gwSEk2RS1RWkpUMk1RVFQ2YVF4dmxHNHdNOG1lV1dOY0Y0YXRsRERWZlQzbXJjcnhaWXpQQXFFSnQtbEExeHpwcXZ1M3NhT3ZaanVpQzF2TWFuT2dGaEJsTnZJZTIxYlh1Z0o4RFdiRU9jRGZnWGNTT05NTzFNOVlGUEpkRElZTU9IeU96YndhbXpIQTNYc3dhOHNZWTczbEHSAdABQVVfeXFMUGtGa1dBTHNzVTJnY09XR0lWUXp5MzhHRnAwWTE3dE9vX2xXaUYxc2hOQkZXNUlKSWp0UzFvSDR2VmQxX0xHdFdFbC1hNUtGWF9uLXR6MGFiSGg1R0VVYkFackxuTWt5U0lfY2RHVUc1S3FRUDcwaWZrY25MSmNtNjVDNDlHZ1JPRlBJNENoc3pkR1VDNnFSLWg4djlaTl9JM2dQM3FNYzFEa3JmcUJiM0tZTE1zMkVpNWtiZ1FsNk81TzN2X2oza3ZaMHhSYWZKMg?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795749324,
-  "forras": "Investing.com",
-  "temak": [
-   "Világgazdaság"
-  ],
-  "cim": "Asia FX weakens as high oil prices weigh; dollar edges lower in holiday trade",
-  "link": "https://www.investing.com/news/forex-news/asia-fx-weakens-as-high-oil-prices-weigh-dollar-edges-lower-in-holiday-trade-5052845",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795749300,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Broadcom (AVGO) Could Be the Biggest Winner From the Shift to Custom AI Chips - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXBTM2h1ZXRvSTV6STM3V2FFS3JudzBTRHVmcUgzbkh1VDNMWnZraFZscEtzR0hsS3NwOXlHdVFpQTFSTldJU2RVWllweXFVNEpLX3VPeUNiTWxYUzBlZUI5TkVIb2haZ3BaUDBEbUF5WXJWOVdndGtQN3BkZnFLODNoWUlBVFlTZlcwazAxVlBudmoyNlJCUDVwUTQ0QTg?oc=5",
-  "surgos": false,
   "eredeti": ""
  }
 ]
