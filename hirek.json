@@ -1,5 +1,108 @@
 [
  {
+  "ido": 1795767120,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Közel a piaci összeomlás egy friss tanulmány szerint, évekig tarthat a hatása",
+  "link": "https://www.portfolio.hu/befektetes/20261127/kozel-a-piaci-osszeomlas-egy-friss-tanulmany-szerint-evekig-tarthat-a-hatasa-879604",
+  "surgos": true,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795767000,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "Lazítást jelentett be a bankoknak a Bank of England",
+  "link": "https://www.portfolio.hu/bank/20261127/lazitast-jelentett-be-a-bankoknak-a-bank-of-england-879612",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795766700,
+  "forras": "Wall Street Journal",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "French Inflation Slides on Drop in Fuel Prices - WSJ",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeGpEN2JPdlI4eGUzUDcwbkJ4WTZRVEFTeldXU0lkWkwzZkFpOVE1QWxrcEhRRTM3c2t3aTc0OHdkT3daTTd1UTRQZzJpcE15algtU085UTdSWk5UY2xYdUlkRm5mWHFCRWpTV0U5ckMzYmljaDBCR2h3XzdITGJnUUcwVHUtdWJPMnlhS3l6YURldw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795766621,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Intel Shares Rise 3.23% While Staying Below Key Moving Averages - www.tokenpost.com",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WSnQ2bUUxTjQxUXRRVTBUOHFURThaMEJyNnVXTzlXMnQ2bVM2VldZNGI0SUVqVnFyeHhhUjZFd2hibWhORDdEVk9oWUpRRzNfLVFWaHRWMjg4Zw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795766400,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Forex"
+  ],
+  "cim": "Mielőtt perre mennénk: milliókat érhet egy félórás látogatás a közjegyzőnél",
+  "link": "https://www.portfolio.hu/gazdasag/20261127/mielott-perre-mennenk-milliokat-erhet-egy-feloras-latogatas-a-kozjegyzonel-879384",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795766400,
+  "forras": "Portfolio.hu",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Nagy dobásra készül az Anthropic, felfalja a szoftveripart",
+  "link": "https://www.portfolio.hu/befektetes/20261127/nagy-dobasra-keszul-az-anthropic-felfalja-a-szoftveripart-879424",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795766180,
+  "forras": "Bloomberg",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "US Stocks Set to Bounce as Risk Appetite Returns After Holiday",
+  "link": "https://www.bloomberg.com/news/articles/2026-11-27/us-stocks-set-to-bounce-as-risk-appetite-returns-after-holiday",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795765977,
+  "forras": "Bloomberg Politika",
+  "temak": [
+   "Tőzsde",
+   "Jegybank/kamat",
+   "Világgazdaság"
+  ],
+  "cim": "Tech Stocks Rebound After Thanksgiving Holiday",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-27/daybreak-europe-11-27-2026-video",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795765955,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Palantir-Linked Perpetual Contract Rebounds After Earnings Beat - www.tokenpost.com",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TZEE1MXByb2lIVTd0eklMUXlFZTlzV1pLVUZpQWhxNEF2d3dLUWoydDdlMlZidTdGQnJKN0lBUDEyeUZ2bWtaMU5EUHN1RnVPbl80ZFQ1LTU2QQ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795765860,
   "forras": "Portfolio.hu",
   "temak": [
@@ -121,6 +224,18 @@
   ],
   "cim": "Hirtelen felpattant a réz ára",
   "link": "https://www.portfolio.hu/global/20261127/hirtelen-felpattant-a-rez-ara-879582",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795764279,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Video | Russia-Ukraine War | Zelenskyy Warns Of Fresh Russian Mass Strike As Trump Pushes Putin For Deal - NDTV",
+  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcVBYNUtlSXMySkVyOEVmZloxNV9OUm02a2g3ZEtnWGdUNkhzLUNVRFJ6YTlNMElTano5TGRmYWJlMjQ4SktOS20yRlpHSi1iczlqQkNEZDBoVFA3M3lTMGJSQkl0Nm9iMXB0bnI4VTlUVlphUTROaWIxdXM1Z00wU0lqSkFRanE5cEpCTHVjbEU3aVYzcWd2bmtyZlRJcEw0YTV2bE1oRXRNcnotTG9rUV9tZHhtWVlUZ0JkYWNoSjdtSGRNQV84OA?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -367,6 +482,17 @@
   "eredeti": ""
  },
  {
+  "ido": 1795762461,
+  "forras": "Investing.com",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "French preliminary inflation at 3.2% in November",
+  "link": "https://www.investing.com/news/economy-news/french-preliminary-inflation-at-32-in-november-5053065",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795762357,
   "forras": "S&P 500 / Nasdaq (Google News)",
   "temak": [
@@ -385,6 +511,17 @@
   ],
   "cim": "MU Stock $601: Micron’s Half Session, 3 Weeks to Results - FinanceFeeds",
   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWkRKMlVQRVNWNDkwcGFzaUhJR3h1cnpqYlhORmEzcEtqYlI3dGdjTm1NaHhUUHVhV01xRk85amxoOURIZUZxN3Q3Xy1QdWVadUFiT3NILTJna2hYTjNoRGEzYUFaRlNvX3lfWlJDSFp5NkV4cDlkX0MtUFRqM0RMZ1ZlclFXOEUzYVNlQUVsY2hydkRfRGk5WGd3LVpqTjhlbURUeHFEZjRPUDdLX2hwU2tR?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795762293,
+  "forras": "Investing.com",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Goldman Sachs upgrades Fresenius to Buy, sees 27% upside on biosimilars",
+  "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-upgrades-fresenius-to-buy-sees-27-upside-on-biosimilars-5053064",
   "surgos": false,
   "eredeti": ""
  },
@@ -409,6 +546,17 @@
   ],
   "cim": "Putin wants to end war and may attend G20 summit in US, - Trump - Цензор.НЕТ",
   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3A4OVllN0VraWZycGlrVkxSUkNsai1PQ3RQbU5QWFlPVUx2R1U5Z2VNUlJZZ25fbkpNSWg4eGFWbDR0QnpxVm5zQ3RRbUFZM2xSNHlUUDdOVlAzNmlVUW5YeG43NjRMeXZEa21mOW1JcXR4czgweWptV1NWNkZ2eVltWjJzX01tTVlkQ2lIQXd6djEzaE40TzlnNA?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795762171,
+  "forras": "Investing.com",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Earnings call transcript: Dellia Q3 2026 profit falls as Kirirom deal closes",
+  "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-dellia-q3-2026-profit-falls-as-kirirom-deal-closes-93CH-5053062",
   "surgos": false,
   "eredeti": ""
  },
@@ -446,6 +594,18 @@
   ],
   "cim": "Nifty At 29,000 By 2027? JPMorgan's Sanjay Mookim Explains What Will Drive India's Market - NDTV Profit",
   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYVk3MnFyYUtWdVlmMmkyVFdfdE5BRGtBT213THp4UUNXczdTd3ZaMWlvRVdyRTVmamJJNEJxR3h2cXpYTUdPVHdRWUJIMnkwZ2xmSXJkUmJvalpFdEdtaHlWWFJLMGNIZk1iSnZOYks4NTBWTFJaVk5oM3l3bTRsbW51TXFuOGRfMUkxck85ZHJINGZGWFV4SEF0UTk5dTFCdjl1WXNQZTdHYnNlTlk3eUhuSWk1SWQyQVJYWmtXeGFncWhfTUVsMkpR0gHSAUFVX3lxTE55RDR0dTZwTnFRcUF5R1JaTTI4WnR0bjBqSkRmcDdLa0gzbDhBZ1hEN2RlWEVNLVdncVlEenFGZFpYQ3JNVlJ3MzdGMDdzMUlSSFd3czhZU0I4VjJnWkVWNjRzSnQ0eE1NV1ltd2JBTWJWSWladklpQzJQVGE2X2I1NTRzSGtpYVFnT0N3RUtWSXB1U3ZpcnJOcDJNdTlWeGhoS3lQdlRsTUkwTFNpSE1ZOWJRbEhscE5YWTYtT1BKazkwOG51ekhXdUhlVEt1dVpHZw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795761899,
+  "forras": "Investing.com",
+  "temak": [
+   "Trump",
+   "Világgazdaság"
+  ],
+  "cim": "Trump urged Venezuela, Iraq to leave OPEC and blocked dues, Reuters reports",
+  "link": "https://www.investing.com/news/stock-market-news/trump-urged-venezuela-iraq-to-leave-opec-and-blocked-dues-reuters-reports-93CH-5053056",
   "surgos": false,
   "eredeti": ""
  },
@@ -753,170 +913,6 @@
   ],
   "cim": "Mi jöhet ma a piacokon?",
   "link": "https://www.portfolio.hu/uzlet/20261127/mi-johet-ma-a-piacokon-879544",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795759597,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Micron Technology Shares See Sharp Correction as Market Weighs Storage Chip Supply-Demand Rhythm - NAI500",
-  "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcl8zWEdXeDF1ekJ5Z1k2LXVSVXVnZTdzWUMzclFoU2RTbXJzcWJCWHp2X19WemJ3TDRMb25Jcm4yMGZiMWFxcDk3TmloX2oxQXAwbDRBQ0U0OHB2VHl1RFhUQy1IQURXSzBNeDMtQlktOXdKZ0plc1EtYk9KQ0RHZzltZkdKVWltZlVIYmI0c0tJUWpuTkt4Nl9kUFY3N1V2NnluX0ZDVlc1OHMzWmVBV2JQYTlqa3BweUh5WVo5Qmg4LXVUUU1sTA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795759530,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump meets NATO chief and urges Russia to reduce military actions in Europe - Ticker News",
-  "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZktzamVIX21nOEJPOEdBR0xhTUFicUJaUXgzMGhkbnI4QXR1NEhnN2RMbkVRZFJlUVlJaDM3aHJKcnpvWFQtdnBUcGNINVVNOUpkbE9kU3M1b3Q5bGRwOXY2X2daQzE0RTVMZFNoajZ5S0lpNEo1Ql9CdHo1dEU4WTN5UEpjWjNuV21aR3FZa05DdS1ZQU5vRUpvTkF4eEx4?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795759418,
-  "forras": "Trump – döntések (Google News)",
-  "temak": [
-   "Trump",
-   "Tőzsde",
-   "Világgazdaság"
-  ],
-  "cim": "Trump tariffs come at bad time for markets reeling from tech selloff - Qatar Tribune",
-  "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRWZETDF0dFVDZGt5OEV3UVpsZXZ4VDhlUG0xZEFoaVVYMmVEUFJrRHdmQUl6ZnJqNXVSR2xVSVFGZnpEX3dMQkVEcHdnTlhrOHpZNEQ5SmFka0M0TF9XVjMzZ3dMVUM1Y2dBRHZDR0haQnM3WXdLaThsRlhPemVWeEpmV2IxRk4tLWJMRGkwSF9RWDBQRHU1YVYwdFVjY2FzUGJTTEQ3NGxKQlNuT1BTM01ncGM0a1FCblhHcUxCRQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795759279,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Ukraine, Trump: I’d like Putin to attend the G20 - Il Sole 24 ORE",
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtS2tsVmRteHJiTS1UNTg5ckc3T0JHSExMQzFzSHBTYTZhTGw2THBNenZzdW9HT0d2M3FYUklxVDFvMldiNTRWQnRMeU51ekg3eHA2dV9KREcyOFNLdVlfOXBXQnFKMnppekZSNnlCTXZ5T0pSTFl6Z0laUQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795759257,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "JPMorgan Tweaked A String Of Swiss Stock Calls - Finimize",
-  "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmQ4Q3VHcmtCWnQwdHZiTzBFUkFELTFpN1JWQm1xVkZia1NKLTVMcXFIY2tia2ttdVV0bHJIa243clNlUUI2TldqLTZQVnJOWGpHc3J1RDk2ZF9kXzVDeFpkWFNjOGVIZzRlLWlTX291dGQ4bVhyQkdjUV8xSkxwdQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795759200,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Trump",
-   "Jegybank/kamat"
-  ],
-  "cim": "Jensen Huang kimentése nem az utolsó mentőakció lesz az AI-boomban",
-  "link": "https://www.portfolio.hu/befektetes/20261127/jensen-huang-kimentese-nem-az-utolso-mentoakcio-lesz-az-ai-boomban-879296",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795759155,
-  "forras": "Wall Street Journal",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Print Edition | Wall Street Journal - WSJ",
-  "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tUFYwekFnbEZlSGxtd0dmN0poX0VJdXdXN1VzTktpTlFybGxZbDVoM0xhUDh3N0VOMVNmaUhDOXhyc2pwM3p0clNBenVSTU5jXzhnTTdqUWs5WGtvV0FZ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795759105,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Mossad chief backs striking Iran without US if necessary, IDF chief favors waiting for Trump - Ynetnews",
-  "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wVV9aOTVHUjNRTExKbDUyamlZQmxnZ0NPcW1zeU5jZ1R2dlQ2eWNQMmNJOFR4S2luVDl1MHVJNHhmZXh2ZHg1UGcwZDlQZG00TURPeWtIOA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795758964,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Tőzsde",
-   "Blue chip"
-  ],
-  "cim": "Apple Shares on Course for Fifth Consecutive Monthly Gain as Low Capital Spending Reinforces Defensive Strength and Magnificent Seven Leadership Amid a Weakening AI Trade - www.tmgm.com",
-  "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0NubVUxNXlyaVg5WXozZVJlNXhRX010VWhlbXlNczdMS2otSzA4TGFwMmlVM3pqVnBwQWktaDhBSlZKelI2QkpscDhkV1U1bjVRZnJReUxTZWV0YUFUWmZEVF80ZFYtdHcyTi0wZjBPR2UtbEJjUFp3clZGRlE2ajZZblNIeTA?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795758900,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trükkös lépés az amerikai elnöktől: Trump utólag írta át a NATO-val közös nyilatkozatot",
-  "link": "https://www.portfolio.hu/global/20261127/trukkos-lepes-az-amerikai-elnoktol-trump-utolag-irta-at-a-nato-val-kozos-nyilatkozatot-879536",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795758878,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Reminder: Wall Street is back today but will dip buyers have the last laugh? - investingLive",
-  "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVWVISzdLOVhhUjgxMnd0dXBCanNSUEpiMTlNaUpDdkM2dmFXck92LVNPMmhDcDVSUWZmX3R6U3J2cTBYUXNHQ3lsNGNSOFRCejgxdUxsb2M3NzlpS1VCenFjWjFpRUNhT3RwOTF3Ry1KLTVXb0dvbjFvQUZ6TmJ4N2hxRmxlSklwN1ZVS2NPMkJ4ME1GZWlEMEZCeDdJVWVORmQ5TTJmaUwzcFZz?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795758570,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Trump claims Iran missiles can reach Europe, warns of ‘nuclear holocaust’ - Gulf News",
-  "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQkd3TG4xTkdWMmMydGRCSTAwLWpJUmJ0NmVYUlFlRXBoQTVPUVFtWnFwQ1E5d2s5aFFKMzlHUExzYXJLaDBrU2R0enlfb3JRc1FLNFM2Q2w0Q1hPVTNmQmRPU21QLUUzcE5VSHh3ZGVFbGNLeVg4M3lBUGczLTdxdEE3Uld0U1VOdUZQNFpvSGp6M3gzXzloUlFzVUhuaXBrWjFINDJCYU5YbzNPZjRib3dQTWcwTkN0ZVHSAcwBQVVfeXFMTjBKVHRJVW9pd3VQcUR5b09ITS1fU0otWW1IMy1wSGZlZDh3ZjZTSVNHaEthc1U3Vy0zTlM1SWFLMFl2YlU3Q29CM2NpajEyV0JFSkZCVkdsLVBxLXNyYmJodUM2OVRhNTN0ZVlTYXIyRGZUY0NwcDcyYnI3U3Qtb1NTTlprUFRmTGlQZW9yaF9hYUtZWEhDczRuRUZ3cHRhbGd0aTE4OFNoSlV1M0txUkpBSU5ZNjVrTkRRT3V3ekpnZzVHSWtjV2lERndy?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795758517,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "China stocks, yuan rally after Beijing vows stronger market support",
-  "link": "https://www.investing.com/news/stock-market-news/china-stocks-yuan-rally-after-beijing-vows-stronger-market-support-5053026",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795758360,
-  "forras": "Portfolio.hu",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Olyat mondott Trump, hogy csak nézünk: \"Nem is segít annyira Iránnak Oroszország\"",
-  "link": "https://www.portfolio.hu/global/20261127/olyat-mondott-trump-hogy-csak-nezunk-nem-is-segit-annyira-irannak-oroszorszag-879538",
   "surgos": false,
   "eredeti": ""
  }
