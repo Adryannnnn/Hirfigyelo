@@ -1,5 +1,39 @@
 [
  {
+  "ido": 1795871098,
+  "forras": "Bloomberg",
+  "temak": [
+   "Jegybank/kamat"
+  ],
+  "cim": "Higher Prices Test Holiday Shoppers",
+  "link": "https://www.bloomberg.com/news/videos/2026-11-28/higher-prices-test-holiday-shoppers-video",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795870938,
+  "forras": "CoinDesk",
+  "temak": [
+   "Kripto"
+  ],
+  "cim": "Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value",
+  "link": "https://www.coindesk.com/markets/2026/11/28/bitcoin-not-delivering-the-bear-market-has-digital-asset-veteran-questioning-btc-s-value",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795870800,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Tőzsde",
+   "Blue chip"
+  ],
+  "cim": "Apple, Amgen Lead 5 Dow Jones Stocks Near Buy Points - Investor's Business Daily",
+  "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeWFZTUlUckVQb3hXd0RLdG9xT1d0Wmtqdlh3akJOVW5sc0wyUXdTRlloR0JwS2VJdnItWWxadW5vYVFDUG5vN0JOb1pFMFBIaElfMVA2SEpKVWFKWGNaX3libnpmQXRfMl9xWHVoLU5VelBSSGpwTnVZNGMtRU8xcF9xUFhGUkJZR19PZkNpN0ZuemJNNm44?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795870614,
   "forras": "Blue chip 2 (Google News)",
   "temak": [
@@ -62,6 +96,17 @@
   ],
   "cim": "30,123 Broadcom Inc. $AVGO Shares Purchased by Lighthouse Investment Partners LLC - MarketBeat",
   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWUl6aXh6LVZKbklzRENYY1FXVXhwR2FOVk0tZlZWck51N0xxQ0NQTTZ4WGx3VGJ3VDItVV9lR3QzdjhXTVR4d2tCQ1RydjBqcjZVZ1pJVmg5VHdpRjRNdVlkc3pDSjB0YVFSa2wxUkVndWdEbnZWQWEwUFZYTDNsQ2pDdm1rTlFZSzBZTTV4MXFDdllSV0N1X0hvLUJqU3JTMzNlUEE1UnNCT0N0WU1uQ3NCWm95RHM1dEMxajhjQmRsT0VXTGR1WUZQeUtheTVyckIxaEx3?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795868627,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "19,257 Broadcom Inc. $AVGO Shares Bought by WCG Wealth Advisors LLC - MarketBeat",
+  "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUFNrdk9QTkpFdTBIblM4UHRkbUctUXg1bEctYmhfMU1KbjZIMnhobGMyeE1fOEQyZ0FoY2tUazZ4NDNzNjl1RS03TXJNdHlmd0VlaHh4YTQ5YV9vWkRRWW5WYnJOeUlqLUZ6OGZmSU1FeWRDWE9IemdpdmlyR3Y5QmFlU3JPR1otLV95MXYydmtURlgtUWFvM0NVNFBPU2tOTlBGQ2FkbU8wbXp5VjVPdlgtd2Z5OVlScVNrc0xFTWVtdWs?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -292,6 +337,18 @@
   "eredeti": ""
  },
  {
+  "ido": 1795866595,
+  "forras": "Trump – háború (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "The Cabinet prepares to approve implementation measures for the 'Trump Plan' in the Gaza Strip - جريدة القدس",
+  "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPejFacVRmNkt0SlgyNkNKVEE2UnhmU2dkM3VtNFRDVmtNYWM5SjBGbDYyR3BaTnZLaV9kNjJfSGViUm95Rk5VeVc5dHg2UXlvQVRIMEtGTWlma1lZdVRvV3hqYl82clkzYl84TnByNXl1NkJjVWVuRWxnU2lMNFE2YWxrVGVQUVdsZ280eUp5bmsxRzQ5OE5DYVN3Q1RyWEg2Wm8wakczUjgzVktYQkFLd2NR?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795866445,
   "forras": "Blue chip (Google News)",
   "temak": [
@@ -343,6 +400,18 @@
   ],
   "cim": "11,308 Meta Platforms, Inc. $META Shares Sold by State of Tennessee Department of Treasury - MarketBeat",
   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd3lLUEoxVHk4Ym5UYkQ4VDFDWmZRWGs5RGIzWGsyODBCeEo3Mld0R3BJSEtrMWpLWTQyblljN3UxZHF1eWE2SXRWc1ZZOTBKS2dKSjFWLXpGVXpVUTRIY1dLc1VtMzZmSE5BQVVFcEI3Z0pCNHh6eWFNd0syUDhZaWZTR2JzMW1DV0ptV2d0ZjRqR0FIQkU0Zi16OXRhcmdGMkNSQTI4SWhLYmt2bnlQUFFXaW85aTZpY3hLdkdtaW9Cb0lmOHNQcUtTQ1RMVS0yeF9TWUlleFYwYUoxRVhrUA?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795866414,
+  "forras": "Trump – döntések (Google News)",
+  "temak": [
+   "Trump – háború",
+   "Trump"
+  ],
+  "cim": "Trump’s Embrace of Xi and Huang Stuns China Critics - Political Wire",
+  "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUDc5ektPQWVfTUtQYWNKUUJQT0E3STVZeW05MWRLWmFvQmNxQXRDSFdqYkFNaTIzbEhETFdvcVRMU1BYZkJLNExyR2hpblU4WXBlY2tuT2hVTk9sWTJwTExrWEdVNl9NWS1wXzhMM2Rqem5ISF9zcmJMUXV0ckhzaWtHZlpKOVYzTDlKYmRnXzFLQQ?oc=5",
   "surgos": false,
   "eredeti": ""
  },
@@ -830,74 +899,6 @@
   ],
   "cim": "Nvidia Shares Face Volatility Amid Jensen Huang Controversy - cwibc.co.id",
   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfT3Mxc0dMNmNMcHBidmhsd2xOU2h6ZjVaS0l2Wk9RMXdfUUlGbzJHQ1lpNEJyWFRmNjNvNV85LVhKcHNjbFRpeEl0X0doUjJVSGVjdmVpSmJERFBlQlNkMjV5OFY?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795858371,
-  "forras": "CoinDesk",
-  "temak": [
-   "Trump",
-   "Kripto"
-  ],
-  "cim": "Trump-linked crypto token WLFI plunges 50% to record lows",
-  "link": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795858080,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "A $500,000 Stake in VOO Lost $41,700 in the S&P 500's Worst Week Since April 2025. Since 1950, Buying After a 10% Drop Has Returned 15% on Average a Year Later - 24/7 Wall St.",
-  "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMDNNaWhVcU4wNGdhazdsVXpRc0ZpMVk5Ym1VTXE3cG9YQnhSNDdSQVlzRkZxSE1GRXc5UFNnd1JqSjJXSlFidUpIYnVNSHNPU3dUWEJHSUppeDNqeHkxVE5tbmtaZUNmWDVlMzFpN0kwWDBNeW1uZmk5aUt1TGtvT1UyZE5JNDFmNzY3SENJN2ZHTmFvMU1UTllhYVowOGtwdE1fZzJxQTB0b19EaFhEQXF6Q2ltMTJ0QXhlZ2doV3hLZERVeUI3U1NENzFIazd0LUNXcUQtdUxoemh1Uk1yVTFLS01nRkxLbkJja2ZSWkVZMk9kYzZCbm53aXktX3lSSHNQM2ZZOGRrZ01aVmw3TXhPWmpxUzR1SHFWTk9YU0tabVk?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795857970,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "How Is Broadcom’s Stock Performance Compared to Other Semiconductor Stocks? - Barchart.com",
-  "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNUt3OXhqeW53eGJaWEFtQkRLQnFyYl9VbEN0Rzh0dENuX2NvclByVGVRdGdZYk9POU5VX0hzY0FkMHNab3dOUm5BNVpuMFJ2R0lMQzlSa0RZVG1GQ1FJT3pnOWt4NmhaT2pzRndxTmlqSGQyRFJkY2NSN29lRzNfdWhLN3lVNld5cnFaR20wR2JsdktzUDJkZ3VOQmxFOGJYWmpjc0p5Mk44LXVGNnV5UktLR2syMzVQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795857900,
-  "forras": "Blue chip (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "Nvidia's 40% Plunge Wipes Out approximately $2 Trillion; What's Next for Markets on Monday - BigGo Finance",
-  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sUWFUSU81QjJjbnF6T2tIRHB4VW5yck5QWGJ5QUY2ZDNEQmp5U0p1VXhuUlI3RkRPbHItSUhXTWNfMnp3cU8xV0k5Z3Z5YUc2QU12Z003bERwV2dnQWJNbWc1ejV4ZURkY29JMTkxS3EzbnRJeXc?oc=5",
-  "surgos": true,
-  "eredeti": ""
- },
- {
-  "ido": 1795857361,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Zelenskyy questions Trump’s ‘strange’ reference to Putin as a friend - NBC News",
-  "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRW5wU0Y2dGxTVjZGcGpMdjJnbTN1YlpiWndOUUxNdmUxQS01RTZ5S3JIclhmbWZUV2hTUXpPWG5TQXJlZ20weTlLXzUyZEZBMHcwX1F1aU9Yd2R3SkZKcDByTHpaOEtaRW9lRVR5Y0VBeGpFVi1HLU4tVmtUWTZ1S3M5MXBtck5oQnhfY2huUDNQLTZIcmxkemR5NXVYd0hRUTNqb2FNdDRGQQ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795857041,
-  "forras": "Blue chip 2 (Google News)",
-  "temak": [
-   "Blue chip"
-  ],
-  "cim": "3 AI Chip Equipment Stocks To Watch Beyond ASML - Yahoo Finance",
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ0ZHN0k3QzR2MHJ6SzlrMXF3TkFPbTFGXzJuSlBnLXhBeC1ONWNtWmZGNzJTRFdyVXJ1bkRmMXJ3TjZmdkswMkNDSVQ5RWlXakhtUEF3eE5NaExxQXFPcXlOakUwMHAtbld5YTFkYWVEekswV3cyN1JXWXJQZ202c2ZmVVp5a2ZfNnJUNFN2bkxyRGZ0?oc=5",
   "surgos": false,
   "eredeti": ""
  }
