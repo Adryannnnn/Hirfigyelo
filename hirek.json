@@ -1,5 +1,38 @@
 [
  {
+  "ido": 1795826460,
+  "forras": "Blue chip 2 (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "A 60-Year-Old Who Bought 1,000 Micron Shares at $192 Just Watched Jim Cramer's Investing Club Call It 'Comically Cheap.' Here's What's Left of His $1 Million Gain - 24/7 Wall St.",
+  "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOdkVzRlVONHRlRFg5aDV4S1BfV1MtZ1ZDcTRhc1ZyU0pVdHpjYkg0UWx0MzlDSnhkaW01aUxNZG1XSUc4QnF5MHc4YUw5bXpscExUUmZkMmlBVjdqTm9EajVsYlZiOVJ5QmwzS0d0OTlFQVh2VmtYeUN3RlZyQVRQNlVuTEVxeTNMWGdXSlE4MU1qclFpRW0xWHNaOVFUSWo1cEpLQ293SGhhOHU4OEVjTjNSbjRBbC02a1d6c0k5cVNicnRzWktRZGN1V05FYzloU1ZvNGhVc0tjWjhwc1QwT3JRbUxpc0xhSTNuUEdsa3RWMm5YUUMtT2RwSnlWNGNsenBzT0MxNjFFdHRyWU5UTHVrcGxjN2I4Y2NYSV9mamY5d2c?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795825862,
+  "forras": "Blue chip (Google News)",
+  "temak": [
+   "Blue chip"
+  ],
+  "cim": "Five Indian stocks with critical ties to Nvidia's AI ecosystem - Livemint",
+  "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVUktSkRidWtPWFVQVVVlcnhxYjZpa29sOGNiLVVDWjgtdEJoTmZJZF8xdFFNQ3VlMzF6YVpFel9RVENjaVIwT3RNYWpJdWtNcm5mTnRGVWdOQjlFZHlleXZGMWdWSVhUc0tFZW5keUhTRHhlaElpOWxfYVA3al92SDJGYXlqSGNUSEtVN1JibHNGTUlEVHlic01ybUFRb3EzNFNGQzZJR1BRQ1A0cFprc2huVk9LNDJwVC1BWDk3MDF6aW9QUmFMMzFnd9IB0AFBVV95cUxNQURaWGt2aWRrcTVJbTJWNlB1ZmprTjg5b0NvUlVzMEN1REJCZVZ3OGhMeWE0enBLeXQtazFCUGJrdV9TNEFuelVibmpGSVVlQVpyMW5GaDF6cXJ1XzUyZWxUYlhjczQ4eWthalpOaVNqd1BaVHc2d0tuVzBKQTlIZUNCQjB1RGY0Ym1PUEhKYjRFZ0dFaWtIMGh2eDY4dDhrUGFYVE1na0xoZklaU0w1NTZRVWlLb2NxNFUtTkkyNi1adEVXcktVc25ZSWJPa3ZJ?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
+  "ido": 1795825680,
+  "forras": "S&P 500 / Nasdaq (Google News)",
+  "temak": [
+   "Tőzsde"
+  ],
+  "cim": "Speculative Investors Cut Nasdaq-100 Futures Positions by Amount Equal to 17% of Open Interest - www.tokenpost.com",
+  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCSVFOYjhZY2xJQXZScHNWRGc5SlpfcVRwS0R2cGRhdjR5eUFXZ3EtN0RISHR0RDdTZ2JpRFI1RkJCQmk1MGhLZDcwYXlQMWd6VTZROGRnNXZudw?oc=5",
+  "surgos": false,
+  "eredeti": ""
+ },
+ {
   "ido": 1795825080,
   "forras": "Trump – döntések (Google News)",
   "temak": [
@@ -870,40 +903,6 @@
   ],
   "cim": "Trump Branded 'Compulsive Liar' After New Inflation Claim - RadarOnline",
   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbk1hTUxITmVpNGVKQk5sckZlS2VvMURMM2JWVVVmMlhaRU5JcUxGdWVJbTI4dG5GQzhTQXVFUFNFaDFzTW1xS2dKYXFHS1E1aFh4NHh3bElxSy1yWXBpY0NTOEQ2dTFsWDFvQnN2aW9YR1cwakxGcUh0ODYzNGtMXzAzRlF3X2hvYUxJ?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795813271,
-  "forras": "Trump – háború (Google News)",
-  "temak": [
-   "Trump – háború",
-   "Trump"
-  ],
-  "cim": "Nine children return to Ukraine from Russia, Melania Trump thanked - Around Prague",
-  "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1pDVi1yandsUm5nc00wdFRiQjBJQk93WWxpdVdTR1ljSnNRc3ZtRFdncEV5RnBKVDlQN0xtbVdWNGlRdmtTd09RUDJ5OHZHbnlKWTM2UlBXQ3dDSkF3RENZRkxHRWdvRnRlUzdSbk9fVXpEUzF5RkdrMGU3bUw3SXVhWmEycWhQWnpsQk9BVElueWc5VnYtVEJOZ1pUWmNKUU9RVmRkZFNDdUMzZUxTMzhTR19rM0FxMkZnRTlVYndoZw?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795813245,
-  "forras": "S&P 500 / Nasdaq (Google News)",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "Citigroup (C): Citi notes tied to S&P 500 futures index, 5-year term - Quantisnow",
-  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQng0eGhNeFpxU0IwcGhMcUduNGRsckxjWjFYN3pRTnFxbnotTzlWOUxKZUNZNTl1UlhsMU1lNWVtSHFXSkdBWlBMdDd0ZEx0a1A1N3JkS0NxNHBtajZsZGZNMnlrWVhPYlJ2VzVZcDZCNW1qX3F0U2wtUUEwMDlqRndFbk4?oc=5",
-  "surgos": false,
-  "eredeti": ""
- },
- {
-  "ido": 1795813223,
-  "forras": "Investing.com",
-  "temak": [
-   "Tőzsde"
-  ],
-  "cim": "S&P lifts South Africa ratings on improving fiscal position",
-  "link": "https://www.investing.com/news/economy-news/sp-lifts-south-africa-ratings-on-improving-fiscal-position-5053922",
   "surgos": false,
   "eredeti": ""
  }
